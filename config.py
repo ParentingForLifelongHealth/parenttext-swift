@@ -51,7 +51,6 @@ sources = [
             C_modules_child,
             C_goal_checkin,
             T_content,
-            C_dev_asess_tool,
             N_safeguarding_data,
             T_safeguarding,
             N_delivery_data,
@@ -64,9 +63,9 @@ sources = [
         # "archive": "parenttext_all.zip",
         #"archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
         "crowdin_name": "navigation",
-        "tags": [],
-        #"tags": [1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
-         #"tags": [1,"goal_checkin",4,"course"],
+       # "tags": [],
+        "tags": [1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
+        # "tags": [1,"goal_checkin",4,"course"],
        # "tags": [1,"dev_assess",1,"module",1,"ltp_activity",1,"goal_checkin",4,"course"],
         "split_no": 2
     },
@@ -135,7 +134,7 @@ localisation_sheet_ID = "1C0lxVtiBw8kuJ9z4CAtW5BYesskYbQaSylqg6k3-ebw"
 # Same for all deployments.
 eng_edits_sheet_ID = "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI"
 # 5day ux SA specific specific.
-transl_edits_sheet_ID = "1zQw_fsWRcJjacREBwL-fb2uBhREr9di8s4rShM1vRSE"
+transl_edits_sheet_ID = "1FYevYZZjTByCPA6dF0NgYvfYqtUNDzlz03tkQE_j5dM"
 
 # Data used in safeguarding script.
 #SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
