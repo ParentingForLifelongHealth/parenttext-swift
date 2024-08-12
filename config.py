@@ -2,6 +2,8 @@
 # Specific for swift.
 five_day_ux_sheets = "1doFll5_L6URN8Chc9TODblvjiDHIh-5lDY1jhtIQtGc"
 swift_sheets = "1wxigdxuKSzgut4jfOyefdmcySvZnrswbJHrwm7hzP2A"
+swift_surveys = "1XLDv84qWWlXSpnAuQIjymascOdrBxpMQ"
+swift_survey_templates = "1lOHCCuAsUoQ-O-eI76D987obZNlMGZ0IsTNPVcuw104"
 
 
 # Shared with all deployments.
@@ -58,15 +60,17 @@ sources = [
             N_menu_data,
             T_menu,
             five_day_ux_sheets,
-            swift_sheets
+            swift_sheets#,
+            # swift_surveys, 
+           # swift_survey_templates
         ],
         # "archive": "parenttext_all.zip",
         #"archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
         "crowdin_name": "navigation",
        # "tags": [],
-        "tags": [1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
+       # "tags": [1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
         # "tags": [1,"goal_checkin",4,"course"],
-       # "tags": [1,"dev_assess",1,"module",1,"ltp_activity",1,"goal_checkin",4,"course"],
+        "tags": [1,"module",1,"ltp_activity",1,"goal_checkin"],
         "split_no": 2
     },
 ]
