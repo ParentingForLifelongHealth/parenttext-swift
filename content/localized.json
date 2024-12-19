@@ -269,7 +269,7 @@
         "data_model": "",
         "operation": "",
         "template_arguments": "module_content_data;woman;low",
-        "status": "draft",
+        "status": "",
         "group": "",
         "tags.1": "module",
         "tags.2": "",
@@ -285,7 +285,7 @@
         "data_model": "",
         "operation": "",
         "template_arguments": "ltp_activity_data",
-        "status": "",
+        "status": "draft",
         "group": "",
         "tags.1": "ltp_activity",
         "tags.2": "",
@@ -301,7 +301,7 @@
         "data_model": "",
         "operation": "",
         "template_arguments": "goal_checkin_data",
-        "status": "",
+        "status": "draft",
         "group": "",
         "tags.1": "goal_checkin",
         "tags.2": "",
@@ -406,110 +406,30 @@
       },
       {
         "type": "data_sheet",
-        "sheet_name": "Improve My Relationship with My Teen",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "module_content_teen_data",
-        "data_model": "PlhContentModel",
-        "operation": "",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "Improve My Relationship with My Child;\nKeep My Child Safe & Healthy",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "module_content_child_data",
-        "data_model": "PlhContentModel",
-        "operation": "",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "module_content_child_data;\nmodule_content_teen_data;\nmodule_content_all_ages_data",
+        "sheet_name": "Keep My Child Safe & Healthy; Keep My Teen Safe",
         "data_sheet": "",
         "data_row_id": "",
         "new_name": "module_content_data",
         "data_model": "PlhContentModel",
-        "operation": "",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "Keep My Child Safe & Healthy",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "module_content_data",
-        "data_model": "PlhContentModel",
-        "operation": "",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "goal_checkin_teen_data",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "goal_checkin_teen_data",
-        "data_model": "GoalCheckInModel",
-        "operation": "filter|expression;(ID==\"relation_t\")",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "goal_checkin_child_data",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "goal_checkin_child_data",
-        "data_model": "GoalCheckInModel",
-        "operation": "filter|expression;(ID==\"relation_c\")",
-        "template_arguments": "",
-        "status": "",
-        "group": "",
-        "tags.1": "",
-        "tags.2": "",
-        "tags.3": "",
-        "tags.4": ""
-      },
-      {
-        "type": "data_sheet",
-        "sheet_name": "goal_checkin_teen_data;\ngoal_checkin_child_data;\ngoal_checkin_all_ages_data",
-        "data_sheet": "",
-        "data_row_id": "",
-        "new_name": "goal_checkin_data",
-        "data_model": "",
         "operation": "concat",
         "template_arguments": "",
         "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": "",
+        "tags.4": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "Improve My Relationship with My Child;\nImprove My Relationship with My Teen;module_content_all_ages_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "module_content_data",
+        "data_model": "PlhContentModel",
+        "operation": "concat",
+        "template_arguments": "",
+        "status": "draft",
         "group": "",
         "tags.1": "",
         "tags.2": "",
@@ -916,6 +836,71 @@
       },
       {
         "type": "K",
+        "keywords": "swiftlang",
+        "match_type": "O",
+        "flow": "onboarding_question_language - menu",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "swifthook",
+        "match_type": "O",
+        "flow": "hook_message",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "help",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "stop",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "menu",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "play",
+        "match_type": "O",
+        "flow": "uncaught_message_flow",
+        "groups": ""
+      }
+    ],
+    "Copy of triggers": [
+      {
+        "type": "K",
+        "keywords": "swiftstart",
+        "match_type": "O",
+        "flow": "testers_safeguarding_start_programme",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "swiftreset",
+        "match_type": "O",
+        "flow": "reset_onboarding",
+        "groups": ""
+      },
+      {
+        "type": "K",
+        "keywords": "swiftnewday",
+        "match_type": "O",
+        "flow": "campaign_demo",
+        "groups": ""
+      },
+      {
+        "type": "K",
         "keywords": "swiftmodule",
         "match_type": "O",
         "flow": "demo_modules - lang_media_gender_childname",
@@ -982,30 +967,34 @@
       {
         "ID": "relation",
         "priority_c": "1",
+        "priority2_c": "1",
         "priority_t": "1",
+        "priority2_t": "1",
         "relationship": "yes|no",
         "checkin_c": "relation_c",
         "checkin_t": "relation_t",
         "name_c.eng": "Improve My Relationship with My Child",
         "name_t.eng": "Improve My Relationship with My Teen",
-        "name_c.afr": "Improve My Relationship with My Teen",
-        "name_t.afr": "Improve My Relationship with My Teen",
-        "name_c.hau": "Improve My Relationship with My Teen",
-        "name_t.hau": "Improve My Relationship with My Teen"
+        "name_c.afr": "Verbeter my Verhouding met My Kind",
+        "name_t.afr": "Verbeter my Verhouding met My Tiener",
+        "name_c.hau": "Phucula ubudlelwane bam kunye Nomntwana Wam",
+        "name_t.hau": "Phucula Ubudlelwane Bam Kunye Nomntwana Wam"
       },
       {
         "ID": "safety",
-        "priority_c": "2",
-        "priority_t": "2",
+        "priority_c": "",
+        "priority2_c": "2",
+        "priority_t": "",
+        "priority2_t": "2",
         "relationship": "yes|no",
         "checkin_c": "safety_c",
         "checkin_t": "safety_t",
-        "name_c.eng": "Keep My Child Safe & Healthy",
+        "name_c.eng": "Keep My Child Safe and Healthy",
         "name_t.eng": "Keep My Teen Safe and Healthy",
-        "name_c.afr": "Keep My Teen Safe and Healthy",
-        "name_t.afr": "Keep My Teen Safe and Healthy",
-        "name_c.hau": "Keep My Teen Safe and Healthy",
-        "name_t.hau": "Keep My Teen Safe and Healthy"
+        "name_c.afr": "Hou My Kind Veilig en Gesond",
+        "name_t.afr": "Hou My Tiener Veilig en Gesond",
+        "name_c.hau": "Gcina Umntwana Wam Ekhuselekile kwaye Esempilweni",
+        "name_t.hau": "Gcina Umntwana Wam Ekhuselekile kwaye Esempilweni"
       }
     ],
     "module_data": [
@@ -1016,8 +1005,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Spend One-on-One Time with My Child",
-        "name.afr": "Spend One-on-One Time with My Child",
-        "name.hau": "Spend One-on-One Time with My Child"
+        "name.afr": "Spandeer Een-tot-Een Tyd saam met my Kind",
+        "name.hau": "Ukuchitha Ixesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "give_praise_yc",
@@ -1026,8 +1015,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Giving Praise",
-        "name.afr": "Giving Praise",
-        "name.hau": "Giving Praise"
+        "name.afr": "Om te Prys",
+        "name.hau": "Ukuncoma"
       },
       {
         "ID": "routines_yc",
@@ -1036,8 +1025,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Creating a Routine for One-on-One Time",
-        "name.afr": "Creating a Routine for One-on-One Time",
-        "name.hau": "Creating a Routine for One-on-One Time"
+        "name.afr": "Skep 'n Roetine vir Een-tot-Een Tyd",
+        "name.hau": "Yakha Inkqubo Yemihla Ngemihla Yexesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "feelings_yc",
@@ -1046,8 +1035,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Noticing Feelings During One-on-One Time",
-        "name.afr": "Noticing Feelings During One-on-One Time",
-        "name.hau": "Noticing Feelings During One-on-One Time"
+        "name.afr": "Let op na Gevoelens Tydens Een-tot-Een Tyd",
+        "name.hau": "Qaphela Imvakalelo Ngelixa Ixesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "calm_yc",
@@ -1056,8 +1045,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Keeping Calm When We Are Stressed",
-        "name.afr": "Keeping Calm When We Are Stressed",
-        "name.hau": "Keeping Calm When We Are Stressed"
+        "name.afr": "Om Kalm te Bly Wanneer Ons Gestres Is",
+        "name.hau": "Ukuzigcina Uzolile Xana Unonxinzelelo"
       },
       {
         "ID": "one_on_one_teen",
@@ -1066,8 +1055,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Spend one-on-one Time with My Teen",
-        "name.afr": "Spend one-on-one Time with My Teen",
-        "name.hau": "Spend one-on-one Time with My Teen"
+        "name.afr": "Spandeer Een-tot-Een Tyd saam met my Tiener",
+        "name.hau": "Ukuchitha Ixesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "give_praise_teen",
@@ -1076,8 +1065,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Giving Praise",
-        "name.afr": "Giving Praise",
-        "name.hau": "Giving Praise"
+        "name.afr": "Om te Prys",
+        "name.hau": "Ukuncoma"
       },
       {
         "ID": "routines_teen",
@@ -1086,8 +1075,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Creating a Routine for one-on-one Time",
-        "name.afr": "Creating a Routine for one-on-one Time",
-        "name.hau": "Creating a Routine for one-on-one Time"
+        "name.afr": "Skep 'n Roetine vir Een-tot-Een Tyd",
+        "name.hau": "Yakha Inkqubo Yemihla Ngemihla Yexesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "feelings_teen",
@@ -1096,8 +1085,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Noticing Feelings During one-on-one Time",
-        "name.afr": "Noticing Feelings During one-on-one Time",
-        "name.hau": "Noticing Feelings During one-on-one Time"
+        "name.afr": "Let op na Gevoelens Tydens Een-tot-Een Tyd",
+        "name.hau": "Qaphela Imvakalelo Ngelixa Ixesha Kunye Nomntana Wam Sisodwa"
       },
       {
         "ID": "calm_teen",
@@ -1106,8 +1095,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Keeping Calm When We Are Stressed",
-        "name.afr": "Keeping Calm When We Are Stressed",
-        "name.hau": "Keeping Calm When We Are Stressed"
+        "name.afr": "Om Kalm te Bly Wanneer Ons Gestres Is",
+        "name.hau": "Ukuzigcina Uzolile Xana Unonxinzelelo"
       },
       {
         "ID": "safe_touch_2to5_yc_m",
@@ -1116,8 +1105,8 @@
         "age": "2|3|4|5",
         "child_gender": "male",
         "name.eng": "Teach Safe Touch",
-        "name.afr": "Teach Safe Touch",
-        "name.hau": "Teach Safe Touch"
+        "name.afr": "Leer Veilige Aanraking ",
+        "name.hau": "Fundisa Ukubamba Okukhuselekileyo"
       },
       {
         "ID": "safe_touch_2to5_yc_f",
@@ -1126,8 +1115,8 @@
         "age": "2|3|4|5",
         "child_gender": "female",
         "name.eng": "Teach Safe Touch",
-        "name.afr": "Teach Safe Touch",
-        "name.hau": "Teach Safe Touch"
+        "name.afr": "Leer Veilige Aanraking ",
+        "name.hau": "Fundisa Ukubamba Okukhuselekileyo"
       },
       {
         "ID": "safe_touch_6to9_yc",
@@ -1136,8 +1125,8 @@
         "age": "6|7|8|9",
         "child_gender": "male|female",
         "name.eng": "Teach Safe Touch",
-        "name.afr": "Teach Safe Touch",
-        "name.hau": "Teach Safe Touch"
+        "name.afr": "Leer Veilige Aanraking ",
+        "name.hau": "Fundisa Ukubamba Okukhuselekileyo"
       },
       {
         "ID": "com_safety_2to4_yc",
@@ -1146,8 +1135,8 @@
         "age": "2|3|4",
         "child_gender": "male|female",
         "name.eng": "Community Safety",
-        "name.afr": "Community Safety",
-        "name.hau": "Community Safety"
+        "name.afr": "Gemeenskapsveiligheid",
+        "name.hau": "Ukhuseleko Ekuhlaleni"
       },
       {
         "ID": "com_safety_5to9_yc",
@@ -1156,8 +1145,8 @@
         "age": "5|6|7|8|9",
         "child_gender": "male|female",
         "name.eng": "Community Safety",
-        "name.afr": "Community Safety",
-        "name.hau": "Community Safety"
+        "name.afr": "Gemeenskapsveiligheid",
+        "name.hau": "Ukhuseleko Ekuhlaleni"
       },
       {
         "ID": "crises_2to6_yc",
@@ -1166,8 +1155,8 @@
         "age": "2|3|4|5|6",
         "child_gender": "male|female",
         "name.eng": "Respond to Crises",
-        "name.afr": "Respond to Crises",
-        "name.hau": "Respond to Crises"
+        "name.afr": "Reageer op Krisisse",
+        "name.hau": "Ukusabela KwiNgxaki"
       },
       {
         "ID": "crises_7to9_yc",
@@ -1176,8 +1165,8 @@
         "age": "7|8|9",
         "child_gender": "male|female",
         "name.eng": "Respond to Crises",
-        "name.afr": "Respond to Crises",
-        "name.hau": "Respond to Crises"
+        "name.afr": "Reageer op Krisisse",
+        "name.hau": "Ukusabela KwiNgxaki"
       },
       {
         "ID": "online_safety_yc",
@@ -1186,8 +1175,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Knowing Basics of Online Safety",
-        "name.afr": "Knowing Basics of Online Safety",
-        "name.hau": "Knowing Basics of Online Safety"
+        "name.afr": "Ken Basiese Aanlyn-Veiligheid",
+        "name.hau": "Yazi iMiseko yoKhuseleko kwi-Intanethi"
       },
       {
         "ID": "habits_trust_online_yc",
@@ -1196,8 +1185,8 @@
         "age": "2|3| 4 | 5 | 6 | 7 | 8 | 9",
         "child_gender": "male|female",
         "name.eng": "Building Habits and Trust Online",
-        "name.afr": "Building Habits and Trust Online",
-        "name.hau": "Building Habits and Trust Online"
+        "name.afr": "Bou Gewoontes en Vertroue Aanlyn",
+        "name.hau": "Yakha Imikhwa nokuThemba kwi-Intanethi"
       },
       {
         "ID": "community_safety_teen",
@@ -1206,18 +1195,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Community Safety",
-        "name.afr": "Community Safety",
-        "name.hau": "Community Safety"
-      },
-      {
-        "ID": "self_defence_teen",
-        "topic_ID": "self_defence",
-        "priority_in_topic": "",
-        "age": "10|11|12|13|14|15|16|17",
-        "child_gender": "male|female",
-        "name.eng": "Teach Self Defence",
-        "name.afr": "Teach Self Defence",
-        "name.hau": "Teach Self Defence"
+        "name.afr": "Gemeenskapsveiligheid",
+        "name.hau": "Ukhuseleko Ekuhlaleni"
       },
       {
         "ID": "sex_violence_teen",
@@ -1226,8 +1205,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Prevent Sexual Violence",
-        "name.afr": "Prevent Sexual Violence",
-        "name.hau": "Prevent Sexual Violence"
+        "name.afr": "Voorkom Seksuele Geweld",
+        "name.hau": "Nqanda ubuDlobongela okuphathelele ngokweSondo"
       },
       {
         "ID": "crises_teen",
@@ -1236,8 +1215,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Respond to Crises",
-        "name.afr": "Respond to Crises",
-        "name.hau": "Respond to Crises"
+        "name.afr": "Reageer op Krisisse",
+        "name.hau": "Ukusabela KwiiNgxaki"
       },
       {
         "ID": "online_safety_teen",
@@ -1246,8 +1225,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Know Online Safety Basics",
-        "name.afr": "Know Online Safety Basics",
-        "name.hau": "Know Online Safety Basics"
+        "name.afr": "Ken Basiese Aanlyn-Veiligheid",
+        "name.hau": "Yazi iMiseko yoKhuseleko kwi-Intanethi"
       },
       {
         "ID": "habits_online_teen",
@@ -1256,8 +1235,8 @@
         "age": "10|11|12|13|14|15|16|17",
         "child_gender": "male|female",
         "name.eng": "Build Habits and Trust Online",
-        "name.afr": "Build Habits and Trust Online",
-        "name.hau": "Build Habits and Trust Online"
+        "name.afr": "Bou Gewoontes en Vertroue Aanlyn",
+        "name.hau": "Yakha Imikhwa nokuThemba kwi-Intanethi"
       }
     ],
     "goal_topic_link": [
@@ -1315,35 +1294,28 @@
         "goal_id_c": "safety",
         "priority_in_goal_c": "03",
         "goal_id_t": "safety",
-        "priority_in_goal_t": "04"
+        "priority_in_goal_t": "03"
       },
       {
         "ID": "online_safety",
         "goal_id_c": "safety",
         "priority_in_goal_c": "04",
         "goal_id_t": "safety",
-        "priority_in_goal_t": "05"
+        "priority_in_goal_t": "04"
       },
       {
         "ID": "habits_online",
         "goal_id_c": "safety",
         "priority_in_goal_c": "05",
         "goal_id_t": "safety",
-        "priority_in_goal_t": "06"
-      },
-      {
-        "ID": "self_defence",
-        "goal_id_c": "",
-        "priority_in_goal_c": "",
-        "goal_id_t": "safety",
-        "priority_in_goal_t": "02"
+        "priority_in_goal_t": "05"
       },
       {
         "ID": "sex_violence",
         "goal_id_c": "",
         "priority_in_goal_c": "",
         "goal_id_t": "safety",
-        "priority_in_goal_t": "03"
+        "priority_in_goal_t": "02"
       }
     ],
     "goals_api_sources": [
@@ -2281,7 +2253,7 @@
         "ID": "mental_health",
         "intro": "Take care of yourself! 😊 Your local clinic is here to help with any health problems. If you need extra support, here are some free helplines: ☎️",
         "referrals": "{mental_health referrals}",
-        "option_name": "Mental health and suicide prevention"
+        "option_name": "Mental health & suicide prevention"
       },
       {
         "ID": "health",
@@ -2299,19 +2271,19 @@
         "ID": "drugs",
         "intro": "Family life can be tough! 😣 Did you know that social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family or relationship counselling? If there isn’t a DSD office near you, NGOs in your area offer this support too. 🌍",
         "referrals": "{drugs referrals}",
-        "option_name": "Drugs and alcohol abuse"
+        "option_name": "Drugs and alcohol "
       },
       {
         "ID": "family",
         "intro": "A lot of our energy goes into helping the person struggling with substance abuse. While that’s important, you and your family need support too! 💖 Find help for everyone below: ⬇️",
         "referrals": "{family referrals}",
-        "option_name": "Family counselling and support"
+        "option_name": "Family counselling & support"
       },
       {
         "ID": "legal",
         "intro": "",
         "referrals": "{legal_help referrals}",
-        "option_name": "Legal and SASSA support"
+        "option_name": "Legal & SASSA support"
       },
       {
         "ID": "lgbtqia+",
@@ -2335,7 +2307,7 @@
         "ID": "natural_disasters",
         "intro": "",
         "referrals": "{natural_disasters referrals}",
-        "option_name": ""
+        "option_name": "Disability support"
       }
     ],
     "safeguarding_help_data": [
