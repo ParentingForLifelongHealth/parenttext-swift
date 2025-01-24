@@ -1,0 +1,1458 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "==content==": [
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "comic_names_eng_4_vars",
+        "status": "released",
+        "order": "0"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "comic_names_transl_afr",
+        "status": "released",
+        "order": "0"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "comic_names_transl_xho",
+        "status": "released",
+        "order": "0"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "external_references_eng",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "external_references_transl",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "referrals_eng",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "referrals_transl_afr",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "referrals_transl_xho",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "triggers_eng",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "triggers_transl",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "wa_bold_eng",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "wa_bold_transl",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "goal_module_name",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "goal_module_name_transl",
+        "status": "released",
+        "order": "1"
+      }
+    ],
+    "goal_module_name": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{goal_name}.*",
+        "change": "{goal_name}",
+        "condition_var": "",
+        "category": "@results.name"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{module_name}.*",
+        "change": "{module_name}",
+        "condition_var": "",
+        "category": "@results.name"
+      }
+    ],
+    "goal_module_name_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{goal_name}.*",
+        "original": "{goal_name}",
+        "language": "afr",
+        "replacement": "@results.name"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{module_name}.*",
+        "original": "{module_name}",
+        "language": "afr",
+        "replacement": "@results.name"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{goal_name}.*",
+        "original": "{goal_name}",
+        "language": "hau",
+        "replacement": "@results.name"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{module_name}.*",
+        "original": "{module_name}",
+        "language": "hau",
+        "replacement": "@results.name"
+      }
+    ],
+    "comic_names_eng_4_vars": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_MOTHER}.*",
+        "change": "{F1_MOTHER}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_FATHER}.*",
+        "change": "{F1_FATHER}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_FATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_18}.*",
+        "change": "{F1_SON_18}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_SON_18\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_16}.*",
+        "change": "{F1_DAUGHTER_16}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_16\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_13}.*",
+        "change": "{F1_DAUGHTER_13}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_13\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_6}.*",
+        "change": "{F1_DAUGHTER_6}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_6\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_2}.*",
+        "change": "{F1_DAUGHTER_2}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_DAUGHTER_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_5}.*",
+        "change": "{F1_SON_5}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_SON_5\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDMOTHER}.*",
+        "change": "{F2_GRANDMOTHER}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDMOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDFATHER}.*",
+        "change": "{F2_GRANDFATHER}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDFATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_19}.*",
+        "change": "{F2_DAUGHTER_19}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_19\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_15}.*",
+        "change": "{F2_SON_15}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_15\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_8}.*",
+        "change": "{F2_SON_8}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_8\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_3}.*",
+        "change": "{F2_DAUGHTER_3}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_3\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_MOTHER}.*",
+        "change": "{F3_MOTHER}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_UNCLE}.*",
+        "change": "{F3_UNCLE}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_UNCLE\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_12}.*",
+        "change": "{F3_DAUGHTER_12}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F3_DAUGHTER_12\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_7}.*",
+        "change": "{F3_DAUGHTER_7}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_DAUGHTER_7\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_SON_4}.*",
+        "change": "{F3_SON_4}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_SON_4\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_1}.*",
+        "change": "{FRIEND_FEMALE_1}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_1\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_2}.*",
+        "change": "{FRIEND_FEMALE_2}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_IN_CAR}.*",
+        "change": "{MAN_IN_CAR}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_IN_CAR\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{BOYFRIEND}.*",
+        "change": "{BOYFRIEND}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"BOYFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_THREAT}.*",
+        "change": "{MAN_THREAT}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_THREAT\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{GIRLFRIEND}.*",
+        "change": "{GIRLFRIEND}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"GIRLFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{TEACHER_1}.*",
+        "change": "{TEACHER_1}",
+        "condition_var": "",
+        "category": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"TEACHER_1\"][contact.language])"
+      }
+    ],
+    "comic_names_transl_afr": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_MOTHER}.*",
+        "original": "{F1_MOTHER}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_FATHER}.*",
+        "original": "{F1_FATHER}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_FATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_18}.*",
+        "original": "{F1_SON_18}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_SON_18\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_16}.*",
+        "original": "{F1_DAUGHTER_16}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_16\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_13}.*",
+        "original": "{F1_DAUGHTER_13}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_13\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_6}.*",
+        "original": "{F1_DAUGHTER_6}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_6\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_2}.*",
+        "original": "{F1_DAUGHTER_2}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_DAUGHTER_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_5}.*",
+        "original": "{F1_SON_5}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_SON_5\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDMOTHER}.*",
+        "original": "{F2_GRANDMOTHER}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDMOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDFATHER}.*",
+        "original": "{F2_GRANDFATHER}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDFATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_19}.*",
+        "original": "{F2_DAUGHTER_19}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_19\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_15}.*",
+        "original": "{F2_SON_15}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_15\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_8}.*",
+        "original": "{F2_SON_8}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_8\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_3}.*",
+        "original": "{F2_DAUGHTER_3}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_3\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_MOTHER}.*",
+        "original": "{F3_MOTHER}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_UNCLE}.*",
+        "original": "{F3_UNCLE}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_UNCLE\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_12}.*",
+        "original": "{F3_DAUGHTER_12}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F3_DAUGHTER_12\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_7}.*",
+        "original": "{F3_DAUGHTER_7}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_DAUGHTER_7\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_SON_4}.*",
+        "original": "{F3_SON_4}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_SON_4\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_1}.*",
+        "original": "{FRIEND_FEMALE_1}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_1\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_2}.*",
+        "original": "{FRIEND_FEMALE_2}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_IN_CAR}.*",
+        "original": "{MAN_IN_CAR}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_IN_CAR\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{BOYFRIEND}.*",
+        "original": "{BOYFRIEND}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"BOYFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_THREAT}.*",
+        "original": "{MAN_THREAT}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_THREAT\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{GIRLFRIEND}.*",
+        "original": "{GIRLFRIEND}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"GIRLFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{TEACHER_1}.*",
+        "original": "{TEACHER_1}",
+        "language": "afr",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"TEACHER_1\"][contact.language])"
+      }
+    ],
+    "comic_names_transl_xho": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_MOTHER}.*",
+        "original": "{F1_MOTHER}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_FATHER}.*",
+        "original": "{F1_FATHER}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_FATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_18}.*",
+        "original": "{F1_SON_18}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_SON_18\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_16}.*",
+        "original": "{F1_DAUGHTER_16}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_16\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_13}.*",
+        "original": "{F1_DAUGHTER_13}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_13\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_6}.*",
+        "original": "{F1_DAUGHTER_6}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_DAUGHTER_6\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_DAUGHTER_2}.*",
+        "original": "{F1_DAUGHTER_2}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F1_DAUGHTER_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F1_SON_5}.*",
+        "original": "{F1_SON_5}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F1_SON_5\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDMOTHER}.*",
+        "original": "{F2_GRANDMOTHER}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDMOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_GRANDFATHER}.*",
+        "original": "{F2_GRANDFATHER}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_GRANDFATHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_19}.*",
+        "original": "{F2_DAUGHTER_19}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_19\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_15}.*",
+        "original": "{F2_SON_15}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_15\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_SON_8}.*",
+        "original": "{F2_SON_8}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_SON_8\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F2_DAUGHTER_3}.*",
+        "original": "{F2_DAUGHTER_3}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F2_DAUGHTER_3\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_MOTHER}.*",
+        "original": "{F3_MOTHER}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_MOTHER\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_UNCLE}.*",
+        "original": "{F3_UNCLE}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_UNCLE\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_12}.*",
+        "original": "{F3_DAUGHTER_12}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"F3_DAUGHTER_12\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_DAUGHTER_7}.*",
+        "original": "{F3_DAUGHTER_7}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_DAUGHTER_7\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{F3_SON_4}.*",
+        "original": "{F3_SON_4}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"F3_SON_4\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_1}.*",
+        "original": "{FRIEND_FEMALE_1}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_1\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{FRIEND_FEMALE_2}.*",
+        "original": "{FRIEND_FEMALE_2}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"FRIEND_FEMALE_2\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_IN_CAR}.*",
+        "original": "{MAN_IN_CAR}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_IN_CAR\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{BOYFRIEND}.*",
+        "original": "{BOYFRIEND}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"BOYFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MAN_THREAT}.*",
+        "original": "{MAN_THREAT}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"MAN_THREAT\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{GIRLFRIEND}.*",
+        "original": "{GIRLFRIEND}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2& fields.comic_names_dict_3 &fields.comic_names_dict_4 )[\"GIRLFRIEND\"][contact.language])"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{TEACHER_1}.*",
+        "original": "{TEACHER_1}",
+        "language": "hau",
+        "replacement": "@(parse_json(fields.comic_names_dict_0 &fields.comic_names_dict_1 &fields.comic_names_dict_2 & fields.comic_names_dict_3 &fields.comic_names_dict_4)[\"TEACHER_1\"][contact.language])"
+      }
+    ],
+    "external_references_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{insert link}.*",
+        "change": "{insert link}",
+        "condition_var": "",
+        "category": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share_non_eligible",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{share link}.*",
+        "change": "{share link}",
+        "condition_var": "",
+        "category": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{WhatsApp SWIFT line support}.*",
+        "change": "{WhatsApp SWIFT line support}",
+        "condition_var": "",
+        "category": "missing"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{ret_consent_link}.*",
+        "change": "{ret_consent_link}",
+        "condition_var": "",
+        "category": "xxxx"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{parentline number}.*",
+        "change": "{parentline number}",
+        "condition_var": "",
+        "category": "087 813 4290"
+      }
+    ],
+    "external_references_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{insert link}.*",
+        "original": "{insert link}",
+        "language": "afr",
+        "replacement": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{insert link}.*",
+        "original": "{insert link}",
+        "language": "hau",
+        "replacement": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share_non_eligible",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{share link}.*",
+        "original": "{share link}",
+        "language": "afr",
+        "replacement": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share_non_eligible",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{share link}.*",
+        "original": "{share link}",
+        "language": "hau",
+        "replacement": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{WhatsApp SWIFT line support}.*",
+        "original": "{WhatsApp SWIFT line support}",
+        "language": "afr",
+        "replacement": "missing"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{WhatsApp SWIFT line support}.*",
+        "original": "{WhatsApp SWIFT line support}",
+        "language": "hau",
+        "replacement": "missing"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{ret_consent_link}.*",
+        "original": "{ret_consent_link}",
+        "language": "afr",
+        "replacement": "xxxx"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{ret_consent_link}.*",
+        "original": "{ret_consent_link}",
+        "language": "hau",
+        "replacement": "xxxx"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{parentline number}.*",
+        "original": "{parentline number}",
+        "language": "afr",
+        "replacement": "087 813 4290"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{parentline number}.*",
+        "original": "{parentline number}",
+        "language": "hau",
+        "replacement": "087 813 4290"
+      }
+    ],
+    "referrals_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic referrals}.*",
+        "change": "{generic referrals}",
+        "condition_var": "",
+        "category": "Police (SAPS): 10111\n\nEmergency Line: 112\n\nAmbulance: 10177\n\nFire Department: 10177\n\nCrime Stop: 0860 010 111\n\nGeneral: 0800 4357 4 8 "
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health referrals}.*",
+        "change": "{mental_health referrals}",
+        "condition_var": "",
+        "category": "SADAG (all types of mental health support):\n0800 567 567 / www.sadag.org\n\nLifeline (Counselling): \n0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline 116"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health referrals}.*",
+        "change": "{health referrals}",
+        "condition_var": "",
+        "category": "AIDS: 0800 012 322\n\nCancer: 0800 226 622\n\nFamily planning, abortion and sexual health: \n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{violence referrals}.*",
+        "change": "{violence referrals}",
+        "condition_var": "",
+        "category": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#\n\nThuthuzela Clinic (GBV/rape/sexual abuse): find your nearest one at https://www.gov.za/TCC\n \nSafeline (male survivor helpline): 0800 035 553\n\nRefugee support: WhatsApp 063 656 5080 (for children) or 078 594 5591 (for refugee rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters referrals}.*",
+        "change": "{natural_disasters referrals}",
+        "condition_var": "",
+        "category": "South Africa National Emergency Line: 112\n\nAmbulance and Fire Department: 10177"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{drugs referrals}.*",
+        "change": "{drugs referrals}",
+        "condition_var": "",
+        "category": "SANCA: 011 892 3829 or WhatsApp call 076 535 1701 / www.sancanational.info\n\nDepartment of Social Development (DSD) 24/7: 0800 121 314 or send a SMS to 32312\n\nWhatsApp Chat Line: 087 163 2025 (8am-5pm)\n\nAl-Anon (for families affected by alcohol): 086 125 2666\n\nNar-Anon (for families affected by drugs): 088 129 6791\n\nSee also: https://www.westerncape.gov.za/directories/facilities/736"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family referrals}.*",
+        "change": "{family referrals}",
+        "condition_var": "",
+        "category": "Department of Social Development hotline (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: 067 082 1567 / www.famsawc.org.za/our-offices\n\nChildline: 116 / www.childlinesa.org.za\n\nCaring for the aged: Your local DSD office can assist with this as well! (Call 0800 220 250, weekdays 8am-4pm)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{legal_help referrals}.*",
+        "change": "{legal_help referrals}",
+        "condition_var": "",
+        "category": "Black sash helpline: Call/WhatsApp 072 663 3739 or 063 610 1865 \n\nLegal Aid: 0800 110 110 or send a please call me to: 079 835 7179 \n\nUCT law clinic: WhatsApp 068 350 5920\n\nSASSA: www.sassa.gov.za Click the 'social grants' tab to see what support you qualify for!\n\nRefugee law clinic: WhatsApp 072 499 8146 (for status) or \n078 594 5591 (for rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{lgbtqia referrals}.*",
+        "change": "{lgbtqia referrals}",
+        "condition_var": "",
+        "category": "SADAG Helpline: 0800 567 567 / Online support groups: www.sadag.org \n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{school referrals}.*",
+        "change": "{school referrals}",
+        "condition_var": "",
+        "category": "SA school helpline: 0800 202 933\n\nSafe Schools: 0800 456 647\n\nWestern Cape schools: 0861 819 919 "
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{disability resources}.*",
+        "change": "{disability resources}",
+        "condition_var": "",
+        "category": "Contact your local DSD office or go to: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nFor all disabilities: WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA helpline: 060 967 0258"
+      }
+    ],
+    "referrals_transl_xho": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic referrals}.*",
+        "original": "{generic referrals}",
+        "language": "hau",
+        "replacement": "Police (SAPS): 10111\n\nEmergency Line: 112\n\nAmbulance: 10177\n\nFire Department: 10177\n\nCrime Stop: 0860 010 111"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health referrals}.*",
+        "original": "{mental_health referrals}",
+        "language": "hau",
+        "replacement": "SADAG (all types of mental health support):\n0800 567 567 / www.sadag.org\n\nLifeline (Counselling): \n0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline 116"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health referrals}.*",
+        "original": "{health referrals}",
+        "language": "hau",
+        "replacement": "AIDS: 0800 012 322\n\nCancer: 0800 226 622\n\nFamily planning, abortion and sexual health: \n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{violence referrals}.*",
+        "original": "{violence referrals}",
+        "language": "hau",
+        "replacement": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#\n\nThuthuzela Clinic (GBV/rape/sexual abuse): find your nearest one at https://www.gov.za/TCC\n \nSafeline (male survivor helpline): 0800 035 553\n\nRefugee support: WhatsApp 063 656 5080 (for children) or 078 594 5591 (for refugee rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters referrals}.*",
+        "original": "{natural_disasters referrals}",
+        "language": "hau",
+        "replacement": "South Africa National Emergency Line: 112\n\nAmbulance and Fire Department: 10177"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{drugs referrals}.*",
+        "original": "{drugs referrals}",
+        "language": "hau",
+        "replacement": "SANCA: 011 892 3829 or WhatsApp call 076 535 1701 / www.sancanational.info\n\nDepartment of Social Development (DSD) 24/7: 0800 121 314 or send a SMS to 32312\n\nWhatsApp Chat Line: 087 163 2025 (8am-5pm)\n\nAl-Anon (for families affected by alcohol): 086 125 2666\n\nNar-Anon (for families affected by drugs): 088 129 6791"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family referrals}.*",
+        "original": "{family referrals}",
+        "language": "hau",
+        "replacement": "Department of Social Development hotline (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: 067 082 1567 / www.famsawc.org.za/our-offices\n\nChildline: 116 / www.childlinesa.org.za\n\nCaring for the aged: Your local DSD office can assist with this as well! (Call 0800 220 250, weekdays 8am-4pm)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{legal_help referrals}.*",
+        "original": "{legal_help referrals}",
+        "language": "hau",
+        "replacement": "Black sash helpline: Call/WhatsApp 072 663 3739 or 063 610 1865 \n\nLegal Aid: 0800 110 110 or send a please call me to: 079 835 7179 \n\nUCT law clinic: WhatsApp 068 350 5920\n\nSASSA: www.sassa.gov.za Click the 'social grants' tab to see what support you qualify for!\n\nRefugee law clinic: WhatsApp 072 499 8146 (for status) or \n078 594 5591 (for rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{lgbtqia referrals}.*",
+        "original": "{lgbtqia referrals}",
+        "language": "hau",
+        "replacement": "SADAG Helpline: 0800 567 567 / Online support groups: www.sadag.org \n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{school referrals}.*",
+        "original": "{school referrals}",
+        "language": "hau",
+        "replacement": "SA school helpline: 0800 202 933\n\nSafe Schools: 0800 456 647\n\nWestern Cape schools: 0861 819 919 "
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{disability resources}.*",
+        "original": "{disability resources}",
+        "language": "hau",
+        "replacement": "Contact your local DSD office or go to: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nFor all disabilities: WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA helpline: 060 967 0258"
+      }
+    ],
+    "referrals_transl_afr": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{generic referrals}.*",
+        "original": "{generic referrals}",
+        "language": "afr",
+        "replacement": "Police (SAPS): 10111\n\nEmergency Line: 112\n\nAmbulance: 10177\n\nFire Department: 10177\n\nCrime Stop: 0860 010 111"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{mental_health referrals}.*",
+        "original": "{mental_health referrals}",
+        "language": "afr",
+        "replacement": "SADAG (all types of mental health support):\n0800 567 567 / www.sadag.org\n\nLifeline (Counselling): \n0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline 116"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{health referrals}.*",
+        "original": "{health referrals}",
+        "language": "afr",
+        "replacement": "AIDS: 0800 012 322\n\nCancer: 0800 226 622\n\nFamily planning, abortion and sexual health: \n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{violence referrals}.*",
+        "original": "{violence referrals}",
+        "language": "afr",
+        "replacement": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#\n\nThuthuzela Clinic (GBV/rape/sexual abuse): find your nearest one at https://www.gov.za/TCC\n \nSafeline (male survivor helpline): 0800 035 553\n\nRefugee support: WhatsApp 063 656 5080 (for children) or 078 594 5591 (for refugee rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{natural_disasters referrals}.*",
+        "original": "{natural_disasters referrals}",
+        "language": "afr",
+        "replacement": "South Africa National Emergency Line: 112\n\nAmbulance and Fire Department: 10177"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{drugs referrals}.*",
+        "original": "{drugs referrals}",
+        "language": "afr",
+        "replacement": "SANCA: 011 892 3829 or WhatsApp call 076 535 1701 / www.sancanational.info\n\nDepartment of Social Development (DSD) 24/7: 0800 121 314 or send a SMS to 32312\n\nWhatsApp Chat Line: 087 163 2025 (8am-5pm)\n\nAl-Anon (for families affected by alcohol): 086 125 2666\n\nNar-Anon (for families affected by drugs): 088 129 6791"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{family referrals}.*",
+        "original": "{family referrals}",
+        "language": "afr",
+        "replacement": "Department of Social Development hotline (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: 067 082 1567 / www.famsawc.org.za/our-offices\n\nChildline: 116 / www.childlinesa.org.za\n\nCaring for the aged: Your local DSD office can assist with this as well! (Call 0800 220 250, weekdays 8am-4pm)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{legal_help referrals}.*",
+        "original": "{legal_help referrals}",
+        "language": "afr",
+        "replacement": "Black sash helpline: Call/WhatsApp 072 663 3739 or 063 610 1865 \n\nLegal Aid: 0800 110 110 or send a please call me to: 079 835 7179 \n\nUCT law clinic: WhatsApp 068 350 5920\n\nSASSA: www.sassa.gov.za Click the 'social grants' tab to see what support you qualify for!\n\nRefugee law clinic: WhatsApp 072 499 8146 (for status) or \n078 594 5591 (for rights)"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{lgbtqia referrals}.*",
+        "original": "{lgbtqia referrals}",
+        "language": "afr",
+        "replacement": "SADAG Helpline: 0800 567 567 / Online support groups: www.sadag.org \n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{school referrals}.*",
+        "original": "{school referrals}",
+        "language": "afr",
+        "replacement": "SA school helpline: 0800 202 933\n\nSafe Schools: 0800 456 647\n\nWestern Cape schools: 0861 819 919 "
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{disability resources}.*",
+        "original": "{disability resources}",
+        "language": "afr",
+        "replacement": "Contact your local DSD office or go to: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nFor all disabilities: WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA helpline: 060 967 0258"
+      }
+    ],
+    "triggers_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{HELP}.*",
+        "change": "{HELP}",
+        "condition_var": "",
+        "category": "HELP"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MENU}.*",
+        "change": "{MENU}",
+        "condition_var": "",
+        "category": "MENU"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{PLAY}.*",
+        "change": "{PLAY}",
+        "condition_var": "",
+        "category": "PLAY"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{STOP}.*",
+        "change": "{STOP}",
+        "condition_var": "",
+        "category": "STOP"
+      }
+    ],
+    "triggers_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{HELP}.*",
+        "original": "{HELP}",
+        "language": "afr",
+        "replacement": "HELP"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MENU}.*",
+        "original": "{MENU}",
+        "language": "afr",
+        "replacement": "MENU"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{PLAY}.*",
+        "original": "{PLAY}",
+        "language": "afr",
+        "replacement": "PLAY"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{STOP}.*",
+        "original": "{STOP}",
+        "language": "afr",
+        "replacement": "STOP"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{HELP}.*",
+        "original": "{HELP}",
+        "language": "hau",
+        "replacement": "HELP"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MENU}.*",
+        "original": "{MENU}",
+        "language": "hau",
+        "replacement": "MENU"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{PLAY}.*",
+        "original": "{PLAY}",
+        "language": "hau",
+        "replacement": "PLAY"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{STOP}.*",
+        "original": "{STOP}",
+        "language": "hau",
+        "replacement": "STOP"
+      }
+    ],
+    "wa_bold_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*",
+        "change": "**",
+        "condition_var": "",
+        "category": "*"
+      }
+    ],
+    "wa_bold_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*",
+        "original": "**",
+        "language": "afr",
+        "replacement": "*"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*",
+        "original": "**",
+        "language": "hau",
+        "replacement": "*"
+      }
+    ]
+  }
+}
