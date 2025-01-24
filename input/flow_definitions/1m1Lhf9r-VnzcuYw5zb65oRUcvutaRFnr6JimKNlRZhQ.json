@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_messages",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_with_opt_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionWithOptionsModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_language_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionWithOptionsModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      }
+    ],
+    "onboarding_messages": [
+      {
+        "ID": "onboarding_welcome_msg",
+        "msg": "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!",
+        "next_button_option": "",
+        "metadata.description": "first message after language selection (if present)",
+        "attachment.url": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/project%2FPLH%2Fsubproject%2FParentText_v2%2Fdeployment%2FSouthAfricaRCT%2FresourceGroup%2Flogo%2Fparenttext_logo.png?alt=media&token=625b8200-1706-4d9b-9dc0-11092dd770fa",
+        "attachment.file_type": "image"
+      },
+      {
+        "ID": "one_child_time_msg",
+        "msg": "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time.",
+        "next_button_option": "",
+        "metadata.description": "introduction before collecting child info",
+        "attachment.url": "",
+        "attachment.file_type": ""
+      },
+      {
+        "ID": "orientation",
+        "msg": "Here is a video that shows how to use ParentText.",
+        "next_button_option": "NEXT",
+        "metadata.description": "message with onboarding video",
+        "attachment.url": "",
+        "attachment.file_type": ""
+      }
+    ],
+    "onboarding_question_with_opt_data": [
+      {
+        "ID": "media",
+        "question": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
+        "image": "",
+        "variable": "type of media",
+        "options.1.text": "Text, Images, and Videos",
+        "options.1.value": "high",
+        "options.2.text": "Text, Images, and Audio",
+        "options.2.value": "medium",
+        "options.3.text": "Text and Images Only",
+        "options.3.value": "low",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      }
+    ],
+    "onboarding_question_language_data": [
+      {
+        "ID": "menu",
+        "question": "Please select your language:",
+        "image": "",
+        "options.1.text": "English",
+        "options.1.value": "eng",
+        "options.1.alias": "eng",
+        "options.2.text": "Afrikaans",
+        "options.2.value": "afr",
+        "options.2.alias": "afr",
+        "options.3.text": "IsiXhosa",
+        "options.3.value": "xho",
+        "options.3.alias": "hau"
+      }
+    ]
+  }
+}
