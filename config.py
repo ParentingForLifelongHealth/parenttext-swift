@@ -18,13 +18,13 @@ C_ltp_activities = "1xF-nqhYH-De5T08cIVHrxVBgfQ56mK-gu0RgNAXmTO4"
 C_modules_teen = "1P17piJfRAL_Llknjh5vkbdVmjq3qT4A3rqFARy_749A"
 C_modules_child = "1WXDv6kSkWG9-dio3vPFajA39JljudvhT5VUFTBD44wo"
 C_modules_all_ages = "1zayzI3-mSGL3FO6jxCDoVJk3fi_ZqrhNEA73uHOmTuQ"
-C_goal_checkin = "1osdl2DJsAO2rtm8Tqmk6uDl84SPoL5qaH4_1hlKuPIo"
+C_goal_checkin = "1d3zWVAuNewdGxyJ1uDwwY0Vlmirb6b-t0defSOc2Mq4"
 N_safeguarding_data = "1NY_3G7hXlncRCNbyD6Ep0XA4Gjmox-0yOyHLU943XDg"
 T_safeguarding = "1bWOyM5yShTTJSaxwqRCrjUzkwbp7DF6_nSF_96YcZ2c"
 T_delivery = "1q6E2c4Bg_UvqTmhxAsTIQngwAtj0aFoqu8wsPHnqmaU"
 N_delivery_data = "11ngXU85ezCin3zrurum2yzIJSWUP175p-6QvJ8svwVw"
 T_menu = "1lIiFjZKS0eXzzo6XwDdqYv4e1A73WFCpWZg5ju-tCZE"
-N_menu_data = "1hN9eK78o4ZpTm-36PciGSSGjt2xM9k-a6M2BLjAv20Q"
+N_menu_data = "1zh0aTfS7khb7xsLf2GVflS7CsCjwdbGgLRJyRtEA9UY"
 
 
 # "filename" is how it will be generally named in the pipeline.
@@ -74,6 +74,10 @@ sources = [
         #"archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
         "crowdin_name": "navigation",
         "tags": [],
+        #"tags": [1,"survey"],
+        #"tags":[1,"goal_checkin"],
+        #"tags": [1,"rct",1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
+       #"tags": [1,"module",1,"ltp_activity",1,"goal_checkin"],
         "split_no": 1
     },
 ]
