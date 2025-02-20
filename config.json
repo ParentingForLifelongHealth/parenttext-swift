@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "version": "1.0.0",
+        "pipeline_version": "1.0.0"
+    },
+    "flows_outputbasename": "parenttext_all",
+    "output_split_number": 1,
+    "sheet_names": {
+        "swift_sheets": "1wxigdxuKSzgut4jfOyefdmcySvZnrswbJHrwm7hzP2A",
+        "C_swift_surveys": "1t5y2V7Z4e8IKJ2Na-hn9fzzRc4uBF3_iYa7q9ysNFIE",
+        "swift_study_config": "1lKSZ4NR35EupUo8jZj7CpDECzwkvbYvNgwrtqgVEzXc",
+        "T_survey": "14j8bPSU-ITmLzeKrYujYp7ZYIjoY-A0acjjn008QRnE",
+        "T_trial": "1BifL5eSoEo3b7WS8KsrnXDYg3t36yYLqzr75Y8V9Vhw",
+        "T_content": "1hcH8pFdiHZN0UvZgyv3Zht9ARBTx-VXhNBI2o8L7fHU",
+        "N_onboarding_data": "1m1Lhf9r-VnzcuYw5zb65oRUcvutaRFnr6JimKNlRZhQ",
+        "T_onboarding": "1Sl0Jl_N4cGQi2INmE_EnX_aYUMUrUB6cKbuWVPzirtY",
+        "C_ltp_activities": "1xF-nqhYH-De5T08cIVHrxVBgfQ56mK-gu0RgNAXmTO4",
+        "C_modules_teen": "1P17piJfRAL_Llknjh5vkbdVmjq3qT4A3rqFARy_749A",
+        "C_modules_child": "1WXDv6kSkWG9-dio3vPFajA39JljudvhT5VUFTBD44wo",
+        "C_modules_all_ages": "1zayzI3-mSGL3FO6jxCDoVJk3fi_ZqrhNEA73uHOmTuQ",
+        "C_goal_checkin": "1d3zWVAuNewdGxyJ1uDwwY0Vlmirb6b-t0defSOc2Mq4",
+        "N_safeguarding_data": "1NY_3G7hXlncRCNbyD6Ep0XA4Gjmox-0yOyHLU943XDg",
+        "T_safeguarding": "1bWOyM5yShTTJSaxwqRCrjUzkwbp7DF6_nSF_96YcZ2c",
+        "T_delivery": "1q6E2c4Bg_UvqTmhxAsTIQngwAtj0aFoqu8wsPHnqmaU",
+        "N_delivery_data": "11ngXU85ezCin3zrurum2yzIJSWUP175p-6QvJ8svwVw",
+        "T_menu": "1lIiFjZKS0eXzzo6XwDdqYv4e1A73WFCpWZg5ju-tCZE",
+        "N_menu_data": "1zh0aTfS7khb7xsLf2GVflS7CsCjwdbGgLRJyRtEA9UY",
+        "ab_testing_sheet_ID": "1i_oqiJYkeoMsYdeFOcKlvvjnNCEdQnZlsm17fgNvK0s",
+        "localisation_sheet_ID" : "1guXDo2ZLVzCGrLCReGJsctowIWm6ag3kShyvcMDWPJ4", 
+        "eng_edits_sheet_ID" : "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI",
+        "transl_edits_sheet_ID" : "1FYevYZZjTByCPA6dF0NgYvfYqtUNDzlz03tkQE_j5dM"
+    },
+    "sources": {
+        "flow_definitions": {
+            "parent_sources": [],
+            "format": "sheets",
+            "subformat": "google_sheets",
+            "files_list": [
+                    "N_onboarding_data",
+                    "T_onboarding",
+                    "C_ltp_activities",
+                    "C_modules_all_ages",
+                    "C_modules_teen",
+                    "C_modules_child",
+                    "C_goal_checkin",
+                    "T_content",
+                    "N_safeguarding_data",
+                    "T_safeguarding",
+                    "N_delivery_data",
+                    "T_delivery",
+                    "N_menu_data",
+                    "T_menu",
+                    "T_trial",
+                    "T_survey",
+                    "C_swift_surveys",
+                    "swift_study_config",
+                    "swift_sheets"
+                ]
+        },
+        "edits_pretranslation": {
+            "parent_sources": [ ],
+            "format": "sheets",
+            "subformat": "google_sheets",
+            "files_list": [
+                "ab_testing_sheet_ID",
+                "localisation_sheet_ID"
+            ]
+        },
+        "edits_posttranslation": {
+            "parent_sources": [],
+            "format": "sheets",
+            "subformat": "google_sheets",
+            "files_list": [
+                "eng_edits_sheet_ID",
+                "transl_edits_sheet_ID"
+            ]
+        },
+        "translation": {
+            "format": "translation_repo",
+            "translation_repo": "https://github.com/IDEMSInternational/plh-digital-content",
+            "folder_within_repo": "translations/parenttext_5day_south_africa",
+            "commit_hash": "",
+            "commit_tag": "",
+            "languages": [
+                {"language": "afr", "code": "af"},
+                {"language": "hau", "code": "xh"}
+            ]
+        },
+        "expiration_times": {
+            "format": "json",
+            "files_dict": {
+                "special_expiration_file": "./edits/specific_expiration.json"
+            }
+        },
+        "qr_treatment": {
+            "format": "json",
+            "files_dict": {
+                "select_phrases_file": "./edits/select_phrases.json",
+                "special_words_file": "./edits/special_words.json"
+            }
+        },
+        "safeguarding": {
+            "format": "safeguarding",
+            "sources": [
+                {
+                    "key": "hau",
+                    "location": "1GAbQmeU_VR7eVPYF0Fqe9aw7t1J-CJY9"
+                 },
+                 {
+                    "key": "afr",
+                    "location": "1bzIwU9gIgeRWwylweGqJKA1uZBcs8fIF"
+                 }
+            ]
+        },
+        "goals_api": {
+            "format": "sheets",
+            "subformat": "google_sheets",
+            "files_list": [
+                "1TJ1YVSu87ubc5GvGea2hfRh4v234OyJUccQnZ90VUP4"
+            ]
+        }
+    },
+    "steps": [
+        {
+            "id": "create_flows",
+            "type": "create_flows",
+            "models_module": "models.parenttext_models",
+            "sources": [
+                "flow_definitions"
+            ],
+            "tags": [1,"module"]
+        },
+        {
+            "id": "update_expiration_times",
+            "type": "update_expiration_times",
+            "sources": [
+                "expiration_times"
+            ],
+            "default_expiration_time": 1440
+        },
+        {
+            "id": "edits_pretranslation",
+            "type": "edits",
+            "sources": [
+                "edits_pretranslation"
+            ]
+        },
+        {
+            "id": "hasanyword_pretranslation",
+            "type": "has_any_word_check"
+        },
+        {
+            "id": "overall_integrity_check_pretranslation",
+            "type": "overall_integrity_check"
+        },
+        {
+            "id": "extract_texts_for_translators",
+            "type": "extract_texts_for_translators"
+        },
+        {
+            "id": "translation",
+            "type": "translation",
+            "sources": [
+                "translation"
+            ],
+            "languages": [
+                {"language": "afr", "code": "af"},
+                {"language": "hau", "code": "xh"}
+            ]
+        },
+        {
+            "id": "edits_posttranslation",
+            "type": "edits",
+            "sources": [
+                "edits_posttranslation"
+            ]
+        },
+        {
+            "id": "hasanyword_posttranslation",
+            "type": "has_any_word_check"
+        },
+        {
+            "id": "fix_arg_qr_translation",
+            "type": "fix_arg_qr_translation"
+        },
+        {
+            "id": "overall_integrity_check_posttranslation",
+            "type": "overall_integrity_check"
+        },
+        {
+            "id": "qr_treatment",
+            "type": "qr_treatment",
+            "sources": [
+                "qr_treatment"
+            ],
+            "qr_treatment": "reformat_whatsapp",
+            "count_threshold": "13",
+            "length_threshold": "18",
+            "add_selectors": "yes"
+        },
+        {
+            "id": "safeguarding",
+            "type": "safeguarding",
+            "sources": [
+                "safeguarding"
+            ],
+            "redirect_flow_names": "[\"safeguarding_redirect_to_topic_all\", \"safeguarding_redirect_to_topic_start\", \"safeguarding_redirect_to_topic_trigger\"]"
+        }
+    ]
+}
