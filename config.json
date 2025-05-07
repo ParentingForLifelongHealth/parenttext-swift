@@ -128,7 +128,7 @@
             "sources": [
                 "flow_definitions"
             ],
-            "tags": [1,"module"]
+            "tags": []
         },
         {
             "id": "update_expiration_times",
@@ -204,7 +204,7 @@
             "sources": [
                 "safeguarding"
             ],
-            "redirect_flow_names": "[\"safeguarding_redirect_to_topic_all\", \"safeguarding_redirect_to_topic_start\", \"safeguarding_redirect_to_topic_trigger\"]"
+            "redirect_flow_names": "[\"safeguarding_redirect_to_topic_all\", \"safeguarding_redirect_to_topic_start\", \"safeguarding_redirect_to_topic_trigger\",\"study_safeguarding_redirect_to_topic\"]"
         }
     ]
 }
