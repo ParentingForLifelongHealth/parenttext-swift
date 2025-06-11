@@ -1,0 +1,3098 @@
+[
+  {
+    "SourceText": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
+    "text": "ParentText is die maklikste om te gebruik wanneer jy inhoud as video's, prente en teks ontvang. Jou databondel en bandwydte kan egter dalk nie video's ondersteun nie. Om data te bespaar, kan jy kies om dieselfde inhoud met 'n kleiner oudiolêer of as teks te ontvang. Hoe wil jy graag ParentText ontvang?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Jammer, ek verstaan nie wat jy bedoel nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you a WOMAN or MAN?",
+    "text": "Is jy 'n VROU of 'n MAN?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your marital status?",
+    "text": "Wat is jou huwelikstatus?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Is @fields.child_nickname a girl or a boy?",
+    "text": "Is @fields.child_nickname 'n meisie of 'n seun?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Is your child a girl or a boy?",
+    "text": "Is jou kind 'n meisie of 'n seun?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which province do you live in?",
+    "text": "In watter provinsie woon jy?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please provide us with your child's first name.",
+    "text": "Verskaf asseblief jou kind se naam.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please type \"N\" if you prefer not to answer.",
+    "text": "Tik asseblief \"N\" as jy verkies om nie te antwoord nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your last name?",
+    "text": "Wat is jou van?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your first name?",
+    "text": "Wat is jou naam?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please select your language:",
+    "text": "Kies asseblief jou taal:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Participating in ParentText is optional. ",
+    "text": "✅Deelname aan ParentText is opsioneel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  They plan to publish the results. ",
+    "text": "Jou persoonlike inligting is veilig en privaat. Jou naam en inligting sal nie openbaar gemaak word nie, maar jou antwoorde sal gehou en deur navorsers gebruik word om vas te stel hoe om gesinne soos joune te ondersteun. Hulle beplan om die resultate te publiseer. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❌You can stop when you want. Just type {STOP}",
+    "text": "❌Jy kan stop wanneer jy wil. Tik net {STOP}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. ",
+    "text": "Tik JA as jy hiermee saamstem. Tik GAAN UIT as jy nie wil deelneem nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is wonderful, thank you so much! ",
+    "text": "Dit is wonderlik, baie dankie! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you please confirm that you are 18 years old or older?",
+    "text": "Kan jy asseblief bevestig dat jy 18 jaar of ouer is?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Let's begin.",
+    "text": "Goed! Kom ons begin.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option.",
+    "text": "Is jy seker jy wil nie hierdie boodskappe ontvang nie? As jy nie meer enige boodskappe wil ontvang nie, tik asseblief NEE. As jy 'n fout gemaak het, druk asseblief TERUG en kies 'n ander opsie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever return to participate in the programme, type \"HELLO\". ",
+    "text": "Indien jy ooit weer terugkom om aan die program deel te neem, tik HALLO. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope to see you again soon, and we wish you a happy and peaceful day! ",
+    "text": "Ons hoop ons sien jou gou weer, en ons hoop jy het 'n lekker en rustige dag! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, ParentText is only for people over the age of 18. Do you confirm that you are under the age of 18?",
+    "text": "Jammer, ParentText is slegs vir mense ouer as 18 jaar. Bevestig jy dat jy onder die ouderdom van 18 is?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you want to experience ParentText, you can always share it with your parents or caregivers.",
+    "text": "As jy graag deel wil wees van ParentText, kan jy dit altyd na jou ouers of versorgers toe aanstuur.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a video that shows how to use ParentText.",
+    "text": "Hier is 'n video wat wys hoe om ParentText te gebruik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Variables have been reset",
+    "text": "Veranderlikes is teruggestel",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Wanneer is @fields.child_nickname gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Wanneer is jou kind gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Jammer, hierdie datum is ongeldig. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Die datum wat jy ingevul het, is in die toekoms. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Kom ons probeer weer. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?",
+    "text": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?",
+    "text": "Jou kind is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?",
+    "text": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?",
+    "text": "Jou tiener is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Volgens die datum wat jy verskaf het, sal @fields.child_nickname @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Volgens die datum wat jy verskaf het, sal jou kind @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!",
+    "text": "Welkom by ParentText! Hierdie geselsbot is saam met en vir ouers soos jy ontwerp. Ons hoop jy vind dit nuttig!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time.",
+    "text": "ParentText sal jou help met al die kinders in jou lewe, maar in hierdie program fokus ons op slegs een kind op 'n keer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to go back to the previous messages?",
+    "text": "Wil jy teruggaan na die vorige boodskappe toe?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines.",
+    "text": "Dis oukei. Tik enige tyd {HELP} as jy die besonderhede van nooddienste of ander blitslyne wil hê.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are the contact details of your local emergency services:",
+    "text": "Hier is die kontakbesonderhede van jou plaaslike nooddienste:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{generic referrals}",
+    "text": "{generic referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!",
+    "text": "Tik enige tyd {HELP} as jy die besonderhede van nooddienste of ander blitslyne wil hê. Onthou, alles wat jy sê, is heeltemal privaat!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever feel like talking privately to a trained professional, you can call:",
+    "text": "As jy ooit privaat met 'n opgeleide professionele persoon wil praat, skakel:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{mental_health referrals}",
+    "text": "{mental_health referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are the contact details of your local medical services:",
+    "text": "Hier is die kontakbesonderhede van jou plaaslike mediese dienste:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{health referrals}",
+    "text": "{health referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{violence referrals}",
+    "text": "{violence referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{natural_disasters referrals}",
+    "text": "{natural_disasters referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{drugs referrals}",
+    "text": "{drugs referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you currently facing an emergency?",
+    "text": "Het jy tans 'n noodgeval?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you need some support with an emotional issue?",
+    "text": "Het jy ondersteuning nodig vir 'n emosionele probleem?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you currently experiencing a health issue?",
+    "text": "Het jy tans 'n gesondheidsprobleem?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you experiencing an unsafe situation?",
+    "text": "Verkeer jy tans in 'n onveilige situasie?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you have an emergency?",
+    "text": "Het jy 'n noodgeval?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you need some urgent help?",
+    "text": "Het jy dringende hulp nodig?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I might know some resources that can help. Would you like information for:",
+    "text": "Ek weet dalk van hulpbronne wat kan help. Wil jy inligting hê oor:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:",
+    "text": "Kyk asseblief na jouself! Jou plaaslike kliniek kan jou help met alle gesondheidskwessies. Hier is 'n paar gratis hulplyne as jy meer ondersteuning nodig het:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! ",
+    "text": "Om geweld te sien en te ervaar, kan 'n vreesaanjaende en verwarrende tyd wees. Daar is mense wat jou en jou kind deur dit kan help! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:",
+    "text": "Voel jy hartseer of gestres, of is jou kind se gedrag moeilik? Hierdie plekke kan jou help:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:",
+    "text": "Familielewe is moeilik! Het jy geweet dat die maatskaplike werkers by jou plaaslike Departement van Maatskaplike Ontwikkeling kan help met ouerskapvaardighede, vaderskap, tiener swangerskappe en gesins- en verhoudingsberading? As jy nie 'n DSD-kantoor naby het nie, sal hierdie ondersteuning deur NGO's in jou area aangebied word:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{family referrals}",
+    "text": "{family referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:",
+    "text": "So baie van ons energie gaan na die persoon wat sukkel met dwelmmisbruik. Terwyl dit belangrik is, het jy en die res van die gesin ook ondersteuning nodig! Vind ondersteuning vir almal hieronder:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{development resources 1}",
+    "text": "{development resources 1}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:",
+    "text": "Wetlike en SASSA-kwessies kan stresvol en verwarrend wees! Daar mag meer ondersteuning wees as wat jy besef by die onderstaande organisasies:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{legal_help referrals}",
+    "text": "{legal_help referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:",
+    "text": "Om seksuele en geslagsontwikkeling te verstaan, kan verwarrend en moeilik wees om oor te praat. Ons is almal uniek! Hier is 'n ondersteuning en leiding:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{lgbtqia referrals}",
+    "text": "{lgbtqia referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:",
+    "text": "Skool is waar jou kind die meeste van hulle tyd spandeer. Dit is so belangrik om seker te maak dat hulle in die skool is, gelukkig is en ondersteun word. Hier is 'n paar hulpbronne as jy sukkel met enige skoolkwessies:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{school referrals}",
+    "text": "{school referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What would you like to do?",
+    "text": "Wat wil jy doen?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope this was helpful! You can access this information at any time by typing {HELP}.",
+    "text": "Ons hoop dit het jou gehelp! Jy kan enige tyd toegang tot hierdie inligting kry deur {HELP} te tik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome back to ParentText!",
+    "text": "Welkom terug by ParentText!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I don't understand your message.",
+    "text": "Ek verstaan nie jou boodskap nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis.",
+    "text": "Tik asseblief {MENU} om toegang tot hulpbronne te verkry en voltooide modules te hersien, {PLAY} om 'n speel-aktiwiteit te ontvang wat jy saam met jou kind kan voltooi, of {HELP} om toegang te kry tot plaaslike ondersteuningsdienste in 'n krisis.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not given consent to participate in this programme. Would you like to participate?",
+    "text": "Jy het nie toestemming gegee om aan hierdie program deel te neem nie. Wil jy graag deelneem?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever decide to participate in the programme, type HELLO. ",
+    "text": "As jy ooit besluit om aan die program deel te neem, tik HALLO. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting is hard. ParentText may help. Would you like to continue your progress?",
+    "text": "Ouerskap is moeilik. ParentText kan help. Wil jy graag jou vordering voortsit?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. If you ever decide to come back, type HELLO. ",
+    "text": "Dis oukei. As jy ooit besluit om terug te kom, tik HALLO. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are already part of ParentText! ",
+    "text": "Jy is alreeds deel van ParentText! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have already completed ParentText!",
+    "text": "Jy het alreeds ParentText voltooi!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?",
+    "text": "Deur in ParentText te bly, help jou en jou kind. Is jy seker jy wil die program verlaat?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you do not want to receive any more messages, please type \"EXIT\".",
+    "text": "As jy nie meer enige boodskappe wil ontvang nie, tik asseblief \"GAAN UIT\".",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you made a mistake, please type \"BACK\".",
+    "text": "As jy 'n fout gemaak het, tik asseblief \"TERUG\".",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for participating. If you want to return to the programme, type HELLO. ",
+    "text": "Dankie vir jou deelname. As jy wil terugkeer na die program, tik HALLO. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope to see you again soon! ",
+    "text": "Ons hoop om jou gou weer te sien! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+    "text": "Hierdie kenmerk sal beskikbaar wees sodra jy registrasie voltooi het. Dit sal nie lank neem nie. Sit asseblief jou vordering voort!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!",
+    "text": "Die kieslys sal beskikbaar wees sodra jy registrasie voltooi het. Dit sal nie lank neem nie. Sit asseblief jou vordering voort!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In this course, you will complete @fields.c_n_mod lessons. You will receive a new lesson each day. Your first lesson is @results.name.",
+    "text": "In hierdie kursus sal jy @fields.c_n_mod lesse voltooi. Jy sal elke dag 'n nuwe les ontvang. Jou eerste les is @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons in this course. Today's lesson is @results.name.",
+    "text": "Jy het @fields.c_n_mod_compl uit @fields.c_n_mod lesse in hierdie kursus voltooi. Vandag se les is @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "fail",
+    "text": "faal",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s get started. Press NEXT to begin.",
+    "text": "Kom ons begin. Druk VOLGENDE om te begin.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done. You're ready to start the programme.",
+    "text": "Welgedaan. Jy is gereed om met die program te begin.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no new courses available.",
+    "text": "Daar is geen nuwe kursusse beskikbaar nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course to start",
+    "text": "Jy het slegs die volgende kursus om te begin",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(text_slice(results.message_options,3)).",
+    "text": "@(text_slice(results.message_options,3)).",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to begin this course?",
+    "text": "Wil jy graag met hierdie kursus begin?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "Dis oukei.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which new course would you like to start? ",
+    "text": "Met watter nuwe kursus wil jy graag begin? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@results.message_options",
+    "text": "@results.message_options",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You do not have have a current course. ",
+    "text": "Jy het nie tans 'n kursus nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course started",
+    "text": "Jy het slegs met die volgende kursus begin",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which unfinished course would you like to complete?",
+    "text": "Watter onvoltooide kursus sal jy graag wil voltooi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no incomplete courses. ",
+    "text": "Daar is geen onvoltooide kursusse nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course to complete",
+    "text": "Jy het slegs die volgende kursus om te voltooi",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Which unfinished course would you like to complete?",
+    "text": "Goed! Watter onvoltooide kursus sal jy graag wil voltooi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "NA",
+    "text": "NA",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following lesson to complete:",
+    "text": "Jy het slegs die volgende les om te voltooi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which lesson would you like to complete?",
+    "text": "Watter les sal jy graag wil voltooi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You haven't started to work on a course yet.",
+    "text": "Jy het nog nie aan 'n kursus begin werk nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have only started the course",
+    "text": "Jy het slegs die kursus begin",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like support on it?",
+    "text": "Wil jy graag ondersteuning daarmee hê?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can access more information at any time in the Main Menu. Just type {MENU}.",
+    "text": "Dis oukei. Jy kan enige tyd meer inligting in die Hoofkieslys kry. Tik net {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are you struggling with?",
+    "text": "Waarmee sukkel jy?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You haven't completed a lesson yet.",
+    "text": "Jy het nog nie 'n les voltooi nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which course do you want to review?",
+    "text": "Watter kursus wil jy hersien?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(word_count(fields.goals_accessed) +1). Return to Main Menu",
+    "text": "@(word_count(fields.goals_accessed) +1). Gaan terug na Hoofkieslys",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "You haven't completed any of the lessons in this course. ",
+    "text": "Jy het nog nie enige van die lesse in hierdie kursus voltooi nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have only completed the following lesson:",
+    "text": "Jy het nog net die volgende les voltooi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to review it?",
+    "text": "Wil jy dit graag hersien?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can come back here at any time to review it.",
+    "text": "Dis oukei. Jy kan enige tyd hierheen terugkom om dit te hersien.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?",
+    "text": "Jy het @fields.n_s_modules_compl lesse in hierdie kursus voltooi. Watter les wil jy hersien?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu",
+    "text": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Gaan terug na Hoofkieslys",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "You have seen all the courses",
+    "text": "Jy het al die kursusse gesien",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's start with the course ",
+    "text": "Kom ons begin met die kursus ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+    "text": "Dit is tyd om 'n nuwe kursus te kies! Jy het @fields.n_goals_completed van @fields.n_goals_prog kursusse voltooi. Watter kursus wil jy volgende aanpak?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Let's continue with the course ",
+    "text": "Kom ons gaan voort met die kursus ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+    "text": "Jy het @fields.n_goals_completed van @fields.n_goals_prog kursusse voltooi. Watter kursus wil jy volgende aanpak?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "What would you like to do next?",
+    "text": "Wat wil jy graag volgende doen?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great, see you tomorrow!",
+    "text": "Goed, sien jou môre!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your teen?",
+    "text": "Watter tipe aktiwiteit wil jy met jou tiener probeer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your baby?",
+    "text": "Watter tipe aktiwiteit wil jy met jou baba probeer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your child?",
+    "text": "Watter tipe aktiwiteit wil jy met jou kind probeer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you want to begin now or tomorrow?",
+    "text": "Wil jy nou begin, of môre?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It takes only 5 days to complete this course and earn your parenting certificate.",
+    "text": "Dit neem slegs 5 dae om hierdie kursus te voltooi en jou ouerskapsertifikaat te verdien.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for participating!",
+    "text": "Dankie vir jou deelname!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! ",
+    "text": "🎉Jy het dit gedoen! 🎉Jy het die kursus @results.name voltooi. Hier is jou kursussertifikaat. Baie geluk! ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}.",
+    "text": "Onthou, jy kan altyd terugkom na ParentText en ekstra ondersteuning kry of hierdie inligting hersien. Tik net {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?",
+    "text": "ParentText het begin. Jy is net 5 dae daarvan weg om jou ouerskapsertifikaat te verwerf. Is jy gereed om jou registrasie te voltooi en te begin?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press a number on your keypad:",
+    "text": "Druk 'n nommer op jou sleutelbord:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Yes",
+    "text": "1. Ja",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. Remind me tomorrow",
+    "text": "2. Herinner my môre",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?",
+    "text": "Jy is van koers af! Wil jy jou vorige onvoltooide les voltooi of 'n nuwe les begin?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Complete a previous lesson",
+    "text": "1. Voltooi 'n vorige les",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. Start a new lesson",
+    "text": "2. Begin 'n nuwe les",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you want to catch up and proceed to the next lesson?",
+    "text": "Wil jy inhaal en na die volgende les aangaan?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?",
+    "text": "Jy's amper klaar met hierdie kursus! Jy het net 1 onvoltooide les. Wat wil jy graag doen?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Finish this lesson and earn my course certificate",
+    "text": "1. Voltooi hierdie les en verdien my kursussertifikaat",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?",
+    "text": "Jy's amper klaar met hierdie kursus! Jy het @fields.c_n_mod_started onvoltooide lesse. Wat wil jy graag doen?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1. Complete unfinished lessons to earn my course certificate",
+    "text": "1. Voltooi onvoltooide lesse om my kursussertifikaat te verdien",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It's time to get started on ParentText. Are you ready? ",
+    "text": "Dis tyd om te begin op ParentText. Is jy gereed? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press a number on your keypad: ",
+    "text": "Druk 'n nommer op jou sleutelbord: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Yes!",
+    "text": "1. Ja!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I've got another lesson ready for you! Are you ready?",
+    "text": "Ek het nog 'n les gereed vir jou! Is jy gereed?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. No, remind me tomorrow",
+    "text": "2. Nee, herinner my môre",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "These messages don’t seem to be working. When you are ready to keep going, press 1. ",
+    "text": "Hierdie boodskappe lyk nie of dit werk nie. Wanneer jy gereed is om voort te gaan, druk 1. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not completed a course yet.",
+    "text": "Jy het nog nie 'n kursus voltooi nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed the following course:",
+    "text": "Jy het die volgende kursus voltooi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(text_slice(results.message_options,3))",
+    "text": "@(text_slice(results.message_options,3))",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have completed the following courses:",
+    "text": "Jy het die volgende kursusse voltooi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no other courses to complete.",
+    "text": "Daar is geen ander kursusse om te voltooi nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following courses still available: ",
+    "text": "Jy het die volgende kursusse nog beskikbaar: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not begun the following courses: ",
+    "text": "Jy het nie die volgende kursusse begin nie: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are on track to complete the entire ParentText programme! There are no new courses to start!",
+    "text": "Jy is op koers om die hele ParentText-program te voltooi! Daar is geen nuwe kursusse om te begin nie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following course available:",
+    "text": "Jy het die volgende kursus beskikbaar:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following courses available:",
+    "text": "Jy het die volgende kursusse beskikbaar:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}.",
+    "text": "Ons hoop dit het jou gehelp! Jy kan enige tyd toegang tot die Hoofkieslys kry deur {MENU} te tik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your relationship status has been updated. You've unlocked a new course: @results.name. ",
+    "text": "Jou verhoudingstatus is opgedateer. Jy het 'n nuwe kursus ontsluit: @results.name. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "To invite someone to join, share this link!",
+    "text": "Om iemand te nooi om aan te sluit, deel hierdie skakel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{insert link}",
+    "text": "{insert link}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have reached the end of this lesson! 🎉 ",
+    "text": "Jy het die einde van hierdie les bereik! 🎉 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What do you want to do next?",
+    "text": "Wat wil jy volgende doen?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can access more information at any time in the Main Menu.",
+    "text": "Dis oukei. Jy kan enige tyd meer inligting in die Hoofkieslys kry.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it! Congratulations!🎉 You have completed all the available courses. Well done!",
+    "text": "🎉Jy het dit gedoen! Veels geluk!🎉Jy het al die beskikbare kursusse voltooi. Welgedaan!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons.",
+    "text": "Jy het @fields.c_n_mod_compl out of @fields.c_n_mod lesse voltooi.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⬜️⬜️",
+    "text": "⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.n_goals_completed of @fields.n_goals_prog Courses Complete",
+    "text": "@fields.n_goals_completed of @fields.n_goals_prog Kursusse Voltooi",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅⬜️",
+    "text": "✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅",
+    "text": "✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️",
+    "text": "✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️",
+    "text": "✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅",
+    "text": "✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️",
+    "text": "✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️",
+    "text": "✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅",
+    "text": "✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️",
+    "text": "✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅",
+    "text": "✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently working on the course @results.name.",
+    "text": "Jy werk tans aan die kursus @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have not selected which course to work on next.",
+    "text": "Jy het nie gekies aan watter kursus om volgende te werk nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What would you like change?",
+    "text": "Wat sou jy wou verander?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text, Images, and Videos.",
+    "text": "Jou huidige media-instelling is Teks, Prente en Video's.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text, Images, and Audio.",
+    "text": "Jou huidige media-instelling is Teks, Prente en Oudio.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text and Images Only.",
+    "text": "Jou huidige media-instelling is Slegs Teks en Prente.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is",
+    "text": "Jou huidige media-instelling is",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't provide this info.",
+    "text": "Jy het nie hierdie inligting verskaf nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change it?",
+    "text": "Wil jy dit verander?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us if you are a woman or a man. ",
+    "text": "Jy het nie vir ons gesê of jy 'n vrou of 'n man is nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a Woman.",
+    "text": "Jy het vir ons gesê jy is 'n Vrou.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a Man.",
+    "text": "Jy het vir ons gesê jy is 'n Man.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a",
+    "text": "Jy het vir ons gesê jy is 'n",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to update your gender?",
+    "text": "Wil jy jou geslag opdateer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us what's your relationship status.",
+    "text": "Jy het nie vir ons gesê wat jou verhoudingstatus is nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Single (not in a relationship).",
+    "text": "Jy het vir ons gesê jy is Enkellopend (nie in 'n verhouding nie).",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Married.",
+    "text": "Jy het vir ons gesê jy is Getroud.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Partnered but not married.",
+    "text": "Jy het vir ons gesê jy het 'n Lewensmaat, maar is nie getroud nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Divorced or separated.",
+    "text": "Jy het vir ons gesê jy is Geskei of leef apart.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Widowed.",
+    "text": "Jy het vir ons gesê jy is 'n Wewenaar/Weduwee.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are",
+    "text": "Jy het vir ons gesê jy is",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change your relationship status?",
+    "text": "Wil jy jou verhoudingstatus verander?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is @fields.child_age year old and was born on @(date(fields.child_dob)).",
+    "text": "Jy het vir ons gesê dat @fields.child_nickname @fields.child_age jaar oud is en op @(date(fields.child_dob)) gebore is.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is @fields.child_age year old and was born on @(date(fields.child_dob)).",
+    "text": "Jy het vir ons gesê dat jou kind @fields.child_age jaar oud is en op @(date(fields.child_dob)) gebore is.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to update the date of birth of @fields.child_nickname?",
+    "text": "Wil jy @fields.child_nickname se geboortedatum opdateer?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to update the date of birth of your child?",
+    "text": "Wil jy jou kind se geboortedatum opdateer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child's nickname is @fields.child_nickname.",
+    "text": "Jou kind se noemnaam is @fields.child_nickname.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't provide a nickname for your child.",
+    "text": "Jy het nie 'n noemnaam vir jou kind verskaf nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to update it?",
+    "text": "Wil jy dit opdateer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.child_nickname's gender has been updated.",
+    "text": "@fields.child_nickname's se geslag is opgedateer.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your child's gender has been updated.",
+    "text": "Jou kind se geslag is opgedateer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us the gender of @fields.child_nickname.",
+    "text": "Jy het ons nie gesê wat @fields.child_nickname se geslag is nie.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't tell us the gender of your child.",
+    "text": "Jy het nie vir ons gesê wat jou kind se geslag is nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a Girl.",
+    "text": "Jy het vir ons gesê dat @fields.child_nickname 'n Meisie is.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a Girl.",
+    "text": "Jy het vir ons gesê dat jou kind 'n Meisie is.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a Boy.",
+    "text": "Jy het vir ons gesê dat @fields.child_nickname 'n Seun is.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a Boy.",
+    "text": "Jy het vir ons gesê dat jou kind 'n Seun is.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a",
+    "text": "Jy het vir ons gesê @fields.child_nickname is 'n",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a",
+    "text": "Jy het vir ons gesê jou kind is 'n",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in English.",
+    "text": "Die taal waarin jy tans boodskappe ontvang, is Engels.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in IsiZulu.",
+    "text": "Jy ontvang tans boodskappe in IsiZulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in",
+    "text": "Jy ontvang tans boodskappe in",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change your language?",
+    "text": "Wil jy jou taal verander?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*DAY @fields.curr_demo_day*",
+    "text": "*DAG @fields.curr_demo_day*",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning.",
+    "text": "Jy het die ParentText-demo voltooi. Tik HERSTEL en dan {FACSTART} om weer van die begin af te begin.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Text, Images, and Videos",
+    "text": "Teks, Prente en Video's",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text, Images, and Audio",
+    "text": "Teks, Prente en Oudio",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text and Images Only",
+    "text": "Slegs Teks en Prente",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Woman",
+    "text": "Vrou",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Man",
+    "text": "Man",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Verkies om nie te sê nie",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Single",
+    "text": "Enkellopend",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Unmarried but in a relationship",
+    "text": "Ongetroud, maar in 'n verhouding",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Married",
+    "text": "Getroud",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Separated from partner",
+    "text": "Geskei van lewensmaat",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Divorced",
+    "text": "Geskei",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Widowed",
+    "text": "Weduwee/wewenaar",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other",
+    "text": "Ander",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I don't want to answer",
+    "text": "Ek wil nie antwoord nie",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Girl",
+    "text": "Meisie",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Boy",
+    "text": "Seun",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Eastern Cape",
+    "text": "Oos-Kaap",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Free State",
+    "text": "Vrystaat",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Gauteng",
+    "text": "Gauteng",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "KwaZulu-Natal",
+    "text": "KwaZulu-Natal",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Limpopo",
+    "text": "Limpopo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Mpumalanga",
+    "text": "Mpumalanga",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "North West",
+    "text": "Noordwes",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Northern Cape",
+    "text": "Noord-Kaap",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Western Cape",
+    "text": "Wes-Kaap",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I do not live in South Africa",
+    "text": "Ek woon nie in Suid-Afrika nie",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "English",
+    "text": "Engels",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "IsiZulu",
+    "text": "IsiZulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "YES",
+    "text": "JA",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, I am over 18",
+    "text": "Ja, ek is ouer as 18",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, I am under 18",
+    "text": "Nee, ek is jonger as 18",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "BACK",
+    "text": "TERUG",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ja",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "Nee",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NEXT",
+    "text": "VOLGENDE",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Emergency support",
+    "text": "Noodondersteuning",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Health support services",
+    "text": "Gesondheidsondersteuningsdienste",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Dealing with violence",
+    "text": "Om geweld te hanteer",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Suicide prevention services",
+    "text": "Selfmoordvoorkomingsdienste",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Family counselling and support",
+    "text": "Gesinsberading en ondersteuning",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Drugs and alcohol abuse",
+    "text": "Dwelm- en alkoholmisbruik",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Child development support",
+    "text": "Ondersteuning vir kindontwikkeling",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Legal or SASSA help",
+    "text": "Wetlike of SASSA hulp",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "LGBTQIA+ support services",
+    "text": "LGBTQIA+ ondersteuningsdienste",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "School issues",
+    "text": "Skoolkwessies",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get other emergency contacts",
+    "text": "Kry ander noodkontakte",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Go to the Main Menu",
+    "text": "Gaan na die Hoofkieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Exit Menu",
+    "text": "Verlaat Kieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my child",
+    "text": "Gee my 'n idee vir 1-tot-1 tyd met my kind",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I’m done for today",
+    "text": "Ek's klaar vir vandag",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my teen",
+    "text": "Gee my 'n idee vir 1-tot-1 tyd met my tiener",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my baby",
+    "text": "Gee my 'n idee vir 1-tot-1 tyd met my baba",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View another activity idea",
+    "text": "Sien 'n ander aktiwiteitsidee",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Go to Main Menu",
+    "text": "Gaan na Hoofkieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Continue my progress tomorrow",
+    "text": "Gaan môre voort met my vordering",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Exit menu",
+    "text": "Gaan uit kieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Quick",
+    "text": "Iets Vinnigs",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Active",
+    "text": "Iets Aktiefs",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Calm",
+    "text": "Iets Kalms",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something for the whole family",
+    "text": "Iets vir die hele gesin",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Now",
+    "text": "Nou",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Tomorrow",
+    "text": "Môre",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Remind me tomorrow",
+    "text": "Herinner my môre",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View incomplete courses",
+    "text": "Sien onvoltooide kursusse",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View courses to start",
+    "text": "Sien kursusse om te begin",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to Main Menu",
+    "text": "Terug na Hoofkieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View finished courses",
+    "text": "Sien voltooide kursusse",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Complete this outstanding course and leave my current course incomplete",
+    "text": "Voltooi hierdie uitstaande kursus en laat my huidige kursus onvoltooid",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Complete another outstanding course and leave my current course incomplete",
+    "text": "Voltooi 'n ander uitstaande kursus en laat my huidige kursus onvoltooid",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Start the new course and leave my current course incomplete",
+    "text": "Voltooi die nuwe kursus en laat my huidige kursus onvoltooid",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Start a new course and leave my current course incomplete",
+    "text": "Voltooi 'n nuwe kursus en laat my huidige kursus onvoltooid",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review a lesson from a different course",
+    "text": "Hersien 'n les van 'n ander kursus",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to Menu",
+    "text": "Terug na Kieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review another lesson from this course",
+    "text": "Hersien 'n ander les uit hierdie kursus",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get more help with this course",
+    "text": "Kry meer hulp met hierdie kursus",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get help with a different challenge",
+    "text": "Kry hulp met 'n ander uitdaging",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to the Main Menu",
+    "text": "Terug na die Hoofkieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review and track my progress",
+    "text": "Hersien en bepaal my vordering",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my settings",
+    "text": "Verander my instellings",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Invite a friend to enroll",
+    "text": "Nooi 'n vriend om in te skryf",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get help with an emergency",
+    "text": "Kry hulp in 'n noodgeval",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Watch a video with instructions",
+    "text": "Kyk 'n video met instruksies",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Track my progress",
+    "text": "Bepaal my vordering",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Retake completed lessons",
+    "text": "Doen voltooide lesse weer",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get extra help with my child",
+    "text": "Kry ekstra hulp met my kind",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my profile",
+    "text": "Verander my profiel",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stop receiving the messages",
+    "text": "Hou op om boodskappe te ontvang",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my language",
+    "text": "Verander my taal",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change the way I receive content",
+    "text": "Verander die manier waarop ek inhoud ontvang",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my gender",
+    "text": "Verander my geslag",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my relationship status",
+    "text": "Verander my verhoudingstatus",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my child's age",
+    "text": "Verander my kind se ouderdom",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Update my child's name",
+    "text": "Dateer my kind se naam op",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my child's gender",
+    "text": "Verander my kind se geslag",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "text, images, and videos",
+    "text": "teks, prente en video's",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "text, images, and audio",
+    "text": "teks, prente en oudio",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "text and images only",
+    "text": "slegs teks en prente",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "woman",
+    "text": "vrou",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "man",
+    "text": "man",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say",
+    "text": "verkies om nie te sê nie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "single",
+    "text": "enkellopend",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "unmarried but in a relationship",
+    "text": "ongetroud, maar in 'n verhouding",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "married",
+    "text": "getroud",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "separated from partner",
+    "text": "geskei van lewensmaat",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "divorced",
+    "text": "geskei",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "widowed",
+    "text": "wewenaar/weduwee",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "other",
+    "text": "ander",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i don't want to answer",
+    "text": "ek wil nie antwoord nie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "girl",
+    "text": "meisie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "boy",
+    "text": "seun",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "eastern cape",
+    "text": "oos-kaap",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "free state",
+    "text": "vrystaat",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "gauteng",
+    "text": "gauteng",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "kwazulu-natal",
+    "text": "kwazulu-natal",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "limpopo",
+    "text": "limpopo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "mpumalanga",
+    "text": "mpumalanga",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "north west",
+    "text": "noordwes",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "northern cape",
+    "text": "noord-kaap",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "western cape",
+    "text": "wes-kaap",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i do not live in south africa",
+    "text": "ek woon nie in suid-afrika nie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "n",
+    "text": "n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "english",
+    "text": "engels",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "isizulu",
+    "text": "isizulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ja",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit",
+    "text": "gaan uit",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y over",
+    "text": "ja j bo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n under",
+    "text": "nee n onder",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no",
+    "text": "nee",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back",
+    "text": "terug",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y yeah yep",
+    "text": "ja j jip ok",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n nope",
+    "text": "nee n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "generic",
+    "text": "generies",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "mental_health",
+    "text": "geestesgesondheid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "health",
+    "text": "gesondheid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "violence",
+    "text": "geweld",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "natural_disasters",
+    "text": "natuurrampe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "drugs",
+    "text": "dwelms",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "help",
+    "text": "hulp help",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "menu",
+    "text": "kieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "play",
+    "text": "speel",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "grow",
+    "text": "groei",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stop",
+    "text": "stop",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n nope nah",
+    "text": "nee n",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "emergency support",
+    "text": "noodondersteuning",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "health support services",
+    "text": "gesondheidsondersteuningsdienste",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "dealing with violence",
+    "text": "om geweld te hanteer",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "suicide prevention services",
+    "text": "selfmoordvoorkomingsdienste",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "family counselling and support",
+    "text": "gesinsberading en ondersteuning",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "drugs and alcohol abuse",
+    "text": "dwelm- en alkoholmisbruik",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "child development support",
+    "text": "ondersteuning vir kindontwikkeling",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "legal or sassa help",
+    "text": "wetlike of SASSA hulp",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "lgbtqia+ support services",
+    "text": "LGBTQIA+ ondersteuningsdienste",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "school issues",
+    "text": "skoolkwessies",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get other emergency contacts",
+    "text": "kry ander noodkontakte",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "go to the main menu",
+    "text": "gaan na die Hoofkieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit menu",
+    "text": "gaan uit kieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i’m done for today",
+    "text": "ek's klaar vir vandag",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my child",
+    "text": "gee my 'n idee vir 1-tot-1 tyd met my kind",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my teen",
+    "text": "gee my 'n idee vir 1-tot-1 tyd met my tiener",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my baby",
+    "text": "gee my 'n idee vir 1-tot-1 tyd met my baba",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view another activity idea",
+    "text": "sien 'n ander aktiwiteitsidee",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "go to main menu",
+    "text": "gaan na Hoofkieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "continue my progress tomorrow",
+    "text": "gaan môre voort met my vordering",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something quick",
+    "text": "iets vinnigs",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something active",
+    "text": "iets aktiefs",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something calm",
+    "text": "iets kalms",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something for the whole family",
+    "text": "iets vir die hele gesin",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "now",
+    "text": "nou",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "tomorrow",
+    "text": "môre",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "remind me tomorrow",
+    "text": "herinner my môre",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view incomplete courses",
+    "text": "sien onvoltooide kursusse",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view courses to start",
+    "text": "sien kursusse om te begin",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to main menu",
+    "text": "terug na hoofkieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view finished courses",
+    "text": "sien voltooide kursusse",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "complete this outstanding course and leave my current course incomplete",
+    "text": "voltooi hierdie uitstaande kursus en laat my huidige kursus onvoltooid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "complete another outstanding course and leave my current course incomplete",
+    "text": "voltooi 'n ander uitstaande kursus en laat my huidige kursus onvoltooid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "start the new course and leave my current course incomplete",
+    "text": "voltooi die nuwe kursus en laat my huidige kursus onvoltooid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "start a new course and leave my current course incomplete",
+    "text": "begin 'n nuwe kursus en laat my huidige kursus onvoltooid",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to menu",
+    "text": "terug na kieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review a lesson from a different course",
+    "text": "hersien 'n les van 'n ander kursus",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review another lesson from this course",
+    "text": "hersien 'n ander les uit hierdie kursus",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get more help with this course",
+    "text": "kry meer hulp met hierdie kursus",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get help with a different challenge",
+    "text": "kry hulp met 'n ander uitdaging",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to the main menu",
+    "text": "terug na hoofkieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review and track my progress",
+    "text": "hersien en bepaal my vordering",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my settings",
+    "text": "verander my instellings",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "invite a friend to enroll",
+    "text": "nooi 'n vriend om in te skryf",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get help with an emergency",
+    "text": "kry hulp in 'n noodgeval",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "watch a video with instructions",
+    "text": "kyk 'n video met instruksies",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "track my progress",
+    "text": "bepaal my vordering",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "retake completed lessons",
+    "text": "doen voltooide lesse weer",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get extra help with my child",
+    "text": "kry ekstra hulp met my kind",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my profile",
+    "text": "verander my profiel",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stop receiving the messages",
+    "text": "staak ontvangs van die boodskappe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my language",
+    "text": "verander my taal",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change the way i receive content",
+    "text": "verander die manier waarop ek inhoud ontvang",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my gender",
+    "text": "verander my geslag",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my relationship status",
+    "text": "verander my verhoudingstatus",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my child's age",
+    "text": "verander my kind se ouderdom",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "update my child's name",
+    "text": "dateer my kind se naam op",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my child's gender",
+    "text": "verander my kind se geslag",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y yeah yep ok",
+    "text": "ja j jip ok",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

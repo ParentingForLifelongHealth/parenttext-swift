@@ -1,0 +1,1580 @@
+[
+  {
+    "SourceText": "Here is a question to help you get started on your course:",
+    "text": "Hier is 'n vraag om jou te help om met jou kursus te begin:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "Dis oukei.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your teen and how to do this in this course.",
+    "text": "Dis oukei. Jy sal in hierdie kursus meer leer oor die belangrikheid daarvan om tyd met jou tiener te spandeer, en hoe om dit te doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your teen is a great way to build a good relationship with them!",
+    "text": "Dit is wonderlik om te hoor! 🎉 Om tyd saam met jou tiener te spandeer, is 'n wonderlike manier om 'n goeie verhouding met hom/haar te bou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Jammer, ek verstaan nie wat jy bedoel nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one-time with @fields.child_nickname?",
+    "text": "In die afgelope 24 uur, het jy ten minste 5 minute een-tot-een tyd met @fields.child_nickname deurgebring?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one-time with your teen?",
+    "text": "In die afgelope 24 uur, het jy ten minste 5 minute een-tot-een tyd met jou tiener spandeer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep @fields.child_nickname safe & healthy:",
+    "text": "Hier is 'n vraag om jou te help met jou kursus om @fields.child_nickname veilig & gesond te hou:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep your teen safe & healthy:",
+    "text": "Hier is 'n vraag om jou te help met jou kursus om jou tiener veilig & gesond te hou:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping your teen safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Dit is reg as dit uitdagend voel om jou tiener veilig en gesond te hou, veral in vandag se veranderende wêreld. 🌍 In die kursus, sal jy meer leer oor hoe om dit te doen! 📘",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping your teen safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy!🌱",
+    "text": "🎉 Goeie werk! Om jou tiener veilig en gesond te hou is 'n belangrike verantwoordelikheid vir ouers en versorgers. In vandag se veranderende wêreld is dit nie altyd maklik nie!!🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you at keeping @fields.child_nickname safe and healthy both online and offline?",
+    "text": "Hoe selfversekerd is jy om @fields.child_nickname veilig en gesond te hou, beide aanlyn en vanlyn?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How confident are you at keeping your teen safe and healthy both online and offline?",
+    "text": "Hoe selfversekerd is jy om jou tiener veilig en gesond te hou, beide aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the course on improving your relationship with your teen. Let’s see how things have changed since you started:",
+    "text": "Welgedaan dat jy die kursus oor die verbetering van jou verhouding met jou tiener voltooi het. Kom ons kyk hoe dinge verander het vandat jy begin het:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your teen. 💛",
+    "text": "Ek is jammer om te hoor dat jy nie meer tyd met jou tiener kon spandeer nie. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your teen may still be a challenge.",
+    "text": "Geluk met die vordering wat jy reeds gemaak het. Dit lyk asof dit steeds 'n uitdaging is om tyd saam met jou tiener deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already excelling at spending one-on-one-time with your teen before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Jy was reeds uitstekend met die deurbring van een-tot-een tyd met jou tiener voor ParentText. Dis wonderlik dat jy in staat is om die uitstekende poging vol te hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your teen is so important. Though you are still doing great, you have reported that spending time together has become more challenging since you first began this course.",
+    "text": "Tyd met jou tiener is so belangrik. Alhoewel jy steeds goed doen, het jy gemeld dat dit 'n groter uitdaging geraak het om tyd saam deur te bring as toe jy die kursus begin het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started this course in ParentText. Your effort is working!",
+    "text": "Geluk! 🎉Jy het vordering gemaak sedert jy hierdie kursus in ParentText begin het. Jou moeite werp vrugte af!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to get more help?",
+    "text": "Wil jy graag meer hulp hê?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can find and go through this course any time via the Main Menu by typing {MENU}.",
+    "text": "Dankie dat jy jou vordering opgedateer het. Jy kan hierdie kursus vind en enige tyd via die Hoofkieslys weer daardeur gaan deur {MENU} te tik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is one-on-one-time going?",
+    "text": "Hoe gaan dit met een-tot-een tyd?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your teen",
+    "text": "Uitstekend! Gaan voort met die goeie werk om jou verhouding met jou tiener te verbeter",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Trying is what counts! Let's try to get this going GOOD!",
+    "text": "Dit tel dat jy probeer! Kom ons probeer om dit GOED te kry!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course to keep @fields.child_nickname safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Welgedaan dat jy jou kursus voltooi het om @fields.child_nickname veilig en gesond te hou. Kom ons kyk hoe dinge verander het sedert jy begin het:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Well done for completing your course to keep your teen safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Welgedaan dat jy jou kursus voltooi het om jou tiener veilig en gesond te hou. Kom ons kyk hoe dinge verander het sedert jy begin het:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You were already excelling at keeping your teen safe before this course. It’s great that you’re able to keep doing so well!",
+    "text": "💙 Jy was klaar uitstekend om jou tiener veilig te hou voor die kursus. Dit is goed dat jy in staat is om aan te hou goed doen!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Knowing how to keep your teen safe and healthy is important. Even though you’re doing great, you’ve shared that this has become more challenging since starting this course.",
+    "text": "Om te weet hoe om jou tiener veilig en gesond te hou is belangrik. Al doen jy so goed, het jy gedeel dat dit meer uitdagend geraak het sedert jy die kursus begin het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Congratulations! 🎉 You’ve made improvements since you started this course. Your effort is working!",
+    "text": "🎉 Veels geluk! 🎉 Jy het verbeteringe gemaak sedert jy die kursus begin het. Jou pogings werk!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing your progress update. You can revisit this course any time in the Main Menu by typing {MENU}. 📝",
+    "text": "Dankie dat jy jou vordering opgedateer het. Jy kan hierdie kursus enige tyd herbesoek via die Hoofkieslys deur {MENU} te tik. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in keeping your teen safe online and offline.",
+    "text": "Uitstekend! Hou aan met die goeie werk om jou tiener veilig te hou aanlyn en vanlyn.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep @fields.child_nickname healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om @fields.child_nickname gesond en veilig te jou, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology.",
+    "text": "💡 As jy ondersteuning nodig het, oorweeg dit om uit te reik na @fields.child_nickname se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your teen healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om jou tiener gesond en veilig te jou, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology.",
+    "text": "💡 As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou tiener se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep @fields.child_nickname safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om @fields.child_nickname veilig te hou aanlyn en vanlyn, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology.",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na @fields.child_nickname se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your teen safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om jou tiener veilig te hou aanlyn en vanlyn, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology.",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou tiener se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep @fields.child_nickname safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Veels geluk dat jy vordering gemaak het. Dit lyk dat dit dalk nogsteeds 'n uitdaging is hoe om te weet hoe om @fields.child_nickname veilig en gesond te hou aanlyn en vanlyn.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep your teen safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Veels geluk dat jy vordering gemaak het. Dit lyk dat dit dalk nogsteeds 'n uitdaging is om te weet hoe om jou tiener veilig en gesond te hou aanlyn en vanlyn.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is keeping @fields.child_nickname safe online and offline going?",
+    "text": "Hoe gaan dit om @fields.child_nickname veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How is keeping your teen safe online and offline going?",
+    "text": "Hoe gaan dit om jou tiener veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Trying is what counts! Let's try to get this going GOOD! ",
+    "text": "Dit tel dat jy probeer! Kom ons probeer om dit GOED te kry! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology. ",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na @fields.child_nickname se skool, of familie of vriende wat goed is met tegnologie. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Remember that @fields.child_nickname’s well-being is important, as is your family’s.",
+    "text": "Onthou dat @fields.child_nickname se welstand belangrik is, so ook jou familie sin.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology. ",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou tiener se skool, of familie of vriende wat goed is met tegnologie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember that your teen’s well-being is important, as is your family’s.",
+    "text": "Onthou dat jou tiener se welstand belangrik is, so ook jou familie s'n.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one time with your child?",
+    "text": "In die afgelope 24 uur, het jy ten minste 5 minute een-tot-een tyd met jou kind deurgebring?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your child and how to do this in this course.",
+    "text": "Dis oukei. Jy sal in hierdie kursus meer leer oor die belangrikheid daarvan om tyd met jou kind te spandeer, en hoe om dit te doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+    "text": "Dit is wonderlik om te hoor! 🎉 Om tyd saam met jou kind deur te bring, is 'n wonderlike manier om 'n goeie verhouding met hom/haar te bou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep your child safe & healthy:",
+    "text": "Hier is 'n vraag om jou te help met jou kursus om jou kind veilig & gesond te hou:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you at keeping your child safe and healthy both online and offline?",
+    "text": "Hoe selfversekerd is jy om jou kind veilig en gesond te hou, beide aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping @fields.child_nickname safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Dit is reg as dit uitdagend voel om @fields.child_nickname veilig en gesond te hou, veral in vandag se veranderende wêreld. 🌍 In die kursus, sal jy meer leer oor hoe om dit te doen! 📘",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping your child safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Dit is reg as dit uitdagend voel om jou kind veilig en gesond te hou, veral in vandag se veranderende wêreld. 🌍 In die kursus, sal jy meer leer oor hoe om dit te doen! 📘",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping @fields.child_nickname safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy 🌱",
+    "text": "🎉 Goeie werk! Om @fields.child_nickname veilig en gesond te hou is 'n belangrike verantwoordelikheid vir ouers en versorgers. In vandag se veranderende wêreld is dit nie altyd maklik nie 🌱",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping your child safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy 🌱",
+    "text": "🎉 Goeie werk! Om jou kind veilig en gesond te hou is 'n belangrike verantwoordelikheid vir ouers en versorgers. In vandag se veranderende wêreld is dit nie altyd maklik nie 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the lessons on improving your relationship with your child. Let’s see how things have changed since you started:",
+    "text": "Welgedaan dat jy die lesse oor die verbetering van jou verhouding met jou kind voltooi het. Kom ons kyk hoe dinge verander het vandat jy begin het:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your child. 💛",
+    "text": "Ek is jammer om te hoor dat jy nie meer tyd met jou kind kon deurbring nie. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend one-on-one time with your child. 💛",
+    "text": "Ek is jammer om te hoor dat jy nie een-tot-een tyd met jou kind kon deurbring nie. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your child may still be a challenge.",
+    "text": "Geluk met die vordering wat jy reeds gemaak het. Dit lyk asof dit steeds 'n uitdaging is om tyd saam met jou kind deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already putting in the effort to spend one-on-one time with your child before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Jy het voor ParentText reeds moeite gedoen met die deurbring van een-tot-een tyd met jou kind. Dis wonderlik dat jy in staat is om die uitstekende poging vol te hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your child is so important. Though you are still doing great, you have reported that spending one-on-one time together has become more challenging since you first began ParentText.",
+    "text": "Tyd saam met jou kind is so belangrik. Alhoewel jy steeds goed doen, het jy gemeld dat dit 'n groter uitdaging geraak het om een-tot-een tyd saam deur te bring as toe jy met ParentText begin het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started ParentText. Your effort is working!",
+    "text": "Veels geluk! 🎉Jy het vordering gemaak in hierdie kursus sedert jy met ParentText begin het. Jou moeite word beloon!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is one-on-one time going?",
+    "text": "Hoe gaan dit met een-tot-een tyd?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your child.",
+    "text": "Uitstekend! Gaan voort met die goeie werk om jou verhouding met jou kind te verbeter.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course to keep your child safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Welgedaan dat jy jou kursus voltooi het om jou kind veilig en gesond te hou. Kom ons kyk hoe dinge verander het sedert jy begin het:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You were already excelling at keeping your child safe before this course. It’s great that you’re able to keep doing so well!",
+    "text": "💙 Jy was klaar uitstekend om jou kind veilig te hou voor die kursus. Dit is goed dat jy in staat is om aan te hou goed doen!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Knowing how to keep your child safe and healthy is important. Even though you’re doing great, you’ve shared that this has become more challenging since starting this course.",
+    "text": "Om te weet hoe om jou kind veilig en gesond te hou is belangrik. Al doen jy so goed, het jy gedeel dat dit meer uitdagend geraak het sedert jy die kursus begin het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can revisit this course any time in the Main Menu by typing {MENU}.",
+    "text": "Dankie dat jy jou vordering opgedateer het. Jy kan enige tyd die kursus herbesoek deur by die Hoofkieslys {MENU} in te tik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in keeping your child safe online and offline.",
+    "text": "Uitstekend! Hou aan met die goeie werk om jou kind veilig te hou aanlyn en vanlyn.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your child healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om jou kind gesond en veilig te hou, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to your child’s school, or family or friends who are good with technology.",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou kind se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your child safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Dit kan moeilik wees om te weet hoe om jou kind veilig te hou aanlyn en vanlyn, veral wanneer ons self so besig is. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your child’s school, or family or friends who are good with technology.",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou kind se skool, of familie of vriende wat goed is met tegnologie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep your child safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Veels geluk dat jy vordering gemaak het. Dit lyk asof dit dalk nogsteeds 'n uitdaging is om te weet hoe om jou kind veilig en gesond te hou aanlyn en vanlyn.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is keeping your child safe online and offline going?",
+    "text": "Hoe gaan dit om jou kind veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your child’s school, or family or friends who are good with technology. ",
+    "text": "💡As jy ondersteuning nodig het, oorweeg dit om uit te reik na jou kind se skool, of familie of vriende wat goed is met tegnologie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember that your child’s well-being is important, as is your family’s.",
+    "text": "Onthou jou kind se welstand is belangrik, so ook jou familie sin.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your teen? 🔑",
+    "text": "Wat het jy moeilik gevind toe jy tyd met jou tiener spandeer het? 🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else. ",
+    "text": "Dit kan moeilik wees om tyd in jou dag te vind met werk, huistake en alles. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together. ",
+    "text": "✨Dink aan 'n tyd elke dag waar jy 5 minute kan afknyp. Jy kan selfs huistake 'n speletjie maak om dit saam te doen. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your teens are already sharing, like eating a meal or saying goodnight before bed. ",
+    "text": "Gebruik die tye wat jy en jou tieners reeds deel, soos maaltye of nag sê voor bed. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can even make household chores into a game to do together. ",
+    "text": "Jy kan selfs huistake 'n speletjie maak wat julle saam kan doen. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion",
+    "text": "Tik {PLAY} vir 'n pretaktiwiteit-voorstel",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 Teens often want to spend time watching T.V. or playing with a phone/tablet. ",
+    "text": "📺Tieners wil gewoonlik tyd spandeer deur T.V. te kyk of met 'n foon/tablet te speel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the phone/tablet with them. ",
+    "text": "❓Jy kan saam met hulle kyk of op die foon/tablet speel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Caring about their interests is a great start!",
+    "text": "🌈 Om vir hulle belangstellings om te gee, is 'n goeie begin!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together, you can suggest another activity. ",
+    "text": "🌷 Wanneer julle eers begin om tyd saam te spandeer, kan jy 'n ander aktiwiteit voorstel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion.",
+    "text": "Tik {PLAY} vir 'n pretaktiwiteit-voorstel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 Sometimes your teen will suggest activities that are violent or unsafe. ",
+    "text": "📱 Soms sal jou tiener gewelddadige of onveilige aktiwiteite voorstel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚩 Explain *why* you can't do them, and suggest a different activity. ",
+    "text": "🚩 Verduidelik *waarom* julle dit nie kan doen nie, en stel 'n ander aktiwiteit voor. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion. 💡",
+    "text": "Tik {PLAY} vir 'n pretaktiwiteit-voorstel. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your teen wants to do things that are too difficult for you to do, you could watch them. ",
+    "text": "☀️ As jou tiener iets wil doen wat vir jou te moeilik is om te doen, kan jy hom/haar dophou terwyl hy/sy dit doen. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports announcer.",
+    "text": "🏁 Jy kan soos 'n sportkommentator beskryf wat hy/sy doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also express enthusiasm by clapping, smiling, or giving them a thumbs-up. ",
+    "text": "Jy kan ook entoesiasme toon deur handeklap, glimlag of 'n duim in die lug. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise them while they do it!",
+    "text": "💛 Prys hom/haar terwyl hy/sy dit doen!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for teens (and adults!) if they don’t like losing. ",
+    "text": "⚽ Kompeterende speletjies kan vir tieners (en volwassenes!) moeilik wees as hulle nie daarvan hou om te verloor nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your teen about what winning well and losing well might look like.",
+    "text": "🏆 Wanneer jou tiener gekalmeer het, praat met hom/haar oor hoe 'n goeie wenner en 'n goeie verloorder sal optree.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Suggest other activities that you can do to work together instead of against each other.",
+    "text": "📝 Stel ander aktiwiteite voor wat julle saam kan doen, in plaas van teen mekaar.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your teens when you have more than one. ",
+    "text": "🔴 Dit kan moeilik wees om een-tot-een tyd met elke een van jou tieners te spandeer, as jy meer as een het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older sibling to look after the other teens while you spend one-on-one time with one teen.",
+    "text": "🌱 Indien moontlik, kan jy 'n volwassene of ouer broer of sister vra om na die ander tieners te kyk, terwyl jy een-tot-een tyd spandeer saam met die een tiener.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your teens. Perhaps later in the evening with your teen, after the others have gone to sleep. ",
+    "text": "⏰Dink aan wanneer dit makliker sal wees om een-tot-een tyd saam met jou tieners te spandeer. Dalk later in die aand met jou tiener, na die ander reeds gaan slaap het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your teens at once! If you do, make sure all are able to participate in one-on-one time.",
+    "text": "💛 Jy kan ook een-tot-een tyd saam met al jou tieners gelyktydig deurbring! As jy dit doen, maak seker dat almal aan die een-tot-een tyd kan deelneem.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} and choose GROUP for a fun activity suggestion for a group of teens. 💡",
+    "text": "Tik {PLAY} en kies GROEP vir pretaktiwiteit-voorstelle vir 'n groep tieners. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one-time with your teen.",
+    "text": "💛 Ons is jammer om te hoor dat jy dit moeilik gevind het om een-tot-een tyd met jou tiener deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when @fields.child_nickname does not want to spend one-on-one-time with you. ",
+    "text": "😔 Dit kan seermaak as @fields.child_nickname nie een-tot-een tyd met jou wil deurbring nie. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?",
+    "text": "💡 Dink by jouself: Wanneer is hy/sy meer oop vir jou? In die oggend? Direk voor slaaptyd?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your teen can see that you care and want to spend this time with them.",
+    "text": "💙 Probeer weer sodat jou tiener kan sien dat jy omgee en regtig die tyd saam met hom/haar wil deurbring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your teen does not want to spend one-on-one-time with you. ",
+    "text": "😔 Dit kan seermaak wanneer jou tiener nie een-tot-een tyd saam met jou wil deurbring nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find hard about keeping @fields.child_nickname safe online and offline?",
+    "text": "Wat het jy moeilik gevind om @fields.child_nickname veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "What did you find hard about keeping your teen safe online and offline?",
+    "text": "Wat het jy moeilik gevind om jou tiener veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay! It's important to try to keep your teen safe offline and online. Remember, you can review this course in the Main menu any time!",
+    "text": "Dis oraait! Dit is belangrik om aan te hou probeer om jou tiener veilig te hou aanlyn en vanlyn. Onthou, jy kan enige tyd die kursus hersien in die Hoofkieslys!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Protecting @fields.child_nickname while also trusting them to make wise choices is not easy!",
+    "text": "😣 Om @fields.child_nickname te beskerm, terwyl jy hulle vertrou om wyse keuses te maak, is nie maklik nie!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔄 @fields.child_nickname may know things about your community and technology that you are not aware of. ",
+    "text": "🔄@fields.child_nickname mag dalk dinge weet van julle gemeenskap en tegnologie, waarvan jy nie bewus is nie. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📝 When you actively involve @fields.child_nickname in creating the safety map, they feel heard and valued.",
+    "text": "📝 Wanneer jy @fields.child_nickname aktief betrek om 'n veiligheidskaart te skep, voel hulle gehoor en gewaardeer.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌱 It is easier to follow a plan that everyone agrees on.",
+    "text": "🌱 Dit is makliker om 'n plan te volg waaroor almal ooreenstem.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Protecting Your teen while also trusting them to make wise choices is not easy!",
+    "text": "😣 Om jou teiner te beskerm, terwyl jy hulle vertrou om wyse keuses te maak, is nie maklik nie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Your teen may know things about your community and technology that you are not aware of. ",
+    "text": "🔄 Jou tiener mag dalk dinge weet van julle gemeenskap en tegnologie, waarvan jy nie bewus is nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 When you actively involve Your teen in creating the safety map, they feel heard and valued.",
+    "text": "📝 Wanneer jy jou tiener aktief betrek om 'n veiligheidskaart te skep, voel hulle gehoor en gewaardeer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂That’s alright. Even adults don’t agree on this sometimes. Listening to @fields.child_nickname, even if we disagree, helps us understand their thinking. ",
+    "text": "👂Dis oraait. Soms stem selfs volwassenes nie saam op dit nie. Luister na @fields.child_nickname, selfs al stem jy nie saam nie, dit help ons om te verstaan hoe hulle dink. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⏰ Find time to talk about safe and unsafe areas again. ",
+    "text": "⏰Vind tyd om weer oor veilige en onveilige areas te praat. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 This time, really listen and show you understand their view before sharing your thoughts.",
+    "text": "💚 Die keer, luister regtig en wys jy verstaan hulle punt, voor jy jou gedagtes deel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell @fields.child_nickname that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝Vertel @fields.child_nickname dat jy hulle opinies waardeer en jy trots is op hulle eerlikheid oor hoe hulle voel.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃 Reach a common agreement and establish safe and unsafe areas, as well as what to do in case of emergency.",
+    "text": "😃 Bereik 'n gemeenskaplike ooreenkoms en bevestig veilig en onveilige areas, sowel as wat om in 'n noodgeval te doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂That’s alright. Even adults don’t agree on this sometimes. Listening to your teen, even if we disagree, helps us understand their thinking. ",
+    "text": "👂Dis oraait. Soms stem selfs volwassenes nie saam op dit nie. Luister na jou tiener, selfs al stem jy nie saam nie, dit help ons om te verstaan hoe hulle dink. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell your teen that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝Vertel jou tiener dat jy hulle opinies waardeer en jy trots is op hulle eerlikheid oor hoe hulle voel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It is shocking to learn that people who we trust may be a danger to our teens. ",
+    "text": "😔 Dit is skokkend om te leer dat mense wat ons vertrou 'n gevaar kan wees vir ons tieners. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to @fields.child_nickname if they want to talk about why it seems unsafe. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂Luister na @fields.child_nickname as hulle wil praat oor hoekom dit onveilig lyk. Vra of dit die plek, 'n spesifieke persoon, of altwee is wat hulle ongemaklik maak voel. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Stay calm and open during the conversation. Trust what they say - they will not say such things for no reason!",
+    "text": "Bly rustig en oop gedurende die gesprek. Vertrou wat hulle sê - hulle sal nie so iets sê vir geen rede nie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏥 Talk with someone and get support. Type {HELP} if you need more assistance.",
+    "text": "🏥Praat met iemand en kry ondersteuning. Tik {HELP} as jy meer bystand nodig het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Remember to take a pause when you are stressed.",
+    "text": "💙Onthou vat 'n blaaskans wanneer jy gespanne voel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to your teen if they want to talk about why it seems unsafe. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂Luister na jou tiener as hulle wil praat oor hoekom dit onveilig lyk. Vra of dit die plek, 'n besonderse persoon, of altwee is wat hulle ongemaklik maak voel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Create a safe space to talk with @fields.child_nickname when you are both calm. ",
+    "text": "🌷Skep 'n veilige ruimte om met @fields.child_nickname te praat, wanneer julle altwee rustig is. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👂 Listen to their thoughts - why do they feel this place is safe?",
+    "text": "👂Luister na hulle gedagtes - hoekom voel hulle die plek is veilig?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Share why you feel it is not safe. ",
+    "text": "⭐ Deel hoekom jy voel dit is nie veilig nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Come up with a rule together that lets them still have fun, but stay safe. ",
+    "text": "⏰Besluit saam op 'n reël wat hulle steeds toelaat om pret te hê, maar steeds veilig te bly. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Your teen will listen better when you speak to them calmly.",
+    "text": "🌱Jou tiener sal beter luister, as jy rustig met hulle praat.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Create a safe space to talk with your teen when you are both calm. ",
+    "text": "🌷Skep 'n veilige ruimte om met jou tiener te praat, wanneer julle altwee rustig is. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep @fields.child_nickname safe!",
+    "text": "🔵 Betrek jou hele familie, ander versorgers, en vriende in jou kaartaktiwiteit. As almal die veilige plekke ken, kan hulle ook help om @fields.child_nickname veilig te hou!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🚗 Visit some of the services available, such as neighbourhood watch groups or clinics. Ask what they do, how to contact them, and what their emergency procedures are.",
+    "text": "🚗 Besoek van die beskikbare dienste, soos buurtwaggroepe of klinieke. Vra wat hulle doen, hoe om hulle te kontak, en wat hulle noodgevalprosedures is.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ensure that emergency phone numbers are clearly displayed in your house and easily accessible to everyone.",
+    "text": "💡Verseker dat noodgeval foonnommers duidelik in jou huis vertoon word en maklik toeganklik is vir almal.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 The more we know, the better we can keep our families safe!",
+    "text": "💛 Hoe meer ons weet, hoe beter kan ons ons families veilig hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you want more resources about keeping safe, type {HELP} anytime.",
+    "text": "As jy meer hulpbronne soek oor hoe om veilig te bly, kan jy enige tyd {HELP} tik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep your teen safe!",
+    "text": "🔵 Betrek jou hele familie, ander versorgers, en vriende in jou kaartaktiwiteit. As almal die veilige plekke ken, kan hulle ook help om jou tiener veilig te hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ It can be hard to find time.",
+    "text": "⏰ Dit kan moeilik wees om tyd te vind.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 This week, put just 10 minutes aside to talk with @fields.child_nickname about safe and unsafe areas.",
+    "text": "💡Die week, sit net 10 minute eenkant om met @fields.child_nickname te praat oor veilige en onveilige areas.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "❗ This is important to keep your teen safe!",
+    "text": "❗Dit is belangrik om jou tiener veilig te hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 This week, put just 10 minutes aside to talk with your teen about safe and unsafe areas.",
+    "text": "💡Die week, sit net 10 minute eenkant om met jou tiener te praat oor veilige en onveilige areas.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your child ? 🔑",
+    "text": "Wat het jy moeilik gevind toe jy tyd met jou kind deurgebring het? 🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else.",
+    "text": "Dit kan moeilik wees om tyd in jou dag te vind met werk, huistake en alles.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
+    "text": "✨Dink aan 'n tyd elke dag waar jy 5 minute kan afknyp. Jy kan selfs huistake 'n speletjie maak om dit saam te doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your children are already sharing, like eating a meal or saying goodnight before bed. ",
+    "text": "Gebruik die tyd wat jy en jou kinders alreeds deel, soos saam eet of nagsê voor slaaptyd. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your child does not want to spend one-on-one time with you.",
+    "text": "😔 Dit kan seermaak wanneer jou kind nie een-tot-een tyd saam met jou wil deurbring nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your child can see that you care and want to spend this time with them.",
+    "text": "💙 Probeer weer sodat jou kind kan sien dat jy omgee en regtig die tyd saam met hom/haar wil deurbring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺Children often want to spend time watching T.V. or playing with a phone or tablet.",
+    "text": "📺Kinders wil gewoonlik tyd spandeer deur TV te kyk of met 'n foon/tablet te speel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the phone/tablet with them.",
+    "text": "❓Jy kan saam met hulle kyk of op die foon/tablet speel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Caring about their interests is a great start!",
+    "text": "💚 Om vir hulle belangstellings om te gee, is 'n goeie begin!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together you can suggest another activity.",
+    "text": "🌷 Wanneer julle eers begin om tyd saam te spandeer, kan jy 'n ander aktiwiteit voorstel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.",
+    "text": "☀️ As jou kind iets wil doen wat vir jou te moeilik is om te doen, kan jy hom/haar dophou terwyl hy/sy dit doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports commentator.",
+    "text": "🏁 Jy kan soos 'n sportkommentator beskryf wat hulle doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for your child (and adults!) if they don’t like losing.",
+    "text": "⚽ Kompeterende speletjies kan vir jou kind (en volwassenes!) moeilik wees as hulle nie daarvan hou om te verloor nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.",
+    "text": "🏆 Wanneer jou kind gekalmeer het, praat met hom/haar oor hoe 'n goeie wenner en 'n goeie verloorder sal optree.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your children when you have more than one. ",
+    "text": "🔴 Dit kan moeilik wees om een-tot-een tyd met elkeen van jou kinders te spandeer as jy meer as een het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older brother or sister to look after your other children while you spend one-on-one time with your child.",
+    "text": "🌱 Indien moontlik, kan jy 'n volwassene of een van die ouer kinders vra om na die ander kinders te kyk terwyl jy een-tot-een tyd met jou kind deurbring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your children.",
+    "text": "⏰ Dink wanneer dit die maklikste sal wees om een-tot-een tyd met elk van jou kinders deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your children at once! If you do, make sure all are able to participate in one-on-one time. ",
+    "text": "💛 Jy kan ook een-tot-een tyd met al jou kinders gelyktydig spandeer! As jy dit doen, maak seker dat almal aan een-tot-een tyd kan deelneem. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion for a group of children. 💡",
+    "text": "Tik {PLAY} vir 'n pretaktiwiteit-voorstel vir 'n groep kinders. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child.",
+    "text": "💛 Ons is jammer om te hoor dat jy dit moeilik gevind het om een-tot-een tyd met jou kind deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find hard about keeping your child safe online and offline?",
+    "text": "Wat het jy moeilik gevind om jou kind veilig te hou aanlyn en vanlyn?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay! It's important to try to keep your child safe offline and online. Remember, you can review this course in the Main menu any time!📝",
+    "text": "Dis oraait! Dit is belangrik om aan te hou probeer om jou kind veilig te hou aanlyn en vanlyn. Onthou, jy kan enige tyd die kursus hersien in die Hoofkieslys!📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our children safe.",
+    "text": "💙 Dit is effens ongemaklik om met ons kinders te praat oor manlike en vroulike liggaamsdele. Dit help egter om ons kinders veilig te hou.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Start a conversation with @fields.child_nickname about their body, its functions, and the importance of naming each part. Acting out stories with dolls or teddy bears can be a helpful tool in having these conversations.",
+    "text": "💡Begin 'n gesprek met @fields.child_nickname oor hulle liggaam, hulle funksies, en die belangrikheid om elke deel te noem. 'n Nuttige wenk om hierdie gesprekke te hou, is om poppe en teddiebere te gebruik om stories te vertel deur toneelspel.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. @fields.child_nickname will learn how to talk about their body and can communicate with you if anything happens.",
+    "text": "💚Praat met selfvertroue oor die liggaam, veral privaatdele. Aanvanklik, mag dit ongemaklik voel, maar hoe meer jy dit doen, hoe meer natuurlik en gemaklik sal dit word vir beide van julle. @fields.child_nickname sal leer hoe om oor hulle liggaam te praat en kan met jou kommunikeer as enige iets gebeur.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔑 Answer any questions from @fields.child_nickname honestly. You can do this to keep our children safe!🌷",
+    "text": "🔑Antwoord enige vrae van @fields.child_nickname eerlik. Jy kan dit doen om jou kinders veilig te hou!🌷",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡Start a conversation with Your child about their body, its functions, and the importance of naming each part. Acting out stories with dolls or teddy bears can be a helpful tool in having these conversations.",
+    "text": "💡Begin 'n gesprek met Jou kind oor hulle liggaam, hulle funksies, en die belangrikheid om elke deel te noem. 'n Nuttige wenk om hierdie gesprekke te hou, is om poppe en teddiebere te gebruik om stories te vertel deur toneelspel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. Your child will learn how to talk about their body and can communicate with you if anything happens.",
+    "text": "💚Praat met selfvertroue oor die liggaam, veral privaatdele. Aanvanklik, mag dit ongemaklik voel, maar hoe meer jy dit doen, hoe meer natuurlik en gemaklik sal dit word vir beide van julle. Jou kind sal leer hoe om oor hulle liggaam te praat en kan met jou kommunikeer as enige iets gebeur.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 Answer any questions from Your child honestly. You can do this to keep our children safe!🌷",
+    "text": "🔑Antwoord enige vrae van Jou kind eerlik. Jy kan dit doen om jou kinders veilig te hou!🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 It must be exhausting to always tell @fields.child_nickname to turn off or put away the phone or tablet.",
+    "text": "📺Dit moet uitputtend wees om altyd vir @fields.child_nickname te sê om hulle foon of tablet af te sit of weg te sit.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📝 Set rules with @fields.child_nickname. Tell them that they cannot be on the phone/tablet when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.",
+    "text": "📝Stel reëls met @fields.child_nickname. Laat hulle weet dat hulle nie op die foon/tablet mag wees wanneer jy besig is nie. Jou besige tyd, is jou kind se rustige speeltyd met speelgoed of leestyd met boeke.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌷 Tell your child that telling you what they watch on T.V. or what they do on the phone or tablet is a rule. ",
+    "text": "🌷Vertel vir jou kind dat dit 'n reël is om vir jou te vertel wat hulle op TV kyk of wat hulle doen op hulle foon of tablet. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.",
+    "text": "👂Wees geduldig en vriendelik terwyl jy vir hulle luister. Beheer jou woede as jy uitvind hulle het iets verkeerd gedoen aanlyn. Vat 'n diep asem.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise @fields.child_nickname when they follow the rules!",
+    "text": "💛 Prys @fields.child_nickname wanneer hulle die reëls volg!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📺 It must be exhausting to always tell your child to turn off or put away the phone or tablet.",
+    "text": "📺Dit moet uitputtend wees om altyd vir jou kind te sê om hulle foon of tablet af te sit of weg te sit.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Set rules with your child. Tell them that they cannot be on the phone/tablet when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.",
+    "text": "📝Stel reëls met jou kind. Laat hulle weet dat hulle nie op die foon/tablet mag wees wanneer jy besig is nie. Jou besige tyd, is jou kind se rustige speeltyd met speelgoed of leestyd met boeke.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise your child when they follow the rules!",
+    "text": "💛 Prys jou kind wanneer hulle die reëls volg!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 That’s alright. Even adults don’t agree on this sometimes. Even when we disagree, listening to our children helps us understand their thinking.",
+    "text": "👂 Dis oraait. Soms stem selfs volwassenes nie saam op dit nie. Selfs al stem ons nie saam nie, om na ons kinders te luister help ons om te verstaan hoe hulle dink.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Find time to talk about safe and unsafe areas again.",
+    "text": "⏰Vind tyd om weer oor veilige en onveilige areas te praat.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell your child that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝Vertel jou kind dat jy hulle opinies waardeer en dat jy trots is op hulle eerlikheid oor hoe hulle voel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It is shocking to learn that people who we trust may make our children uncomfortable. ",
+    "text": "😔 Dit is skokkend om te leer dat mense wat ons vertrou, ons kinders ongemaklik kan laat voel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to @fields.child_nickname if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂Luister na @fields.child_nickname as hulle wil praat oor hoekom dit gevaarlik of ongemaklik lyk. Vra of dit die plek, 'n spesifieke persoon, of altwee is wat hulle ongemaklik maak voel. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔔Talk with someone and get support. Type {HELP} if you need more assistance.",
+    "text": "🏥Praat met iemand en kry ondersteuning. Tik {HELP} as jy meer bystand nodig het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂Luister na jou kind as hulle wil praat oor hoekom dit gevaarlik of ongemaklik lyk. Vra of dit die plek, 'n spesifieke persoon, of altwee is wat hulle ongemaklik maak voel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ensure that emergency phone numbers are prominently displayed in your house and easily accessible to everyone.",
+    "text": "💡Verseker dat noodgeval foonnommers duidelik in jou huis vertoon word en maklik toeganklik is vir almal.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep your child safe!",
+    "text": "🔵 Betrek jou hele familie, ander versorgers, en vriende in jou kaartaktiwiteit. As almal die veilige plekke ken, kan hulle ook help om jou kind veilig te hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Nee",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ja",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not Confident",
+    "text": "Nie selfversekerd nie",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A Little Confident",
+    "text": "'n Klein bietjie Selfversekerd",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Confident",
+    "text": "Selfversekerd",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Very Confident",
+    "text": "Baie Selfversekerd",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Good",
+    "text": "Goed",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Okay",
+    "text": "Oukei",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "Sleg",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have enough time.",
+    "text": "Ek het nie genoeg tyd gehad nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen did not want to spend one-on-one-time with me.",
+    "text": "My tiener wou nie een-tot-een tyd met my deurbring nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my teen wanted to do was watch T.V. or play with a phone/tablet.",
+    "text": "Al wat my tiener wou doen was om TV te kyk en op die foon/tablet te speel.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do things I felt uncomfortable about.",
+    "text": "My tiener wou dinge doen waaroor ek ongemaklik gevoel het.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do activities that I could not do.",
+    "text": "My tiener wou aktiwiteite doen wat ek nie kon doen nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen chose a competitive activity. I won, and then they got angry.",
+    "text": "My kind het 'n kompeterende aktiwiteit gekies. Ek het gewen en hy/sy het kwaad geword.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my teens wanted one-on-one time at the same time.",
+    "text": "Al my tieners wou een-tot-een tyd op dieselfde tyd hê.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say.",
+    "text": "Verkies om nie te sê nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I'm facing challenges that make it difficult to focus on parenting right now.",
+    "text": "Ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen and I did not agree on which areas were unsafe.",
+    "text": "Ek en my tiener het nie saamgestem op watter areas onveilig is nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen marked the house of someone I trust as unsafe. 🚩 I was shocked and did not know what to do!",
+    "text": "My tiener het die huis van iemand wat ek vertrou, as onveilig geïdentifiseer. 🚩 Ek was geskok en het nie geweet wat om te doen nie!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen insisted that they could visit a place I think is not safe, like a bar. I don’t know how to convince them that it is not a safe area.",
+    "text": "My tiener het aangedring dat hulle 'n plek kon besoek wat ek as onveilig beskou, soos 'n kroeg. Ek weet nie hoe om hulle te oortuig dat dit nie 'n veilige area is nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "As an adult, I feel I am in charge of protecting my teen. When I told my teen which areas are unsafe, they got angry.",
+    "text": "As volwassene voel ek, ek is in beheer om my tiener veilig te hou. Toe ek vir my tiener sê watter plekke onveilig is, het hulle kwaad geword.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It was hard to find safety resources because I don’t know my community so well.",
+    "text": "Dit was moeilik om veiligheidshulpbronne te vind, want ek ken nie my gemeenskap so goed nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have any time to do this activity.",
+    "text": "Ek het nie tyd gehad om hierdie aktiwiteit te doen nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not want to spend one-on-one time with me.",
+    "text": "My kind wou nie een-tot-een tyd met my deurbring nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted to do was watch T.V. or play with a phone or tablet.",
+    "text": "Al wat my kinders wou doen was om TV te kyk en op die foon/tablet te speel.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do.",
+    "text": "My kind wou aktiwiteite doen wat ek nie kon doen nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry.",
+    "text": "My kind het 'n kompeterende aktiwiteit gekies. Ek het gewen en hy/sy het kwaad geword.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted one-on-one time at the same time.",
+    "text": "Al my kinders wou een-tot-een tyd op dieselfde tyd hê.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child is always on a phone or tablet, even when I am working or doing house chores.",
+    "text": "My kind is altyd op 'n foon of tablet, selfs al werk ek of doen huishoudelike take.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child and I could not agree on which areas were unsafe.",
+    "text": "Ek en my kind kon nie saamstem op watter areas onveilig is nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!",
+    "text": "My kind het my vertel dat skool of die huis van iemand wat ek vertrou 'n onveilige plek is. Ek was geskok en het nie geweet wat om te doen nie!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It was hard to find safety resources, because I don’t know my community so well.",
+    "text": "Dit was moeilik om veiligheidshulpbronne te vind, want ek ken nie my gemeenskap so goed nie.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am shy to talk to my young child about their body and safe touch.",
+    "text": "Ek is skaam om met my jong kind te praat oor hulle liggaam en veilige aanraking.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no",
+    "text": "nee",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ja",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not confident",
+    "text": "nie selfversekerd nie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "a little confident",
+    "text": "'n klein bietjie selfversekerd",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "confident",
+    "text": "selfversekerd",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "very confident",
+    "text": "baie selfversekerd",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "good",
+    "text": "goed",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay",
+    "text": "oukei",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "sleg",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have enough time.",
+    "text": "ek het nie genoeg tyd gehad nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen did not want to spend one-on-one-time with me.",
+    "text": "my tiener wou nie een-tot-een tyd met my deurbring nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my teen wanted to do was watch t.v. or play with a phone/tablet.",
+    "text": "al wat my tiener wou doen was om TV te kyk en op die foon/tablet te speel.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do things i felt uncomfortable about.",
+    "text": "my tiener wou dinge doen waaroor ek ongemaklik gevoel het.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do activities that i could not do.",
+    "text": "my tiener wou aktiwiteite doen wat ek nie kon doen nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen chose a competitive activity. i won, and then they got angry.",
+    "text": "my tiener het 'n kompeterende aktiwiteit gekies. ek het gewen en hy/sy het kwaad geword.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my teens wanted one-on-one time at the same time.",
+    "text": "al my tieners wou een-tot-een tyd op dieselfde tyd hê.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say.",
+    "text": "verkies om nie te sê nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i'm facing challenges that make it difficult to focus on parenting right now.",
+    "text": "ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen and i did not agree on which areas were unsafe.",
+    "text": "ek en my tiener het nie saamgestem op watter areas onveilig is nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen marked the house of someone i trust as unsafe. 🚩 i was shocked and did not know what to do!",
+    "text": "my tiener het die huis van iemand wat ek vertrou, as onveilig gemerk 🚩 ek was geskok en het nie geweet wat om te doen nie!",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen insisted that they could visit a place i think is not safe, like a bar. i don’t know how to convince them that it is not a safe area.",
+    "text": "my tiener het aangedring dat hulle 'n plek kon besoek wat ek as onveilig beskou, soos 'n kroeg. ek weet nie hoe om hulle te oortuig dat dit nie 'n veilige area is nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "as an adult, i feel i am in charge of protecting my teen. when i told my teen which areas are unsafe, they got angry.",
+    "text": "as volwassene voel ek, ek is in beheer om my tiener veilig te hou. toe ek vir my tiener sê watter plekke onveilig is, het hulle kwaad geword.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it was hard to find safety resources because i don’t know my community so well.",
+    "text": "dit was moeilik om veiligheidshulpbronne te vind, want ek ken nie my gemeenskap so goed nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have any time to do this activity.",
+    "text": "ek het nie tyd gehad om hierdie aktiwiteit te doen nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child did not want to spend one-on-one time with me.",
+    "text": "my kind wou nie een-tot-een tyd met my deurbring nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted to do was watch t.v. or play with a phone or tablet.",
+    "text": "al wat my kinders wou doen was om TV te kyk en op die foon/tablet te speel.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child wanted to do activities that i could not do.",
+    "text": "my kind wou aktiwiteite doen wat ek nie kon doen nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child chose a competitive activity. i won and then they got angry.",
+    "text": "my kind het 'n kompeterende aktiwiteit gekies. ek het gewen en hy/sy het kwaad geword.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted one-on-one time at the same time.",
+    "text": "al my kinders wou een-tot-een tyd op dieselfde tyd hê.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child is always on a phone or tablet, even when i am working or doing house chores.",
+    "text": "my kind is altyd op 'n foon of tablet, selfs al werk ek of doen huishoudelike take.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child and i could not agree on which areas were unsafe.",
+    "text": "ek en my kind kon nie saamstem op watter areas onveilig is nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child told me that school or the house of someone i trust is an unsafe place. i was shocked and did not know what to do!",
+    "text": "my kind het my vertel dat skool of die huis van iemand wat ek vertrou 'n onveilige plek is. ek was geskok en het nie geweet wat om te doen nie!",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it was hard to find safety resources, because i don’t know my community so well.",
+    "text": "dit was moeilik om veiligheidshulpbronne te vind, want ek ken nie my gemeenskap so goed nie.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am shy to talk to my young child about their body and safe touch.",
+    "text": "ek is skaam om met my jong kind te praat oor hulle liggaam en veilige aanraking.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

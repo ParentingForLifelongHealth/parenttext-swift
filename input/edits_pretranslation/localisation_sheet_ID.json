@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "==content==": [
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "take-a-pause-gendered",
+        "status": "released",
+        "order": "0"
+      }
+    ],
+    "take-a-pause-gendered": [
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "1️⃣ **SIT DOWN**\n\n⏸  Find a place where you can sit comfortably.\n\n⭐ You can close your eyes if you want.",
+        "change": "@(fields.image_path & \"take_a_pause_1.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_1_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_1_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "2️⃣ **LISTEN**\n\n🌱 Take a deep breath.\n\n👂 Feel the air moving in and out of your body.\n\n🔄 Repeat this 5 times.",
+        "change": "@(fields.image_path & \"take_a_pause_2.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_2_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_2_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "3️⃣ **NOTICE**\n\n✨ Notice how your body feels while you breathe.\n\n🔵 Notice where you feel tension in your body and try to let it go.",
+        "change": "@(fields.image_path & \"take_a_pause_3.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_3_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_3_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "4️⃣ **OPEN YOUR EYES**\n\n👀 When you are ready, open your eyes.\n\n🔑 Notice if you feel any different than when you started this activity.",
+        "change": "@(fields.image_path & \"take_a_pause_4.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_4_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_4_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "1️⃣ **SIT DOWN**\n\n⏸  Find a place where you can sit comfortably.\n\n⭐ You can close your eyes if you want.",
+        "change": "@(fields.image_path & \"take_a_pause_1.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_1_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_1_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "2️⃣ **LISTEN**\n\n🌱 Take a deep breath.\n\n👂 Feel the air moving in and out of your body.\n\n🔄 Repeat this 5 times.",
+        "change": "@(fields.image_path & \"take_a_pause_2.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_2_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_2_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "3️⃣ **NOTICE**\n\n✨ Notice how your body feels while you breathe.\n\n🔵 Notice where you feel tension in your body and try to let it go.",
+        "change": "@(fields.image_path & \"take_a_pause_3.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_3_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_3_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "4️⃣ **OPEN YOUR EYES**\n\n👀 When you are ready, open your eyes.\n\n🔑 Notice if you feel any different than when you started this activity.",
+        "change": "@(fields.image_path & \"take_a_pause_4.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.image_path & \"take_a_pause_4_w.jpg\")",
+        "category:man": "@(fields.image_path & \"take_a_pause_4_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      }
+    ],
+    "comic take-a-pause-gendered": [
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "1️⃣ **SIT DOWN**\n\n⏸  Find a place where you can sit comfortably.\n\n⭐ You can close your eyes if you want.",
+        "change": "@(fields.comic_path & \"take_a_pause_1.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_1_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_1_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "2️⃣ **LISTEN**\n\n🌱 Take a deep breath.\n\n👂 Feel the air moving in and out of your body.\n\n🔄 Repeat this 5 times.",
+        "change": "@(fields.comic_path & \"take_a_pause_2.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_2_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_2_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "3️⃣ **NOTICE**\n\n✨ Notice how your body feels while you breathe.\n\n🔵 Notice where you feel tension in your body and try to let it go.",
+        "change": "@(fields.comic_path & \"take_a_pause_3.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_3_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_3_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "4️⃣ **OPEN YOUR EYES**\n\n👀 When you are ready, open your eyes.\n\n🔑 Notice if you feel any different than when you started this activity.",
+        "change": "@(fields.comic_path & \"take_a_pause_4.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_4_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_4_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "1️⃣ **SIT DOWN**\n\n⏸  Find a place where you can sit comfortably.\n\n⭐ You can close your eyes if you want.",
+        "change": "@(fields.comic_path & \"take_a_pause_1.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_1_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_1_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "2️⃣ **LISTEN**\n\n🌱 Take a deep breath.\n\n👂 Feel the air moving in and out of your body.\n\n🔄 Repeat this 5 times.",
+        "change": "@(fields.comic_path & \"take_a_pause_2.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_2_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_2_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "3️⃣ **NOTICE**\n\n✨ Notice how your body feels while you breathe.\n\n🔵 Notice where you feel tension in your body and try to let it go.",
+        "change": "@(fields.comic_path & \"take_a_pause_3.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_3_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_3_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_attachments",
+        "flow_id": "module_review - take_a_pause",
+        "original_row_id": "",
+        "node_identifier": "4️⃣ **OPEN YOUR EYES**\n\n👀 When you are ready, open your eyes.\n\n🔑 Notice if you feel any different than when you started this activity.",
+        "change": "@(fields.comic_path & \"take_a_pause_4.jpg\")",
+        "condition_var": "@fields.attachment_gender",
+        "category": "@(fields.comic_path & \"take_a_pause_4_w.jpg\")",
+        "category:man": "@(fields.comic_path & \"take_a_pause_4_m.jpg\")",
+        "condition:man": "male",
+        "condition_type:man": "has_only_phrase"
+      }
+    ]
+  }
+}

@@ -45,6 +45,19 @@
       },
       {
         "type": "data_sheet",
+        "sheet_name": "referrals",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "referrals_no_natural_dis",
+        "data_model": "",
+        "template_arguments": "filter|expression;(ID!=\"natural_disasters\")",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
         "sheet_name": "safeguarding_entry_data",
         "data_sheet": "",
         "data_row_id": "",
@@ -129,10 +142,10 @@
         "var.value": ""
       },
       {
-        "ID": "grow",
+        "ID": "prevent",
         "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
         "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
-        "conclusion_msg": "",
+        "conclusion_msg": "You have reached the end of this lesson! 🎉",
         "expiration_msg": "",
         "var.name": "",
         "var.value": ""
@@ -190,6 +203,11 @@
         "ID": "goodbye",
         "msg": "Thank you for participating. If you want to return to the programme, type HELLO. \n\nWe hope to see you again soon! ",
         "metadata.description": "HELLO is just to suggest something to type, but anything typed in the chat will trigger the same behaviour"
+      },
+      {
+        "ID": "stay",
+        "msg": "We are so glad you want to stick around! We will resume your progress tomorrow. ",
+        "metadata.description": ""
       }
     ],
     "safeguarding_start_programme_data": [
@@ -321,58 +339,52 @@
         "option_name": "Emergency support"
       },
       {
+        "ID": "mental_health",
+        "intro": "Feeling sad, stressed, or having trouble with your child's behaviour? 😟 These places can help: 💡",
+        "referrals": "{mental_health referrals}",
+        "option_name": "Mental health & suicide prevention"
+      },
+      {
         "ID": "health",
-        "intro": "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:",
+        "intro": "Take care of yourself! 😊 Your local clinic is here to help with any health problems. If you need extra support, here are some free helplines: ☎️",
         "referrals": "{health referrals}",
         "option_name": "Health support services"
       },
       {
         "ID": "violence",
-        "intro": "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! ",
+        "intro": "Seeing or going through violence can be scary and confusing. 😔 But there are people who can help you and your child! 💕",
         "referrals": "{violence referrals}",
         "option_name": "Dealing with violence"
       },
       {
-        "ID": "mental_health",
-        "intro": "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:",
-        "referrals": "{mental_health referrals}",
-        "option_name": "Suicide prevention services"
+        "ID": "drugs",
+        "intro": "A lot of our energy goes into helping the person struggling with substance abuse. While that’s important, you and your family need support too! 💖 Find help for everyone below: ⬇️",
+        "referrals": "{drugs referrals}",
+        "option_name": "Drugs and alcohol "
       },
       {
         "ID": "family",
-        "intro": "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:",
+        "intro": "Family life can be tough! 😣 Did you know that social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family or relationship counselling? If there isn’t a DSD office near you, NGOs in your area offer this support too. 🌍",
         "referrals": "{family referrals}",
-        "option_name": "Family counselling and support"
-      },
-      {
-        "ID": "drugs",
-        "intro": "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:",
-        "referrals": "{drugs referrals}",
-        "option_name": "Drugs and alcohol abuse"
-      },
-      {
-        "ID": "development",
-        "intro": "",
-        "referrals": "{development resources 1}",
-        "option_name": "Child development support"
+        "option_name": "Family counselling & support"
       },
       {
         "ID": "legal",
-        "intro": "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:",
+        "intro": "Legal and SASSA issues can be stressful and confusing! 😵 There may be more support available than you realise at the organisations below: 👇",
         "referrals": "{legal_help referrals}",
-        "option_name": "Legal or SASSA help"
+        "option_name": "Legal & SASSA support"
       },
       {
         "ID": "lgbtqia+",
-        "intro": "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:",
+        "intro": "Understanding sexual and gender development can be confusing and hard to talk about. 🌈 We’re all unique! Here’s some support and guidance: 💡",
         "referrals": "{lgbtqia referrals}",
-        "option_name": "LGBTQIA+ support services"
+        "option_name": "LGBTQIA+ support"
       },
       {
         "ID": "school",
-        "intro": "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:",
+        "intro": "School is where your child spends most of their time. 🏫 Making sure they are in school, happy, and supported is really important. If you're having trouble with any school issues, here’s some help: 📚",
         "referrals": "{school referrals}",
-        "option_name": "School issues"
+        "option_name": "School support"
       },
       {
         "ID": "natural_disasters",
@@ -384,7 +396,17 @@
     "safeguarding_help_data": [
       {
         "ID": "intro",
-        "msg": "I might know some resources that can help. What would you like information for?",
+        "msg": "I might know some resources that can help.",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_opt",
+        "msg": "No, thanks",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_msg",
+        "msg": "I’m sorry that I cannot help with your challenge. If you want to access this information again, you can type {HELP} at any time.",
         "metadata.description": ""
       },
       {
@@ -394,22 +416,17 @@
       },
       {
         "ID": "more_contacts_opt",
-        "msg": "Get other emergency contacts",
-        "metadata.description": ""
-      },
-      {
-        "ID": "menu_opt",
-        "msg": "Go to the Main Menu",
+        "msg": "Get additional help",
         "metadata.description": ""
       },
       {
         "ID": "exit_opt",
-        "msg": "Exit Menu",
+        "msg": "Exit",
         "metadata.description": ""
       },
       {
         "ID": "farewell",
-        "msg": "We hope this was helpful! You can access this information at any time by typing {HELP}. ",
+        "msg": "I hope this was helpful! You can access this information at any time by typing {HELP}. ",
         "metadata.description": ""
       }
     ],

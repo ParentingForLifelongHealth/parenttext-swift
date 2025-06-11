@@ -43,22 +43,6 @@
     ],
     "onboarding_messages": [
       {
-        "ID": "onboarding_welcome_msg",
-        "msg": "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!",
-        "next_button_option": "",
-        "metadata.description": "first message after language selection (if present)",
-        "attachment.url": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/project%2FPLH%2Fsubproject%2FParentText_v2%2Fdeployment%2FSouthAfricaRCT%2FresourceGroup%2Flogo%2Fparenttext_logo.png?alt=media&token=625b8200-1706-4d9b-9dc0-11092dd770fa",
-        "attachment.file_type": "image"
-      },
-      {
-        "ID": "one_child_time_msg",
-        "msg": "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time.",
-        "next_button_option": "",
-        "metadata.description": "introduction before collecting child info",
-        "attachment.url": "",
-        "attachment.file_type": ""
-      },
-      {
         "ID": "orientation",
         "msg": "Here is a video that shows how to use ParentText.",
         "next_button_option": "NEXT",
@@ -70,12 +54,12 @@
     "onboarding_question_with_opt_data": [
       {
         "ID": "media",
-        "question": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
+        "question": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can choose to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
         "image": "",
         "variable": "type of media",
-        "options.1.text": "Text, Images, and Videos",
+        "options.1.text": "With Videos",
         "options.1.value": "high",
-        "options.2.text": "Text, Images, and Audio",
+        "options.2.text": "With Audio",
         "options.2.value": "medium",
         "options.3.text": "Text and Images Only",
         "options.3.value": "low",
@@ -107,8 +91,8 @@
         "options.2.value": "afr",
         "options.2.alias": "afr",
         "options.3.text": "IsiXhosa",
-        "options.3.value": "xho",
-        "options.3.alias": "hau"
+        "options.3.value": "hau",
+        "options.3.alias": "xho"
       }
     ]
   }

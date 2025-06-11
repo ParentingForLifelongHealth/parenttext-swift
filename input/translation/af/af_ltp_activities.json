@@ -1,0 +1,2276 @@
+[
+  {
+    "SourceText": "*A friendly chat*",
+    "text": "*'n Vriendelike geselsie*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk to your teen about something that they are interested in! 😃",
+    "text": "Praat met jou tiener oor iets waarin hulle belangstel! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ An easy way to start talking to your teen is to ask them about something they are interested in. For example, you could talk about sports, books, movies, friends, music, celebrities, or school.",
+    "text": "⚽ 'n Maklike manier om met jou tiener te begin praat, is om hulle uit te vra oor iets waarin hulle belangstel. Julle kan byvoorbeeld praat oor sport, boeke, flieks, vriende, musiek, beroemde mense of skool.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 You may not find everything your teen shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+    "text": "👂 Jy sal dalk nie alles wat jou tiener vertel, interessant vind nie, maar dit is belangrik om te wys dat jy entoesiasties is en gewillig is om te leer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Create your own Recipe*",
+    "text": "*Ontwikkel jou eie Resep*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your teen come up with a new meal idea! ",
+    "text": "Laat jou tiener vorendag kom met 'n nuwe idee vir 'n ete! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍚 Create a new dish with @fields.child_nickname using ingredients they love!",
+    "text": "🍚 Skep 'n nuwe gereg saam met @fields.child_nickname deur bestanddele te gebruik waaroor hulle mal is!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔵 Together, choose two ingredients, and ask your teen to prepare a meal using them. For example: chicken and spinach, tomatoes and rice, maize and pumpkin.",
+    "text": "🔵 Kies saam twee bestanddele, en vra jou tiener om dit te gebruik om 'n ete voor te berei. Byvoorbeeld: hoender en spinasie, tamaties en rys, mielies en pampoen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 If you enjoy the meal, make it something your family eats weekly and ask your teen to write it down for you, give the meal a name, and explain how to make it. ",
+    "text": "📝 As julle die ete geniet, maak dit iets wat jou gesin weekliks eet, en vra jou tiener om dit vir jou neer te skryf, gee die gereg 'n naam en verduidelik hoe om dit te maak. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ If your teen notices that you are learning from their cooking, it will boost their confidence!",
+    "text": "✨ As jou tiener sien dat jy uit hulle kookvernuf leer, sal dit hulle selfvertroue 'n hupstoot gee!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍚 Create a new dish with your teen using ingredients they love!",
+    "text": "🍚 Skep 'n nuwe gereg saam met jou tiener deur bestanddele te gebruik waaroor hulle mal is!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Reflect on the positive*",
+    "text": "*Dink na oor die positiewe*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Spread Positivity! 🌈",
+    "text": "Versprei Positiwiteit! 🌈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Together, take a minute to think about all the things you did today. ",
+    "text": "💡 Neem saam 'n minuut om na te dink oor al die goed wat julle vandag gedoen het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Take turns sharing one positive or fun thing that happened. This could be something small, like feeling good because you cleaned the house, or something big, like spending time with family and friends. ",
+    "text": "☀️ Neem beurte om een positiewe of prettige ding wat gebeur het, te deel. Dit kan iets kleins wees, soos om goed te voel omdat julle die huis skoongemaak het, of iets groots, soos dat julle tyd saam met familie en vriende deurgebring het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Try doing this every day - even more on the days it feels like you have not done anything special.",
+    "text": "⏰ Probeer om dit elke dag te doen - veral op die dae wat dit voel asof julle nie enigiets spesiaals gedoen het nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What’s new?*",
+    "text": "*Wat’s nuut?*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Learning is fun! 🎓",
+    "text": "Leer is pret! 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask your teen to think of a new, fun skill you could learn together. ",
+    "text": "❓ Vra jou tiener om te dink aan 'n nuwe, pret-vaardigheid wat julle saam kan leer. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the countries in Africa. ",
+    "text": "Byvoorbeeld: om 'n bal met jou voet in die lug te hou, \"juggle\", sop maak, \"moonwalk\", fluit, die alfabet agterstevoor op te sê, al die lande in Afrika te leer. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns trying out the new skill.  Make sure to praise each other and learn and play together!",
+    "text": "🔄 Neem beurte om die nuwe vaardigheid te probeer. Maak seker dat julle mekaar prys, leer en saam speel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Approach learning the skill in a kind and fun way, and do not judge your teen or yourself for your ability in the skill.",
+    "text": "💛 Benader die leer van die vaardigheid op 'n simpatieke en prettige manier, en moenie jouself of jou tiener afkraak oor julle vermoë in die vaardigheid nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Dance moves*",
+    "text": "*Danspassies*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time! You both get to express yourselves in a fun, relaxed way.  🎵 ",
+    "text": "Kom ons beweeg! 👋 Dans is 'n wonderlike manier om te oefen, pret te hê, en terselfdertyd 'n band met jou tiener te vorm! Julle kry albei kans om julself op 'n prettige, ontspanne manier uit te druk.  🎵 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This game can be played in pairs or a group with everyone taking turns being the leader:",
+    "text": "Hierdie speletjie kan in pare of in 'n groep gespeel word, met almal wat beurte neem om die leier te wees:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 Let your teen choose a song they like and create a set of dance moves.",
+    "text": "📱 Laat jou tiener 'n liedjie kies waarvan hulle hou en ontwikkel 'n stel danspassies.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 First person does a dance move and everyone else copies it.",
+    "text": "👀 Die eerste persoon voer 'n danspassie uit en al die ander moet dit namaak.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Don’t worry about perfecting the dance moves, it’s all about having fun together!",
+    "text": "☀️ Moenie bekommerd wees as jul danspassies nie perfek is nie, dit gaan daaroor om saam pret te hê!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you want to, you can perform your dance for the household!",
+    "text": "💡 As jy wil, kan jy jou dans vir die huismense doen!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Dance Activity*",
+    "text": "*Dansaktiwiteit*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Try something new and learn a dance challenge with your teen! ✨ Have fun!",
+    "text": "Probeer iets nuuts en leer 'n dansuitdaging saam met jou tiener! ✨ Geniet dit!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Dancing is a great way to have fun together while being creative and moving your body!",
+    "text": "⭐ Dans is 'n wonderlike manier om saam pret te hê terwyl julle kreatief besig is en jul liggame beweeg!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 If your teen uses the app TikTok, suggest doing a dance challenge together.",
+    "text": "📱 As jou tiener die app TikTok gebruik, stel voor dat julle saam 'n dansuitdaging doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Ask your teen to choose their favourite dance and learn it with them.",
+    "text": "😃 Vra jou tiener om hulle gunsteling dans te kies, en leer dit saam met hulle.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 It’s okay if you can’t dance well, have fun and try not to take it too seriously! ",
+    "text": "🎉 Dis oukei as jy nie goed kan dans nie, geniet dit en probeer om dit nie te ernstig op te neem nie! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 You do not have to post the video to learn the dance. You can keep it as a memory between you and your teen.",
+    "text": "💡 Julle hoef nie die video op sosiale media te plaas om die dans te leer nie. Jy en jou tiener kan dit net vir julself as 'n herinnering hou.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Check-in chat*",
+    "text": "*Inklok Klets*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Actively checking in on one another helps to keep relationships healthy! ⭐",
+    "text": "Om aktief te kyk of die ander een oukei is, help om verhoudings gesond te hou! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask each other questions: “What made you happy today?” 👂 “What was difficult today?” 👂 “How can I help you?” 👂",
+    "text": "Vra vir mekaar vrae: “Wat het jou vandag gelukkig gemaak?” 👂 “Wat was vandag moeilik?” 👂 “Hoe kan ek jou help?” 👂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For this to help, your teen needs to feel safe while sharing things with you. Be open to their responses. 💚 Teens tend to be more honest when they trust that what they say will not be used against them later.",
+    "text": "Dit sal slegs help as jou tiener veilig voel wanneer hulle goed met jou deel. Wees oop vir hulle antwoorde. 💚 Tieners is geneig om eerliker te wees as hulle vertrou dat wat hulle sê, nie later teen hulle gebruik sal word nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Go easy on yourself if your teen does not want to share their problems with you. 💙 Often, teens are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷",
+    "text": "Wees gaaf met jouself as jou tiener nie hulle probleme met jou wil deel nie. 💙 Tieners is dikwels bang om te deel, want hulle is bang hulle sal in die moeilikheid kom. Om vir hulle kwaad te word, sal nie help nie - hou aan om te wys dat jy lief is vir hulle en gee hulle tyd! 🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Express Yourself*",
+    "text": "*Gee uiting aan Jouself*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Dancing makes people happy!",
+    "text": "Dans maak mense gelukkig!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.",
+    "text": "🌈 Hierdie speletjie kan in pare of as 'n groep gespeel word - staan teenoor mekaar of in 'n sirkel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Together, choose a fun and upbeat song to play and a person to start the game by creating one dance move.",
+    "text": "🎵 Kies saam 'n prettige, opgewekte liedjie om te speel en 'n persoon om die speletjie te begin deur een danspassie te skep.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 The person to their right must copy that dance move and add their own move to it.",
+    "text": "👀 Die persoon aan hulle regterkant moet daardie danspassie naboots en hulle eie danspassie byvoeg.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Go around the circle, each person adding their own dance move to the full song.",
+    "text": "✨ Gaan in die rondte, elke persoon voeg hulle eie danspassie by tot aan die einde van die liedjie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 The first one who forgets someone's dance moves or does it in the wrong order chooses the next song and starts the game again.",
+    "text": "🔄 Die eerste een wat iemand se danspassies vergeet of dit in die verkeerde volgorde doen, kies die volgende liedjie en begin weer die speletjie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Try new dance moves with this game and have fun!",
+    "text": "🎉 Probeer nuwe danspassies met hierdie speletjie en geniet dit!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*2 Truths, 1 Lie*",
+    "text": "*2 Waarhede, 1 Leuen*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This is a fun, quick game, and the point of it is to learn things about each other. Make your answers as interesting as possible! 🎨",
+    "text": "Hierdie speletjie is prettig en vinnig, en die doel daarvan is om meer oor mekaar uit te vind. Maak jou antwoorde so interessant as moontlik! 🎨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Think of 3 facts about yourself. 2 must be true, 1 must be a lie. ",
+    "text": "💡 Dink aan 3 stellings oor jouself. 2 moet waar wees en 1 moet 'n leuen wees. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔷 Here are some examples: I hate bananas, I have travelled to Kenya, my favourite subject in school was maths.",
+    "text": "🔷 Hier is 'n paar voorbeelde: Ek haat piesangs, ek het na Kenia gereis, my gunsteling skoolvak was Wiskunde.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Share the facts with your teen and ask them to guess which one is a lie. ",
+    "text": "👀 Deel die feite met jou tiener en vra hulle om te raai watter een 'n leuen is. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Now ask them to do the same, and guess theirs.",
+    "text": "🔄 Vra hulle nou om dieselfde te doen, en raai hulle s'n.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Did you learn anything new about your teen, or did they learn anything new about you? 💛",
+    "text": "Het jy enigiets nuuts oor jou tiener uitgevind, of het hulle iets nuuts oor jou uitgevind? 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Yes, No or Maybe*",
+    "text": "*Ja, Nee of Miskien*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you tired of hearing your teen say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈",
+    "text": "Is jy moeg daarvan dat jou tiener ja, nee of miskien op al jou vrae antwoord? Verander julle geselsie in 'n speletjie, en moenie eenwoord-antwoorde toelaat nie. 🎈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 Teens are known to give one-word answers to avoid talking. ",
+    "text": "🔴 Tieners is bekend daarvoor dat hulle eenwoord-antwoorde gee om 'n gesprek te vermy. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 When you would like to really know how your teen is doing, you can turn your chat into a game. ",
+    "text": "💡 As jy regtig wil weet hoe dit met jou tiener gaan, kan jy julle geselsie in 'n speletjie verander. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses, such as Yes, No, Maybe, Fine, and Okay.",
+    "text": "⭐ Neem beurte om mekaar vrae te vra. Die enigste reël is dat julle nie eenwoord-antwoorde mag gee nie, soos Ja, Nee, Miskien, Goed en Oukei.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ You can ask about things your teen likes or what they did today. For example, how was your day? What are you excited for? Is there anything worrying you?",
+    "text": "⚽ Jy kan uitvra oor goed waarvan jou tiener hou of wat hulle vandag gedoen het. Byvoorbeeld, Hoe was jou dag? Waaroor is jy opgewonde? Is daar iets waaroor jy jou bekommer?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 It is important to let your teen ask a question as well. Trust is built when your teen can see that you are also sharing your life with them, and not only trying to learn about their life.",
+    "text": "🔄 Dit is belangrik om jou tiener toe te laat om ook 'n vraag te vra. Vertroue word gebou wanneer jou tiener kan sien dat jy ook jou lewe met hulle deel, en nie slegs probeer om meer oor hulle lewe uit te vind nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Movie World*",
+    "text": "*Fliek-Wêreld*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Leaving the busy and stressful world behind can be good for our health. 🌱 Take a moment to escape with your teen by creating a superhero story together!",
+    "text": "Om die besige en stresvolle wêreld agter te laat, kan goed wees vir ons gesondheid. 🌱 Neem 'n oomblik om saam met jou tiener te ontsnap deur saam 'n superheld-storie te skep!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈 Ask your teen to imagine that they are a superhero and what their superpowers would be. Flying? Time travel? Mind reading? Super Strength?",
+    "text": "🎈Vra jou tiener om hulle te verbeel dat hulle 'n superheld is, en wat hulle superkragte sou wees. Vlieg? Tydreis? Gedagtes lees? Super Sterkte?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Ask them how they would use these superpowers, and why. ",
+    "text": "✨ Vra hoe hulle hierdie superkragte sou gebruik, en hoekom. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Help them give their superhero a name, an outfit, and a sidekick, and act it out. If your teen does not want to act, that is fine - talking about it is just as good!",
+    "text": "🌈 Help hulle om hulle superheld 'n naam te gee, asook 'n uitrusting en 'n helper, en speel hierdie rolle. As jou tiener nie wil toneelspeel nie, is dit oukei - dis net so goed om daaroor te praat!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 Now, let them make up a superhero for you. Play the part! You can ask questions, like who the villain would be, or how you became a superhero. ",
+    "text": "👑 Laat hulle nou vir jou 'n superheld uitdink. Speel die rol! Jy kan vrae vra, soos wie die skurk sou wees, of hoe jy 'n superheld geword het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Create a story - what happens to the characters? Is it an action story? Is it a thriller, space, sport, adventure, or romance?",
+    "text": "💡 Skep 'n storie - wat gebeur met die karakters? Is dit 'n aksiestorie? Is dit 'n riller, ruimte, sport, avontuur of romanse?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "➡️ Next time you play this game, you could create a new story or superhero with your teen or continue the story you started together.",
+    "text": "➡️ Volgende keer wat julle hierdie speletjie speel, kan jy saam met jou tiener 'n nuwe storie skep of voortgaan met die storie wat julle saam begin het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Get Active*",
+    "text": "*Raak aktief*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your teen want to do and try it out together! ",
+    "text": "Oefening is 'n wonderlike manier om tyd saam deur te bring, en dit is so goed vir jou gesondheid. 🌱 Vind 'n sport of oefening wat jy en jou tiener albei wil doen en probeer dit saam! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Even walking for 10 minutes a day is good for you. ",
+    "text": "⏰ Selfs 10 minute se stap per dag is goed vir jou. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..",
+    "text": "⚽ Saam kan julle stap, hardloop, sokker speel, swem, dans, of enige ander sport doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?",
+    "text": "🏆 Dink saam aan maniere om dit selfs nog meer pret te maak. Kan julle tot by 'n sekere plek draf? Beurte neem om die afrigter te wees? Kan daar 'n klein, gratis beloning wees, soos om die volgende aktiwiteit te mag kies?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Exercise becomes easier and more enjoyable the more you do it. ",
+    "text": "🌈 Oefening raak makliker en meer genotvol, hoe meer jy dit doen. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If you or your teen do not like the first exercise you pick, try a new exercise.",
+    "text": "🔄 As jy of jou tiener nie hou van die eerste oefening wat julle gekies het nie, probeer 'n nuwe een.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make up a story*",
+    "text": "*Dink 'n storie uit*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating stories together is a great way to learn the art of storytelling - and to build your teen’s creativity! 📖",
+    "text": "Om saam stories te skep, is 'n wonderlike manier om die kuns van storievertel aan te leer - en jou tiener se kreatiwiteit te ontwikkel! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 With your teen, come up with 10 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, wasp nest, cooking, wedding.",
+    "text": "🔟 Dink saam met jou tiener aan 10 woorde om te gebruik. Dit kan enige woorde wees wat julle wil! Byvoorbeeld: piesang, ruimtetuig, vis, water, skildery, perdebynes, kook, troue.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Start your story with, “Once upon a time, there was a…” and make sure you use one of the words from the list in your sentence. For example, “Once upon a time, there was a family who worked on a *banana* farm.”",
+    "text": "🎂 Begin julle storie met “Eendag, lank, lank gelede was daar 'n…” en maak seker dat julle een van die woorde uit die lys in julle sin gebruik. Byvoorbeeld, “Eendag, lank, lank gelede was daar 'n gesin wat op 'n *piesang*-plaas gewerk het.”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Let your teen make up the next sentence using another word from the list.",
+    "text": "📝 Laat jou tiener die volgende sin uitdink deur nog 'n woord uit die lys te gebruik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns until you have used as many words from the list as you can, or until you have finished your story. ",
+    "text": "🔄 Neem beurte totdat julle soveel as moontlik woorde uit die lys gebruik het, of totdat julle die storie voltooi het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Be as creative as possible with your story and do not tell your teen what to say. It does not need to be a real story to be a good story!",
+    "text": "🔔 Wees so kreatief as moontlik met julle storie, en moenie vir jou tiener voorskryf wat om te sê nie. Dit hoef nie 'n ware storie te wees om 'n goeie storie te wees nie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Ask your teen what their favourite part of the story was, and tell them yours!",
+    "text": "🎁 Vra jou tiener wat hulle gunsteling deel van die storie was, en sê wat joune was!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Take A Pause with your teen*",
+    "text": "*Ontspan 'n rukkie saam met jou tiener*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a pause with your teen. This helps them deal with stress in a healthy way!",
+    "text": "Ontspan 'n rukkie saam met jou tiener. Dit help hulle om stres op 'n gesonde manier te hanteer!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ You could take a pause before dinner, after school, before school, or before bedtime.",
+    "text": "⏰ Julle kan voor aandete, na skool, voor skool of voor slaaptyd 'n bietjie ontspan.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel. ",
+    "text": "👂 Gaan sit saam en maak julle oë toe. Luister na jul asemhaling terwyl julle in- en uitasem. Neem kennis van hoe julle voel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take 5 more deep breaths.",
+    "text": "⭐ Haal nog 5 keer diep asem.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When you are ready, open your eyes again. Do you feel any different? ",
+    "text": "👀 Wanneer julle gereed is, maak jul oë weer oop. Voel julle enigsins anders? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ Ask your teen what it was like to take a pause. Listen and accept whatever they say about it.",
+    "text": "⏸ Vra jou tiener hoe dit was om 'n rukkie te ontspan. Luister en aanvaar wat ook al hulle daaroor sê.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Name That Tune*",
+    "text": "*Liedjieraai*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Listening to music is a great way to lower your stress and have fun with your family. 💚",
+    "text": "Om na musiek te luister, is 'n wonderlike manier om jou stresvlakke te laat daal en pret saam met jou gesin te hê. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📻 Gather your family members and choose one person to play or sing a song.",
+    "text": "📻 Laat al jou gesinslede bymekaarkom en kies een persoon om 'n liedjie te speel of te sing.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Everyone else must guess the name and artist of the song.",
+    "text": "❓ Al die ander moet die naam en kunstenaar van die liedjie raai.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 The first one to guess it right becomes the next person to sing or play a song. ",
+    "text": "🎉 Die eerste een wat reg raai, is die volgende persoon wat 'n liedjie speel of sing. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Keep going around until everyone has been able to play their favourite song and let the rest hear.",
+    "text": "🔄 Hou so aan totdat almal 'n beurt gehad het om hul gunsteling liedjie te speel/sing en die res laat luister het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Pass the ball*",
+    "text": "*Gee die bal aan*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Games are a great, fun way to spend time with your family! ",
+    "text": "Speletjies is 'n wonderlike, prettige manier om tyd saam met jou gesin deur te bring! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ This game is best with at least 3 people.",
+    "text": "3️⃣Hierdie speletjie werk die beste met ten minste 3 mense.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.",
+    "text": "⚽ Kry 'n bal om mee te speel. As julle nie 'n bal kan kry nie, kies 'n item wat julle veilig kan rondgooi, byvoorbeeld 'n bottelprop of 'n plastiekglasie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "➡️ Start in a circle and pass the ball around. ",
+    "text": "➡️ Begin in 'n sirkel en gee die bal aan. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. ",
+    "text": "👋 Begin die bal in nuwe rigtings gooi (op, af, reguit, met 'n kurwe, rol dit op die grond) en met wisselende krag (hard, sag, medium). Jy kan die bal bons, dit in die lug gooi en dit 'n paar keer in die lug gooi en vang voordat jy dit aanstuur. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. ",
+    "text": "✨ Wanneer almal begin goed raak daarmee om die bal te vang, kan julle begin om in die vertrek rond te beweeg en steeds vir mekaar die bal aan te gee. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!",
+    "text": "⭐ Kan jy die bal tussen jou bene deur gooi? Agter jou rug? Oor jou kop? 'n Aangee blokkeer? Geniet dit!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make Housework Fun*",
+    "text": "*Maak Huistake Pret*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Turn your chores into games! 🏆 ",
+    "text": "Verander jul huistake in speletjies! 🏆 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Making housework fun is a good way to teach your teen to be responsible and to rely on themselves. ",
+    "text": "☀️ Om huiswerk pret te maak, is 'n goeie manier om jou tiener verantwoordelikheid te leer en om op hulself staat te maak. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Together, make a list of all the chores that must be done in your home. ",
+    "text": "📝 Maak saam 'n lysie van al die huistake wat in julle huis gedoen moet word. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Make sure the tasks are fair and things your teen can do. For example, washing up, sweeping, mopping, making the beds, and laundry.",
+    "text": "💡 Maak seker die take is regverdig en dat dit goed is wat jou tiener kan doen. Byvoorbeeld, skottelgoed, vee, mop, beddens opmaak en wasgoed.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Each week, let a different person in the family choose a chore first.",
+    "text": "🔄 Laat 'n ander persoon in die gesin elke week eerste 'n taak kies.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Play some music or turn on the radio. Music is a great way to make a boring task fun!",
+    "text": "🎵 Speel musiek of skakel die radio aan. Musiek is 'n wonderlike manier om 'n vervelige taak prettig te maak!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Tick off the tasks when they are done so you can see your progress as a family. You could offer small rewards as motivation to complete activities.",
+    "text": "✅ Merk die take af wanneer dit klaar is, sodat julle as gesin jul vordering kan sien. Jy kan klein belonings as motivering aanbied om aktiwiteite te voltooi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 For example, you could let your teen watch more TV, spend more time with their friends, choose what they want for dinner, or have something sweet if they do their chores in a fair amount of time.",
+    "text": "📺 Jy kan byvoorbeeld jou tiener meer TV laat kyk, meer tyd saam met vriende laat deurbring, laat kies wat hulle vir aandete wil hê, of soetgoed gee as hulle, hulle take binne 'n redelike tyd afhandel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ If your child does not complete a chore, ask them why, and come up with a fair consequence together.",
+    "text": "❓ As jou kind nie 'n taak afhandel nie, vra hulle hoekom, en dink saam 'n regverdige gevolg uit.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I’m Going on a Picnic and I Will Bring…*",
+    "text": "*Ek Gaan na 'n Piekniek en Ek Bring Saam …*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Memory games are a fun way to strengthen our brains! ",
+    "text": "Geheuespeletjies is 'n prettige manier om ons breine te versterk! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Think of all the things you would have at your dream picnic. ",
+    "text": "🎂 Dink aan al die goed wat jy by jou droompiekniek sal hê. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈 The first person says, “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and they say one thing they will bring to the picnic.",
+    "text": "🎈 Die eerste persoon sê, “Saterdag gaan ek in die park piekniek hou. Vir die piekniek bring ek...” en noem een ding wat hulle saamneem vir die piekniek.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 For example: a sandwich, a ball, a blanket, forks, cups, a dog, or coca cola.",
+    "text": "🍅 Byvoorbeeld: 'n toebroodjie, 'n bal, 'n kombers, vurke, koppies, 'n hond of coca cola.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 The second person adds to the first person's list, but must start at the beginning: “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and say the item that the first person said AND then add their own item to the list.",
+    "text": "🔔 Die tweede persoon voeg by die eerste persoon se lys aan, maar moet weer oor begin: “Saterdag gaan ek in die park piekniek hou. Vir die piekniek bring ek...” en sê die item wat die eerste persoon gesê het EN voeg dan hulle eie item by die lys.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Each time you add an item, you must say all previous items first - in the correct order!",
+    "text": "🔄 Elke keer as jy 'n item byvoeg, moet jy eers al die vorige items sê - in die korrekte volgorde!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Each person adds to the list, while remembering all the previous items. ",
+    "text": "⭐ Elke persoon voeg 'n item by die lys, terwyl hulle al die vorige items onthou. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 If everyone has a turn, keep going and building your list. The first person to forget an item restarts the game!",
+    "text": "👀 As almal 'n beurt gehad het, hou aan om die lys langer te maak. Die eerste persoon wat 'n item vergeet, begin die speletjie oor!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*This is who I am*",
+    "text": "* Dit is wie ek is*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your teen to have high self-esteem is a recipe for success! 🏆",
+    "text": "Selfbeeld is die manier waarop jy jouself na waarde skat, op 'n positiewe of negatiewe manier. Om jou tiener te help om 'n goeie selfbeeld te hê, is 'n suksesresep! 🏆",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐Share with your teen 3 things you like about yourself!",
+    "text": "⭐Deel met jou tiener 3 dinge van jouself waarvan jy hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Ask your teen to tell you 3 things they like about themselves. ",
+    "text": "3️⃣ Vra jou tiener om vir jou 3 dinge van hulself te noem waaarvan hulle hou. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example: I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽",
+    "text": "Byvoorbeeld: Ek is wonderlik daarmee om ander mense goed te behandel. Ek kan my hare baie goed versorg. Ek is fantasties in sokker. ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If your teen does not feel comfortable sharing these, ask them to write them down. 📝",
+    "text": "As jou tiener nie gemaklik daarmee voel om hierdie dinge te sê nie, vra hulle om dit neer te skryf. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Things I like about others and me*",
+    "text": "*Dinge in ander en myself waarvan ek hou*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is an activity to help you and your teen notice the good parts of themselves.. ",
+    "text": "Hier is 'n aktiwiteit om jou en jou tiener te help om die goeie dele in hulself raak te sien.. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️Ask your teen to share 3 things they like about a friend or someone they admire, like a celebrity.",
+    "text": "☀️Vra jou tiener om 3 dinge te noem waarvan hulle hou in 'n vriend of iemand wat hulle bewonder, soos 'n beroemde persoon.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask them if they share any of these qualities, too.",
+    "text": "❓ Vra hulle of hulle ook oor enige van hierdie eienskappe beskik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You can do the same: share with your teen the qualities you like about yourself or about someone you admire - and what you like about your teen!",
+    "text": "💙 Jy kan dieselfde doen: deel met jou tiener die eienskappe waarvan jy in jouself of iemand wat jy bewonder, hou - en waarvan jy in jou tiener hou!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make a family wish list*",
+    "text": "*Stel 'n gesins wenslys op*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Wish lists are a great way to set, plan and keep track of your goals and dreams. 🌷 ",
+    "text": "Wenslyste is 'n wonderlike manier om julle doelwitte en drome vas te stel, te beplan en die vordering daarvan dop te hou. 🌷 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 To start your wish list, gather your family together and grab pens and paper. ",
+    "text": "📝 Om met julle wenslys te begin, kry jou gesin bymekaar en gryp penne en papier. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚲 Allow each family member to write a list of goals and experiences they want to achieve this year.",
+    "text": "🚲 Laat elke gesinslid 'n lys van doelwitte en ervarings wat hulle vanjaar wil behaal en ervaar, neerskryf.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 For example: exercise daily, read 1 book a month, make a new friend, learn to bake a cake, learn to juggle, or go watch the local soccer team play. ",
+    "text": "🎂 Byvoorbeeld: oefen daagliks, lees 1 boek per maand, maak 'n nuwe vriend, leer om koek te bak, leer om te \"juggle\", of gaan kyk wanneer die plaaslike sokkerspan speel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Once you have finished, put the list up where everyone can see it daily.",
+    "text": "🔔 Wanneer julle klaar is, sit die lys iewers op waar almal dit elke dag kan sien.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 As members of the family reach their goals, tick them off the list and celebrate each goal reached. ",
+    "text": "🎉 Wanneer gesinslede hul doelwitte bereik, merk dit af op die lys en vier elke doelwit wat behaal is. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ As the year goes on, there might be some items some of you have not achieved. Talk to your family about whether you still want to reach this goal or whether the goal has changed. ",
+    "text": "❓ Soos die jaar verbygaan, is daar dalk van die items wat sommige van julle nog nie behaal het nie. Praat met jou gesin oor of julle steeds hierdie doelwit wil bereik en of die doelwit dalk verander het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 If you still want to achieve the goal, discuss with your family what you need to do to tick the goal off your wish list.",
+    "text": "🔑 As jy steeds die doelwit wil behaal, bespreek met jou gesin wat jy moet doen om dit op jou wenslysie te kan afmerk.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Weekly Goal Setting*",
+    "text": "*Weeklikse Doelwitstelling*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s set some goals ⭐",
+    "text": "Kom ons stel 'n paar doelwitte vas ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ It can be helpful to set smaller weekly goals that are easier to reach. This helps us reach our larger goals over time.",
+    "text": "⏰ Dit kan help om kleiner weeklikse doelwitte te stel wat makliker is om te bereik. Dit help ons om ons groter doelwitte mettertyd te bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Ask your teen for one goal that they would like to achieve this week. ",
+    "text": "💡Vra jou tiener vir een doelwit wat hulle graag hierdie week wil bereik. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Make sure this goal is *specific* and  *achievable* to reach in 1 week.",
+    "text": "🔄 Maak seker hierdie doelwit is *spesifiek* en *bereikbaar* om in 1 week te bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 You can also share your own weekly goal with your teen and support each other so you can both achieve your goals.",
+    "text": "💚 Jy kan ook jou eie weeklikse doel met jou tiener deel en julle kan mekaar ondersteun sodat julle albei jul doelwitte kan bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Make sure to praise and celebrate your teen for their hard work towards reaching their goal.",
+    "text": "🎉 Maak seker dat jy jou tiener prys en vier vir hulle harde werk om hulle doelwit te bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 If your teen does not reach their goal, that is okay. Discuss with your teen the steps they still need to take or how they could reach it a different way.",
+    "text": "🔔 As jou tiener nie hulle doelwit bereik nie, is dit oukei. Bespreek die stappe met jou tiener wat hulle nog moet volg of hoe hulle dit op 'n ander manier kan bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Think Big, Think Small*",
+    "text": "*Dink Groot, Dink Klein\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Working towards big goals can be hard! Here is a way you can help your teen set new goals for the things they want to achieve. 👑",
+    "text": "Om na groot doelwitte te werk, kan moeilik wees! Hier is 'n manier waarop jy jou tiener kan help om nuwe doelwitte te stel vir dit wat hulle wil bereik. 👑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 Ask your teen to come up with three things that they are good at, and discuss what they did to become so good at them. For example: keeping their room neat, helping your family with housework, or playing a sport.",
+    "text": "👑 Vra jou tiener om drie dinge waarmee hulle goed is, te noem, en bespreek wat hulle gedoen het om so goed daarin te word. Byvoorbeeld: om hulle kamer skoon te hou, om die gesin met huistake te help, of 'n sport te speel.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Next, ask your teen what they wish they were good at. ",
+    "text": "🏆 Vra jou tiener volgende wat hulle wens hulle mee goed was. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 Remind them that it took work and practice to become good at the skills they have. They will have to do the same for any new goal.",
+    "text": "🔑 Herinner hulle dat dit werk en oefening gekos het om goed te raak in die vaardighede wat hulle het. Hulle sal dieselfde moet doen vir enige nuwe doelwit.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Help your teen break down their goal and set up smaller goals they need to achieve to reach their greater goal.",
+    "text": "⏰ Help jou tiener om hulle doelwit op te breek in kleiner doelwitte wat bereik moet word om hulle groot doelwit te bereik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 It is much easier to achieve a goal if you write it down! This way, you can be reminded of it as you work towards it.",
+    "text": "📝 Dit is baie makliker om 'n doelwit te bereik as jy dit neerskryf! So kan jy daaraan herinner word terwyl jy daaraan werk.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ For example, if the goal is to be good at football, small weekly goals could be to go to football practice 2 times per week, run at least 1 km 5 times per week, and learn about the sport from other football players in the community or from books or videos they find. ",
+    "text": "☀️ As die doelwit byvoorbeeld is om goed in sokker te wees, kan klein weeklikse doelwitte wees om 2 keer per week sokkeroefening by te woon, ten minste 1 km 5 maal per week te hardloop, en om van ander sokkerspelers in die gemeenskap oor die sport te leer of uit boeke of video's wat hulle kry. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ It is important to write down these smaller goals and let your teen tick off each task as they do them each week. Seeing themselves reach smaller goals will keep them motivated to achieve the big goal!",
+    "text": "✅ Dit is belangrik vir jou tiener om hierdie kleiner doelwitte neer te skryf en elke taak af te merk soos hulle dit elke week doen. Om te sien hoe hulle kleiner doelwitte bereik, sal hulle gemotiveerd hou om die groot doelwit te bereik!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Role Playing*",
+    "text": "*Rolspel*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s start acting! ⭐",
+    "text": "Kom ons speel toneel! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓Role playing common stressful social moments with your teen allows them to practise how to respond so they are prepared if this moment does happen. 🌷",
+    "text": "❓Om deur rolspel algemene stresvolle sosiale oomblikke saam met jou tiener uit te beeld, laat hulle toe om te oefen hoe om te reageer, sodat hulle voorbereid is as dit sou gebeur. 🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Ask your teen if they want to role play with you. You can also suggest a topic. For example, asking someone on a date, saying no to drugs/alcohol/sexting, dealing with a bully, getting a bad grade, or dealing with gossip.",
+    "text": "✨ Vra jou tiener of hulle saam met jou rolspel wil doen. Jy kan ook 'n onderwerp voorstel. Byvoorbeeld, om iemand uit te vra vir 'n afspraak, nee te sê vir dwelms/alkohol/seksboodskappe (\"sexting\"), om 'n boelie te hanteer, swak punte te kry of skinderpraatjies te hanteer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌙 Your teen could play the role of a friend asking you to drink at a party. You could role play an underage teen who does not want to drink. Encourage your teen to be silly and really get into character with them. ",
+    "text": "🌙 Jou tiener kan die rol speel van 'n vriend wat jou by 'n partytjie vra om te drink. Jy kan die rol van 'n minderjarige tiener speel wat nie wil drink nie. Moedig jou tiener aan om laf te wees en regtig saam met jou in karakter te kom. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏯️ After you act out the scene, it is important to talk to your teen about the actions that you role played. You can act out this scenario as many times as you like!",
+    "text": "⏯️ Nadat julle die toneel uitgespeel het, is dit belangrik om met jou tiener te praat oor die aksies wat julle gerolspeel het. Julle kan hierdie scenario soveel keer speel as wat julle wil!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Traffic Lights*",
+    "text": "*Robotte*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "A group activity is a great way to bond with others! 💛 ",
+    "text": "'n Groepsaktiwiteit is 'n wonderlike manier om bande met ander te bou! 💛 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Choose one person to turn and face a wall. This will be the traffic officer. ",
+    "text": "💡 Kies een persoon om om te draai en na die muur te kyk. Dit is dan die verkeersbeampte. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 Everyone else will begin the game at the other side of the room, or if you are outside, at a starting line. Set a long distance between the traffic officer and the players.",
+    "text": "🏁 Al die ander spelers begin die speletjie aan die anderkant van die vertrek, of as julle buite is, op 'n wegspringstreep. Daar moet 'n lang afstand tussen die verkeersbeampte en die spelers wees.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 The game begins when the officer shouts “Green”, and everyone can start moving towards the traffic officer at any speed they choose. ",
+    "text": "💚 Die speletjie begin wanneer die beampte “Groen” skree, en almal begin na die verkeersbeampte beweeg teen die spoed van hulle keuse. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 The officer can shout “Red!” at any time, without looking behind them. When they shout this, everyone must stop and freeze! ",
+    "text": "🔴 Die beampte kan enige tyd “Rooi!” skree, sonder om agter hulle te kyk. Wanneer hulle dit skree, moet almal stop en vries! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ The officer turns around to see if everyone is frozen. If they see anyone moving, they have to send them back to the start line.",
+    "text": "⏸ Die beampte draai om, om te sien of almal gevries het. As hulle iemand sien beweeg, moet hulle die persoon na die wegspringstreep terugstuur.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 The winner is the first person to get to the officer without being sent back to the start.",
+    "text": "🏆 Die wenner is die eerste persoon wat tot by die beampte kom sonder om na die wegspringstreep teruggestuur te word.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 The winner then becomes the traffic officer and you can play another round!",
+    "text": "👑 Die wenner word dan die verkeersbeampte en julle kan nog 'n rondte speel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Cooking with Maths*",
+    "text": "*Kook met Wiskunde*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Cooking can help your boy or girl start learning maths!",
+    "text": "Kosmaak kan jou seun of dogter help om te begin wiskunde leer!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Invite your girl or boy to help you cook for your family, or to choose something they would like to cook.",
+    "text": "💚 Nooi jou dogter of seun om jou te help om vir jou gesin te kook, of kies iets wat hulle graag wil kook.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 Ask your boy or girl to count different ingredients. Help them if it’s difficult!",
+    "text": "🍅 Vra jou seun of dogter om verskillende bestanddele te tel. Help hulle as dit moeilik is!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 Help your girl or boy to understand adding and subtracting quantities.",
+    "text": "🔟 Help jou dogter of seun om te verstaan hoe om hoeveelhede op te tel en af te trek.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Encourage your boy or girl to recognise numbers on packaging.",
+    "text": "📝 Moedig jou seun of dogter aan om getalle op die verpakking te herken.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": " 👀 Ask your girl or boy about the different sizes of ingredients - e.g. which is bigger/biggest?",
+    "text": " 👀 Vra jou dogter of seun oor die verskillende groottes van bestanddele - bv. watter een is groter/die grootste?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Think about when you will cook together again! You can also practise understanding numbers and quantities during other activities like shopping or building/making things.",
+    "text": "🔄 Dink oor wanneer julle weer saam sal kook! Julle kan ook tydens ander aktiwiteite soos inkopies of wanneer julle goed maak/bou, oefen om getalle en hoeveelhede te verstaan.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Following Instructions*",
+    "text": "*Volg Instruksies*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Play a game in which your boy or girl listens to and tries to remember strings of instructions.",
+    "text": "👂 Speel 'n speletjie waarin jou seun of dogter luister na reekse instruksies en probeer om dit te onthou.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This will be useful in school, at home, and later in life!",
+    "text": "Dit sal op skool, tuis, en later in die lewe handig te pas kom!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Start with just one instruction using an object in your home. For example “touch the red ball” 🔴",
+    "text": "Begin met slegs een instruksie deur 'n voorwerp in julle huis te gebruik, byvoorbeeld “raak aan die rooi bal”. 🔴",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Slowly add more instructions (e.g “then pick up the cup \"☕), but tell your girl or boy that they can only start once you’ve finished giving the instructions.",
+    "text": "Voeg geleidelik nog instruksies by (bv. “tel dan die koppie op\" ☕), maar sê vir jou dogter of seun hulle kan eers begin wanneer jy al die instruksies gegee het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "See how many your boy or girl can follow without forgetting!",
+    "text": "Kyk hoeveel jou seun of dogter kan uitvoer sonder om te vergeet!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Now swap roles! It’s your boy or girl’s turn to give you instructions! They can use the same objects if they want.",
+    "text": "🔄 Ruil nou rolle om! Dis jou seun of dogter se beurt om vir jou instruksies te gee! Hulle kan dieselfde voorwerpe gebruik as hulle wil.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also try this game with a group of girls and boys! Make sure they take turns 😃",
+    "text": "Jy kan ook hierdie speletjie met 'n groep meisies en seuns probeer! Maak seker dat hulle beurte neem 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*One-on-One Time*",
+    "text": "*Een-tot-Een Tyd*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Spending time just with your girl or boy and taking an interest in them can improve your relationship.",
+    "text": "💚 Om tyd net met jou dogter of seun deur te bring en belangstelling in hulle te toon, kan julle verhouding verbeter.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When your boy or girl is playing alone or occupying themselves quietly, join them and show interest in what they are doing.",
+    "text": "👀 Wanneer jou seun of dogter alleen speel of hulself stilweg besig hou, sluit by hulle aan en toon belangstelling in wat hulle doen.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂Ask questions about their activity, and listen to them.",
+    "text": "👂Vra vrae oor hulle aktiwiteit, en luister na hulle.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your girl or boy lead the activity, follow them to build their confidence and autonomy 😃.",
+    "text": "Laat jou dogter of seun die aktiwiteit lei, volg hulle om hulle selfvertroue en selfstandigheid te bevorder 😃.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Say what you see - describing everything and supporting your boy’s or girl’s actions.",
+    "text": "👀 Sê wat jy sien - beskryf alles en ondersteun jou seun of dogter se aksies.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Be positive, praise your girl or boy, and enjoy spending this time with them 😃💚",
+    "text": "Wees positief, prys jou dogter of seun, en geniet dit om hierdie tyd saam met hulle deur te bring 😃💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playtime with Books*",
+    "text": "*Speeltyd met Boeke*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 Book sharing will help your boy or girl learn and is a fun, playful activity to spend quality time together.",
+    "text": "📖 Om saam te lees, sal jou seun of dogter help om te leer en is 'n prettige, speelse aktiwiteit om kwaliteit tyd saam deur te bring.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones.",
+    "text": "⏰ Kies 'n tyd wanneer julle nie onderbreek sal word nie, en probeer om enige afleidings te stop - bv. skakel die TV af en bêre alle fone.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 If your girl or boy wants to choose a book, that’s fine, otherwise choose for them.",
+    "text": "📖 As jou dogter of seun 'n boek wil kies, is dit goed, anders kan jy namens hulle kies.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Sit close together and follow your boy or girl attention and lead. ",
+    "text": "💚 Sit naby mekaar en volg jou seun of dogter se aandag en leiding. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Point at things, name and repeat words. Help them to learn more about what interests them in the book 👀 ",
+    "text": "Wys na dinge, benoem dit en herhaal woorde. Help hulle om meer te leer oor dit wat hulle interesseer in die boek 👀 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If there are words or numbers in the book, ask and help your girl or boy recognise letters numbers, and simple words 💡. ",
+    "text": "As daar woorde of getalle in die boek is, vra en help jou dogter of seun om letters, getalle en eenvoudige woorde te herken💡. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Link things in the books to your child's life, and use words about emotions and talk about them! 😃.",
+    "text": "Verbind dinge in die boeke aan jou kind se lewe, en gebruik woorde oor emosies en praat daaroor! 😃.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry.",
+    "text": "🔄 Indien moontlik, begin 'n gereelde roetine om saam te lees wanneer jou dogter of seun nie te moeg of honger is nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Reading together is one of the best ways to help your boy or girl learn and prepare for success in school! 🎓",
+    "text": "Om saam te lees, is een van die beste maniere om jou seun of dogter te help om te leer en voor te berei vir sukses op skool! 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 Book sharing will help your girl or boy learn and is a fun, playful activity to spend quality time together",
+    "text": "📖 Om saam te lees, sal jou seun of dogter help om te leer en is 'n prettige, speelse aktiwiteit om kwaliteit tyd saam deur te bring",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones",
+    "text": "⏰ Kies 'n tyd wanneer julle nie onderbreek sal word nie, en probeer om enige afleidings te stop - bv. skakel die TV af en bêre alle fone",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 If your boy or girl wants to choose a book, that’s fine, otherwise choose for them",
+    "text": "📖 As jou seun of dogter 'n boek wil kies, is dit goed, anders kan jy namens hulle kies",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Sit close together and follow your girl or boy attention and lead ",
+    "text": "💚 Sit naby mekaar en volg jou dogter of seun se aandag en leiding ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Link things in the books to your child's life, and use words about emotions and talk about them! 😃",
+    "text": "Verbind dinge in die boeke aan jou kind se lewe, en gebruik woorde oor emosies en praat daaroor! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry",
+    "text": "🔄 Indien moontlik, begin 'n gereelde roetine om saam te lees wanneer jou dogter of seun nie te moeg of honger is nie",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I Spy!*",
+    "text": "*Ek sien met my kleine ogie!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 I spy is a fun game to play with your girl or boy that will help them learn about letters and words!",
+    "text": "👀 Ek sien met my kleine ogie is 'n prettige speletjie om saam met jou dogter of seun te speel en sal hulle help om letters en woorde te leer ken!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose an object or a thing around you, and don’t tell your boy or girl what it is. It should be something that your boy or girl knows the word for. For example “ball” ⚽",
+    "text": "Kies 'n voorwerp of iets in jou omgewing, en moenie vir jou seun of dogter sê wat dit is nie. Dit moet iets wees waarvoor jou seun of dogter die woord ken, byvoorbeeld “bal” ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”",
+    "text": "👀 Sê dan “Ek sien met my kleine ogie, iets wat begin met *en sê dan die eerste letter van die woord,* wat in hierdie geval “b” is",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your girl or boy should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅",
+    "text": "Jou dogter of seun moet rondkyk en raai wat die voorwerp is. Wanneer hulle reg raai, prys hulle en ruil rolle! As hulle dit nie kan raai nie, gee 'n paar leidrade, soos “dis rond” of “dis swart en wit”. ✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Play this game with as many objects as possible and as many different letters! Help your boy or girl to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓",
+    "text": "Speel hierdie speletjie met soveel voorwerpe en soveel verskillende letters as moontlik! Help jou seun of dogter om die verskillende letters en klanke in woorde te leer. Dit sal hulle tuis en op skool leer om te lees. 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Categorising and Organising*",
+    "text": "*Kategoriseer en Organiseer*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your girl or boy to learn by sorting objects and things! 🔵🔷",
+    "text": "Help jou dogter of seun om te leer deur voorwerpe en dinge te sorteer! 🔵🔷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your boy or girl will learn by understanding how things fit and group together (eg, bear = animal, mango = fruit, blue = colour) 🧸",
+    "text": "Jou seun of dogter sal leer deur te verstaan hoe goed bymekaar pas en in groepe saamhoort (bv. beer = dier, mango = vrug, blou = kleur) 🧸",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Find a book with different pictures and help your girl or boy to find things in a particular category (e.g. “Find all of the animals”) 👀",
+    "text": "Kry 'n boek met verskillende prentjies en help jou dogter of seun om goed in 'n spesifieke kategorie te vind (bv. “Soek al die diere”) 👀",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Find *safe* objects in the house, get your boy or girl to group them by colour, size, or types of object (cups, plates). Then make more complicated categories (e.g. small cups, big cups) ☕",
+    "text": "Kry *veilige* voorwerpe in die huis en laat jou seun of dogter dit in groepe verdeel volgens kleur, grootte of tipes voorwerpe (koppies, borde). Maak dan meer ingewikkelde kategorieë (bv. klein koppies, groot koppies) ☕",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 You can play the categorising game anywhere! Just look around and ask your girl or boy to find things from the category you say!",
+    "text": "🔄 Julle kan die kategoriespeletjie op enige plek speel! Kyk net rondom jou en vra jou dogter of seun om goed uit die kategorie wat jy noem, te vind!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What Letter is This?*",
+    "text": "*Watter Letter is Dit?*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Playing games with letters can help your boy or girl learn the alphabet and how letters are put together to make words.",
+    "text": "Speletjies met letters kan jou seun of dogter help om die alfabet te leer en hoe om letters saam te voeg om woorde te maak.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Write a letter on a piece of card or paper (e.g. “p”)",
+    "text": "📝 Skryf 'n letter op 'n stukkie karton of papier (bv. “p”)",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Say the letter out loud and ask your girl or boy to say it too!",
+    "text": "👂 Sê die letter hardop en vra jou dogter of seun om dit ook te sê!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask your boy or girl to say some words that begin with the letter “p”, give them clues like “What starts with “p”? Plant… What else? 🌱",
+    "text": "Vra jou seun of dogter om 'n paar woorde te noem wat met die letter “p” begin, gee leidrade soos “Wat begin met “p”? Plant… Wat nog? 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Ask your girl or boy to look for objects in your house that begin with a letter (eg “p” for plate). Help them find things.",
+    "text": "👀 Vra jou dogter of seun om in die huis te soek vir voorwerpe wat met 'n letter begin (bv. “b” vir bord). Help hulle om goed te kry.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Try a new letter every day!",
+    "text": "🔄 Probeer elke dag 'n nuwe letter!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Riddles Help Boys and Girls Learn*",
+    "text": "*Raaisels Help Seuns en Meisies om te Leer*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Riddles and puzzles are a fun way to build thinking skills! 💡",
+    "text": "Raaisels en kopkrappers is 'n prettige manier om denkvaardighede te ontwikkel! 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃",
+    "text": "Onthou jy enige raaisels uit jou kinderdae? As jy nie kan nie, dink dan een uit, dit kan baie eenvoudig wees! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Like “What can you see at night but not in the day” Answer: “The moon” 🌙",
+    "text": "Soos “Wat kan jy in die nag sien, maar nie in die dag nie?” Antwoord: “Die maan” 🌙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If your girl or boy is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽",
+    "text": "As jou dogter of seun dit moeilik vind, probeer 'n maklike een soos: “Wat is rond, bons en kan gegooi of geskop word?” Antwoord: “ 'n Bal” ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your boy or girl can also try making riddles! 💡",
+    "text": "Jou seun of dogter kan ook probeer om raaisels uit te dink! 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can have fun with riddles anywhere at any time - like traveling on a bus, walking to school or in a car 🚗",
+    "text": "Julle kan enige plek, enige tyd, pret met raaisels hê - soos terwyl julle in 'n bus ry, skool toe stap of in 'n motor ry 🚗",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What's New?*",
+    "text": "*Wat’s Nuut?*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask your girl or boy to think of a new, fun skill you could learn together. ",
+    "text": "❓ Vra jou dogter of seun om te dink aan 'n nuwe, prettige vaardigheid wat julle saam kan leer. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!",
+    "text": "🔄 Neem beurte om die nuwe vaardigheid te probeer. Maak seker dat julle mekaar prys, leer en saam speel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Approach learning the skill in a kind and fun way, and do not judge your boy or girl or yourself for your ability in the skill. ",
+    "text": "💛 Benader die aanleer van die vaardigheid op 'n simpatieke en prettige manier, en moenie jouself of jou seun of dogter afkraak oor julle vermoë in die vaardigheid nie. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Once you have mastered the skill, choose another skill to learn together.",
+    "text": "😃 As julle die vaardigheid bemeester het, kies 'n ander vaardigheid om saam aan te leer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make up a Story*",
+    "text": "*Dink 'n Storie uit*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating stories together is a great way to have fun with imagination - and to build your girl or boy’s creativity! 📖",
+    "text": "Om saam stories te skep, is 'n wonderlike manier om pret te hê met verbeelding - en jou dogter of seun se kreatiwiteit te ontwikkel! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "5️⃣ With your boy or girl, come up with 5 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, cooking, wedding. If you need to remember them, write them clearly on a paper with your girl or boy.",
+    "text": "5️⃣ Dink saam met jou seun of dogter aan 5 woorde om te gebruik. Dit kan enige woorde wees wat julle wil! Byvoorbeeld: piesang, ruimtetuig, vis, water, skildery, kook, troue. As julle dit moet onthou, skryf dit duidelik op 'n vel papier saam met jou dogter of seun.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Start your story with, “Once upon a time, there was a…” and use one of the words from the list in the first part. For example, “Once upon a time, there was a family who worked on a *banana* farm.”",
+    "text": "🎂 Begin julle storie met “Eendag, lank, lank gelede was daar 'n …” en gebruik een van die woorde uit die lys in die eerste deel. Byvoorbeeld, “Eendag, lank, lank gelede was daar 'n gesin wat op 'n *piesang*-plaas gewerk het.”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Let your boy or girl make up the next part using another word from the list.",
+    "text": "📝 Laat jou seun of dogter die volgende deel uitdink deur nog 'n woord uit die lys te gebruik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns until you have used all the words and created a story. ",
+    "text": "🔄 Neem beurte totdat julle al die woorde gebruik het en 'n storie geskep het. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Be creative and do not tell your girl or boy what to say. It does not need to be a real story to be fun!",
+    "text": "🔔 Wees kreatief en moenie vir jou dogter of seun vertel wat om te sê nie. Dit hoef nie 'n ware verhaal te wees om pret te wees nie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Ask your boy or girl what their favourite part of the story was, and tell them yours!",
+    "text": "🎁 Vra jou seun of dogter wat hulle gunsteling deel van die storie was, en sê wat joune was!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playing with Clothes*",
+    "text": "*Speel met Klere*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Help your girl or boy use their fingers, talk about clothes, and organise them! ",
+    "text": "💡Help jou dogter of seun om hulle vingers te gebruik, praat oor klere, en sorteer dit! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your boy or girl exercise their fingers by showing them how buttons and zips work on clothes, and letting them practise using them! 👋",
+    "text": "Help jou seun of dogter om hulle vingers te oefen deur vir hulle te wys hoe knope en ritssluiters aan klere werk, en laat hulle oefen om dit te gebruik! 👋",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Talk about the colours of clothes! Ask your girl or boy to pick a colour and talk about all the things that are that colour: “What are all the things we can think of that are blue?”",
+    "text": "🔵 Praat oor die kleure van klere! Vra jou dogter of seun om 'n kleur te kies en praat oor al die goed wat daardie kleur is: “Aan watter dinge kan ons alles dink wat blou is?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Encourage your boy or girl to help you sort clothes into piles for each family member.",
+    "text": "😃 Moedig jou seun of dogter aan om jou te help om die klere in hopies vir elke gesinslid te sorteer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playing with Vegetables*",
+    "text": "*Speel met Groente*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Help your girl or boy learn by thinking and talking about vegetables!",
+    "text": "🌱 Help jou dogter of seun om te leer deur te dink en te praat oor groente!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 Mix together 2-3 different ingredients of your choice (like onions, tomatoes and corn example). Say: “Help me sort these vegetables into piles?” Try sorting them by size.",
+    "text": "🍅 Meng 2-3 verskillende bestanddele van jou keuse (byvoorbeeld uie, tamaties en mielies). Vra: “Sal jy my help om hierdie groente in hopies te sorteer?” Probeer om dit volgens grootte te sorteer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Remind me!",
+    "text": "😃 Herinner my!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk about your child’s experiences. Ask questions and wait for answers. Follow your child’s interests. ",
+    "text": "Praat oor jou kind se ervarings. Vra vrae en wag vir antwoorde. Volg jou kind se belangstellings. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“Can you help me remember what is at the market?” “Do they sell carrots at the market?” “Do they sell anything yellow at the market?” “What else do they sell?” “Can you think of other things they sell?”",
+    "text": "“Kan jy my help om te onthou wat alles by die mark is?” “Verkoop hulle wortels by die mark?” “Verkoop hulle enigiets wat geel is, by die mark?” “Wat verkoop hulle nog?” “Kan jy aan ander goed dink wat hulle verkoop?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Can you think of something similar?",
+    "text": "💡Kan jy aan iets soortgelyks dink?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say: We are going to think of some things that are similar or different from what I tell you. So listen carefully!”",
+    "text": "Sê: Ons gaan dink aan goed wat dieselfde of verskillend is van wat ek vir jou sê. So luister mooi!”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a tomato. Can you think of something else that is red like a tomato? 🍅",
+    "text": "Hier is 'n tamatie. Kan jy aan nog iets dink wat rooi is soos 'n tamatie? 🍅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you think of something else that is round like a tomato? ⚽",
+    "text": "Kan jy aan nog iets dink wat rond is soos 'n tamatie? ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Animals*",
+    "text": "*Diere*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧸 Active animals: Take turns with @fields.child_nickname doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird.",
+    "text": "🧸 Aktiewe diere: Neem beurte met @fields.child_nickname om diere-aksies uit te voer: Spring soos 'n padda, strek soos 'n kat, hardloop soos 'n hond, seil soos 'n slang, fladder soos 'n voël.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird.",
+    "text": "🧸 Aktiewe diere: Neem beurte met jou kind om diere-aksies uit te voer: Spring soos 'n padda, strek soos 'n kat, hardloop soos 'n hond, seil soos 'n slang, fladder soos 'n voël.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡All the animals we can think of - think about groups of animals!",
+    "text": "💡Al die diere waaraan ons kan dink - dink oor groepe diere!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that have feathers?",
+    "text": "Aan watter diere kan ons almal dink wat vere het?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that eat plants? 🌱",
+    "text": "Aan watter diere kan ons almal dink wat plante eet? 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that lay eggs?",
+    "text": "Aan watter diere kan ons almal dink wat eiers lê?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Counting rabbits",
+    "text": "😃 Tel hasies!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 Find 10 rocks and put them in a line, tell your girl or boy that they are rabbits!",
+    "text": "🔟 Soek 10 klippe en sit hulle in 'n ry, sê vir jou dogter of seun dit is hasies!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask them to count the rabbits!",
+    "text": "Vra hulle om die hasies te tel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the rabbits into 2 equal piles. Ask your boy or girl to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have?”",
+    "text": "Verdeel die hasies in 2 gelyke hopies. Vra jou seun of dogter om vir jou 3 hasies te gee. Sê “As jy vir my 3 gee, hoeveel hasies het jy?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Active Counting*",
+    "text": "*Tel Aktief*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Clap, hop, jump: Play the following game with @fields.child_nickname. Make it active!",
+    "text": "👋 Klap, huppel, spring: Speel die volgende speletjie met @fields.child_nickname. Maak dit aktief!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.",
+    "text": "1️⃣ Klap hande 1 keer. 2️⃣ Klap hande 2 keer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Jump 1 time. 2️⃣ Jump 2 times.",
+    "text": "1️⃣ Spring 1 keer. 2️⃣ Spring 2 keer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Hop 1 time.",
+    "text": "1️⃣ Huppel 1 keer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Hop 3 times.",
+    "text": "3️⃣ Huppel 3 keer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Can you hop, then jump, then clap? ",
+    "text": "💡Kan jy huppel, dan spring, dan klap? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Can you clap twice, jump once, and hop three times?",
+    "text": "🏆 Kan jy twee keer klap, een keer spring en drie keer huppel?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Clap, hop, jump: Play the following game with your child. Make it active!",
+    "text": "👋 Klap, huppel, spring: Speel die volgende speletjie met jou kind. Maak dit aktief!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Remembering Instructions",
+    "text": "💡Onthou Instruksies!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!",
+    "text": "Speel 'n speletjie waar julle beurte neem om 2-3 instruksies te gee wat die ander persoon moet onthou en uitvoer. Maak seker dat fisiese beweging ingesluit word!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example:",
+    "text": "Byvoorbeeld:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Hop twice, turn around.",
+    "text": "Huppel twee keer, draai om.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Jump to the kitchen, pick up a spoon, then run back. ✅",
+    "text": "Spring kombuis toe, tel 'n lepel op, hardloop dan terug. ✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Thinking Games*",
+    "text": "*Dinkspeletjies*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❗ Mama/Daddy says! Play this game of giving instructions:",
+    "text": "❗ Mamma/Pappa sê! Speel hierdie speletjie waarin instruksies gegee word:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Mama/daddy says touch your head. Mama/daddy says open your mouth. Mama/daddy says turn around. Mama/daddy says touch your knees. Mama/daddy says jump twice. Mama/daddy says jump, then clap and sit.",
+    "text": "Mamma/Pappa sê raak aan jou kop. Mamma/Pappa sê maak oop jou mond. Mamma/Pappa sê draai om. Mamma/Pappa sê raak aan jou knieë. Mamma/Pappa sê spring twee keer. Mamma/Pappa sê spring, klap hande en sit.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 🔴Blue-Red - now play this game!",
+    "text": "🔵 🔴Blou-Rooi - speel nou hierdie speletjie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If I say touch something blue, you need to touch something red. If I say touch something red, you need to touch something blue.",
+    "text": "As ek sê raak aan iets blou, moet jy aan iets rooi raak. As ek sê raak aan iets rooi, moet jy aan iets blou raak.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Go and stop: Play the game with @fields.child_nickname",
+    "text": "👂 Gaan en stop: Speel die speletjie met @fields.child_nickname",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Say: When I say “stop”, we freeze. When I say “go”, we can walk again.",
+    "text": "Sê: Wanneer ek sê “stop”, vries ons. Wanneer ek sê “gaan”, kan ons weer loop.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Once @fields.child_nickname is familiar with the game, @fields.child_nickname will lead.",
+    "text": "Wanneer @fields.child_nickname die speletjie ken, sal @fields.child_nickname die leiding neem.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👂 Go and stop: Play the game with your child",
+    "text": "👂 Gaan en stop: Speel die speletjie met jou kind.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Once your child is familiar with the game, your child will lead.",
+    "text": "Wanneer jou kind die speletjie ken, sal jou kind die leiding neem.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Games with Pictures!*",
+    "text": "*Speletjies met Prente!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Making up a story from an image",
+    "text": "👂 Dink 'n storie uit na aanleiding van 'n prent",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, say: We are going to make up a story about this picture. I can start. This little girl is feeling very excited today. Why do you think she is feeling excited?",
+    "text": "Sê byvoorbeeld: Ons gaan 'n storie oor hierdie prent uitdink. Ek kan begin. Hierdie dogtertjie is vandag baie opgewonde. Waarom, dink jy, is sy opgewonde?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 She is holding her bag and has a big smile. Where do you think she is going?",
+    "text": "😃 Sy hou haar sak vas en glimlag breed. Waar, dink jy, gaan sy heen?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Can you point to it?",
+    "text": "👀 Kan jy dit uitwys?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Using a book or a magazine, or anything with pictures, say:",
+    "text": "Gebruik 'n boek of 'n tydskrif, of enigiets met prente, en sê:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am going to describe something on the page and you need to guess what it is and point to it. For example, “I see something that is green and moves slowly.",
+    "text": "Ek gaan iets op die bladsy beskryf en jy moet raai wat dit is en dit met jou vinger uitwys. Byvoorbeeld, “Ek sien iets wat [groen is en stadig beweeg.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you guess what it is?” 💚",
+    "text": "Kan jy raai wat dit is?” 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Shapes Everywhere!*",
+    "text": "*Vorms Waar jy Kyk!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 Squares, squares everywhere",
+    "text": "📺 Vierkante, vierkante waar jy kyk",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Draw squares in the sand or dirt. Make some bigger and some smaller.",
+    "text": "👀 Teken vierkante in die sand of grond. Maak party groter en ander kleiner.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell @fields.child_nickname, “this is a square.” ",
+    "text": "Sê vir @fields.child_nickname, \"dit is 'n vierkant\".  ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Ask your girl or boy to try to draw a square. Hold your boy’s or girl’s hand to help if this is hard. ",
+    "text": "Vra jou dogter of seun om te probeer om 'n vierkant te teken. Hou hulle hand vas om te help as dit moeilik is. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Look for things around the home or outdoors that are the same shape.",
+    "text": "Kyk in die huis of buite vir goed wat dieselfde vorm het.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Now do the same with circles! 🔴",
+    "text": "Doen nou dieselfde met sirkels! 🔴",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell your child, “this is a square.” ",
+    "text": "Sê vir jou kind, \"dit is 'n vierkant\". ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Story Telling*",
+    "text": "*Storievertel*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Let’s make a story!",
+    "text": "💡Kom ons dink 'n storie uit!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say: We are going to make up a story. I will start then you will help me continue it. ",
+    "text": "Sê: Ons gaan 'n storie uitdink. Ek sal begin, dan help jy my om dit verder te vertel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ ”Once upon a time there was…”",
+    "text": "⏰ ”Eendag, lank, lank gelede was daar …”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“What happened next?”👀",
+    "text": "“Wat het volgende gebeur?”👀",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“What happened after that?”",
+    "text": "“Wat het daarna gebeur?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Tell me the story!",
+    "text": "👂 Vertel vir my die storie!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say to @fields.child_nickname: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” ",
+    "text": "Sê vir @fields.child_nickname: “Hier het ek 'n boek wat ons al voorheen gelees het. Kan jy die storie onthou en vir my vertel deur net na die prentjies te kyk?” ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👀 Show your girl or boy pictures in the book. Ask your boy or girl what is happening in the pictures and what happens next.",
+    "text": "👀 Wys vir jou dogter of seun prentjies in die boek. Vra jou seun of dogter wat gebeur in die prentjies en wat gebeur volgende.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say to your child: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” ",
+    "text": "Sê vir jou kind: “Hier het ek 'n boek wat ons al voorheen gelees het. Kan jy die storie onthou en vir my vertel deur net na die prentjies te kyk?” ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I'm a Writer!*",
+    "text": "*Ek's 'n Skrywer!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Have fun being creative with writing!",
+    "text": "📝 Geniet dit om kreatief te wees met skryfwerk!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You and @fields.child_nickname can have fun writing with a pencil and paper, or with a stick and the sand!",
+    "text": "Jy en @fields.child_nickname kan skryfpret hê met 'n potlood op papier, of met 'n stokkie in die sand!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "If your girl or boy doesn’t know how to write letters, encourage them to draw shapes, and try to copy the shapes of letters. 🔵▶️",
+    "text": "As jou dogter of seun nie weet hoe om letters te skryf nie, moedig hulle aan om vorms te teken en te probeer om die vorms van letters na te boots. 🔵▶️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "When they are more confident, encourage them to write letters and even words. 😃Start showing them how to write their name and other important words for them, like mom, ball or milk.",
+    "text": "Wanneer hulle meer selfvertroue het, moedig hulle aan om letters, en selfs woorde, te skryf. 😃 Begin om vir hulle te wys hoe om hulle naam te skryf, asook ander woorde wat vir hulle belangrik is, soos mamma, bal of melk.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Show them the simple things that you write - like shopping lists! Show them the words and each of the letters. Let them try to copy the words! 📖",
+    "text": "Wys vir hulle die eenvoudige goed wat jy skryf - soos inkopielysies! Wys vir hulle die woorde en elke letter. Laat hulle probeer om die woorde te kopieer! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You and your child can have fun writing with a pencil and paper, or with a stick and the sand!",
+    "text": "Jy en jou kind kan skryfpret hê met 'n potlood op papier, of met 'n stokkie in die sand!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*A Friendly Chat*",
+    "text": "*'n Vriendelike geselsie*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk to your girl or boy about something that they are interested in! 😃",
+    "text": "Praat met jou dogter of seun oor iets waarin hulle belangstel! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Spending quality time with your boy or girl and talking to them every day is a good way to develop a strong relationship. ",
+    "text": "💚 Om elke dag kwaliteit tyd saam met jou seun of dogter deur te bring en met hulle te praat, is 'n goeie manier om 'n sterk verhouding te ontwikkel. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ An easy way to start talking to your girl or boy is to ask them about something they are interested in, for example you could talk about topics such as: sports, books, movies, friends, music, celebrities, or school.",
+    "text": "⚽ 'n Maklike manier om met jou dogter of seun te begin praat, is om vir hulle uit te vra oor iets waarin hulle belangstel. Julle kan byvoorbeeld praat oor onderwerpe soos sport, boeke, flieks, vriende, musiek, beroemde mense of skool.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 You may not find everything your boy or girl shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+    "text": "👂 Jy sal dalk nie alles wat jou seun of dogter vertel, interessant vind nie, maar dit is belangrik om te wys dat jy entoesiasties is en gewillig is om te leer.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your girl or boy want to do and try it out together! ",
+    "text": "Oefening is 'n wonderlike manier om tyd saam deur te bring, en dit is so goed vir jou gesondheid. 🌱 Vind 'n sport of oefening wat jy en jou dogter of seun albei wil doen en probeer dit saam! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If you or your girl or boy do not like the first exercise you pick, try a new exercise.",
+    "text": "🔄 As jy of jou dogter of seun nie hou van die eerste oefening wat julle gekies het nie, probeer 'n nuwe een.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Pass the Ball*",
+    "text": "*Gee die Bal aan*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Active Songs*",
+    "text": "*Aktiewe Liedjies*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Young boys and girls love physical games! But they need reminders about how to play 💡",
+    "text": "😃 Jong seuns en dogters hou van fisiese speletjies! Maar hulle moet herinner word hoe om te speel 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Songs with movements are fun and active and give instructions on how to move!",
+    "text": "🎵 Liedjies met bewegings is pret en aktief en gee instruksies oor hoe om te beweeg!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sing songs to @fields.child_nickname or a group of girls and boys in which they have to:",
+    "text": "Sing liedjies vir @fields.child_nickname of 'n groep dogters of seuns waarin hulle moet:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅ Start and stop ❌",
+    "text": "✅ Begin en stop ❌",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬇️ Slow down and speed up ⬆️",
+    "text": "⬇️ Stadiger en vinniger moet beweeg ⬆️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sing songs to your child or a group of girls and boys in which they have to:",
+    "text": "Sing liedjies vir jou kind of 'n groep dogters of seuns waarin hulle moet:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Follow the Leader!*",
+    "text": "*Volg die Leier!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Choose someone to be the leader (tip: start with an adult like yourself)",
+    "text": "⭐ Kies iemand as leier (wenk: begin met 'n volwassene soos jyself)",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Other players line up behind the leader. The leader moves around in any way they like!",
+    "text": "😃 Ander spelers maak 'n ry agter die leier. Die leier beweeg rond op enige manier wat hulle wil!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 They can run, jump, crawl, walk on tiptoe, and any other way they want!",
+    "text": "🏁 Hulle kan hardloop, spring, kruip, op hulle tone loop, en enige ander manier wat hulle wil!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 The other players must copy what the leader does, and the leader can change movements at any time.",
+    "text": "👀 Die ander spelers moet die leier se bewegings naboots, en die leier kan te eniger tyd die bewegings verander.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Players take turns being the leader!",
+    "text": "🔄 Elkeen kry 'n beurt om die leier te wees!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be the Narrator*",
+    "text": "*Wees die Verteller*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Say what your girl or boy is doing while they are playing",
+    "text": "👀 Sê wat jou dogter of seun doen terwyl hulle speel!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 This will help them learn the words to describe their actions.",
+    "text": "👂 Dit sal hulle help om die woorde te leer wat hulle aksies beskryf.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 You can do it in a simple way, or in a silly way like a sports commentator, a news presenter, or a game show host",
+    "text": "😃 Jy kan dit op 'n eenvoudige manier doen, of op 'n lawwe manier soos 'n sportkommentator, 'n nuusleser of 'n speletjiesprogram-aanbieder.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ask questions like “what will you do next?” or “I see you want to put the ball in the jar. Is there another way to do that?”",
+    "text": "💡 Vra vrae soos “Wat gaan jy volgende doen?” of “Ek sien jy wil die bal in die fles sit. Is daar 'n ander manier om dit te doen?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be an Artist!*",
+    "text": "*Wees 'n Kunstenaar!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Give @fields.child_nickname some paper and a pen or pencil, or some different pens or pencils.",
+    "text": "📝 Gee vir @fields.child_nickname papier en 'n pen of potlood, of 'n paar verskillende penne of potlode.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃 Let your girl or boy draw whatever they want to!",
+    "text": "😃 Laat jou dogter of seun vrylik teken wat hulle wil!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Ask questions about what they are drawing, the size of the thing they are drawing, and the colours they are using.",
+    "text": "👀 Vra vrae oor wat hulle teken, die grootte van die ding wat hulle teken, en die kleure wat hulle gebruik.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 If possible, put your boy or girl’s picture up on the wall when they are finished. Give praise to your girl or boy!",
+    "text": "🏆Indien moontlik, plak jou seun of dogter se prent teen die muur wanneer dit klaar is. Prys jou dogter of seun!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Give your child some paper and a pen or pencil, or some different pens or pencils.",
+    "text": "📝 Gee vir jou kind papier en 'n pen of potlood, of 'n paar verskillende penne of potlode.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be an Expert in Emotions!*",
+    "text": "*Wees 'n Kenner oor Emosies!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Create an album of the six emotions with @fields.child_nickname: happy, sad, angry, disgusted, surprised, afraid.",
+    "text": "📝 Skep 'n album van die ses emosies saam met @fields.child_nickname: gelukkig, hartseer, kwaad, teensinnig, verras, bang.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Draw, cut-out pictures from magazines, or take photos of family members showing different emotions. ",
+    "text": "Teken, knip prente uit tydskrifte of neem foto's van gesinslede wat die verskillende emosies uitbeeld. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Label each emotion and add words about how each family member feels those emotions.",
+    "text": "Etiketteer elke emosie en voeg woorde by oor hoe elke gesinslid daardie emosies ervaar.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Create an album of the six emotions with your child: happy, sad, angry, disgusted, surprised, afraid.",
+    "text": "📝 Skep 'n album van die ses emosies saam met jou kind: gelukkig, hartseer, kwaad, teensinnig, verras, bang.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the album in a spot everyone agrees on, and use it throughout the day to show how the family is feeling. For example, after school, everyone can pin the emotion they’re experiencing. ",
+    "text": "Plaas die album op 'n plek waaroor almal ooreenkom, en gebruik dit deur die dag om te wys hoe die gesin voel. Elkeen kan byvoorbeeld na skool die emosie wat hulle ervaar, iewers vasspeld. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Feel free to add new feelings as they come up. If someone doesn’t know what they are feeling, help them identify it by exploring how it feels in their body. Try together to find a new word for that emotion.",
+    "text": "Voeg gerus nuwe gevoelens by soos wat dit opduik. As iemand nie weet wat hulle voel nie, help hulle om dit te identifiseer deur uit te vra oor hoe dit in hulle liggaam voel. Probeer om saam 'n nuwe woord vir daardie emosie te vind.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This can help everyone in the family become experts in understanding themselves and be aware of what their bodies need.",
+    "text": "Dit kan elkeen in die gesin help om 'n kenner te word op die gebied om hulself te verstaan en bewus te wees van wat hulle liggaam nodig het.",
+    "type": "text",
+    "note": ""
+  }
+]

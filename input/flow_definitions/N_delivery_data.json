@@ -183,6 +183,21 @@
         "tags.1": "",
         "tags.2": "",
         "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "troubleshooting_help_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
       }
     ],
     "congrats_data": [
@@ -213,7 +228,7 @@
       },
       {
         "ID": "first",
-        "msg": "It takes only 5 days to complete this course and earn your parenting certificate."
+        "msg": "It takes only 5 days to complete this first course and earn your parenting certificate."
       }
     ],
     "delivery_messages": [
@@ -240,60 +255,15 @@
         "msg": "NA",
         "next_button_option": "",
         "metadata.description": ""
+      },
+      {
+        "ID": "control_safety_adv",
+        "msg": "We will let you know in a few months when the next course about keeping  Your Child safe is ready. ",
+        "next_button_option": "",
+        "metadata.description": ""
       }
     ],
     "make_options_wrapper_data": [
-      {
-        "ID": "start_new_goal_menu",
-        "list_var": "fields.goals_to_start",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "There are no new courses available.",
-        "msg_no_options.image": "",
-        "msg_one_option.message": "You only have the following course to start",
-        "msg_one_option.question": "Would you like to begin this course?",
-        "msg_one_option.affirmative": "Yes",
-        "msg_one_option.negative": "No",
-        "msg_one_option.no_message": "That's okay.",
-        "msg_multiple_options": "Which new course would you like to start? ",
-        "extra_option": "",
-        "extra_message": "",
-        "update_var": "curr goal"
-      },
-      {
-        "ID": "start_started_goal_menu",
-        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "You do not have have a current course. ",
-        "msg_no_options.image": "",
-        "msg_one_option.message": "You only have the following course started",
-        "msg_one_option.question": "Would you like to begin this course?",
-        "msg_one_option.affirmative": "Yes",
-        "msg_one_option.negative": "No",
-        "msg_one_option.no_message": "That's okay.",
-        "msg_multiple_options": "Which unfinished course would you like to complete?",
-        "extra_option": "",
-        "extra_message": "",
-        "update_var": "curr goal"
-      },
-      {
-        "ID": "start_started_goal",
-        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "There are no incomplete courses. ",
-        "msg_no_options.image": "",
-        "msg_one_option.message": "You only have the following course to complete",
-        "msg_one_option.question": "Would you like to begin this course?",
-        "msg_one_option.affirmative": "Yes",
-        "msg_one_option.negative": "No",
-        "msg_one_option.no_message": "That's okay.",
-        "msg_multiple_options": "Great! Which unfinished course would you like to complete?",
-        "extra_option": "",
-        "extra_message": "",
-        "update_var": "curr goal"
-      },
       {
         "ID": "start_started_module_daily",
         "list_var": "fields.c_mod_started",
@@ -367,31 +337,14 @@
         "list_var": "fields.goals_to_start",
         "print_type": "goal",
         "n_max_opt": "10",
-        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.message": "-",
         "msg_no_options.image": "",
         "msg_one_option.message": "Let's start with the course ",
         "msg_one_option.question": "",
         "msg_one_option.affirmative": "",
         "msg_one_option.negative": "",
         "msg_one_option.no_message": "",
-        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
-        "extra_option": "",
-        "extra_message": "",
-        "update_var": "curr goal"
-      },
-      {
-        "ID": "start_started_goal_daily",
-        "list_var": "fields.goals_started",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "You have seen all the courses",
-        "msg_no_options.image": "",
-        "msg_one_option.message": "Let's continue with the course ",
-        "msg_one_option.question": "",
-        "msg_one_option.affirmative": "",
-        "msg_one_option.negative": "",
-        "msg_one_option.no_message": "",
-        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "msg_multiple_options": "-",
         "extra_option": "",
         "extra_message": "",
         "update_var": "curr goal"
@@ -401,69 +354,24 @@
         "list_var": "fields.goals_to_start",
         "print_type": "goal",
         "n_max_opt": "10",
-        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.message": "-",
         "msg_no_options.image": "",
         "msg_one_option.message": "Let's start with the course ",
         "msg_one_option.question": "",
         "msg_one_option.affirmative": "",
         "msg_one_option.negative": "",
         "msg_one_option.no_message": "",
-        "msg_multiple_options": "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
-        "extra_option": "",
-        "extra_message": "",
-        "update_var": "curr goal"
-      },
-      {
-        "ID": "start_started_goal_expired",
-        "list_var": "fields.goals_started",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "You have seen all the courses",
-        "msg_no_options.image": "",
-        "msg_one_option.message": "Let's continue with the course ",
-        "msg_one_option.question": "",
-        "msg_one_option.affirmative": "",
-        "msg_one_option.negative": "",
-        "msg_one_option.no_message": "",
-        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "msg_multiple_options": "-",
         "extra_option": "",
         "extra_message": "",
         "update_var": "curr goal"
       }
     ],
-    "show_options_wrapper_data": [
-      {
-        "ID": "new_goals",
-        "list_var": "fields.goals_to_start",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "You are on track to complete the entire ParentText programme! There are no new courses to start!",
-        "msg_one_option.message": "You have the following course available:",
-        "msg_multiple_options": "You have the following courses available:"
-      },
-      {
-        "ID": "started_goals",
-        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "There are no other courses to complete.",
-        "msg_one_option.message": "You have the following courses still available: ",
-        "msg_multiple_options": "You have not begun the following courses: "
-      },
-      {
-        "ID": "completed_goals",
-        "list_var": "fields.goals_compl",
-        "print_type": "goal",
-        "n_max_opt": "10",
-        "msg_no_options.message": "You have not completed a course yet.",
-        "msg_one_option.message": "You have completed the following course:",
-        "msg_multiple_options": "You have completed the following courses:"
-      }
-    ],
+    "show_options_wrapper_data": [],
     "interaction_data": [
       {
         "ID": "unfinished_onboarding",
-        "question": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?\n\nPress a number on your keypad:\n1. Yes\n2. Remind me tomorrow",
+        "question": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?\n\nSelect one of the options below:\n1. Yes\n2. Remind me tomorrow",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -478,7 +386,7 @@
       },
       {
         "ID": "complete_start_module",
-        "question": "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?\n\nPress a number on your keypad:\n1. Complete a previous lesson\n2. Start a new lesson",
+        "question": "It seems like you've got some catching up to do! Do you want to complete your previous unfinished lesson or start a new lesson?\n\nSelect one of the options below:\n1. Complete a previous lesson\n2. Start a new lesson",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -508,7 +416,7 @@
       },
       {
         "ID": "start_started_mod_or_later_one",
-        "question": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?\n\nPress a number on your keypad:\n1. Finish this lesson and earn my course certificate\n2. Remind me tomorrow",
+        "question": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?\n\nSelect one of the options below:\n1. Finish this lesson and earn my course certificate\n2. Remind me tomorrow",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -523,7 +431,7 @@
       },
       {
         "ID": "start_started_mod_or_later_multiple",
-        "question": "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?\n\nPress a number on your keypad:\n1. Complete unfinished lessons to earn my course certificate\n2. Remind me tomorrow",
+        "question": "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?\n\nSelect one of the options below:\n1. Complete unfinished lessons to earn my course certificate\n2. Remind me tomorrow",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -538,9 +446,9 @@
       },
       {
         "ID": "first_module_intro",
-        "question": "It's time to get started on ParentText. Are you ready? \n\nPress a number on your keypad: \n1. Yes!\n2. Remind me tomorrow",
-        "webhook_template_name": "",
-        "webhook_template_args": "",
+        "question": "It’s time to get started on your course, @results.name. Are you ready?\n\nSelect one of the options below:\n1. Yes!\n2. Remind me tomorrow",
+        "webhook_template_name": "use_webhook_get_name",
+        "webhook_template_args": "goal;fields.curr_goal;webhook_settings",
         "options.1.text": "1",
         "options.1.proceed_result_value": "yes",
         "options.1.stop_message": "",
@@ -548,12 +456,12 @@
         "options.2.proceed_result_value": "",
         "options.2.stop_message": "Great, see you tomorrow!",
         "wa_template_ID": "first_module_intro",
-        "wa_template_vars.1": "",
+        "wa_template_vars.1": "@results.name",
         "wa_template_vars.2": ""
       },
       {
         "ID": "daily_interaction",
-        "question": "I've got another lesson ready for you! Are you ready?\n\nPress a number on your keypad:\n1. Yes\n2. No, remind me tomorrow",
+        "question": "We've got another lesson ready for you! Are you ready?\n\nSelect one of the options below:\n1. Yes\n2. No, remind me tomorrow",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -568,7 +476,7 @@
       },
       {
         "ID": "select_goal",
-        "question": "I've got another lesson ready for you! Are you ready?\n\nPress a number on your keypad:\n1. Yes\n2. No, remind me tomorrow",
+        "question": "We've got another lesson ready for you! Are you ready?\n\nSelect one of the options below:\n1. Yes\n2. No, remind me tomorrow",
         "webhook_template_name": "",
         "webhook_template_args": "",
         "options.1.text": "1",
@@ -587,9 +495,9 @@
         "ID": "timed_programme",
         "activity_handler_flow": "activity_handler",
         "offer_msg": "What would you like to do next?",
-        "accept.child": "Give me an idea for 1-on-1 time with my child",
-        "accept.teen": "Give me an idea for 1-on-1 time with my teen",
-        "accept.baby": "Give me an idea for 1-on-1 time with my baby",
+        "accept.child": "Give me an idea for one-on-one time with my child",
+        "accept.teen": "Give me an idea for one-on-one time with my teen",
+        "accept.baby": "NA",
         "other_option": "I need more parenting help",
         "other_flow": "referral_path - referral_more_parenting_help",
         "refuse": "I’m done for today",
@@ -599,17 +507,17 @@
         "next_refuse": "Continue my progress tomorrow",
         "next_refuse_msg": "Great, see you tomorrow!",
         "next_refuse_flow": "",
-        "next_other_opt": "Go to Main Menu",
+        "next_other_opt": "",
         "next_other_msg": "",
-        "next_other_flow": "menu - main"
+        "next_other_flow": ""
       },
       {
         "ID": "demo",
         "activity_handler_flow": "activity_handler",
         "offer_msg": "What would you like to do next?",
-        "accept.child": "Give me an idea for 1-on-1 time with my child",
-        "accept.teen": "Give me an idea for 1-on-1 time with my teen",
-        "accept.baby": "Give me an idea for 1-on-1 time with my baby",
+        "accept.child": "Give me an idea for one-on-one time with my child",
+        "accept.teen": "Give me an idea for one-on-one time with my teen",
+        "accept.baby": "NA",
         "other_option": "I need more parenting help",
         "other_flow": "referral_path - referral_more_parenting_help",
         "refuse": "I’m done for today",
@@ -639,37 +547,12 @@
         "next_refuse": "Exit menu",
         "next_refuse_msg": "",
         "next_refuse_flow": "exit_menu",
-        "next_other_opt": "Go to Main Menu",
+        "next_other_opt": "",
         "next_other_msg": "",
-        "next_other_flow": "menu - main"
+        "next_other_flow": ""
       }
     ],
     "referral_paths_data": [
-      {
-        "ID": "referral_more_parenting_help",
-        "message.text": "How can I help?",
-        "message.image": "",
-        "return_option.text": "",
-        "return_option.flow": "",
-        "options.1.text": "I need more parenting support than ParentText offers",
-        "options.1.flow": "referral_path_info - more_parenting_support",
-        "options.2.text": "I need support with my child’s disability",
-        "options.2.flow": "referral_path_info - disability_support",
-        "options.3.text": "I’m facing challenges that make it difficult to focus on parenting right now",
-        "options.3.flow": "safeguarding_help",
-        "options.4.text": "I need emergency support",
-        "options.4.flow": "safeguarding_help",
-        "options.5.text": "",
-        "options.5.flow": "",
-        "options.6.text": "",
-        "options.6.flow": "",
-        "options.7.text": "",
-        "options.7.flow": "",
-        "options.8.text": "",
-        "options.8.flow": "",
-        "options.9.text": "",
-        "options.9.flow": ""
-      },
       {
         "ID": "referral_3_day_inactivity",
         "message.text": "It looks like ParentText isn't working for you. Can you tell us why?",
@@ -693,11 +576,40 @@
         "options.8.text": "",
         "options.8.flow": "",
         "options.9.text": "",
-        "options.9.flow": ""
+        "options.9.flow": "",
+        "wa_template_ID": "no_response",
+        "wa_template_vars": ""
+      },
+      {
+        "ID": "referral_more_parenting_help",
+        "message.text": "How can we help?",
+        "message.image": "",
+        "return_option.text": "",
+        "return_option.flow": "",
+        "options.1.text": "I need more parenting support than ParentText offers",
+        "options.1.flow": "referral_path_info - more_parenting_support",
+        "options.2.text": "I need support with my child’s disability",
+        "options.2.flow": "referral_path_info - disability_support",
+        "options.3.text": "I’m facing challenges that make it difficult to focus on parenting right now",
+        "options.3.flow": "safeguarding_help",
+        "options.4.text": "I need emergency support",
+        "options.4.flow": "safeguarding_help",
+        "options.5.text": "",
+        "options.5.flow": "",
+        "options.6.text": "",
+        "options.6.flow": "",
+        "options.7.text": "",
+        "options.7.flow": "",
+        "options.8.text": "",
+        "options.8.flow": "",
+        "options.9.text": "",
+        "options.9.flow": "",
+        "wa_template_ID": "",
+        "wa_template_vars": ""
       },
       {
         "ID": "referral_no_time",
-        "message.text": "ParentText should only take 5 minutes a day to complete. Would you like to try a new lesson now?",
+        "message.text": "ParentText should only take 10 minutes a day to complete. Would you like to try a new lesson now?",
         "message.image": "",
         "return_option.text": "",
         "return_option.flow": "",
@@ -718,7 +630,9 @@
         "options.8.text": "",
         "options.8.flow": "",
         "options.9.text": "",
-        "options.9.flow": ""
+        "options.9.flow": "",
+        "wa_template_ID": "",
+        "wa_template_vars": ""
       },
       {
         "ID": "referral_ptext_not_helpful",
@@ -743,7 +657,9 @@
         "options.8.text": "",
         "options.8.flow": "",
         "options.9.text": "",
-        "options.9.flow": ""
+        "options.9.flow": "",
+        "wa_template_ID": "",
+        "wa_template_vars": ""
       },
       {
         "ID": "referral_behaviour",
@@ -768,7 +684,9 @@
         "options.8.text": "",
         "options.8.flow": "",
         "options.9.text": "",
-        "options.9.flow": ""
+        "options.9.flow": "",
+        "wa_template_ID": "",
+        "wa_template_vars": ""
       }
     ],
     "feedback_data": [
@@ -787,17 +705,17 @@
     "referral_paths_messages": [
       {
         "ID": "more_parenting_support",
-        "msg": "That’s okay. These skills are hard at first. I encourage you to complete ParentText. If you still want more support, here are some parenting resources available:\n;\n{family referrals}\n;\nI hope this was helpful. See you tomorrow",
+        "msg": "That’s okay. These skills are hard at first. We encourage you to complete ParentText. If you still want more support, here are some parenting resources available:\n;\n{family referrals}\n;\nWe hope this was helpful. See you tomorrow",
         "metadata.description": ""
       },
       {
         "ID": "disability_support",
-        "msg": "Caring for a child with disabilities is challenging. Keep trying and remember to take care of yourself. Here are additional parenting resources for parents of children with special needs:\n;\n{disability resources}\n;\nI hope this was helpful. See you tomorrow",
+        "msg": "Caring for a child with disabilities is challenging. Keep trying and remember to take care of yourself. Here are additional parenting resources for parents of children with special needs:\n;\n{disability resources}\n;\nWe hope this was helpful. See you tomorrow",
         "metadata.description": ""
       },
       {
         "ID": "too_basic",
-        "msg": "It’s great that you already know so much about parenting. More courses are released on ParentText all of the time. I will let you know when new ones are available. If you want to learn more now, you can an in-person parenting programme near you:\n;\n{family referrals}",
+        "msg": "It’s great that you already know so much about parenting. More courses are released on ParentText all the time. We will let you know when new ones are available. If you want to learn more now, you can join an in-person parenting programme near you:\n;\n{family referrals}",
         "metadata.description": ""
       },
       {
@@ -807,7 +725,7 @@
       },
       {
         "ID": "technical_difficulties",
-        "msg": "I am sorry to hear that ParentText is not working on your phone. Here are a few steps you can try: \n\n1. Ensure you have the latest version of WhatsApp installed on your phone. \n2. Check your internet connection to make sure it's stable. \n3. Send a message on WhatsApp to {WhatsApp SWIFT line support} to get additional help. Be sure to share your user ID. Your user ID is @fields.research_id",
+        "msg": "We are sorry to hear that ParentText is not working on your phone. Here are a few steps you can try: \n\n1. Ensure you have the latest version of WhatsApp installed on your phone. \n2. Check your internet connection to make sure it's stable. \n3. Send a message on WhatsApp to {WhatsApp SWIFT line support} to get additional help. Be sure to share your user ID. Your user ID is @contact.id",
         "metadata.description": ""
       }
     ],
@@ -849,6 +767,43 @@
         "ID": "stop_option",
         "msg": "No",
         "metadata.description": "post after troubleshooting"
+      }
+    ],
+    "troubleshooting_help_data": [
+      {
+        "ID": "intro",
+        "msg": "If you are facing challenges that are making it more difficult to focus on parenting, we have some resources that can help. ",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_opt",
+        "msg": "No, thanks",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_msg",
+        "msg": "Thank you for letting us know.",
+        "metadata.description": ""
+      },
+      {
+        "ID": "offer_next",
+        "msg": "What would you like to do?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "more_contacts_opt",
+        "msg": "Get additional help",
+        "metadata.description": ""
+      },
+      {
+        "ID": "exit_opt",
+        "msg": "Exit",
+        "metadata.description": ""
+      },
+      {
+        "ID": "farewell",
+        "msg": "",
+        "metadata.description": ""
       }
     ]
   }

@@ -1,0 +1,1580 @@
+[
+  {
+    "SourceText": "Here is a question to help you get started on your course:",
+    "text": "Nanku umbuzo wokukunceda uqalise kwisifundo sakho:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "Oko kulungile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your teen and how to do this in this course.",
+    "text": "Oko kulungile. Uya kufunda ngakumbi ngokubaluleka kokuchitha ixesha nomntwana wakho ofikisayo kunye nendlela yokukwenza oku kwesi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your teen is a great way to build a good relationship with them!",
+    "text": "Kuhle ukuva oko! 🎉Ukuchitha ixesha kunye nomntwana wakho ofikisayo yindlela entle yokwakha ubudlelwane obulungileyo kunye nabo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Uxolo, andiqondi ukuba uthini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one-time with @fields.child_nickname?",
+    "text": "Ingaba kweziyure zingamashumi amabini anesine ezidlulileyo, ubuke wachitha noba yimzuzu emihlanu kunye no@fields.child_nickname?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one-time with your teen?",
+    "text": "Ingaba kweziyure zingamashumi amabini anesine ezidlulileyo, ubuke wachitha noba yimzuzu emihlanu kunye nomntwana wakho ofikisayo ninodwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep @fields.child_nickname safe & healthy:",
+    "text": "Nanku umbuzo wokukunceda uqalise kwisifundo sakho sokugcina u@fields.child_nickname ekhuselekile kwaye esempilweni:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep your teen safe & healthy:",
+    "text": "Nanku umbuzo wokukunceda uqalise kwisifundo sakho sokugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping your teen safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Kulungile ukuba ukugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni kukwenza uzive unomceli-mngeni, ingakumbi kwihlabathi lanamhlanje eliguqukayo. 🌍 Kwesi sifundo, uya kufunda ngakumbi malunga nendlela yokukwenza oku! 📘",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping your teen safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy!🌱",
+    "text": "🎉 Umsebenzi omhle kakhulu! Ukugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni luxanduva olubalulekileyo kubazali nakubanonopheli. Kwihlabathi lanamhlanje elitshintshayo, akusoloko kulula!🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you at keeping @fields.child_nickname safe and healthy both online and offline?",
+    "text": "Uqiniseke kangakanani ngokugcina u@fields.child_nickname ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How confident are you at keeping your teen safe and healthy both online and offline?",
+    "text": "Uqiniseke kangakanani ngokugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the course on improving your relationship with your teen. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokuphucula ubudlelwane bakho nomntwana wakho ofikisayo. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your teen. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha elininzi nomntwana wakho ofikisayo.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your teen may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela. Kubonakala ngathi ukuchitha ixesha nomntwana wakho kusenokuba ngumceli-mngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already excelling at spending one-on-one-time with your teen before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele ugqwesa ekuchitheni ixesha kunye nomntwana wakho ofikisayo phambi kwe-ParentText. Kuhle ukuba ukwazi ukugcina umzamo ogqwesileyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your teen is so important. Though you are still doing great, you have reported that spending time together has become more challenging since you first began this course.",
+    "text": "Ixesha nomntwana wakho ofikisayo libaluleke kakhulu. Nangona usenza okuhle, unike ingxelo yokuba ukuchitha ixesha kunye nomntwana wakho ninodwa kube ngumceli-mngeni ukusukela oko waqalayo i-ParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started this course in ParentText. Your effort is working!",
+    "text": "Siyavuyisana nawe!🎉Wenze inkqubela ukusukela oko uqalile i-ParentText. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to get more help?",
+    "text": "Ingaba ungathanda ukufumana olunye uncedo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can find and go through this course any time via the Main Menu by typing {MENU}.",
+    "text": "Enkosi ngokubonelela ngenkqubela yohlaziyo. Ungafumana kwaye ufunde esi sifundo nangaliphi na ixesha ngoluhlu oluphambili ngokuchwetheza {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is one-on-one-time going?",
+    "text": "Kuhamba njani ukuchitha ixesha ninodwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your teen",
+    "text": "Ugqwesile! Qhubeka nomsebenzi omhle wokuphucula ubudlelwane bakho nomntwana wakho ofikisayo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Trying is what counts! Let's try to get this going GOOD!",
+    "text": "Ukuzama yeyona nto ibalulekileyo! Masizame oku kuqhubeke KUHLE!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course to keep @fields.child_nickname safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokugcina u@fields.child_nickname ekhuselekile kwaye esempilweni. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Well done for completing your course to keep your teen safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You were already excelling at keeping your teen safe before this course. It’s great that you’re able to keep doing so well!",
+    "text": "💙 Ubusele ugqwesa ekugcineni umntwana wakho ofikisayo ekhuselekile phambi kwesi sifundo. Kuhle ukuba ukwazi ukuqhubeka nokwenza kakuhle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Knowing how to keep your teen safe and healthy is important. Even though you’re doing great, you’ve shared that this has become more challenging since starting this course.",
+    "text": "Ukwazi ukugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni kubalulekile. Nangona usenza kakuhle, uye wabelana ngokuba oku kuye kwaba ngumceli-mngeni ukusukela oko uqalile esi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Congratulations! 🎉 You’ve made improvements since you started this course. Your effort is working!",
+    "text": "🎉 Sivuyisana nawe! 🎉 Wenze inkqubela ukusukela oko uqale esi sifundo. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing your progress update. You can revisit this course any time in the Main Menu by typing {MENU}. 📝",
+    "text": "Enkosi ngokubonelela ngohlaziyo lwakho lwenkqubela. Ungaphinda undwendwele esi sifundo nangaliphi na ixesha kwiMenyu enguNdoqo ngocofa u {MENU}. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in keeping your teen safe online and offline.",
+    "text": "Ugqwesile! Qhubeka nomsebenzi omhle wokugcina umntwana wakho ofikisayo ekhuselekile kwi-intanethi nangaphandle kwe-intanethi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep @fields.child_nickname healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukugcina u@fields.child_nickname esempilweni kwaye ekhuselekile, ngakumbi xa sixakeke kakhulu nathi. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela esikolweni sika @fields.child_nickname, okanye usapho okanye abahlobo abanolwazi ngeteknoloji.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your teen healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukuba ungamgcina njani umntwana wakho ofikisayo esempilweni kwaye ekhuselekile, ngakumbi xa sixakeke kakhulu ngokwethu. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba ufuna inkxaso, cinga ngokufikelela kwisikolo somntwana wakho ofikisayo, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep @fields.child_nickname safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukuba umgcina njani u@fields.child_nickname ekhuselekile kwi-intanethi nangaphandle kwe-intanethi, ngakumbi xa sixakekile ngokwethu. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela esikolweni sika @fields.child_nickname, okanye usapho okanye abahlobo abanolwazi ngeteknoloji.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your teen safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukuba umgcina njani umntwana wakho ofikisayo  ekhuselekile kwi-intanethi nangaphandle kwe-intanethi, ngakumbi xa sixakekile ngokwethu. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba ufuna inkxaso, cinga ngokufikelela kwisikolo somntwana wakho ofikisayo, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep @fields.child_nickname safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Sivuyisana nawe ngokwenza inkqubela phambili. Kubonakala ngathi uyakwazi ukugcina u@fields.child_nickname ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi kusengumceli-mngeni.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep your teen safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Sivuyisana nawe ngokwenza inkqubela phambili. Kubonakala ngathi uyakwazi ukugcina umntwana wakho ofikisayo ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi kusengumceli-mngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is keeping @fields.child_nickname safe online and offline going?",
+    "text": "Ingaba kunjani ukugcina u@fields.child_nickname ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How is keeping your teen safe online and offline going?",
+    "text": "Ingaba umgcina njani umntwana wakho ofikisayo ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Trying is what counts! Let's try to get this going GOOD! ",
+    "text": "Ukuzama yeyona nto ibalulekileyo! Masizame oku kuqhubeke KUHLE! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to @fields.child_nickname’s school, or family or friends who are good with technology. ",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela esikolweni sika @fields.child_nickname, okanye usapho okanye abahlobo abanolwazi ngeteknoloji.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Remember that @fields.child_nickname’s well-being is important, as is your family’s.",
+    "text": "Khumbula ukuba impilo-ntle ka @fields.child_nickname ibalulekile, njengeyosapho lwakho.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your teen’s school, or family or friends who are good with technology. ",
+    "text": "💡 Ukuba ufuna inkxaso, cinga ngokufikelela kwisikolo somntwana wakho ofikisayo, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember that your teen’s well-being is important, as is your family’s.",
+    "text": "Khumbula ukuba impilo-ntle yomntwana wakho ofikisayo  ibalulekile, njengeyosapho lwakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one time with your child?",
+    "text": "Ingaba kweziyure zingamashumi amabini anesine ezidlulileyo, ubuke wachitha noba yimzuzu emihlanu yexesha kunye nomntwana wakho ninodwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your child and how to do this in this course.",
+    "text": "Oko kulungile. Uya kufunda ngakumbi ngokubaluleka kokuchitha ixesha nomntwana wakho kunye nendlela yokukwenza oku kwesi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+    "text": "Kuhle ukuva oko!🎉Ukuchitha ixesha nomntwana wakho yindlela entle yokwakha ubudlelwane obuhle kunye naye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to keep your child safe & healthy:",
+    "text": "Nanku umbuzo wokukunceda ukuba uqalise ngesifundo sakho ukugcina umntwana wakho ekhuselekile kwaye esempilweni:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you at keeping your child safe and healthy both online and offline?",
+    "text": "Uqiniseke kangakanani ngokugcina umntwana wakho ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping @fields.child_nickname safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Kulungile ukuba ukugcina u@fields.child_nickname ekhuselekile kwaye esempilweni kukwenza uzive kungumceli-mngeni, ngakumbi kwihlabathi lanamhlanje eliguqukayo. 🌍 Kwesi sifundo, uya kufunda ngakumbi malunga nendlela yokukwenza oku! 📘",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ It’s okay if keeping your child safe and healthy feels challenging, especially in today’s changing world. 🌍 In this course, you’ll learn more about how to do it! 📘",
+    "text": "⭐ Kulungile ukuba ukugcina umntwana wakho ekhuselekile kwaye esempilweni kukwenza uzive kungumceli-mngeni, ngakumbi kwihlabathi lanamhlanje eliguqukayo. 🌍 Kwesi sifundo, uya kufunda ngakumbi malunga nendlela yokukwenza oku! 📘",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping @fields.child_nickname safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy 🌱",
+    "text": "🎉 Umsebenzi omhle kakhulu! Ukugcina u@fields.child_nickname ekhuselekile kwaye esempilweni luxanduva olubalulekileyo kubazali nakubanonopheli. Kwihlabathi lanamhlanje elitshintshayo, akusoloko kulula!🌱",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🎉  Great job! Keeping your child safe and healthy is an important responsibility for parents and caregivers. In today’s changing world, it’s not always easy 🌱",
+    "text": "🎉 Umsebenzi omhle kakhulu! Ukugcina umntwana wakho ekhuselekile kwaye esempilweni luxanduva olubalulekileyo kubazali nakubanonopheli. Kwihlabathi lanamhlanje elitshintshayo, akusoloko kulula!🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the lessons on improving your relationship with your child. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba izifundo zokuphucula ubudlelwane bakho nomntwana wakho. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your child. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha elininzi nomntwana wakho.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend one-on-one time with your child. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha kunye nomntwana wakho ninodwa. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your child may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela. Kubonakala ngathi ukuchitha ixesha nomntwana wakho kusenokuba ngumceli-mngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already putting in the effort to spend one-on-one time with your child before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele usenza iinzame zokuchitha ixesha kunye nomntwana wakho ninodwa phambi kwe-ParentText. Kuhle ukuba ukwazi ukugcina umzamo ogqwesileyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your child is so important. Though you are still doing great, you have reported that spending one-on-one time together has become more challenging since you first began ParentText.",
+    "text": "Ixesha kunye nomntwana wakho libalulekile kakhulu. Nangona usenza kakuhle, unike ingxelo yokuba ukuchitha ixesha nikunye kube ngumceli-ngeni omkhulu oko wayiqalayo i-ParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started ParentText. Your effort is working!",
+    "text": "Siyavuyisana nawe!🎉Wenze inkqubela ukusukela oko uqalile i-ParentText. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is one-on-one time going?",
+    "text": "Kuhamba njani ukuchitha ixesha ninodwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your child.",
+    "text": "Ugqwesile! Qhubeka nomsebenzi omhle wokuphucula ubudlelwane bakho nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course to keep your child safe and healthy. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokugcina umntwana wakho ekhuselekile kwaye esempilweni. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You were already excelling at keeping your child safe before this course. It’s great that you’re able to keep doing so well!",
+    "text": "💙 Ubusele ugqwesa ekugcineni umntwana wakho ekhuselekile phambi kwesi sifundo. Kuhle ukuba ukwazi ukuqhubeka nokwenza kakuhle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Knowing how to keep your child safe and healthy is important. Even though you’re doing great, you’ve shared that this has become more challenging since starting this course.",
+    "text": "Ukwazi ukugcina umntwana wakho ekhuselekile kwaye esempilweni kubalulekile. Nangona usenza kakuhle, uye wabelana ngokuba oku kuye kwaba ngumceli-mngeni ukusukela oko uqalile esi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can revisit this course any time in the Main Menu by typing {MENU}.",
+    "text": "Enkosi ngokubonelela ngenkqubela yohlaziyo yakho. Ungaphinda undwendwele esi sifundo nangaliphi na ixesha kwiMenyu enguNdoqo ngocofa u {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in keeping your child safe online and offline.",
+    "text": "Ugqwesile! Qhubeka nomsebenzi omhle wokugcina umntwana wakho ekhuselekile kwi-intanethi nangaphandle kwe-intanethi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your child healthy and safe, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukuba ungamgcina njani umntwana wakho esempilweni kwaye ekhuselekile, ngakumbi xa sixakeke kakhulu ngokwethu. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you need support, consider reaching out to your child’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela kwisikolo somntwana wakho, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to know how to keep your child safe online and offline, especially when we are so busy ourselves. 💙",
+    "text": "Kunokuba nzima ukwazi ukuba umgcina njani umntwana wakho ekhuselekile kwi-intanethi nangaphandle kwe-intanethi, ngakumbi xa sixakekile ngokwethu. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your child’s school, or family or friends who are good with technology.",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela kwisikolo somntwana wakho, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Congratulations on making some progress. It seems like knowing how to keep your child safe and healthy online and offline is still a challenge.",
+    "text": "⭐ Sivuyisana nawe ngokwenza inkqubela phambili. Kubonakala ngathi uyakwazi ukugcina umntwana wakho ekhuselekile kwaye esempilweni kwi-intanethi nangaphandle kwe-intanethi kusengumceli-mngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is keeping your child safe online and offline going?",
+    "text": "Ingaba umgcina njani umntwana wakho ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡If you need support, consider reaching out to your child’s school, or family or friends who are good with technology. ",
+    "text": "💡 Ukuba udinga inkxaso, cinga ngokufikelela kwisikolo somntwana wakho, okanye usapho okanye abahlobo abanolwazi ngetekhnoloji.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember that your child’s well-being is important, as is your family’s.",
+    "text": "Khumbula ukuba impilo-ntle yomntwana wakho ibalulekile, njengeyosapho lwakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your teen? 🔑",
+    "text": "Yintoni oyifumanise inzima malunga nokuchitha ixesha kunye nomntwana wakho ofikisayo?🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else. ",
+    "text": "Kunganzima ukufumana ixesha phakathi kosuku lwakho, ngumsebenzi, imisebenzi yekhaya, kunye nayo yonke enye into. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together. ",
+    "text": "✨Cinga ngexesha ngosuku ngalunye apho unokugcina imizuzu emihlanu. Ungenza imisebenzi yasekhaya ibeyi midlalo eninokuwenza kunye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your teens are already sharing, like eating a meal or saying goodnight before bed. ",
+    "text": "Sebenzisa ixesha apho wena kunye nabantwana bakho abafikisayo esele nisabelana ngalo, njengokutya isidlo okanye ukuthi nilale kakuhle ngaphambi kokuba nilale. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can even make household chores into a game to do together. ",
+    "text": "Ungayenza imisebenzi yekhaya ibeyimidlalo eninoyenza kunye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion",
+    "text": "Cofa {PLAY} ngengcebiso zemidlalo eyonwabisayo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 Teens often want to spend time watching T.V. or playing with a phone/tablet. ",
+    "text": "📺 Abantwana abafikisayo bahlala befuna ukuchitha ixesha bebukele umabonakude okanye bedlala ngefowuni/ithebhulethi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the phone/tablet with them. ",
+    "text": "❓ Unokubukela okanye udlale nabo efowunini/kwithebhulethi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Caring about their interests is a great start!",
+    "text": "🌈Ukukhathala malunga nomdla wabo sisiqalo esihle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together, you can suggest another activity. ",
+    "text": "🌷Xa usele uqalile ukuchitha ixesha kunye, ungacebisa omnye umdlalo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion.",
+    "text": "Cofa {PLAY} ngengcebiso zemidlalo eyonwabisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 Sometimes your teen will suggest activities that are violent or unsafe. ",
+    "text": "📱Ngamanye amaxesha umntwana wakho ofikisayo angacebisa imidlalo enobundlobongela okanye engakhuselekanga. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚩 Explain *why* you can't do them, and suggest a different activity. ",
+    "text": "🚩Cacisa *kutheni* ungakwazi ukuyenza, kwaye ucebise umdlalo owahlukileyo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion. 💡",
+    "text": "Cofa {PLAY} ngengcebiso zemidlalo eyonwabisayo. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your teen wants to do things that are too difficult for you to do, you could watch them. ",
+    "text": "☀️Ukuba umntwana wakho ofikisyo ufuna ukwenza izinto ezinobunzima kakhulu kuwe ukuzenza, ungambukela. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports announcer.",
+    "text": "🏁Ungachaza lonto bayenzayo njengomntu osasaza ezemidlalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also express enthusiasm by clapping, smiling, or giving them a thumbs-up. ",
+    "text": "Ungabonisa umdla ngoku qhwaba, ukuncuma, okanye ngokunyusa oobhotsi phezulu. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise them while they do it!",
+    "text": "💛Bancome kwangoku basayenzayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for teens (and adults!) if they don’t like losing. ",
+    "text": "⚽Imidlalo yokhuphiswano inganzima kumntwana wakho ofikisayo (nabantu abadala!) ukuba abafuni ukohluleka. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your teen about what winning well and losing well might look like.",
+    "text": "🏆Xana besele bezolile, thetha nomntwana wakho ofikisayo malunga nokuba kunjani ukuphumelela kakuhle kunye nokohluleka kakuhle kungakhangeleka njani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Suggest other activities that you can do to work together instead of against each other.",
+    "text": "📝Cebisa eminye imidlalo eningayenza ukunzela nisebenze nobabini endaweni yokuchasana.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your teens when you have more than one. ",
+    "text": "🔴 Kunokuba nzima ukuchitha ixesha kunye nomntwana ngamnye wakho ofikisayo xa unabaninzi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older sibling to look after the other teens while you spend one-on-one time with one teen.",
+    "text": "🌱 Ukuba kuyenzeka, unokucela umntu omdala okanye umntakokwenu ukuba ajonge abanye abantwana bakho abafikisayo ngelixa uchitha ixesha ninodwa kunye nomntwana wakho ofikisayo omnye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your teens. Perhaps later in the evening with your teen, after the others have gone to sleep. ",
+    "text": "⏰ Cinga ngexesha ekuya kuba lula ngalo ukuchitha ixesha nomntwana ninodwa ngamnye ofikisayo. Mhlawumbi kamva ngokuhlwa nomntwana wakho ofikisayo, emva kokuba abanye beye kulala. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your teens at once! If you do, make sure all are able to participate in one-on-one time.",
+    "text": "💛 Unokuphinda uchithe ixesha ninodwa kunye nabo bonke abantwana bakho abafikisayo ngaxeshanye! Ukuba wenza njalo, qiniseka ukuba bonke bayakwazi ukuthatha inxaxheba ngexesha elinye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} and choose GROUP for a fun activity suggestion for a group of teens. 💡",
+    "text": "Chwetheza {PLAY} kwaye ukhethe IQELA ngegcebiso ngemidlalo eyonwabisayo yeqela labantwana abafikisayo. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one-time with your teen.",
+    "text": "💛 Siyaxolisa ukuva ukuba bekunzima nokuchitha ixesha kunye nomntwana wakho ofikisayo ninodwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when @fields.child_nickname does not want to spend one-on-one-time with you. ",
+    "text": "😔 Kunokuba buhlungu xa u@fields.child_nickname engafuni ukuchitha ixesha kunye nawe ninodwa. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?",
+    "text": "💡Cinga ngokunokwakho: Kuxa kunini xa bethetha nawe ngokukhululekileyo? Kusasa? Kanye phambi kwexesha lokulala?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your teen can see that you care and want to spend this time with them.",
+    "text": "💙Zama kwakhona ukwenzela umntwana wakho ofikisayo abone ukuba uyakhathala kwaye efuna ukuchitha eli xesha kunye naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your teen does not want to spend one-on-one-time with you. ",
+    "text": "😔 Kunokuba buhlungu xa umntwana wakho ofikisayo engafuni ukuchitha ixesha kunye nawe ninodwa. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find hard about keeping @fields.child_nickname safe online and offline?",
+    "text": "Yintoni oye wayifumana inzima ngokugcina u@fields.child_nickname ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "What did you find hard about keeping your teen safe online and offline?",
+    "text": "Yintoni oye wayifumana inzima ngokugcina umntwana wakho ofikisayo ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay! It's important to try to keep your teen safe offline and online. Remember, you can review this course in the Main menu any time!",
+    "text": "Oko kulungile! Kubalulekile ukuzama ukugcina umntwana wakho ofikisayo ekhuselekile ngaphandle kwe-intanethi kunye nakwi-intanethi. Khumbula, ungaphonononga esi sifundo kwimenyu enguNdoqo nangaliphi na ixesha!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Protecting @fields.child_nickname while also trusting them to make wise choices is not easy!",
+    "text": "😣 Ukukhusela u@fields.child_nickname ngelixa ukwamthemba ukuba enze izigqibo ezinobulumko akukho lula!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔄 @fields.child_nickname may know things about your community and technology that you are not aware of. ",
+    "text": "🔄 U@fields.child_nickname unokwazi izinto malunga noluntu lwenu kunye netekhnoloji ongayaziyo wena. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📝 When you actively involve @fields.child_nickname in creating the safety map, they feel heard and valued.",
+    "text": "📝 Xa ubandakanya u@fields.child_nickname ekwenzeni imephu yokhuseleko, uziva eviwa kwaye exatyiswe.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌱 It is easier to follow a plan that everyone agrees on.",
+    "text": "🌱 Kulula ukulandela isicwangciso wonke umntu avumelana ngaso.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Protecting Your teen while also trusting them to make wise choices is not easy!",
+    "text": "😣 Ukukhusela umntwana wakho ofikisayo ngelixa ukwamthemba ukuba enze izigqibo ezinobulumko akukho lula!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Your teen may know things about your community and technology that you are not aware of. ",
+    "text": "🔄 Umntwana wakho ofikisayo unokwazi izinto malunga noluntu lwenu kunye netekhnoloji ongayaziyo wena. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 When you actively involve Your teen in creating the safety map, they feel heard and valued.",
+    "text": "📝 Xa ubandakanya umntwana wakho ofikisayo ekwenzeni imephu yokhuseleko, uziva eviwa kwaye exatyiswe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂That’s alright. Even adults don’t agree on this sometimes. Listening to @fields.child_nickname, even if we disagree, helps us understand their thinking. ",
+    "text": "👂Oko kulungile. Nabantu abadala abavumi ngale nto ngamanye amaxesha. Mamela u@fields.child_nickname, nokuba asivumelani, kusinceda siqonde indlela abacinga ngayo. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⏰ Find time to talk about safe and unsafe areas again. ",
+    "text": "⏰ Fumana ixesha lokuthetha ngeendawo ezikhuselekileyo nezingakhuselekanga kwakhona. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 This time, really listen and show you understand their view before sharing your thoughts.",
+    "text": "💚 Ngeli xesha, mamela ngokwenene kwaye ubonise ukuba uyawuqonda umbono wabo ngaphambi kokuba wabelane ngeengcinga zakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell @fields.child_nickname that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝 Xelela u@fields.child_nickname ukuba uyazixabisa izimvo zakhe kwaye uyazingca ngaye ngokunyaniseka kwindlela aziva ngayo.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃 Reach a common agreement and establish safe and unsafe areas, as well as what to do in case of emergency.",
+    "text": "😃 Fikelelani kwisivumelwano esifanayo kwaye useke iindawo ezikhuselekileyo nezingakhuselekanga, kwanento omawuyenze xa kukho umhla kaxakeka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂That’s alright. Even adults don’t agree on this sometimes. Listening to your teen, even if we disagree, helps us understand their thinking. ",
+    "text": "👂Oko kulungile. Nabantu abadala abavumi ngale nto ngamanye amaxesha. Mamela umtwana wakho ofikisayo, nokuba asivumelani, kusinceda siqonde indlela abacinga ngayo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell your teen that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝 Xelela umntwana wakho ofikisayo ukuba uyazixabisa izimvo zakhe kwaye uyazingca ngaye ngokunyaniseka malunga nendlela aziva ngayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It is shocking to learn that people who we trust may be a danger to our teens. ",
+    "text": "😔 Kuyothusa ukufunda ukuba abantu esibathembileyo banokuba yingozi kubantwana bethu abafikisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to @fields.child_nickname if they want to talk about why it seems unsafe. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂 Mamela u@fields.child_nickname ukuba ufuna ukuthetha malunga nokuba kutheni kubonakala kungakhuselekanga. Buza ukuba yindawo, umntu othile, okanye zombini ezibangela ukuba angakhululeki. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Stay calm and open during the conversation. Trust what they say - they will not say such things for no reason!",
+    "text": "Hlala uzolile kwaye uvuleke ngexesha lencoko. Themba oko akuthethayo - akayi kuthetha izinto ezinjalo ngaphandle kwesizathu!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏥 Talk with someone and get support. Type {HELP} if you need more assistance.",
+    "text": "🏥 Thetha nomntu ufumane inkxaso. Chwetheza {HELP} ukuba ufuna uncedo oluninzi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Remember to take a pause when you are stressed.",
+    "text": "💙 Khumbula ukuthatha umzuzu xa unoxinzelelo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to your teen if they want to talk about why it seems unsafe. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂 Mamela umntwana wakho ofikisayo ukuba ufuna ukuthetha malunga nokuba kutheni kubonakala kungakhuselekanga. Buza ukuba yindawo, umntu othile, okanye zombini ezibangela ukuba angakhululeki. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Create a safe space to talk with @fields.child_nickname when you are both calm. ",
+    "text": "🌷 Yenza indawo ekhuselekileyo yokuthetha no@fields.child_nickname xa nobabini nizolile.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👂 Listen to their thoughts - why do they feel this place is safe?",
+    "text": "👂 Mamela iingcinga zabo - kutheni bevakalelwa kukuba le ndawo ikhuselekile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Share why you feel it is not safe. ",
+    "text": "⭐ Yabelana ukuba kutheni uva ngathi akukhuselekanga.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Come up with a rule together that lets them still have fun, but stay safe. ",
+    "text": "⏰ Yiza nomgaqo nikunye obavumela ukuba bonwabe, kodwa bahlale bekhuselekile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Your teen will listen better when you speak to them calmly.",
+    "text": "🌱 Umntwana wakho ofikisayo uya kumamela ngcono xa uthetha naye ngokuzolileyo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Create a safe space to talk with your teen when you are both calm. ",
+    "text": "🌷 Yenza indawo ekhuselekileyo yokuthetha nomntwana wakho ofikisayo xa nobabini nizolile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep @fields.child_nickname safe!",
+    "text": "🔵 Bandakanya usapho lwakho lonke, abanye abanonopheli, kunye nabahlobo kumsebenzi wakho wokwenza imephu. Ukuba wonke umntu uyazazi iindawo ezikhuselekileyo, banokunceda ukugcina u@fields.child_nickname ekhuselekile!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🚗 Visit some of the services available, such as neighbourhood watch groups or clinics. Ask what they do, how to contact them, and what their emergency procedures are.",
+    "text": "🚗 Ndwendwela ezinye zeenkonzo ezifumanekayo, ezifana namaqela abalindi ekuhlaleni okanye iikliniki. Buza into abayenzayo, indlela yokunxibelelana nabo, kwaye zithini iinkqubo zabo zikaxakeka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ensure that emergency phone numbers are clearly displayed in your house and easily accessible to everyone.",
+    "text": "💡 Qinisekisa ukuba iinombolo zefowuni zikaxakeka ziboniswa ngokubonakalayo endlini yakho kwaye zifikeleleka lula kuye wonke umntu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 The more we know, the better we can keep our families safe!",
+    "text": "💛 Xa sazi ngakumbi, kuxa sizakutsho sigcine iintsapho zethu zikhuselekile!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you want more resources about keeping safe, type {HELP} anytime.",
+    "text": "Ukuba ufuna izixhobo ezingakumbi malunga nokuzigcina ukhuselekile, chwetheza {HELP} nangaliphi na ixesha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep your teen safe!",
+    "text": "🔵 Bandakanya usapho lwakho lonke, abanye abanonophelili, kunye nabahlobo kumsebenzi wakho wokwenza imephu. Ukuba wonke umntu uyazazi iindawo ezikhuselekileyo, banokunceda ukugcina umntwana wakho ofikisayo ekhuselekile!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ It can be hard to find time.",
+    "text": "⏰ Kunokuba nzima ukufumana ixesha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 This week, put just 10 minutes aside to talk with @fields.child_nickname about safe and unsafe areas.",
+    "text": "💡 Kule veki, beka nje imizuzu elishumi ecaleni ukuze uthethe no@fields.child_nickname malunga neendawo ezikhuselekileyo nezingakhuselekanga.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "❗ This is important to keep your teen safe!",
+    "text": "❗ Oku kubalulekile ukugcina umntwana wakho ofikisayo ekhuselekile!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 This week, put just 10 minutes aside to talk with your teen about safe and unsafe areas.",
+    "text": "💡 Kule veki, beka nje imizuzu elishumi ecaleni ukuze uthethe nomntwana wakho ofikisayo malunga neendawo ezikhuselekileyo nezingakhuselekanga.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your child ? 🔑",
+    "text": "Yintoni oye wayibona inzima malunga nokuchitha ixesha nomntwana wakho?🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else.",
+    "text": "Kunokuba nzima ukufumana ixesha phakathi kosuku lwakho, ngumsebenzi, imisebenzi yasekhaya kunye nayo yonke enye into.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
+    "text": "✨Cinga ngexesha ngosuku ngalunye onokugcina imizuzu emihlanu. Ninokwenza imisebenzi yasekhaya ibe ngumdlalo eninokuwenza kunye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your children are already sharing, like eating a meal or saying goodnight before bed. ",
+    "text": "Sebenzisa ixesha apho wena nomntwana wakho benisele nisabelana ngalo, njengo kutya ukutya okanye nivalelisana phambi kokuya kulala. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your child does not want to spend one-on-one time with you.",
+    "text": "😔 Kunokuba buhlungu xa umntwana wakho engafuni ukuchitha ixesha kunye nawe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your child can see that you care and want to spend this time with them.",
+    "text": "💙 Zama kwakhona ukuze umntwana wakho abone ukuba umkhathalele kwaye ufuna ukuchitha eli xesha kunye naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺Children often want to spend time watching T.V. or playing with a phone or tablet.",
+    "text": "📺Abantwana bahlala befuna ukuchitha ixesha bebukele umabonakude okanye bedlala ngefowuni okanye ithebhulethi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the phone/tablet with them.",
+    "text": "❓ Unokubukela okanye udlale nabo efowunini/kwithebhulethi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Caring about their interests is a great start!",
+    "text": "💚 Ukukhathala malunga nezinto abanomdla kuzo sisiqalo esihle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together you can suggest another activity.",
+    "text": "🌷Ukuba nikhe naqala nje ukuchitha ixesha kunye ningacebisa omnye umsebenzi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.",
+    "text": "☀️ Ukuba umntwana wakho ufuna ukwenza izinto ekunzima kakhulu ukuba uzenze, unokumbukela.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports commentator.",
+    "text": "🏁 Ungayichaza into abayenzayo njengomsasazi wezemidlalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for your child (and adults!) if they don’t like losing.",
+    "text": "⚽ Imidlalo yokhuphiswano inokuba nzima kumntwana wakho (kunye nabantu abadala!) ukuba abakuthandi ukulahlekelwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.",
+    "text": "🏆 Xa bezolile, thetha nomntwana wakho malunga nokuba ukuphumelela kakuhle kunye nokulahlekelwa kakuhle kunokubonakala njani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your children when you have more than one. ",
+    "text": "🔴Kunokuba nzima ukuchitha ixesha lomntu nomntu ngamnye kubantwana bakho xa unabaninzi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older brother or sister to look after your other children while you spend one-on-one time with your child.",
+    "text": "🌱 Ukuba kuyenzeka, unokucela umntu omdala okanye umntakwenu okanye udadewenu ukuba ajonge abanye abantwana bakho ngelixa uchitha ixesha kunye nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your children.",
+    "text": "⏰ Cinga ngexesha ekuya kuba lula ngalo ukuchitha ixesha kunye nomntwana wakho ngamnye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your children at once! If you do, make sure all are able to participate in one-on-one time. ",
+    "text": "💛 Unokuphinda uchithe ixesha elinye kunye nabo bonke abantwana bakho ngaxeshanye! Ukuba wenza njalo, qiniseka ukuba bonke bayakwazi ukuthatha inxaxheba ngexesha elinye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion for a group of children. 💡",
+    "text": "Chwetheza {PLAY} iingcebiso zemidlalo eyonwabisayo zeqela labantwana.💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child.",
+    "text": "💛 Siyaxolisa ukuva ukuba ubufumana kunzima ukuchitha ixesha nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find hard about keeping your child safe online and offline?",
+    "text": "Yintoni oye wayifumana inzima ngokugcina umntwana wakho ekhuselekile kwi-intanethi nangaphandle kwe-intanethi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay! It's important to try to keep your child safe offline and online. Remember, you can review this course in the Main menu any time!📝",
+    "text": "Oko kulungile! Kubalulekile ukuzama ukugcina umntwana wakho ekhuselekile ngaphandle kwe-intanethi kunye nakwi-intanethi. Khumbula, ungaphonononga esi sifundo kwimenyu enguNdoqo nangaliphi na ixesha!📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 It is slightly uncomfortable to talk to our children about male and female body parts. However, it helps to keep our children safe.",
+    "text": "💙 Akukhululekisi nakancinane ukuthetha nabantwana bethu ngamalungu omzimba wamadoda nabasetyhini. Nangona kunjalo, kuyanceda ukugcina abantwana bethu bekhuselekile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Start a conversation with @fields.child_nickname about their body, its functions, and the importance of naming each part. Acting out stories with dolls or teddy bears can be a helpful tool in having these conversations.",
+    "text": "💡Qala incoko no-@fields.child_nickname malunga nomzimba wakhe, imisebenzi yawo, kunye nokubaluleka kokuthiywa kwelungu ngalinye. Ukwenza amabali ngoonodoli okanye iibhere ze-teddy kunokuba sisixhobo esiluncedo ekwenzeni ezi ncoko.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. @fields.child_nickname will learn how to talk about their body and can communicate with you if anything happens.",
+    "text": "💚 Thetha ngokuzithemba malunga nomzimba, ingakumbi amalungu angasese. Ekuqaleni, isenokuvakala ingathandeki, kodwa xa umane uyenza, kungona iya kuvakala iyindalo kwaye inikhululekise nobabini. U@fields.child_nickname uya kufunda indlela yokuthetha ngomzimba wakhe kwaye unokunxibelelana nawe ukuba kukho nantoni na eyenzekayo.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔑 Answer any questions from @fields.child_nickname honestly. You can do this to keep our children safe!🌷",
+    "text": "🔑 Phendula nayiphi na imibuzo evela ku-@fields.child_nickname ngokunyaniseka. Ungayenza lento ukugcina abantwana bethu bekhuselekile!🌷",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡Start a conversation with Your child about their body, its functions, and the importance of naming each part. Acting out stories with dolls or teddy bears can be a helpful tool in having these conversations.",
+    "text": "💡Qala incoko nomntwana wakho malunga nomzimba wakhe, imisebenzi yawo, kunye nokubaluleka kokuthiywa kwelungu ngalinye. Ukwenza amabali ngoonodoli okanye iibhere ze-teddy kunokuba sisixhobo esiluncedo ekwenzeni ezi ncoko.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. Your child will learn how to talk about their body and can communicate with you if anything happens.",
+    "text": "💚 Thetha ngokuzithemba malunga nomzimba, ingakumbi amalungu angasese. Ekuqaleni, isenokuvakala ingathandeki, kodwa xa umane uyenza, kungona iya kuvakala iyindalo kwaye inikhululekise nobabini. Umntwana wakho uya kufunda indlela yokuthetha ngomzimba wakhe kwaye unokunxibelelana nawe ukuba kukho nantoni na eyenzekayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 Answer any questions from Your child honestly. You can do this to keep our children safe!🌷",
+    "text": "🔑 Phendula nayiphi na imibuzo evela kumntwana Wakho ngokunyaniseka. Ungayenza lento ukugcina abantwana bethu bekhuselekile!🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 It must be exhausting to always tell @fields.child_nickname to turn off or put away the phone or tablet.",
+    "text": "📺 Inokuba kuyadinisa ukuhlala uxelela u@fields.child_nickname ukuba acime okanye ayibeke ecaleni ifowuni okanye ithebhulethi.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📝 Set rules with @fields.child_nickname. Tell them that they cannot be on the phone/tablet when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.",
+    "text": "📝 Misela imithetho no@fields.child_nickname. Mxelele ukuba akanakuba sefowunini/kwithebhulethi xa uxakekile. Ixesha lakho elixakekileyo lixesha lokudlala elizolileyo lomntwana wakho ngeethoyi okanye ixesha lokufunda ngeencwadi.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌷 Tell your child that telling you what they watch on T.V. or what they do on the phone or tablet is a rule. ",
+    "text": "🌷 Xelela umntwana wakho ukuba ukukuxelela into ayibukelayo kumabonakude okanye into ayenzayo efowunini okanye kwithebhulethi ngumthetho. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.",
+    "text": "👂 Yiba nomonde nobubele xa umphulaphule. Lawula umsindo wakho ukuba ufumanisa ukuba wenze into engalunganga kwi-intanethi. Thatha umphefumlo onzulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise @fields.child_nickname when they follow the rules!",
+    "text": "💛 Mncome u@fields.child_nickname xa elandela imithetho!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📺 It must be exhausting to always tell your child to turn off or put away the phone or tablet.",
+    "text": "📺 Inokuba kuyadinisa ukuhlala uxelela umntwana wakho ukuba acime okanye ayibeke ecaleni ifowuni okanye ithebhulethi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Set rules with your child. Tell them that they cannot be on the phone/tablet when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.",
+    "text": "📝 Misela imithetho nomntwabna wakho. Mxelele ukuba akanakuba sefowunini/kwithebhulethi xa uxakekile. Ixesha lakho elixakekileyo lixesha lokudlala elizolileyo lomntwana wakho ngeethoyi okanye ixesha lokufunda ngeencwadi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise your child when they follow the rules!",
+    "text": "💛 Mncome umntwana wakho xa elandela imithetho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 That’s alright. Even adults don’t agree on this sometimes. Even when we disagree, listening to our children helps us understand their thinking.",
+    "text": "👂 Oko kulungile. Nabantu abadala abavumi ngale nto ngamanye amaxesha. Kwanaxa singavumelani, ukuphulaphula abantwana bethu kusinceda siqonde indlela abacinga ngayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Find time to talk about safe and unsafe areas again.",
+    "text": "⏰ Fumana ixesha lokuthetha ngeendawo ezikhuselekileyo nezingakhuselekanga kwakhona.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Tell your child that you appreciate their opinions and you are proud of them for being honest about how they feel.",
+    "text": "📝 Xelela umntwana wakho ukuba uyazixabisa izimvo zakhe kwaye uyazingca ngaye ngokunyaniseka malunga nendlela aziva ngayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It is shocking to learn that people who we trust may make our children uncomfortable. ",
+    "text": "😔 Kuyothusa ukufunda ukuba abantu esibathembileyo banokwenza abantwana bethu bangakhululeki.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to @fields.child_nickname if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂 Mamela u@fields.child_nickname ukuba ufuna ukuthetha malunga nokuba kutheni kubonakala kuyingozi okanye engakhululeki. Buza ukuba yindawo, umntu othile, okanye zombini ezibangela ukuba angakhululeki. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔔Talk with someone and get support. Type {HELP} if you need more assistance.",
+    "text": "🔔Thetha nomntu kwaye ufumane inkxaso. Chwetheza {HELP} ukuba ufuna uncedo oluninzi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. ",
+    "text": "👂 Mamela umntwana wakho ukuba uyafuna ukuthetha malunga nokuba kutheni kubonakala kuyingozi okanye engakhululeki. Buza ukuba yindawo, umntu othile, okanye zombini ezibangela ukuba angakhululeki. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ensure that emergency phone numbers are prominently displayed in your house and easily accessible to everyone.",
+    "text": "💡 Qinisekisa ukuba iinombolo zefowuni zikaxakeka ziboniswa ngokubonakalayo endlini yakho kwaye zifikeleleka lula kuye wonke umntu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Involve your whole family, other caregivers, and friends in your mapping activity. If everyone knows the safe places, they can help keep your child safe!",
+    "text": "🔵 Bandakanya usapho lwakho lonke, abanye abanonopheli, kunye nabahlobo kumsebenzi wakho wokwenza imephu. Ukuba wonke umntu uyazazi iindawo ezikhuselekileyo, banokunceda ukugcina umntwana wakho ekhuselekile!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hayi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ewe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not Confident",
+    "text": "Awuzithembanga",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A Little Confident",
+    "text": "Ukuzithemba Kancinci",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Confident",
+    "text": "Ndizithembile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Very Confident",
+    "text": "Ndizithembile kakhulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Good",
+    "text": "Kuhle",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Okay",
+    "text": "Kulungile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "Kubi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have enough time.",
+    "text": "Khange ndibenexesha elaneleyo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen did not want to spend one-on-one-time with me.",
+    "text": "Umntwana wam ofikisayo khange afune ukuchitha ixesha kunye nam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my teen wanted to do was watch T.V. or play with a phone/tablet.",
+    "text": "Konke ebefuna ukukwenza umntwana wam ofikisayo kukubukela umabonakude okanye ukudlala ngefowuni/ithebhulethi.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do things I felt uncomfortable about.",
+    "text": "Umntwana wam ofikisayo ebefuna ukwenza izinto endingakhululekanga ngazo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do activities that I could not do.",
+    "text": "Umntwana wam ofikisayo wayefuna ukwenza imidlalo ebendingena-kukwazi ukuyenza.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen chose a competitive activity. I won, and then they got angry.",
+    "text": "Umntwana wam ofikisayo ukhethe imidlalo enokhuphiswano. Ndiphumelele, kwaye emvakoko waba nomsindo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my teens wanted one-on-one time at the same time.",
+    "text": "Bonke abantwana bam abafikisayo bafuna ukuchitha ixesha kunye nam ngexesha elinye.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say.",
+    "text": "Ukhetha ukungatsho.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I'm facing challenges that make it difficult to focus on parenting right now.",
+    "text": "Ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen and I did not agree on which areas were unsafe.",
+    "text": "Mna nomntwana wam ofikisayo asizange sivumelane ngokuba zeziphi iindawo ezingakhuselekanga.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen marked the house of someone I trust as unsafe. 🚩 I was shocked and did not know what to do!",
+    "text": "Umntwana wam ofikisayo uphawule indlu yomntu endimthembayo njengengakhuselekanga. 🚩 bendothukile kwaye ndingayazi ukuba mandithini!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen insisted that they could visit a place I think is not safe, like a bar. I don’t know how to convince them that it is not a safe area.",
+    "text": "Umntwana wam ofikisayo uye wanyanzelisa ukuba atyelele indawo endicinga ukuba ayikhuselekanga, njengendawo yebhari. Andiyazi ukuba ndingamqinisekisa njani ukuba ayisiyondawo ekhuselekileyo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "As an adult, I feel I am in charge of protecting my teen. When I told my teen which areas are unsafe, they got angry.",
+    "text": "Njengomntu omdala, ndivakalelwa kukuba ndinoxanduva lokukhusela umntwana wam ofikisayo. Ndathi ndakumxelela umntwana wam ofikisayo ukuba zeziphi iindawo ezingakhuselekanga, waba nomsindo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It was hard to find safety resources because I don’t know my community so well.",
+    "text": "Kwakunzima ukufumana izixhobo zokhuseleko kuba andiyazi kakuhle indawo yam yokuhlala.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have any time to do this activity.",
+    "text": "Khange ndibenalo naliphi na ixesha lokwenza lo msebenzi.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not want to spend one-on-one time with me.",
+    "text": "Umntwana wam khange afune ukuchitha ixesha kunye nam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted to do was watch T.V. or play with a phone or tablet.",
+    "text": "Bonke abantwana bam ebebefuna ukukwenza kukubukela umabonakude okanye ukudlala ngefowuni/ithebhulethi.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do.",
+    "text": "Umntwana wam wayefuna ukwenza imidlalo ebendingena-kukwazi ukuyenza.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry.",
+    "text": "Umntwana wam ukhethe imiidlalo enokhuphiswano. Ndiphumelele, kwaye emvakoko waba nomsindo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted one-on-one time at the same time.",
+    "text": "Bonke abantwana bam bebefuna ukuchitha ixesha kunye nam ngexesha elinye.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child is always on a phone or tablet, even when I am working or doing house chores.",
+    "text": "Umntwana wam uhlala esefowunini okanye kwi-thebhulethi, naxa ndisebenza okanye ndisenza imisebenzi yasekhaya.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child and I could not agree on which areas were unsafe.",
+    "text": "Mna nomntwana wam khange sivumelane ngokuba zeziphi iindawo ezingakhuselekanga.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child told me that school or the house of someone I trust is an unsafe place. I was shocked and did not know what to do!",
+    "text": "Umntwana wam wandixelela ukuba isikolo okanye indlu yomntu endimthembileyo yindawo engakhuselekanga. Bendothukile ndingayazi ukuba mandithini!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It was hard to find safety resources, because I don’t know my community so well.",
+    "text": "Kwakunzima ukufumana izixhobo, zokhuseleko kuba andiyazi kakuhle indawo yam yokuhlala.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I am shy to talk to my young child about their body and safe touch.",
+    "text": "Ndineentloni zokuthetha nomntwana wam omncinci malunga nomzimba wakhe kunye nokuphatha okukhuselekileyo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no",
+    "text": "hayi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ewe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not confident",
+    "text": "awuzithembanga",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "a little confident",
+    "text": "ukuzithemba kancinci",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "confident",
+    "text": "ndizithembile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "very confident",
+    "text": "ndizithembile kakhulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "good",
+    "text": "kuhle",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "okay",
+    "text": "kulungile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "kubi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have enough time.",
+    "text": "khange ndibenexesha elaneleyo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen did not want to spend one-on-one-time with me.",
+    "text": "umntwana wam ofikisayo khange afune ukuchitha ixesha kunye nam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my teen wanted to do was watch t.v. or play with a phone/tablet.",
+    "text": "konke umntwana wam ofikisayo ebefuna ukukwenza kukubukela umabonakude okanye ukudlala ngefowuni/ithebhulethi.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do things i felt uncomfortable about.",
+    "text": "umntwana wam ofikisayo ebefuna ukwenza izinto endizive ndingakhululekanga ngazo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do activities that i could not do.",
+    "text": "umntwana wam ofikisayo ebefuna ukwenza imidlalo ebendingakwazi ukuyenza.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen chose a competitive activity. i won, and then they got angry.",
+    "text": "umntwana wam ofikisayo ukhethe imiidlalo enokhuphiswano. Ndiphumelele, kwaye emvakoko waba nomsindo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my teens wanted one-on-one time at the same time.",
+    "text": "bonke abantwana bam abafikisayo bafuna ukuchitha ixesha kunye nam ngexesha elinye.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say.",
+    "text": "ukhetha ukungatsho.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i'm facing challenges that make it difficult to focus on parenting right now.",
+    "text": "ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen and i did not agree on which areas were unsafe.",
+    "text": "mna nomntwana wam ofikisayo asizange sivumelane ngokuba zeziphi iindawo ezingakhuselekanga.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen marked the house of someone i trust as unsafe. 🚩 i was shocked and did not know what to do!",
+    "text": "umntwana wam ofikisayo uphawule indlu yomntu endimthembayo njengengakhuselekanga. 🚩 bendothukile kwaye ndingayazi ukuba mandithini!",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen insisted that they could visit a place i think is not safe, like a bar. i don’t know how to convince them that it is not a safe area.",
+    "text": "umntwana wam ofikisayo uye wanyanzelisa ukuba atyelele indawo endicinga ukuba ayikhuselekanga, njengendawo yebhari. andazi ukuba ndingamqinisekisa njani ukuba ayisiyondawo ekhuselekileyo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "as an adult, i feel i am in charge of protecting my teen. when i told my teen which areas are unsafe, they got angry.",
+    "text": "njengomntu omdala, ndivakalelwa kukuba ndinoxanduva lokukhusela umntwana wam ofikisayo. ndathi ndakumxelela umntwana wam ofikisayo ukuba zeziphi iindawo ezingakhuselekanga, waba nomsindo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it was hard to find safety resources because i don’t know my community so well.",
+    "text": "kwakunzima ukufumana izixhobo zokhuseleko kuba andiyazi kakuhle indawo yam yokuhlala.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have any time to do this activity.",
+    "text": "khange ndibenalo naliphi na ixesha lokwenza lo msebenzi.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child did not want to spend one-on-one time with me.",
+    "text": "umntwana wam khange afune ukuchitha ixesha kunye nam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted to do was watch t.v. or play with a phone or tablet.",
+    "text": "bonke abantwana bam ebebefuna ukukwenza kukubukela umabonakude okanye ukudlala ngefowuni/ithebhulethi.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child wanted to do activities that i could not do.",
+    "text": "umntwana wam wayefuna ukwenza imidlalo ebendingena-kukwazi ukuyenza.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child chose a competitive activity. i won and then they got angry.",
+    "text": "umntwana wam ukhethe imidlalo enokhuphiswano. Ndiphumelele, kwaye emvakoko waba nomsindo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted one-on-one time at the same time.",
+    "text": "bonke abantwana bam bafuna ukuchitha ixesha kunye nam ngexesha elinye.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child is always on a phone or tablet, even when i am working or doing house chores.",
+    "text": "umntwana wam uhlala esefowunini okanye kwi-tablet, naxa ndisebenza okanye ndisenza imisebenzi yasekhaya.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child and i could not agree on which areas were unsafe.",
+    "text": "mna nomntwana wam khange sivumelane ngokuba zeziphi iindawo ezingakhuselekanga.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child told me that school or the house of someone i trust is an unsafe place. i was shocked and did not know what to do!",
+    "text": "umntwana wam wandixelela ukuba isikolo okanye indlu yomntu endimthembileyo yindawo engakhuselekanga. bendothukile ndingayazi ukuba mandithini!",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it was hard to find safety resources, because i don’t know my community so well.",
+    "text": "kwakunzima ukufumana izixhobo, zokhuseleko kuba andiyazi kakuhle indawo yam yokuhlala.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i am shy to talk to my young child about their body and safe touch.",
+    "text": "ndineentloni zokuthetha nomntwana wam omncinci malunga nomzimba wakhe kunye nokuphatha okukhuselekileyo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

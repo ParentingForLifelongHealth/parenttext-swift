@@ -1,0 +1,20 @@
+[
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Uxolo, andiqondi ukuba uthetha ukuthini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Never",
+    "text": "Zange",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "never",
+    "text": "zange",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

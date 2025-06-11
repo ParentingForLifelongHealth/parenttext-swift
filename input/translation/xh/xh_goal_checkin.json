@@ -1,0 +1,1334 @@
+[
+  {
+    "SourceText": "Here is a question to help you get started on your course:",
+    "text": "Nanku umbuzo owokunceda ukuba uqalise ngesifundo sakho:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "Oko kulungile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your teen and how to do this in this course. ",
+    "text": "Oko kulungile. Uzakufunda kakhulu malunga nokubaluleka kokuchitha ixesha kunye nomntwana wakho ofikisayo nokuba uzakuyenza njani kwesi sifundo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your teen is a great way to build a good relationship with them!",
+    "text": "Kuhle ukuva oko! 🎉Ukuchitha ixesha kunye nomntwana wakho ofikisayo yindlela entle yokwakha ubudlelwane obulungileyo kunye nabo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Uxolo, andiqondi ukuba uthetha ukuthini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of One-on-One Time with @fields.child_nickname?",
+    "text": "Kwiiyure ezili-24 ezidlulileyo, ubuchithe ubuncinane bemizuzu emi-5 yexesha lomnye nomnye no@fields.child_nickname?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of One-on-One Time with your teen?",
+    "text": "Kweziyure ziyi 24 zidlulileyo, uyichithile imizuzu emi- 5 yexesha lomnye nomnye kunye nomntwana wakho ofikisayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to understand teen development:",
+    "text": "Nanku umbuzo owokunceda uqalise ngesifundo sakho ukuqondisisa ukukhula komntwana ofikisayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you talking about personal things with your teen - for example, reproductive health, relationships, or sex?",
+    "text": "Uzethembe kangakanani ukuthetha ngezinto zobuqu kunye nomntwana wakho ofikisayo - umzekelo, impilo yokuzala, ubudlelwane, okanye isondo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of talking with your teen about difficult topics and how to do this in this course.",
+    "text": "Kulungile. Uzakufunda kakhulu ngokubaluleka kokuthetha nomntwana wakho ofikisayo malunga neengongoma ezinzima nokuba uzakuyenza njani kwesi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 😃 Talking to your teen about these topics is so important for them to be able to live a safe and healthy life.",
+    "text": "Kulungile ukuva! 😃 Ukuthetha kunye nomntwana ofikisayo ngezi ngongoma kubalulekile kubo bakwazi ukuhlala bekhuselekile kwaye benobomi obusempilweni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your teen? 🔑",
+    "text": "Yintoni oyifumanise inzima malunga nokuchitha ixesha kunye nomntwana wakho ofikisayo?🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else. ",
+    "text": "Kunganzima ukufumana ixesha kusuku lwakho, ngomsebenzi, imisebenzi yekhaya, kunye nezinye izinto. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together. ",
+    "text": "✨Cinga ngexesha ngosuku ngalinye apho ungakwazi ukuba nemizuzu emi 5 eseleyo. Ungenza imisebenzi yekhaya ibeyi midlalo eninowenza kunye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your children are already sharing, like eating a meal or saying goodnight before bed. ",
+    "text": "Sebenzisa eli xesha wena nabantwana benisele nisabelana ngalo, njengo kutya ukutya okanye nivalelisana phambi kokuya kulala. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can even make household chores into a game to do together. ",
+    "text": "Ungayenza imisebenzi yekhaya ibeyimidlalo eninoyenza kunye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion",
+    "text": "Chwetheza {PLAY} ngengcebiso zemidlalo eyonwabisayo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 Teens often want to spend time watching T.V. or playing with a gadget. ",
+    "text": "📺Abantwana abafikisayo bafuna ukuchitha ixesha lokubukela Umabonakude okanye ukudlala nge gajethi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the gadget with them. ",
+    "text": "❓Ungabukela okanye udlale nge gajethi kunye nabo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Caring about their interests is a great start!",
+    "text": "🌈Ukukhathala malunga nomdla wabo sisiqalo esihle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together, you can suggest another activity. ",
+    "text": "🌷Xa sele niqalile ukuchitha ixesha kunye, ungacebisa omnye umdlalo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion.",
+    "text": "Chwetheza {PLAY} ngengcebiso zemidlalo eyonwabisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 Sometimes your teen will suggest activities that are violent or unsafe. ",
+    "text": "📱Ngamanye amaxesha umntwana wakho ofikisayo angacebisa imidlalo enobungozi okanye engakhuselekanga. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚩 Explain *why* you can't do them, and suggest a different activity. ",
+    "text": "🚩Cacisa *kutheni* ungakwazi ukuyenza, kwaye ucebise umdlalo owahlukileyo. \n",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion. 💡",
+    "text": "Chwetheza {PLAY} ngengcebiso zemidlalo eyonwabisayo. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your teen wants to do things that are too difficult for you to do, you could watch them. ",
+    "text": "☀️Ukuba umntwana wakho ofikisayo ufuna ukwenza izinto ezinganobunzima kakhulu kuwe ukuzenza, ungababukela. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports announcer.",
+    "text": "🏁Ungachaza lonto bayenzayo njengomntu osasaza ezemidlalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also express enthusiasm by clapping, smiling, or giving them a thumbs-up. ",
+    "text": "Ungabonisa umdla ngoku qhwaba, ukuncoma, okanye ngokunyusa oobhotsi phezulu. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise them while they do it!",
+    "text": "💛Bancome kwangoku basayenzayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for teens (and adults!) if they don’t like losing. ",
+    "text": "⚽Imidlalo yokhuphiswano inganzima kumntwana wakho ofikisayo (nabantu abadala!) ukuba abafuni ukohluleka. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your teen about what winning well and losing well might look like.",
+    "text": "🏆Xana besele bezolile, thetha nomntwana wakho ofikisayo malunga nokuba kunajni ukuphumelela kakuhle kunye nokohluleka kakuhle kungakhangeleka njani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Suggest other activities that you can do to work together instead of against each other.",
+    "text": "📝Cebisa eminye imidlalo ongayenza ukwenza umsebenzi kunye endaweni yokuchasana omnye nomnye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your children when you have more than one. ",
+    "text": "🔴Kunganzima ukuchitha ixesha lomnye nomnye nomntwana ngamnye xa bengaphezulu kwesinye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older sibling to look after the other children while you spend one-on-one time with one teen.",
+    "text": "🌱Ukuba kuyenzeka, ungacela umntu omdala okanye elinye ilungu losapho ukujonga abantwana bethu ngelixa usachitha ixesha lonye nomnye kunye nomntwana omnye ofikisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your children. Perhaps later in the evening with your teen, after the others have gone to sleep. ",
+    "text": "⏰Cinga xana kunobalula ukuchitha ixesha lomnye nomnye kunye nomntwana nagmnye kubantwana bakho. Mhlawumbi emva kwemini kunye nomntwana wakho ofikisayo, emveni kwabanye bemkile ukuyolala. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your children at once! If you do, make sure all are able to participate in one-on-one time.",
+    "text": "💛Ungakwazi nokuchitha ixesha lomnye nomnye kunye nabantwana bakho bonke ngaxesha nye! ukuba wenzile, qinisekisa ukuba bonke bwkazile ukubayinxalenye yexesha lomnye nomnye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} and choose GROUP for a fun activity suggestion for a group of children. 💡",
+    "text": "Chwetheza {PLAY} kwaye ukhethe IQELA lengcebiso zemidlalo eyonwabisayo yeqela labantwana.💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend One-on-One Time with your teen.",
+    "text": "💛Siyaxolisa ukuva oko ukuba ufumana kunzima ukuchitha Ixesha Lomnye Nomnye kunye nomntwana wakho ofikisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when @fields.child_nickname does not want to spend One-on-One Time with you. ",
+    "text": "😔Ingakulimaza xana @fields.child_nickname engafuni ukuchitha Ixesha Lomnye Nomnye kunye nawe. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?",
+    "text": "💡Cinga ngokunokwakho: Kuxa kunini bethetha nawe? Kusasa? Kanye phambi kwexesha lokulala?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your teen can see that you care and want to spend this time with them.",
+    "text": "💙Zama kwakhona ukwenzela umntwana wakho ofikisayo abone ukuba uyakhathala kwaye ufuna ukuchitha eli xesha kunye nabo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your teen does not want to spend One-on-One Time with you. ",
+    "text": "😔Ingakulimaza xana umntwana wakho ofikisayo engafuni ukuchitha Ixesha Lomnye Nomnye kunye nawe. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult when talking to your teen about personal things? 👂",
+    "text": "Yintoni oyifumanise inzima ukuthetha nomntwana wakho malunga nezinto eziyi mfihlo?👂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ Teens often do not want to speak to their parents about reproductive health, relationships, and sex.",
+    "text": "⏸Abantwana abafikisayo abafuni ukuthetha kunye nabazali babo malunga nempilo yokuzala, ubudlelwane, kunye nesondo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Share that it is normal and that you also went through this.",
+    "text": "🔄Yabelana ukuba kuqhelekile kwaye nawe ukhe wadlula kulento.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If they do not want to talk to you, give them resources so they can learn about the topic, or guide them on who else they can talk to for reliable information and advice. ",
+    "text": "🌱Ukuba abafuni kuthetha kuwe, banike izixhobo ukwenzela bafunde malunag nezingongoma, bakhokeleukuba ngubani omnye abangatheta naye ngenkcukacha ezithe vetshe kunye neengcebiso. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Tell your teen that you are happy to speak with them any time!",
+    "text": "⭐Xelela umntwana wakho ofikisayo ukuba ukonwabele ukuthetha kunye nabo nangeliphina ixesha!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 It can be hard to find resources! ",
+    "text": "💛Kunganzima ukufumana izixhobo! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some resources to help you with supporting your teen's development:",
+    "text": "Nazi ezinye izixhobo ukunceda nokuxhasa ukukhula komntwana wakho ofikisayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{development resources 1}",
+    "text": "{development resources 1}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 We are sorry to hear that it has been hard to talk to your teen about sexual reproductive health, relationships, and sex.",
+    "text": "💚Siyaxolisa ukuva okokuba bekunzima ukutheth nomntwana wakho ofikisayo malunga nempilo yokuzalwa ngokwesondo, ubudlelwane, kunye nesondo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Talking about reproductive health, relationships, and sex can be uncomfortable - many parents feel this way! ",
+    "text": "😣Ukuthetha malunga nempilo yokuzalwa, ubudlelwane, kunye nosondo kungenza ungakhululeki - abazali abaninzi baziva ngalendlela! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Remember, these are all normal parts of life. ",
+    "text": "😃Khumbula, zonke ezi zizinto eziqhelekileyo zobomi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 The more you talk about these topics and educate @fields.child_nickname, the more prepared they are for keeping themselves healthy and safe.",
+    "text": "🌷Ukuthetha kakhulu ngezi zihloko kwaye ufundise @fields.child_nickname, kukhona bezilungele ukuzigcina besempilweni kwaye bephephile.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌷 The more you talk about these topics and educate your teen, the more prepared they are for keeping themselves healthy and safe.",
+    "text": "🌷Ukuthetha kakhulu ngezi zihloko kwaye ufundise, kukhona bezilungele ukuzigcina besempilweni kwaye bephephile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬇️ Talking about relationships and sex from an early age reduces the chance that teens end up in dangerous or unhealthy situations!",
+    "text": "⬇️Ukuthetha ngobudlelwane kunye nokwabelana ngesondo kwasebancinci kunciphisa ithuba lokuba ulutsha lugqibele kwiimeko ezinobungozi okanye ezingenampilo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 It means @fields.child_nickname knows what is safe and healthy, so they can make good choices to keep themselves safe.",
+    "text": "💚 Ithetha ukuba i@fields.child_nickname iyayazi into ekhuselekileyo nesempilweni, ngoko ke banokwenza ukhetho olufanelekileyo lokuzigcina bekhuselekile.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💚 It means your teen knows what is safe and healthy, so they can make good choices to keep themselves safe.",
+    "text": "💚Ithetha ukuba umntwana wakho ofikisayo uyayazi into ekhuselekileyo nesempilweni, ngoko ke unokwenza ukhetho olufanelekileyo lokuzigcina ekhuselekile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the course on improving your relationship with your teen. Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokuphucula ubudlelwane bakho nomntwana wakho ofikisayo. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your teen. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha elingakumbi nomntwana wakho ofikisayo.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your teen may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela. Kubonakala ngathi ukuchitha ixesha nomntwana wakho kusenokuba lucelomngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already excelling at spending One-on-One Time with your teen before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele usenza iinzame zokuchitha ixesha lomnye nomnye kunye nomntwana wakho phambi koParentText. Kuhle ukuba ukwazi ukugcina umzamo obalaseleyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your teen is so important. Though you are still doing great, you have reported that spending time together has become more challenging since you first began this course. ",
+    "text": "Ixesha nomntwana wakho libaluleke kakhulu. Nangona usenza okuhle, unike ingxelo yokuba ukuchitha ixesha lomnye nomnye kunye kube ngumngeni ukusukela oko waqalayo iParentText. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started this course in ParentText. Your effort is working!",
+    "text": "Siyavuyisana nawe!🎉Wenze inkqubela ukusukela oko uqalile iParentText. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to get more help?",
+    "text": "Ingaba ungathanda ukufumana olunye uncedo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can find and go through this course any time via the Main Menu by typing {MENU}.",
+    "text": "Enkosi ngokubonelela ngohlaziyo lwenkqubela. Ungafumana kwaye ufunde esi sifundo nangaliphi na ixesha ngoluhlu oluphambili ngokuchwetheza {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is One-on-One Time going?",
+    "text": "Lihamba njani ixesha lomnye nomnye?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your teen ",
+    "text": "Kuhle kakhulu! Qhubeka nomsebenzi omhle wokuphucula ubudlelwane bakho nomntwana wakho ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that One-on-One Time is not going well. ",
+    "text": "Ndiyaxolisa ukuva ukuba ixesha lomnye nomnye alihambi kakuhle. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course on understanding teen development. Let’s see how things may have changed since you started this course:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokuxhasa ukukhula komntwana wakho. Makhe sibone ukuba izinto zinokutshintsha njani ukususela oko uqale esisifundo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to talk about these things with your teen, and that’s okay. 💚",
+    "text": "Kunokuba nzima ukuthetha ngezi zinto nomntwana wakho ofikisayo, kwaye oko kulungile.💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress in this course. It seems like talking with your teen may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela kwesi sifundo. Kubonakala ngathi ukuchitha ixesha nomntwana wakho kusenokuba lucelomngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already excelling at talking with your teen before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele ugqwesile ekuthetheni nomntwana wakho ofikisayo phambi kweParentText. Kuhle kakhulu ukuba ukwazi ukugcina umzamo obalaseleyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talking about difficult topics with your teen is important. Though you are still doing great, you have reported that this has become more challenging since you first began ParentText.",
+    "text": "Ukuthetha ngemibandela enzima nomntwana wakho ofikisayo kubalulekile. Nangona usenza kakuhle, unike ingxelo yokuba oku kuye kwaba lucelomngeni ngakumbi oko waqalayo iParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress in this course since you’ve started ParentText. Your effort is working!",
+    "text": "Siyavuyisana nawe!🎉Uye wenza inkqubela kwesi sifundo ukususela oko uqalile iParentText. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can find and go through this course any time via the Main Menu by typing {MENU}. 📝",
+    "text": "Enkosi ngokubonelela ngohlaziyo lwenkqubela phambili. Ungafumana kwaye ufunde esi sifundo nangaliphi na ixesha ngoLuhlu oluPhambili ngokubhala {MENU}. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How did talking to your teen about personal things go?",
+    "text": "Kwahamba njani ukuthetha nomntwana wakho ngezinto zobuqu?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work of talking to your teen about personal things. ",
+    "text": "Kuhle kakhulu! Qhubeka nomsebenzi omhle wokuthetha nomntwana wakho ofikisayo ngezinto zobuqu. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that it has been difficult to talk to your teen about personal things",
+    "text": "Ndiyaxolisa ukuva ukuba bekunzima ukuthetha nomntwana wakho ofikisayo ngezinto zobuqu",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of One-on-One Time with your child?",
+    "text": "Kwiiyure eziyi 24 ezidlulileyo, ubuchithe ubuncinane yemizuzu emi-5 yexesha lomnye nomnye?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your child and how to do this in this course.",
+    "text": "Oko kulungile. Uya kufunda ngakumbi ngokubaluleka kokuchitha ixesha nomntwana wakho kunye nendlela yookwenza oku kwesi sifundo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+    "text": "Kuhle ukuva oko!🎉Ukuchitha ixesha nomntwana wakho yindlela entle yokwakha ubudlelwane obuhle kunye naye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a question to help you get started on your course to support your child’s development:",
+    "text": "Nanku umbuzo wokukunceda ukuba uqalise izifundo zakho ukuxhasa ukukhula komntwana wakho:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How confident are you in your ability to support your child's development?",
+    "text": "Uzithembe kangakanani kubuchule bakho bokuxhasa ukukhula komntwana wakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of child development in this course. Supporting your child’s development will help them live a happy, safe and healthy life.",
+    "text": "Oko kulungile. Uya kufunda ngakumbi ngokubaluleka kophuhliso lomntwana kwesi sifundo. Ukuxhasa ukukhula komntwana wakho kuya kumnceda aphile ubomi obonwabisayo, obukhuselekileyo nobunempilo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 😃 Supporting your child’s development will help them live a happy, safe and healthy life.",
+    "text": "Kuhle ukuva oko!😃 Ukuxhasa ukukhula komntwana wakho kuya kumnceda aphile ubomi obonwabisayo, obukhuselekileyo nobunempilo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your child ? 🔑",
+    "text": "Yintoni oye wayibona inzima malunga nokuchitha ixesha nomntwana wakho?🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else.",
+    "text": "Kunokuba nzima ukufumana ixesha ngexesha losuku lwakho, ngomsebenzi, imisebenzi yasekhaya kunye nayo yonke enye into.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
+    "text": "✨Cinga ngexesha ngosuku ngalunye onokuligcina imizuzu emi-5. Ninokwenza imisebenzi yasekhaya ibe ngumdlalo eninokuwenza kunye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your child does not want to spend One-on-One Time with you.",
+    "text": "😔 Kunokuba buhlungu xa umntwana wakho engafuni ukuchitha ixesha kunye nawe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your child can see that you care and want to spend this time with them.",
+    "text": "💙 Zama kwakhona ukuze umntwana wakho abone ukuba umkhathalele kwaye ufuna ukuchitha eli xesha kunye naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺Boys and girls often want to spend time watching T.V. or playing with a gadget.",
+    "text": "📺Amakhwenkwe namantombazana adla ngokufuna ukuchitha ixesha ebukele umabonakude okanye edlala ngesixhobo sokwenza izinto.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the gadget with them.",
+    "text": "❓ Ungabukela okanye udlale kwisixhobo kunye nabo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Caring about their interests is a great start!",
+    "text": "💚 Ukukhathalela izilangazelelo zabo sisiqalo esihle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together you can suggest another activity.",
+    "text": "🌷 Nje ukuba niqale ukuchitha ixesha kunye ningacebisa omnye umsebenzi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.",
+    "text": "☀️ Ukuba umntwana wakho ufuna ukwenza izinto ekunzima kakhulu ukuba uzenze, unokumjonga.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for your child (and adults!) if they don’t like losing.",
+    "text": "⚽ Imidlalo yokhuphiswano kunokuba nzima kumntwana wakho (kunye nabantu abadala!) ukuba abathandi ukulahlekelwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.",
+    "text": "🏆 Bakuba behlile, thetha nomntwana wakho malunga nokuba ukuphumelela kakuhle kunye nokuphulukana kakuhle kunokubonakala njani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend One-on-One Time with each of your children when you have more than one. ",
+    "text": "🔴 Kunokuba nzima ukuchitha ixesha kunye nomntwana ngamnye xa unabaninzi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older sibling to look after your other children while you spend One-on-One Time with your child.",
+    "text": "🌱 Ukuba kuyenzeka, unokucela umntu omdala okanye umntakwenu omdala ukuba akujongele abanye abantwana ngelixa uchitha ixesha lomnye nomnye nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend One-on-One Time with each of your children.",
+    "text": "⏰ Cinga ngexesha ekuya kuba lula ngalo ukuchitha ixesha lomnye nomnye nabantwana bakho ngamnye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend One-on-One Time with all of your children at once! If you do, make sure all are able to participate in One-on-One Time. ",
+    "text": "💛Ungakwazi nokuchitha ixesha lomnye nomnye kunye nabantwana bakho bonke ngaxesha nye! ukuba wenzile, qinisekisa ukuba bonke bwkazile ukubayinxalenye yexesha lomnye nomnye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion for a group of children. 💡",
+    "text": "Chwetheza {PLAY} lengcebiso zemidlalo eyonwabisayo yeqela labantwana.💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend One-on-One Time with your child.",
+    "text": "💛Siyaxolisa ukuva oko ukuba ufumana kunzima ukuchitha Ixesha Lomnye Nomnye kunye nomntwana wakho ofikisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult when supporting your child’s development?",
+    "text": "Yintoni oyifumanise inzima ngelixa ubuxhasa ukukhula komntwana wakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 It is okay to feel that way. There are many small ways to spend time with your child!",
+    "text": "🌈Kulungile ukuziva ngalondlela. Kukho iindlela ezininzi zokuchitha ixesha kunye nomntwna wakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ You can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or travelling on a bus.",
+    "text": "⏰Ungasebenzisana kunye nomntwana wakho ngelixa usenza enye into. Umzekelo, ungacela umntwana wakho achaze imibala okanye izixhobo ezibangqongileyo abazibonayo ngelixa nihamba kunye okanye nikhwele ibhasi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Your child will appreciate the attention you are giving, even for a short while.",
+    "text": "😃Umntwana wakho uyakubulela ngengqwalasela oyinikayo, nokuba lixeshana elifutshane.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 You may be hurt because your child does not want to spend time with you.",
+    "text": "😣 Ungabe ulimele ngokuba umntwana wakho akafuni kuchitha ixesha kunye nawe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Sometimes, your child just needs some time to start to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.",
+    "text": "⏰Ngamanye amaxesha, umntwana wakho udinga nje ixesha ukuqalisa ukuzibandakanya kunye nawe. Inganceda ukuhlala uzolile, unomonde, kwaye unobubele ngelixa uzama ukunxulumana kunye nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 As children grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
+    "text": "🌱Njengoko abantwana bekhula, basenokufuna ukuzimela ngokunokwabo. Yinto eqhelekileyo leyo! Ungabaxhasa ngokufumana abahlobo ngenxa yomdla wabo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧸 It must be hard to see your child getting injured or feeling sad often. ",
+    "text": "🧸 Kunganzima ukubona umntwana wakho esonzakala okanye eziva ekahathazekile rhoqo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷Children learn and grow from making mistakes. It is an important part of child development. They will be safe as long as you are aware of their activities and you can prevent anything dangerous.",
+    "text": "🌷Abantwana bafunda kwaye bakhula ngokwenza iimpazamo. Kubalulekile ukubayinxalenye yokhula komntwana. Bazakukhuseleka njengoko uyazi imidlalo kwaye ungabalekela neyiphina ingozi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Build your child’s confidence about what they do, what is important to them, and how they look so that they are comfortable trying new things.",
+    "text": "⭐Yakha ukuzethemba komntana wakho malunga nento abayenzayo, Yintoni ebalulekileyo kubo, kwaye bakhangeleka njani ukuze bakhululeke ukuzama izinto ezintsha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎨 Encourage them to safely try out fun activities with other children or adults. Praise them when they do it well!",
+    "text": "🎨Bakhuthaze ukuzama ngokukhuselekileyo imidlalo eyonwabisayo kunye nabantwana okanye abantu abdala. Bancome xa benze kakuhle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Let your child know that you trust them to be safe and follow the rules that you have set.",
+    "text": "💚 Vumela umntwana wakho ukuba azi ukuba ubathembile ukukhuseleka kunye nokulandela imithetho othe wayi misela.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for children (and adults!) if they don’t like losing or sharing.",
+    "text": "⚽Imidlalo yokhuphiswano inganzima kumntwana wakho ofikisayo (nabantu abadala!) ukuba abafuni ukohluleka okanye ukwabelana.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 It is difficult when your child is expressing negative feelings, but this is common because your child is also learning to manage their emotions.",
+    "text": "💙Kunzima xana umntwana evakalisa iimvakalelo ezingalunganga, kodwa lento iqhelekile ngokuba umntwana wam uyafunda ukumelana neemvakalelo zabo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Listen to your child’s emotions and acknowledge them.",
+    "text": "👂Mamela kwiimvakelelo zomntwana wakho kwaye uyazivumela zona.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ask your child what they or you can do to help them feel better, and give your child advice on what you think would work well.",
+    "text": "💡Cela umntwana wakho yintoni abanga okanye wena ongayenza ukubanceda bazive ngcono, kwaye nika umntwana wakho ingcebiso kwinto ocinga ingasebenza kakuhle.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 While it is tempting to solve your child’s problems immediately with what you think is best, it will not help them grow. Give them a chance to come up with their own ideas!",
+    "text": "🌱Ngelixa kuhenda nje ukufuna ukusombulula iingxaki zomntwana wakho ngokukhawuleza ngento ocinga ukuba yeyona ilungileyo, akusayi kumnceda akhule. Banike ithuba lokuza nezimvo zabo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 We are sorry to hear that it has been hard for you to understand your child’s development.",
+    "text": "💚 Siyaxolisa ukuva ukuba bekunzima kuwe ukuqonda ukukhula komntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the lessons on improving your relationship with your child Let’s see how things have changed since you started:",
+    "text": "Wenze kakuhle ukugqiba izifundo zokuphucula ubudlelwane bakho nomntwana wakho. Makhe sibone ukuba zitshintshe njani izinto ukususela oko uqalile:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your child. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha elininzi nomntwana wakho.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend One-on-One Time with your child. 💛",
+    "text": "Ndiyaxolisa ukuva ukuba awukwazanga ukuchitha ixesha lomnye nomnye kunye nomntwana wakho.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like spending time with your child may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela. Kubonakala ngathi ukuchitha ixesha nomntwana wakho kusenokuba lucelomngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already putting in the effort to spend One-on-One Time with your child before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele usenza iinzame zokuchitha ixesha lomnye nomnye kunye nomntwana wakho phambi koParentText. Kuhle ukuba ukwazi ukugcina umzamo obalaseleyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your child is so important. Though you are still doing great, you have reported that spending One-on-One Time together has become more challenging since you first began ParentText.",
+    "text": "Ixesha nomntwana wakho libaluleke kakhulu. Nangona usenza okuhle, unike ingxelo yokuba ukuchitha ixesha lomnye nomnye kunye kube ngumngeni ukusukela oko waqalayo iParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started ParentText. Your effort is working!",
+    "text": "Siyavuyisana nawe!🎉Wenze inkqubela ukusukela oko uqalile iParentText. Umzamo wakho uyasebenza!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in improving your relationship with your child.",
+    "text": "Kuhle kakhulu! Qhubeka nomsebenzi omhle wokuphucula ubudlelwane bakho nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing your course to support your child’s development. Let’s see how things may have changed since you started this course:",
+    "text": "Wenze kakuhle ngokugqiba isifundo sakho sokuxhasa ukukhula komntwana wakho. Makhe sibone ukuba izinto zinokutshintsha njani ukususela oko uqale esisifundo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be difficult to support your child’s development, and that’s okay. 💛",
+    "text": "Kunokuba nzima ukuxhasa ukukhula komntwana wakho, kwaye oko kulungile.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It seems like supporting your child’s development may still be a challenge.",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela. Kubonakala ngathi ukuxhasa ukukhula komntwana wakho kusenokuba lucelomngeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already excelling at supporting your child’s development before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele ugqwesile ekuxhaseni ukukhula komntwana wakho phambi kweParentText. Kuhle ukuba ukwazi ukugcina umzamo obalaseleyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting your child’s development is important. Though you are still doing great, you have reported that you have become less confident since you first began ParentText.",
+    "text": "Ukuxhasa ukukhula komntwana wakho kubalulekile. Nangona usenza okuhle, unike ingxelo yokuba uye wangazithembi ukusukela oko waqala iParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing your progress update. You can access this information any time in the Main Menu. 📝 ",
+    "text": "Enkosi ngokubonelela ngohlaziyo lwakho lwenkqubela. Ungafikelela kolu lwazi nangaliphi na ixesha kuluhlu oluphambili.📝 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How are your activities to help @fields.child_nickname’s development going? ",
+    "text": "Ihamba njani imisebenzi yakho yokunceda uphuhliso lwe@fields.child_nickname? ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How are your activities to help your child’s development going? ",
+    "text": "Ihamba njani imisebenzi yakho yokunceda ukukhula komntwana wakho? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in supporting @fields.child_nickname’s development.",
+    "text": "Kuhle kakhulu! Qhubeka nomsebenzi omhle wokuxhasa uphuhliso lwe@fields.child_nickname.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Excellent! Keep up the good work in supporting your child’s development.",
+    "text": "Kuhle kakhulu! Qhubeka nomsebenzi omhle wokuxhasa ukukhula komntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that your activities to help @fields.child_nickname’s development are not going so well.",
+    "text": "Ndiyaxolisa ukuva ukuba imisebenzi yakho yokunceda uphuhliso lwe@fields.child_nickname ayihambi kakuhle.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "I am sorry to hear that your activities to help your child’s development are not going so well.",
+    "text": "Ndiyaxolisa ukuva ukuba imisebenzi yakho yokunceda ukukhula komntwana wakho ayihambi kakuhle.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Learning how to manage our stress is the first step to providing the best support for our children and teens. Let’s check in on you first:",
+    "text": "Ukufunda indlela yokulawula uxinzelelo lwethu linyathelo lokuqala lokubonelela ngenkxaso engcono kubantwana bethu kunye nolutsha. Masijonge kuwe kuqala:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you feel overwhelmed by the responsibility of being a parent? 😔",
+    "text": "Ingaba uziva usonganyelwa luxanduva lokuba ngumzali?😔",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉",
+    "text": "Kwakuhle ukuva lonto!🎉",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. We will learn more about taking time for ourselves today. ",
+    "text": "Oko kulungile. Sizakufunda banzi malunga nokuzinika ixesha namhlanje. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Now that you’ve completed ParentText, let’s check in:",
+    "text": "Ngoku ekubeni uyigqibile iParentText, masingene:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already managing the stress of parenting well before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "Ubusele ulawula uxinzelelo lobuzali kakuhle phambi kweParentText. Kuhle ukuba ukwazi ukugcina umzamo obalaseleyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s great that you’re still doing well. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛",
+    "text": "Kuhle ukuba usaqhuba kakuhle. Ukuba ngumzali kunokuba nzima. Nceda ukhumbule ukunqumama kwaye ucele uncedo xa uludinga.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛",
+    "text": "Oko kulungile. Ukuba ngumzali kunokuba nzima. Nceda ukhumbule ukunqumama kwaye ucele uncedo xa uludinga.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress in this course. Still, it seems like parenting is overwhelming. That is okay. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛",
+    "text": "Siyavuyisana nawe ngokwenza inkqubela kwesi sifundo. Sekunjalo, kubonakala ngathi ukuba ngumzali kunzima. Oko kulungile. Ukuba ngumzali kunokuba nzima. Nceda ukhumbule ukunqumama kwaye ucele uncedo xa uludinga.💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update.",
+    "text": "Enkosi ngokusinika ubume benkqubela phambili yakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hayi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ewe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not Confident",
+    "text": "Awuzithembanga",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Somewhat Confident",
+    "text": "Ndinako ukuzithemba",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Confident",
+    "text": "Ndizithembile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Very Confident",
+    "text": "Ndizithembe kakhulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have enough time.",
+    "text": "Khange ndibenexesha elaneleyo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen did not want to spend One-on-One Time with me.",
+    "text": "Umntwana wam ofikisayo khange afune ukuchitha ixesha lomnye nomnye nam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my teen wanted to do was watch T.V. or play with a gadget.",
+    "text": "Inye nje into efunwa ngumntwana wam ofikisayo kukubukela umabonwakude okanye ukudlala ngesixhobo se-eletronikhi.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do things I felt uncomfortable about.",
+    "text": "Umntwana wam ofikisayo ebefuna ukwenza izinto endingakhululekanga ngazo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen wanted to do activities that I could not do.",
+    "text": "Umntwana wam ebefuna ofikisayo ukwenza imisetyenzana ebendingeke ndiyenze.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My teen chose a competitive activity. I won, and then they got angry.",
+    "text": "Umntwana wam ukhetha izinto ezinokhuphiswano. Ndiphumelele, kwaye waba nomsindo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted One-on-One Time at the same time.",
+    "text": "Bonke abantwana bam bebefuna iXesha lomnye nomnye ngexesha elinye.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say.",
+    "text": "Ukhetha ukungatsho.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It made me uncomfortable.",
+    "text": "Indenze andakhululeka.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "It made my teen uncomfortable.",
+    "text": "Imenze umntwana wam ofikisayo akakhululeka.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I do not know where to find resources to support my teen’s development.",
+    "text": "Andazi ukuba ndiyifumana phi imithombo yolwazi yokuxhasa ukufunda komntwana wam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I think my teen is too young to be talking about these things.",
+    "text": "Ndicinga ukuba umntwana wam ofikisayo usemncinci kakhulu ukuba angathetha ngezizinto.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Good",
+    "text": "Kuhle",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "So-so",
+    "text": "So-so",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "Kubi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not want to spend One-on-One Time with me.",
+    "text": "Umntwana wam khange afune ukuchitha Ixesha Lomnye Nomnye nam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted to do was watch T.V. or play with a gadget.",
+    "text": "Bonke abantwana bam into bebefuna ukuyenza kukubukela Umabonakude okanye ukudlala ngesixhobo ngegajethi.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do.",
+    "text": "Umntwana wam ebefuna ukwenza imidlalo ebendingeke ndikwazi ukuyenza.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry.",
+    "text": "Umntwana wam ukhetha izinto ezinokhuphiswano. Ndiphumelele kwaye waba nomsindo.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I don’t have time to interact with my child.",
+    "text": "Andinalo ixesha lokuncokola nomntwana wam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child is not interested in spending time with me.",
+    "text": "Umntwana wam akanamdla wokuchitha ixesha kunye nam.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child keeps getting hurt from exploring or making new friends.",
+    "text": "Umntwana wam uhlala enzakala ekuhloleni okanye ekwenzeni abahlobo abatsha.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child likes competitive activities but gets angry when they lose or need to share the win.",
+    "text": "Umntwana wam uyayithanda imidlalo yokhuphiswano kodwa ubanomsindo xa ehlulakele okanye efuneka ukuba abelane nabanye ngokuphumelela.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child expresses negative emotions all the time.",
+    "text": "Umntwana wam uvakalisa iimvakalelo ezimbi ngalo lonke ixesha.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Never",
+    "text": "Zange",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Rarely",
+    "text": "Kunqabile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Sometimes",
+    "text": "Ngamaxesha athile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Often",
+    "text": "Rhoqo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Almost Always",
+    "text": "Phantse amaxesha onke",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no",
+    "text": "hayi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ewe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not confident",
+    "text": "awuzithembanga",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "somewhat confident",
+    "text": "ndinako ukuzithemba",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "confident",
+    "text": "ndizithembile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "very confident",
+    "text": "ndizithembe kakhulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have enough time.",
+    "text": "khnage ndibenexesha elaneleyo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen did not want to spend one-on-one time with me.",
+    "text": "umntwana wam ofikisayo khange afune ukuchitha ixesha lomnye nomnye kunye nam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my teen wanted to do was watch t.v. or play with a gadget.",
+    "text": "inye nje into efunwa ngumntwana wam ofikisayo kukubukela umabonwakude okanye ukudlala ngesixhobo se-eletronikhi/gajethi.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do things i felt uncomfortable about.",
+    "text": "umntwana wam ofikisayo ebefuna ukwenza izinto endingakhululekanga ngazo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen wanted to do activities that i could not do.",
+    "text": "umntwana wam ebefuna ofikisayo ukwenza imidlalo ebendingakwazi ukuyenza.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my teen chose a competitive activity. i won, and then they got angry.",
+    "text": "umntwana wam ukhetha izinto ezinokhuphiswano. Ndiphumelele, kwaye waba nomsindo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted one-on-one time at the same time.",
+    "text": "bonke abantwana bam bafuna ukuchitha ixesha kunye nam ngexesha elinye.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say.",
+    "text": "ukhetha ukungatsho.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it made me uncomfortable.",
+    "text": "indenze andakhululeka.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "it made my teen uncomfortable.",
+    "text": "imenze umntwana wam ofikisayo akakhululeka.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i do not know where to find resources to support my teen’s development.",
+    "text": "andazi ukuba ndiyifumana phi imithombo yolwazi yokuxhasa ukufunda komntwana wam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i think my teen is too young to be talking about these things.",
+    "text": "ndicinga ukuba umntwana wam ofikisayo usemncinci kakhulu ukuba angathetha ngezizinto.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "good",
+    "text": "kuhle",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "so-so",
+    "text": "so-so",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "kubi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child did not want to spend one-on-one time with me.",
+    "text": "umntwana wam khange akafuni kuchitha ixesha nam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted to do was watch t.v. or play with a gadget.",
+    "text": "ekuphela kwento ababefuna ukuyenza abantwana bam yayikukubukela umabonakude okanye ukudlala ngesixhobo sokwenza izinto.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child wanted to do activities that i could not do.",
+    "text": "umntwana wam wayefuna ukwenza izinto endingenakuzenza.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child chose a competitive activity. i won and then they got angry.",
+    "text": "umntwana wam ukhethe umsetyenzana onokhuphiswano. ndiphumelele waze waba nomsindo.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i don’t have time to interact with my child.",
+    "text": "andinalo ixesha lokuncokola nomntwana wam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child is not interested in spending time with me.",
+    "text": "umntwana wam akanamdla wokuchitha ixesha nam.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child keeps getting hurt from exploring or making new friends.",
+    "text": "umntwana wam uhlala enzakala ekuhloleni okanye ekwenzeni abahlobo abatsha.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child likes competitive activities but gets angry when they lose or need to share the win.",
+    "text": "umntwana wam uyayithanda imisebenzi yokhuphiswano kodwa uyacaphuka xa ephulukene okanye efuneka ukuba abelane nabanye ngokuphumelela.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child expresses negative emotions all the time.",
+    "text": "umntwana wam uvakalisa iimvakalelo ezimbi ngalo lonke ixesha.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "never",
+    "text": "zange",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "rarely",
+    "text": "kunqabile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "sometimes",
+    "text": "ngamaxesha athile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "often",
+    "text": "rhoqo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "almost always",
+    "text": "phantse qho",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

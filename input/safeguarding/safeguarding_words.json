@@ -18,30 +18,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuthumba",
-                        "ukuthumba",
-                        "umthumbi",
-                        "othunjiwe"
+                        "ukuxhwila",
+                        "ukuxhwila",
+                        "umxhwili",
+                        "uxhwiliwe"
                     ],
                     "mispellings": [
-                        "ukukkumbaa",
-                        "ukuthumbaa",
-                        "ukutthumba",
-                        "ukuthuba"
+                        "uxwiliwe",
+                        "uxwliwe",
+                        "uchwiliw",
+                        "uzhwiliwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuthumba",
-                        "ukuthumba",
-                        "umthumbi",
-                        "othunjiwe"
+                        "ontvoer",
+                        "ontvoering",
+                        "ontvoerder",
+                        "ontvoer"
                     ],
                     "mispellings": [
-                        "ukukkumbaa",
-                        "ukuthumbaa",
-                        "ukutthumba",
-                        "ukuthuba"
+                        "ondvoer",
+                        "ontvoor",
+                        "ondvoor",
+                        "ontfoer"
                     ]
                 }
             }
@@ -62,23 +62,25 @@
                 "hau": {
                     "keywords": [
                         "ukufa",
-                        "ofile",
-                        "ofayo"
+                        "ufile",
+                        "uyafa"
                     ],
-                    "mispellings": [
-                        "ukkufa",
-                        "ukuf"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukufa",
-                        "ofile",
-                        "ofayo"
+                        "dood",
+                        "dooie",
+                        "doodgaan",
+                        "sterfte"
                     ],
                     "mispellings": [
-                        "ukkufa",
-                        "ukuf"
+                        "doot",
+                        "doie",
+                        "dootgan",
+                        "doodgan",
+                        "stervte",
+                        "sterwe"
                     ]
                 }
             }
@@ -97,22 +99,22 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "okungahambisani nezomthetho"
+                        "engekho mthethweni"
                     ],
-                    "mispellings": [
-                        "ukugahambisani nezomthetho",
-                        "akungahambisani nezomthetho",
-                        "ugungehambisani nezimthetho"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "okungahambisani nezomthetho"
+                        "onwettig",
+                        "onwettige"
                     ],
                     "mispellings": [
-                        "ukugahambisani nezomthetho",
-                        "akungahambisani nezomthetho",
-                        "ugungehambisani nezimthetho"
+                        "onwetig",
+                        "onwettag",
+                        "onwetag",
+                        "onwetige",
+                        "onwettage",
+                        "onwetage"
                     ]
                 }
             }
@@ -135,30 +137,32 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ushevu",
-                        "ukufakela ushevu",
-                        "ofakelwe ushevu"
+                        "ityhefu",
+                        "uyatyhefa",
+                        "utyhefekile"
                     ],
                     "mispellings": [
-                        "ushave",
-                        "ofakelwe utsheffu",
-                        "ushevva",
-                        "ukufakela ucevu",
-                        "ofakelwe ucevu"
+                        "ityefu",
+                        "uthyefekle",
+                        "ityfu",
+                        "ithyfu",
+                        "ityefu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ushevu",
-                        "ukufakela ushevu",
-                        "ofakelwe ushevu"
+                        "gif",
+                        "vergiftiging",
+                        "vergifting",
+                        "vergiftig"
                     ],
                     "mispellings": [
-                        "ushave",
-                        "ofakelwe utsheffu",
-                        "ushevva",
-                        "ukufakela ucevu",
-                        "ofakelwe ucevu"
+                        "giv",
+                        "geef",
+                        "vergiftag",
+                        "vergeeftag",
+                        "geeftag",
+                        "vergiftaging"
                     ]
                 }
             }
@@ -177,22 +181,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "inhlekelele",
-                        "inhlikelele"
+                        "ingxaki",
+                        "iingxaki"
                     ],
                     "mispellings": [
-                        "inhikilele",
-                        "inhikelele"
+                        "inxaki",
+                        "ingaki"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "inhlekelele",
-                        "inhlikelele"
+                        "krisis",
+                        "krisisse"
                     ],
                     "mispellings": [
-                        "inhikilele",
-                        "inhikelele"
+                        "krises",
+                        "krisus",
+                        "kruses",
+                        "krusis",
+                        "krisise",
+                        "krissise"
                     ]
                 }
             }
@@ -214,28 +222,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "inkinga",
-                        "ukuhlupha",
-                        "ohluphayo",
-                        "ohlushiwe"
+                        "ingxaki",
+                        "iyakhathaza",
+                        "uyingxaki",
+                        "ukhathazekile"
                     ],
                     "mispellings": [
-                        "inkinge",
-                        "inkenge",
-                        "inkunga"
+                        "ngxaki",
+                        "ngaxki",
+                        "inxki"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "inkinga",
-                        "ukuhlupha",
-                        "ohluphayo",
-                        "ohlushiwe"
+                        "moeilikheid",
+                        "kommerwekkend",
+                        "lastig",
+                        "ontsteld"
                     ],
                     "mispellings": [
-                        "inkinge",
-                        "inkenge",
-                        "inkunga"
+                        "moelikheid",
+                        "moeilikgeit",
+                        "moelikgeit",
+                        "hinderlik",
+                        "lustig",
+                        "ondstelt"
                     ]
                 }
             }
@@ -255,24 +266,27 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "isisulu",
-                        "olimazekile"
+                        "ixhoba",
+                        "ukuxhatshazwa"
                     ],
                     "mispellings": [
-                        "isislu",
-                        "olimazegile",
-                        "isiselu"
+                        "ixoba",
+                        "ixabo",
+                        "ocoba"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isisulu",
-                        "olimazekile"
+                        "slagoffer",
+                        "geviktimiseer"
                     ],
                     "mispellings": [
-                        "isislu",
-                        "olimazegile",
-                        "isiselu"
+                        "slagofer",
+                        "slagover",
+                        "slafofffer",
+                        "slagoger",
+                        "geviktimiser",
+                        "gefiktimiseer"
                     ]
                 }
             }
@@ -281,33 +295,46 @@
             "English": {
                 "keywords": [
                     "emergency",
+                    "084911",
+                    "112",
                     "911"
                 ],
                 "mispellings": [
                     "emergincy",
                     "emergincey",
-                    "emergince"
+                    "emergince",
+                    "emergebcy"
                 ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "isimo zezokuphuthuma"
+                        "ungxamiseko",
+                        "Sincedeni",
+                        "112"
                     ],
                     "mispellings": [
-                        "isimo eziphuthumeyo",
-                        "isimo esiphuthamaye",
-                        "isimo esiphutumanyo"
+                        "unxamiseko",
+                        "umxdmisekop",
+                        "unxamisrko",
+                        "ungxanideko"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isimo zezokuphuthuma"
+                        "noodgeval",
+                        "nood",
+                        "112",
+                        "911"
                     ],
                     "mispellings": [
-                        "isimo eziphuthumeyo",
-                        "isimo esiphuthamaye",
-                        "isimo esiphutumanyo"
+                        "nootgeval",
+                        "noot",
+                        "geval",
+                        "noodgefal",
+                        "nootgefal",
+                        "gefal",
+                        "82911"
                     ]
                 }
             }
@@ -317,6 +344,7 @@
                 "keywords": [
                     "danger",
                     "dangerous",
+                    "endanger",
                     "endangered"
                 ],
                 "mispellings": [
@@ -329,25 +357,30 @@
                 "hau": {
                     "keywords": [
                         "ingozi",
-                        "okuyingozi",
+                        "iyingozi",
+                        "usengozini",
                         "engozini"
                     ],
                     "mispellings": [
-                        "ingosi",
-                        "okuyingesi",
-                        "egosine"
+                        "igozi",
+                        "ibozu",
+                        "ingoxi"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ingozi",
-                        "okuyingozi",
-                        "engozini"
+                        "gevaar",
+                        "gevaarlik",
+                        "gevaar",
+                        "bedreig"
                     ],
                     "mispellings": [
-                        "ingosi",
-                        "okuyingesi",
-                        "egosine"
+                        "gevar",
+                        "gefaar",
+                        "gefaarlik",
+                        "gefaarlike",
+                        "bedrieg",
+                        "bedruig"
                     ]
                 }
             }
@@ -355,7 +388,10 @@
         {
             "English": {
                 "keywords": [
-                    "stalking"
+                    "stalk",
+                    "stalking",
+                    "stalker",
+                    "stalked"
                 ],
                 "mispellings": [
                     "staling",
@@ -367,24 +403,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukucupha"
+                        "ukuchwechwela"
                     ],
-                    "mispellings": [
-                        "ukucopha",
-                        "ukuchopha",
-                        "ukucuphu",
-                        "ukucaphu"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukucupha"
+                        "bekruip",
+                        "agtervolg",
+                        "bekruiper",
+                        "agtervolger"
                     ],
                     "mispellings": [
-                        "ukucopha",
-                        "ukuchopha",
-                        "ukucuphu",
-                        "ukucaphu"
+                        "bekryp",
+                        "bekreip",
+                        "agterfolg",
+                        "bekryper",
+                        "agterfolger",
+                        "afloer"
                     ]
                 }
             }
@@ -406,26 +442,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukulandela",
-                        "olandelwayo"
+                        "landela",
+                        "uyalandela",
+                        "ulandelwe"
                     ],
                     "mispellings": [
-                        "ukuladela",
-                        "oladelayo",
-                        "ladelweyo",
-                        "ladelayo"
+                        "ulandwele",
+                        "ulsndlwe",
+                        "uyalsandelw",
+                        "uyslandelw"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukulandela",
-                        "olandelwayo"
+                        "volg",
+                        "agtervolg",
+                        "gevolg"
                     ],
                     "mispellings": [
-                        "ukuladela",
-                        "oladelayo",
-                        "ladelweyo",
-                        "ladelayo"
+                        "folg",
+                        "agterfolg",
+                        "gefolg",
+                        "jag"
                     ]
                 }
             }
@@ -434,27 +472,43 @@
             "English": {
                 "keywords": [
                     "suffer",
+                    "suffered",
                     "suffering",
-                    "suffered"
+                    "in pain"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuzwa ubuhlungu",
-                        "ozwa ubuhlungu",
-                        "ozwe ubuhlungu"
+                        "intlungu",
+                        "sentlungwini",
+                        "ebesentlungwini",
+                        "entlungwini"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "Ukubandezeleka",
+                        "wabandezeleka",
+                        "Ukuhlupheka"
+                    ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuzwa ubuhlungu",
-                        "ozwa ubuhlungu",
-                        "ozwe ubuhlungu"
+                        "ly",
+                        "gely",
+                        "lyding",
+                        "swaarkry"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "lei",
+                        "lui",
+                        "gelei",
+                        "gelui",
+                        "leiding",
+                        "luiding",
+                        "swarkry",
+                        "swaerkry"
+                    ]
                 }
             }
         },
@@ -463,26 +517,39 @@
                 "keywords": [
                     "hide",
                     "hiding",
-                    "hid"
+                    "hid",
+                    "hidden"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "bandzelek",
+                    "wabsndexeleka",
+                    "uhlupeka"
+                ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukufihla",
-                        "fihla",
-                        "kucashile"
+                        "zimela",
+                        "ukuzimela",
+                        "uzimela",
+                        "Ifihliwe"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukufihla",
-                        "fihla",
-                        "kucashile"
+                        "wegsteek",
+                        "wegkruip",
+                        "weggesteek"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "wegstiek",
+                        "wegstek",
+                        "wegkryp",
+                        "wegkreip",
+                        "weggestiek",
+                        "wegestiek"
+                    ]
                 }
             }
         }
@@ -504,26 +571,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ohlanzile",
-                        "ohlanzayo"
+                        "ukugabha",
+                        "ugabhile",
+                        "uyagabha"
                     ],
                     "mispellings": [
-                        "hhlanza",
-                        "ohanzile",
-                        "hanza"
+                        "gaba",
+                        "ugabile",
+                        "umgsbho"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ohlanzile",
-                        "ohlanzayo"
+                        "opgooi",
+                        "opgegooi",
+                        "braking",
+                        "gebraak"
                     ],
                     "mispellings": [
-                        "hhlanza",
-                        "ohanzile",
-                        "hanza"
+                        "opgoei",
+                        "opgegoei",
+                        "opgoi",
+                        "brak",
+                        "braaking",
+                        "gebrak",
+                        "braak"
                     ]
                 }
             }
@@ -540,19 +612,27 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ukuhlanza",
-                        "ukuhlanza"
+                        "ukugabha",
+                        "uyagabha",
+                        "ugabhile"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhlanza",
-                        "ukuhlanza",
-                        "ukuhlanza"
+                        "opbring",
+                        "kots",
+                        "gekots",
+                        "gekots"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "opbreng",
+                        "obring",
+                        "kods",
+                        "kits",
+                        "gekods",
+                        "fomeer"
+                    ]
                 }
             }
         },
@@ -561,6 +641,7 @@
                 "keywords": [
                     "disease",
                     "STD",
+                    "STI",
                     "diseases"
                 ],
                 "mispellings": [
@@ -573,25 +654,30 @@
                 "hau": {
                     "keywords": [
                         "isifo",
-                        "STD",
+                        "ngesondo",
                         "izifo"
                     ],
                     "mispellings": [
-                        "issifo",
-                        "isifoo",
-                        "SDT"
+                        "ixifo",
+                        "isfo",
+                        "izfo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isifo",
-                        "STD",
-                        "izifo"
+                        "siekte",
+                        "SOI",
+                        "SOS",
+                        "siektes"
                     ],
                     "mispellings": [
-                        "issifo",
-                        "isifoo",
-                        "SDT"
+                        "sik",
+                        "sikte",
+                        "siktes",
+                        "sekte",
+                        "sektes",
+                        "SIO",
+                        "SSO"
                     ]
                 }
             }
@@ -611,24 +697,27 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "gulayo",
                         "ukugula",
-                        "gulla"
+                        "isigulo",
+                        "isigulana"
                     ],
                     "mispellings": [
-                        "gul",
-                        "gela"
+                        "guls",
+                        "glua"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "gulayo",
-                        "ukugula",
-                        "gulla"
+                        "siek",
+                        "siekte",
+                        "sieklik"
                     ],
                     "mispellings": [
-                        "gul",
-                        "gela"
+                        "sik",
+                        "sikte",
+                        "siktes",
+                        "siklik",
+                        "seiklik"
                     ]
                 }
             }
@@ -650,25 +739,28 @@
                 "hau": {
                     "keywords": [
                         "ukugula",
-                        "isifo",
-                        "izifo"
+                        "isigulo",
+                        "izigulo"
                     ],
                     "mispellings": [
-                        "ukuggula",
-                        "isiffo",
-                        "iziffoo"
+                        "gula",
+                        "isgulo",
+                        "isihulo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukugula",
-                        "isifo",
-                        "izifo"
+                        "siek",
+                        "siekte",
+                        "siektes"
                     ],
                     "mispellings": [
-                        "ukuggula",
-                        "isiffo",
-                        "iziffoo"
+                        "sik",
+                        "seik",
+                        "siktis",
+                        "siktes",
+                        "seikte",
+                        "seiktes"
                     ]
                 }
             }
@@ -688,24 +780,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ezempilo",
-                        "okunempilo"
+                        "impilo",
+                        "empilweni"
                     ],
                     "mispellings": [
-                        "ezephilo",
-                        "okunempilo",
-                        "ezepphilo"
+                        "empileni",
+                        "empilwedi",
+                        "emilweni"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ezempilo",
-                        "okunempilo"
+                        "gesondheid",
+                        "gesond",
+                        "gesonde"
                     ],
                     "mispellings": [
-                        "ezephilo",
-                        "okunempilo",
-                        "ezepphilo"
+                        "gesont",
+                        "gessont",
+                        "gessond",
+                        "gesontheit",
+                        "gesondheit",
+                        "gesonte"
                     ]
                 }
             }
@@ -724,22 +820,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "isibhedlela",
-                        "umtholampilo"
+                        "isibhedlele",
+                        "iklinikhi"
                     ],
                     "mispellings": [
-                        "isibedlela",
-                        "isibhehlela"
+                        "isdbeflele",
+                        "isbhedlele"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isibhedlela",
-                        "umtholampilo"
+                        "hospitaal",
+                        "kliniek"
                     ],
                     "mispellings": [
-                        "isibedlela",
-                        "isibhehlela"
+                        "hopsitaal",
+                        "hopitaal",
+                        "hospital",
+                        "klinik",
+                        "klinniek",
+                        "klinnik"
                     ]
                 }
             }
@@ -758,22 +858,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuphuphunyelwa yisisu",
-                        "phuphunyelwa yisisu"
+                        "isisu",
+                        "ukusweleka",
+                        "esibelekweni"
                     ],
                     "mispellings": [
-                        "ukupupunyelwa yisisu",
-                        "ukupphupunyelwa yisisu"
+                        "ukuphuma",
+                        "uphuma"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuphuphunyelwa yisisu",
-                        "phuphunyelwa yisisu"
+                        "miskraam",
+                        "miskraam"
                     ],
                     "mispellings": [
-                        "ukupupunyelwa yisisu",
-                        "ukupphupunyelwa yisisu"
+                        "meskraam",
+                        "muskraam",
+                        "misskraam",
+                        "miskram",
+                        "misskram"
                     ]
                 }
             }
@@ -794,26 +898,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukukhulelwa",
-                        "ukukhulelwa",
+                        "ukhulelwe",
+                        "Ukukhulelwa",
                         "khulelwe"
                     ],
                     "mispellings": [
-                        "ukukulela",
-                        "ukukhelelwa",
-                        "ukukulelwa"
+                        "mithi",
+                        "mitha",
+                        "kululwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukukhulelwa",
-                        "ukukhulelwa",
-                        "khulelwe"
+                        "swanger",
+                        "swangerskap",
+                        "verwag",
+                        "verwagtend"
                     ],
                     "mispellings": [
-                        "ukukulela",
-                        "ukukhelelwa",
-                        "ukukulelwa"
+                        "swange",
+                        "swanner",
+                        "swannerskap",
+                        "swangeskap",
+                        "vewag",
+                        "vewagtend"
                     ]
                 }
             }
@@ -834,26 +942,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukukhipha isisu",
-                        "khipha isisu",
-                        "kukhishwe isisu",
-                        "khipha isisu"
+                        "Ukuqhomfa",
+                        "qhomfa",
+                        "qhomfile",
+                        "uyaqhomfa"
                     ],
                     "mispellings": [
-                        "ukkukhipha isisu",
-                        "akukhipha isisu"
+                        "ukuqomfa",
+                        "ukuwomfa"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukukhipha isisu",
-                        "khipha isisu",
-                        "kukhishwe isisu",
-                        "khipha isisu"
+                        "aborsie",
+                        "aborteer",
+                        "aborteer",
+                        "geaborteer"
                     ],
                     "mispellings": [
-                        "ukkukhipha isisu",
-                        "akukhipha isisu"
+                        "aborssie",
+                        "abborteer",
+                        "geabborteer",
+                        "geaboteer",
+                        "afgekom",
+                        "avkom"
                     ]
                 }
             }
@@ -869,17 +981,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "COVID",
-                        "COVID19"
+                        "IKhorona",
+                        "Khorona",
+                        "covid"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "COVID",
-                        "COVID19"
+                        "KOVID",
+                        "KOVID19",
+                        "Korona",
+                        "Corona"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "KOFID",
+                        "KOFID19",
+                        "Koronna",
+                        "Korrona",
+                        "Korronna"
+                    ]
                 }
             }
         }
@@ -890,7 +1011,8 @@
                 "keywords": [
                     "anxiety",
                     "anxious",
-                    "anxiousness"
+                    "anxiousness",
+                    "upset"
                 ],
                 "mispellings": [
                     "angziaty",
@@ -901,26 +1023,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukwesaba",
-                        "khathazekile",
-                        "ukukhathazeka"
+                        "ixhala",
+                        "Ukuxhalaba",
+                        "ixhala",
+                        "Ukuxhalaba"
                     ],
                     "mispellings": [
-                        "ukwecaba",
-                        "gathazekile",
-                        "ukugatazeka"
+                        "uxalaba",
+                        "ixala",
+                        "izala"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukwesaba",
-                        "khathazekile",
-                        "ukukhathazeka"
+                        "angs",
+                        "angstig",
+                        "angstigheid",
+                        "ontsteld"
                     ],
                     "mispellings": [
-                        "ukwecaba",
-                        "gathazekile",
-                        "ukugatazeka"
+                        "ans",
+                        "anstig",
+                        "anstigheit",
+                        "onsteld",
+                        "onstelt",
+                        "ontstelt"
                     ]
                 }
             }
@@ -941,26 +1068,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ingcindezi",
-                        "okubangelana ingcindezi",
-                        "onengcindezi"
+                        "udandatheko",
+                        "udandathekile"
                     ],
                     "mispellings": [
-                        "incindezi",
-                        "okubangela ingciinddezi",
-                        "onengcendizi"
+                        "uxinzelo",
+                        "uxinzelelo",
+                        "uxinzelo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ingcindezi",
-                        "okubangelana ingcindezi",
-                        "onengcindezi"
+                        "depressie",
+                        "depressief",
+                        "depressief",
+                        "bedruk"
                     ],
                     "mispellings": [
-                        "incindezi",
-                        "okubangela ingciinddezi",
-                        "onengcendizi"
+                        "depresie",
+                        "depresief",
+                        "deprasief",
+                        "bedrik",
+                        "teneergedruk",
+                        "teneergedrik"
                     ]
                 }
             }
@@ -969,7 +1099,8 @@
             "English": {
                 "keywords": [
                     "disorder",
-                    "disorders"
+                    "disorders",
+                    "ailment"
                 ],
                 "mispellings": [
                     "dizorder",
@@ -980,24 +1111,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "isifo",
-                        "izifo"
+                        "isigulo",
+                        "izigulo"
                     ],
                     "mispellings": [
-                        "isifwo",
-                        "issifo",
-                        "iisfo"
+                        "izguylo",
+                        "ixugulo",
+                        "isgolo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isifo",
-                        "izifo"
+                        "versteuring",
+                        "versteurings",
+                        "kwaal"
                     ],
                     "mispellings": [
-                        "isifwo",
-                        "issifo",
-                        "iisfo"
+                        "versteering",
+                        "verstiering",
+                        "versteerings",
+                        "verstierings",
+                        "kwal",
+                        "kwel",
+                        "onstelt"
                     ]
                 }
             }
@@ -1012,37 +1148,50 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukwelashwa"
+                        "unyango"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukwelashwa"
+                        "terapie"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "terrapie",
+                        "terrappie",
+                        "terappie",
+                        "terepie",
+                        "terrepie"
+                    ]
                 }
             }
         },
         {
             "English": {
                 "keywords": [
-                    "psychologist"
+                    "psychologist",
+                    "psychology"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "udokotela wezengqondo"
+                        "ugqirha"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "udokotela wezengqondo"
+                        "sielkundige",
+                        "sielkundig",
+                        "sielkunde"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "sielkindig",
+                        "sielkindige",
+                        "sielkinde"
+                    ]
                 }
             }
         },
@@ -1061,24 +1210,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuzibulala",
-                        "ukuzwa wokuzibulala",
                         "ukuzibulala"
                     ],
                     "mispellings": [
-                        "ukuzibhulala",
-                        "ukubula"
+                        "uxkuzibulale",
+                        "uzibulelr"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuzibulala",
-                        "ukuzwa wokuzibulala",
-                        "ukuzibulala"
+                        "selfmoord",
+                        "selfmoord",
+                        "selfmoorde"
                     ],
                     "mispellings": [
-                        "ukuzibhulala",
-                        "ukubula"
+                        "selfmoort",
+                        "selfmoorte",
+                        "selvmoort",
+                        "selvmoord",
+                        "selvmoorte",
+                        "selvmoorde"
                     ]
                 }
             }
@@ -1098,24 +1249,25 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "stress",
-                        "one-stress"
+                        "uxinezelelo",
+                        "uxinezelelekile"
                     ],
                     "mispellings": [
-                        "stresss",
-                        "strees",
-                        "srtess"
+                        "uxinixelelo",
+                        "unzinizelelo",
+                        "uximnixelo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "stress",
-                        "one-stress"
+                        "stres",
+                        "gestres"
                     ],
                     "mispellings": [
-                        "stresss",
-                        "strees",
-                        "srtess"
+                        "stress",
+                        "gestress",
+                        "uitgestres",
+                        "uitgestress"
                     ]
                 }
             }
@@ -1134,22 +1286,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "usizi",
-                        "sosizini"
+                        "Imbandezelo",
+                        "Bandezekile"
                     ],
-                    "mispellings": [
-                        "sosizini",
-                        "khipha stresss"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "usizi",
-                        "sosizini"
+                        "nood",
+                        "benoud",
+                        "benoudheid"
                     ],
                     "mispellings": [
-                        "sosizini",
-                        "khipha stresss"
+                        "noot",
+                        "benood",
+                        "benoot",
+                        "benoodheid",
+                        "benootheit"
                     ]
                 }
             }
@@ -1158,7 +1311,8 @@
             "English": {
                 "keywords": [
                     "sad",
-                    "saddened"
+                    "saddened",
+                    "sadness"
                 ],
                 "mispellings": [
                     "sadd",
@@ -1169,24 +1323,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukudabuka",
-                        "dabukile"
+                        "ukudakumba",
+                        "udakumbile"
                     ],
-                    "mispellings": [
-                        "ukudabukka",
-                        "dabukille",
-                        "ukudabka"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukudabuka",
-                        "dabukile"
+                        "hartseer",
+                        "hartseer",
+                        "bedroef",
+                        "verdriet"
                     ],
                     "mispellings": [
-                        "ukudabukka",
-                        "dabukille",
-                        "ukudabka"
+                        "hardseer",
+                        "betroef",
+                        "verdrit",
+                        "verdreit"
                     ]
                 }
             }
@@ -1195,7 +1348,8 @@
             "English": {
                 "keywords": [
                     "scare",
-                    "scared"
+                    "scared",
+                    "scary"
                 ],
                 "mispellings": [
                     "csared",
@@ -1205,22 +1359,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "sabisa",
-                        "ukwesaba"
+                        "ukoyikisa",
+                        "uyoyika"
                     ],
-                    "mispellings": [
-                        "ukwesebese",
-                        "sebesa"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "sabisa",
-                        "ukwesaba"
+                        "skrik",
+                        "bang",
+                        "bangmaak",
+                        "skrikwekkend"
                     ],
                     "mispellings": [
-                        "ukwesebese",
-                        "sebesa"
+                        "skrok",
+                        "ban",
+                        "banmaak",
+                        "bangmak",
+                        "skrikwekend"
                     ]
                 }
             }
@@ -1231,24 +1387,24 @@
                     "afraid"
                 ],
                 "mispellings": [
-                    "afaid"
+                    "youika"
                 ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukwesaba"
+                        "yoyika"
                     ],
-                    "mispellings": [
-                        "ukwesube"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukwesaba"
+                        "bang",
+                        "bevrees"
                     ],
                     "mispellings": [
-                        "ukwesube"
+                        "ban",
+                        "befrees"
                     ]
                 }
             }
@@ -1256,7 +1412,8 @@
         {
             "English": {
                 "keywords": [
-                    "worried"
+                    "worried",
+                    "worry"
                 ],
                 "mispellings": [
                     "woried"
@@ -1265,18 +1422,25 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukukhathazeka"
+                        "ixhala",
+                        "unexhala"
                     ],
                     "mispellings": [
-                        "ukukatazeka"
+                        "unexala"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukukhathazeka"
+                        "bekommerd",
+                        "bekommer",
+                        "bekommernis"
                     ],
                     "mispellings": [
-                        "ukukatazeka"
+                        "bekomerd",
+                        "bekomert",
+                        "bekomer",
+                        "bekommenis",
+                        "bekomenis"
                     ]
                 }
             }
@@ -1285,6 +1449,7 @@
             "English": {
                 "keywords": [
                     "fear",
+                    "fright",
                     "frighten"
                 ],
                 "mispellings": [
@@ -1295,22 +1460,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukwesaba",
-                        "sabisa"
+                        "uloyiko",
+                        "ukoyikisa",
+                        "woyikile"
                     ],
                     "mispellings": [
-                        "ukwesa",
-                        "ukwessabhisa"
+                        "umilo",
+                        "umlilo"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukwesaba",
-                        "sabisa"
+                        "vrees",
+                        "skrik",
+                        "skrikmaak"
                     ],
                     "mispellings": [
-                        "ukwesa",
-                        "ukwessabhisa"
+                        "frees",
+                        "skik",
+                        "skrikmak",
+                        "skrokmaak"
                     ]
                 }
             }
@@ -1331,26 +1500,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukwethuka",
-                        "tatazela",
-                        "thukile"
+                        "ukuphaphazela",
+                        "uyaphaphazela",
+                        "uphaphazele"
                     ],
                     "mispellings": [
-                        "ukwetuuka",
-                        "tukhile",
-                        "tathazela"
+                        "papazela",
+                        "uphaphazela",
+                        "phzaphazela"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukwethuka",
-                        "tatazela",
-                        "thukile"
+                        "paniek",
+                        "paniekerig",
+                        "paniekerig"
                     ],
                     "mispellings": [
-                        "ukwetuuka",
-                        "tukhile",
-                        "tathazela"
+                        "panik",
+                        "panikerig",
+                        "paniekerag",
+                        "panikkerig",
+                        "panikkerag"
                     ]
                 }
             }
@@ -1368,20 +1539,22 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuhlanya"
+                        "uphambene",
+                        "caphukile"
                     ],
                     "mispellings": [
-                        "ukuhanya",
-                        "ukuhlaannya"
+                        "capukile",
+                        "upambene"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhlanya"
+                        "mal"
                     ],
                     "mispellings": [
-                        "ukuhanya",
-                        "ukuhlaannya"
+                        "ml",
+                        "mall",
+                        "maal"
                     ]
                 }
             }
@@ -1389,7 +1562,8 @@
         {
             "English": {
                 "keywords": [
-                    "grief"
+                    "grief",
+                    "grieve"
                 ],
                 "mispellings": [
                     "greif",
@@ -1399,20 +1573,27 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "usizi"
+                        "intlungu",
+                        "Usizi"
                     ],
                     "mispellings": [
-                        "uzizi",
-                        "uzisi"
+                        "uszi",
+                        "intungu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "usizi"
+                        "smart",
+                        "treur",
+                        "droefheid"
                     ],
                     "mispellings": [
-                        "uzizi",
-                        "uzisi"
+                        "smard",
+                        "treer",
+                        "droefheit",
+                        "droevheit",
+                        "droeveit",
+                        "droefeit"
                     ]
                 }
             }
@@ -1436,25 +1617,31 @@
                 "hau": {
                     "keywords": [
                         "umlilo",
-                        "umlilo wequbula"
+                        "umlilo"
                     ],
                     "mispellings": [
-                        "ilangabi",
-                        "shile",
-                        "kuyashisa",
-                        "umlolo"
+                        "shushu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "umlilo",
-                        "umlilo wequbula"
+                        "vuur",
+                        "wildvuur",
+                        "brand",
+                        "vlam"
                     ],
                     "mispellings": [
-                        "ilangabi",
-                        "shile",
-                        "kuyashisa",
-                        "umlolo"
+                        "verbrand",
+                        "warm",
+                        "fuur",
+                        "vier",
+                        "fier",
+                        "wiltvuur",
+                        "wildvier",
+                        "brant",
+                        "flam",
+                        "verbrant",
+                        "warem"
                     ]
                 }
             }
@@ -1476,26 +1663,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuzamazama komhlaba",
-                        "ukugidlika komhlaba",
-                        "ukubhidlika"
+                        "inyikima",
+                        "ukhukhuliseko",
+                        "ukuwa"
                     ],
-                    "mispellings": [
-                        "xukuza",
-                        "ukuzamazama komhlebi",
-                        "iwa"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukuzamazama komhlaba",
-                        "ukugidlika komhlaba",
-                        "ukubhidlika"
+                        "aardbewing",
+                        "grondverskuiwing",
+                        "aardstorting",
+                        "ineenstort"
                     ],
                     "mispellings": [
-                        "xukuza",
-                        "ukuzamazama komhlebi",
-                        "iwa"
+                        "skud",
+                        "aardbeewing",
+                        "aartbewing",
+                        "artbewing",
+                        "grontverskyfing",
+                        "aartstording",
+                        "ineenstord",
+                        "skid",
+                        "val"
                     ]
                 }
             }
@@ -1518,27 +1708,24 @@
                 "hau": {
                     "keywords": [
                         "isikhukhula",
-                        "khukhulekile",
-                        "imvula yezikhukhula",
-                        "imvula"
+                        "zikhukhulisekile",
+                        "izikhukhula"
                     ],
-                    "mispellings": [
-                        "isikukula",
-                        "isikhula",
-                        "imvala"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "isikhukhula",
-                        "khukhulekile",
-                        "imvula yezikhukhula",
-                        "imvula"
+                        "vloed",
+                        "oorstroom",
+                        "oorstromings",
+                        "re\u00ebnseisoen"
                     ],
                     "mispellings": [
-                        "isikukula",
-                        "isikhula",
-                        "imvala"
+                        "vloet",
+                        "oorstrom",
+                        "oorstroon",
+                        "oorstrommings",
+                        "reenseisoen"
                     ]
                 }
             }
@@ -1547,7 +1734,8 @@
             "English": {
                 "keywords": [
                     "smoke",
-                    "smoked"
+                    "smoked",
+                    "smoky"
                 ],
                 "mispellings": [
                     "smooke",
@@ -1557,22 +1745,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "intuthu",
-                        "okunentuthu"
+                        "umsi",
+                        "itshile"
                     ],
-                    "mispellings": [
-                        "intuuthu",
-                        "intutha"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "intuthu",
-                        "okunentuthu"
+                        "rook",
+                        "gerook",
+                        "rokerig"
                     ],
                     "mispellings": [
-                        "intuuthu",
-                        "intutha"
+                        "roek",
+                        "geroek",
+                        "roekerag",
+                        "roekerig",
+                        "roekereg"
                     ]
                 }
             }
@@ -1595,30 +1784,37 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "isivunguvungu sasolwandle",
-                        "isishingishane",
+                        "isitshingitshane",
                         "inkanyamba",
-                        "isivunguvungu"
+                        "inyikima",
+                        "isaqhwithi"
                     ],
                     "mispellings": [
-                        "isiphepho",
+                        "isaqhwithi",
                         "imvula",
-                        "amanzi",
-                        "iba nesiphepho"
+                        "amanzi"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "isivunguvungu sasolwandle",
-                        "isishingishane",
-                        "inkanyamba",
-                        "isivunguvungu"
+                        "tifoon",
+                        "orkaan",
+                        "tornado",
+                        "sikloon"
                     ],
                     "mispellings": [
-                        "isiphepho",
-                        "imvula",
-                        "amanzi",
-                        "iba nesiphepho"
+                        "storm",
+                        "re\u00ebn",
+                        "water",
+                        "stormagtig",
+                        "tyfoon",
+                        "orkan",
+                        "tonado",
+                        "siklon",
+                        "storn",
+                        "reen",
+                        "watr",
+                        "stormagtag"
                     ]
                 }
             }
@@ -1637,22 +1833,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "izomiso",
-                        "omile",
-                        "ugwadule"
+                        "imbalela",
+                        "ukoma",
+                        "inkqantosi"
                     ],
-                    "mispellings": [
-                        "mi"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "izomiso",
-                        "omile",
-                        "ugwadule"
+                        "droogtes",
+                        "droog",
+                        "dorheid"
                     ],
                     "mispellings": [
-                        "mi"
+                        "drog",
+                        "droogt",
+                        "drogte",
+                        "drogt",
+                        "dorheit"
                     ]
                 }
             }
@@ -1661,32 +1859,41 @@
             "English": {
                 "keywords": [
                     "volcanic eruption",
-                    "volcano"
+                    "volcano",
+                    "lava",
+                    "fire"
                 ],
                 "mispellings": [
-                    "fire",
                     "hot"
                 ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuqubuka kwentabamlilo",
-                        "intabamlilo"
+                        "ugqabhulo",
+                        "dubulo",
+                        "ivolkano"
                     ],
                     "mispellings": [
                         "umlilo",
-                        "shisayo"
+                        "ubushushu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuqubuka kwentabamlilo",
-                        "intabamlilo"
+                        "vulkaniese uitbarsting",
+                        "vulkaan",
+                        "lawa",
+                        "vuur"
                     ],
                     "mispellings": [
-                        "umlilo",
-                        "shisayo"
+                        "warm",
+                        "vulkanuitbarsting",
+                        "vulkan",
+                        "lava",
+                        "lafa",
+                        "vier",
+                        "warem"
                     ]
                 }
             }
@@ -1706,8 +1913,8 @@
                 "hau": {
                     "keywords": [
                         "umoya",
-                        "qhumisa",
-                        "nomoya"
+                        "ukuvuthuzela",
+                        "kunomoya"
                     ],
                     "mispellings": [
                         "umoya"
@@ -1715,12 +1922,22 @@
                 },
                 "afr": {
                     "keywords": [
-                        "umoya",
-                        "qhumisa",
-                        "nomoya"
+                        "wind",
+                        "rukwind",
+                        "ontploffing",
+                        "winderig"
                     ],
                     "mispellings": [
-                        "umoya"
+                        "lug",
+                        "wint",
+                        "rukwint",
+                        "rikwind",
+                        "rikwint",
+                        "ontplofing",
+                        "onploffing",
+                        "windrig",
+                        "winterag",
+                        "lig"
                     ]
                 }
             }
@@ -1743,26 +1960,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "betha",
+                        "ukubetha",
+                        "uyabetha"
                     ],
                     "mispellings": [
-                        "sshaya",
-                        "shayya",
-                        "shhaayaa"
+                        "beta",
+                        "beths",
+                        "umbetile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "slaan",
+                        "slaan",
+                        "slaan",
+                        "geslaan"
                     ],
                     "mispellings": [
-                        "sshaya",
-                        "shayya",
-                        "shhaayaa"
+                        "slaat",
+                        "slat",
+                        "geslat",
+                        "donner",
+                        "gedonner"
                     ]
                 }
             }
@@ -1784,28 +2004,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "ubethe",
+                        "uyabetha",
+                        "ubetha"
                     ],
                     "mispellings": [
-                        "shaaya",
-                        "shayyaa",
-                        "sshaya",
-                        "sheya"
+                        "mbetile",
+                        "betilr",
+                        "vheta"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "shaya",
-                        "shaya",
-                        "shaya"
+                        "slaan",
+                        "slaan",
+                        "slaan",
+                        "geslaan"
                     ],
                     "mispellings": [
-                        "shaaya",
-                        "shayyaa",
-                        "sshaya",
-                        "sheya"
+                        "slaat",
+                        "slan",
+                        "geslan",
+                        "geslaat",
+                        "moer",
+                        "gemoer"
                     ]
                 }
             }
@@ -1827,28 +2049,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "hlukumeza",
-                        "hlukumezayo",
-                        "hlukumeza",
-                        "ohlukumezekile"
+                        "xhaphaza",
+                        "umxhaphazi",
+                        "ukuxhaphaza",
+                        "Uxhaphaze"
                     ],
                     "mispellings": [
-                        "adlukumezayo",
-                        "dlukumeza",
-                        "dlkumeza"
+                        "xapaza",
+                        "zapaza",
+                        "xapasa"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "hlukumeza",
-                        "hlukumezayo",
-                        "hlukumeza",
-                        "ohlukumezekile"
+                        "mishandel",
+                        "mishandelend",
+                        "mishandeling",
+                        "mishandel"
                     ],
                     "mispellings": [
-                        "adlukumezayo",
-                        "dlukumeza",
-                        "dlkumeza"
+                        "misshandel",
+                        "misshandeling",
+                        "mishandling",
+                        "mishandeled",
+                        "mishandelen"
                     ]
                 }
             }
@@ -1867,22 +2091,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "nodlame",
-                        "udlame"
+                        "ubundlobongela",
+                        "ubundlobongela"
                     ],
                     "mispellings": [
-                        "udlme",
-                        "nohlame"
+                        "ubudlobongsla",
+                        "dlobongela"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "nodlame",
-                        "udlame"
+                        "gewelddadig",
+                        "geweld"
                     ],
                     "mispellings": [
-                        "udlme",
-                        "nohlame"
+                        "geweldadig",
+                        "gewelt",
+                        "geweldadag"
                     ]
                 }
             }
@@ -1903,26 +2128,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ubuhlungu",
-                        "kubuhlungu",
-                        "izinhlungu",
-                        "kubuhlungu"
+                        "intlungu",
+                        "ibuhlungu",
+                        "iintlungu",
+                        "iyaqaqamba"
                     ],
                     "mispellings": [
-                        "dlungu",
-                        "ubudlungu"
+                        "buhlungi",
+                        "buhlungu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ubuhlungu",
-                        "kubuhlungu",
-                        "izinhlungu",
-                        "kubuhlungu"
+                        "pyn",
+                        "pynlik",
+                        "pyne",
+                        "pyn"
                     ],
                     "mispellings": [
-                        "dlungu",
-                        "ubudlungu"
+                        "pein",
+                        "peinlik",
+                        "peine",
+                        "puin",
+                        "puine"
                     ]
                 }
             }
@@ -1932,7 +2160,8 @@
                 "keywords": [
                     "blood",
                     "bleeding",
-                    "bled"
+                    "bled",
+                    "bleed"
                 ],
                 "mispellings": [
                     "blud",
@@ -1944,25 +2173,29 @@
                 "hau": {
                     "keywords": [
                         "igazi",
-                        "opha",
-                        "ophile"
+                        "uyopha",
+                        "wophile",
+                        "ukopha"
                     ],
                     "mispellings": [
-                        "ikazi",
-                        "ophaa",
-                        "oophaa"
+                        "yopa",
+                        "wopile",
+                        "uyooa"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "igazi",
-                        "opha",
-                        "ophile"
+                        "bloed",
+                        "bloei",
+                        "gebloei"
                     ],
                     "mispellings": [
-                        "ikazi",
-                        "ophaa",
-                        "oophaa"
+                        "bloet",
+                        "blut",
+                        "blud",
+                        "blooi",
+                        "bloeu",
+                        "gebloed"
                     ]
                 }
             }
@@ -1983,26 +2216,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuhuzuka",
-                        "huzula",
-                        "ohuzukile"
+                        "umgruzuko",
+                        "ukugruzuka",
+                        "ugruzukile"
                     ],
                     "mispellings": [
-                        "ukuhluzula",
-                        "hluzekile",
-                        "ohluzukile"
+                        "gryzukile",
+                        "gruxukole",
+                        "grxuzikile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhuzuka",
-                        "huzula",
-                        "ohuzukile"
+                        "kneus",
+                        "kneusing",
+                        "gekneus",
+                        "kneusplek"
                     ],
                     "mispellings": [
-                        "ukuhluzula",
-                        "hluzekile",
-                        "ohluzukile"
+                        "knees",
+                        "kneesing",
+                        "geknees",
+                        "kneesplek",
+                        "kneesplekke"
                     ]
                 }
             }
@@ -2022,24 +2258,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukulimala",
-                        "ukulimaza",
-                        "ukulimaza"
+                        "wonzakele",
+                        "wonzakalisa",
+                        "wonzakalisa"
                     ],
                     "mispellings": [
-                        "limeza",
-                        "limmaza"
+                        "wonxakele",
+                        "uhurtishekile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukulimala",
-                        "ukulimaza",
-                        "ukulimaza"
+                        "seer",
+                        "seermaak",
+                        "seergemaak",
+                        "seerkry"
                     ],
                     "mispellings": [
-                        "limeza",
-                        "limmaza"
+                        "ser",
+                        "serr",
+                        "seermak",
+                        "sermaak",
+                        "seergemak",
+                        "sergemaak",
+                        "serkry"
                     ]
                 }
             }
@@ -2058,22 +2300,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ubuhlungu",
-                        "buhlungu",
-                        "ukuva buhlungu"
+                        "intlungu",
+                        "kubuhlungu",
+                        "bekubuhlungu"
                     ],
                     "mispellings": [
-                        "buhluung"
+                        "kubhlungu",
+                        "kibhlungu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ubuhlungu",
-                        "buhlungu",
-                        "ukuva buhlungu"
+                        "pyn",
+                        "seer",
+                        "gepyn"
                     ],
                     "mispellings": [
-                        "buhluung"
+                        "pein",
+                        "gepein"
                     ]
                 }
             }
@@ -2091,20 +2335,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukulimala",
-                        "limele"
+                        "umonzakalo",
+                        "ukonzakalisa"
                     ],
                     "mispellings": [
-                        "amanxxebba"
+                        "wonzakle"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukulimala",
-                        "limele"
+                        "besering",
+                        "beseer",
+                        "beserings"
                     ],
                     "mispellings": [
-                        "amanxxebba"
+                        "beseering",
+                        "beser",
+                        "beseerings",
+                        "beserang",
+                        "beseerang",
+                        "besiering"
                     ]
                 }
             }
@@ -2113,7 +2363,8 @@
             "English": {
                 "keywords": [
                     "cut",
-                    "cutting"
+                    "cutting",
+                    "cuts"
                 ],
                 "mispellings": [
                     "cutt"
@@ -2123,19 +2374,25 @@
                 "hau": {
                     "keywords": [
                         "ukusika",
-                        "ukusika"
+                        "uyasika",
+                        "usike"
                     ],
                     "mispellings": [
-                        "ukusikka"
+                        "khatiwe",
+                        "sikekle"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukusika",
-                        "ukusika"
+                        "sny",
+                        "sny",
+                        "snye"
                     ],
                     "mispellings": [
-                        "ukusikka"
+                        "snei",
+                        "snui",
+                        "sneie",
+                        "snuie"
                     ]
                 }
             }
@@ -2158,30 +2415,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "limaza",
-                        "limaza",
-                        "limazayo",
-                        "limele"
+                        "ukonzakalisa",
+                        "ukonzakalisa",
+                        "yingozi",
+                        "wonzakalise"
                     ],
                     "mispellings": [
-                        "limmaza",
-                        "limeze",
-                        "limaaza",
-                        "limmasa"
+                        "wonzakle",
+                        "womzakele",
+                        "wenzakele"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "limaza",
-                        "limaza",
-                        "limazayo",
-                        "limele"
+                        "skade",
+                        "beskadig",
+                        "skadelik",
+                        "beskadig"
                     ],
                     "mispellings": [
-                        "limmaza",
-                        "limeze",
-                        "limaaza",
-                        "limmasa"
+                        "skate",
+                        "skaade",
+                        "beskaadig",
+                        "skaadelik",
+                        "skaddelik",
+                        "beskadug"
                     ]
                 }
             }
@@ -2203,28 +2461,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukushaya ngempama",
-                        "oshaywe ngempama",
-                        "ukushaya ngempama"
+                        "impama",
+                        "uqhwatyiwe",
+                        "ukuqhwaba"
                     ],
-                    "mispellings": [
-                        "oshiywe ngempama",
-                        "ukusshaya ngempama",
-                        "oshhaywe ngempama",
-                        "oshayywe ngempama"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukushaya ngempama",
-                        "oshaywe ngempama",
-                        "ukushaya ngempama"
+                        "klap",
+                        "geklap",
+                        "klap"
                     ],
                     "mispellings": [
-                        "oshiywe ngempama",
-                        "ukusshaya ngempama",
-                        "oshhaywe ngempama",
-                        "oshayywe ngempama"
+                        "klaap",
+                        "klop",
+                        "klaap",
+                        "geklaap"
                     ]
                 }
             }
@@ -2242,21 +2495,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukushaya ngenqindi",
-                        "oshaywe ngenqindi",
-                        "shaya ngenqindi",
-                        "amanqindi"
+                        "inqindi",
+                        "umnqindile",
+                        "Uyanqinda",
+                        "umbetha"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "ngamanqindi"
+                    ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukushaya ngenqindi",
-                        "oshaywe ngenqindi",
-                        "shaya ngenqindi",
-                        "amanqindi"
+                        "vuisslaan",
+                        "vuisgeslaan",
+                        "vuisslaan",
+                        "vuisslae"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "veisslaan",
+                        "vyslaan",
+                        "vysslaan",
+                        "vysslag",
+                        "vysslae",
+                        "vuisslag",
+                        "vuisgeslan"
+                    ]
                 }
             }
         },
@@ -2278,27 +2541,26 @@
                 "hau": {
                     "keywords": [
                         "ukubulala",
-                        "ukubulala",
-                        "obulewe",
-                        "bulala"
+                        "uyabulala",
+                        "ubulele",
+                        "ubulele"
                     ],
-                    "mispellings": [
-                        "bhulala",
-                        "bulaala",
-                        "bhulala"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukubulala",
-                        "ukubulala",
-                        "obulewe",
-                        "bulala"
+                        "doodmaak",
+                        "doodmaak",
+                        "doodgemaak",
+                        "doodmaak"
                     ],
                     "mispellings": [
-                        "bhulala",
-                        "bulaala",
-                        "bhulala"
+                        "dootmaak",
+                        "doodmak",
+                        "dootmak",
+                        "dootgemak",
+                        "dootgemaak",
+                        "doot"
                     ]
                 }
             }
@@ -2321,27 +2583,26 @@
                 "hau": {
                     "keywords": [
                         "ukubulala",
-                        "ombulali",
-                        "bulala",
-                        "bulewe"
+                        "umbulali",
+                        "ukubulala",
+                        "ubulele"
                     ],
-                    "mispellings": [
-                        "bhelewe",
-                        "bbulali",
-                        "bbulewwe"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukubulala",
-                        "ombulali",
-                        "bulala",
-                        "bulewe"
+                        "moord",
+                        "moordenaar",
+                        "moor",
+                        "vermoor"
                     ],
                     "mispellings": [
-                        "bhelewe",
-                        "bbulali",
-                        "bbulewwe"
+                        "moort",
+                        "moordenar",
+                        "moortenaar",
+                        "mor",
+                        "vemoor",
+                        "vermor"
                     ]
                 }
             }
@@ -2362,26 +2623,27 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukungqubuza",
-                        "ngqubuza",
-                        "ngqubuziwe"
+                        "ukumbakraza",
+                        "ukumbakraza",
+                        "umbakrazile"
                     ],
-                    "mispellings": [
-                        "qhubuza",
-                        "qhubbuza",
-                        "gqubbbuza"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukungqubuza",
-                        "ngqubuza",
-                        "ngqubuziwe"
+                        "stamp",
+                        "stamp",
+                        "gestamp",
+                        "geweerskoot"
                     ],
                     "mispellings": [
-                        "qhubuza",
-                        "qhubbuza",
-                        "gqubbbuza"
+                        "stam",
+                        "stemp",
+                        "gestam",
+                        "gestemp",
+                        "skood",
+                        "geweerskood",
+                        "geweerskoor"
                     ]
                 }
             }
@@ -2400,22 +2662,19 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukushaya ngenqindi"
+                        "ukubetha"
                     ],
-                    "mispellings": [
-                        "ukusshayya ngenqindi",
-                        "sshaya ngenqindi",
-                        "shhayya ngenqindi"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukushaya ngenqindi"
+                        "slag",
+                        "hou"
                     ],
                     "mispellings": [
-                        "ukusshayya ngenqindi",
-                        "sshaya ngenqindi",
-                        "shhayya ngenqindi"
+                        "slaag",
+                        "huo",
+                        "hoi"
                     ]
                 }
             }
@@ -2433,20 +2692,25 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "umhlanga"
+                        "ngoswazi"
                     ],
-                    "mispellings": [
-                        "induku",
-                        "umhhlanga"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "umhlanga"
+                        "rottang",
+                        "lat",
+                        "riet",
+                        "stok"
                     ],
                     "mispellings": [
-                        "induku",
-                        "umhhlanga"
+                        "rotang",
+                        "rattang",
+                        "ratang",
+                        "rotan",
+                        "laat",
+                        "reit",
+                        "stik"
                     ]
                 }
             }
@@ -2464,20 +2728,22 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ibhande"
+                        "ibhanti"
                     ],
-                    "mispellings": [
-                        "ibhande",
-                        "ibhande"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ibhande"
+                        "gordel",
+                        "lyfband",
+                        "band"
                     ],
                     "mispellings": [
-                        "ibhande",
-                        "ibhande"
+                        "gurdel",
+                        "lyfbant",
+                        "bant",
+                        "belt",
+                        "beld"
                     ]
                 }
             }
@@ -2498,26 +2764,25 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukugwaza",
-                        "gwaza",
-                        "gwaziwe"
+                        "ukuhlaba",
+                        "uyamhlaba",
+                        "umhlabile"
                     ],
                     "mispellings": [
-                        "gwaaaziwe",
-                        "ukugwaazza",
-                        "gwaaaza"
+                        "hlatyiwe",
+                        "uhlabiwe",
+                        "hlatuiwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukugwaza",
-                        "gwaza",
-                        "gwaziwe"
+                        "steek",
+                        "steek",
+                        "gesteek"
                     ],
                     "mispellings": [
-                        "gwaaaziwe",
-                        "ukugwaazza",
-                        "gwaaaza"
+                        "stiek",
+                        "gestiek"
                     ]
                 }
             }
@@ -2538,26 +2803,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukumemeza",
-                        "memeza",
-                        "memezile"
+                        "ukutswina",
+                        "uyatswina",
+                        "utswinile"
                     ],
                     "mispellings": [
-                        "memezaa",
-                        "mmeemeza",
-                        "mmemezille"
+                        "skrima"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukumemeza",
-                        "memeza",
-                        "memezile"
+                        "skree",
+                        "skree",
+                        "geskree",
+                        "gegil"
                     ],
                     "mispellings": [
-                        "memezaa",
-                        "mmeemeza",
-                        "mmemezille"
+                        "skrie",
+                        "geskrie",
+                        "skrieu",
+                        "gol",
+                        "geskrieu",
+                        "gil"
                     ]
                 }
             }
@@ -2577,24 +2844,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukududula",
-                        "dudula",
-                        "dudulekile"
+                        "ukutyhiliza",
+                        "uyamtyhiliza",
+                        "umtyhilizile"
                     ],
                     "mispellings": [
-                        "ukuddudula",
-                        "ddudulaa"
+                        "phushile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukududula",
-                        "dudula",
-                        "dudulekile"
+                        "stoot",
+                        "stoot",
+                        "gestoot"
                     ],
                     "mispellings": [
-                        "ukuddudula",
-                        "ddudulaa"
+                        "stood",
+                        "gestood"
                     ]
                 }
             }
@@ -2615,26 +2881,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukusunduza",
-                        "sunduza",
-                        "sunduziwe"
+                        "ukutyhiliza",
+                        "ukutshova",
+                        "umtshovile"
                     ],
                     "mispellings": [
-                        "zunduaza",
-                        "sunnduziwee",
-                        "shuduza"
+                        "umtshunduzile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukusunduza",
-                        "sunduza",
-                        "sunduziwe"
+                        "stoot",
+                        "stoot",
+                        "gestoot"
                     ],
                     "mispellings": [
-                        "zunduaza",
-                        "sunnduziwee",
-                        "shuduza"
+                        "stot",
+                        "gestot",
+                        "stamp"
                     ]
                 }
             }
@@ -2655,26 +2919,23 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukukhahlela",
-                        "khahlela",
-                        "khahleliwe"
+                        "ukukhaba",
+                        "uyamkhaba",
+                        "umkhabile"
                     ],
-                    "mispellings": [
-                        "khaahleliwe",
-                        "ukukhaahlela",
-                        "khaahhlela"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukukhahlela",
-                        "khahlela",
-                        "khahleliwe"
+                        "skop",
+                        "skop",
+                        "geskop"
                     ],
                     "mispellings": [
-                        "khaahleliwe",
-                        "ukukhaahlela",
-                        "khaahhlela"
+                        "skip",
+                        "skup",
+                        "geskip",
+                        "gaskop"
                     ]
                 }
             }
@@ -2695,26 +2956,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukushaya",
-                        "shaya",
-                        "shayiwe"
+                        "ukubetha",
+                        "uyambetha",
+                        "umbethile"
                     ],
                     "mispellings": [
-                        "shhayiwe",
-                        "shhaya",
-                        "shayyiwe"
+                        "mbetile",
+                        "mebthile",
+                        "umngombile"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukushaya",
-                        "shaya",
-                        "shayiwe"
+                        "tref",
+                        "tref",
+                        "getref"
                     ],
                     "mispellings": [
-                        "shhayiwe",
-                        "shhaya",
-                        "shayyiwe"
+                        "terf",
+                        "tef",
+                        "geterf",
+                        "geterf",
+                        "getef"
                     ]
                 }
             }
@@ -2723,7 +2986,9 @@
             "English": {
                 "keywords": [
                     "torture",
-                    "tortured"
+                    "torturing",
+                    "tortured",
+                    "torturer"
                 ],
                 "mispellings": [
                     "tortue",
@@ -2734,24 +2999,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuhlukumeza",
-                        "hlukumeziwe"
+                        "ukungcungcuthekisa",
+                        "umngcungcuthekisile"
                     ],
-                    "mispellings": [
-                        "hhlukuumeza",
-                        "hlukkumezziwe",
-                        "hhlukumeziwe"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhlukumeza",
-                        "hlukumeziwe"
+                        "martel",
+                        "marteling",
+                        "gemartel",
+                        "martelaar"
                     ],
                     "mispellings": [
-                        "hhlukuumeza",
-                        "hlukkumezziwe",
-                        "hhlukumeziwe"
+                        "martil",
+                        "mertel",
+                        "martiling",
+                        "marteleng",
+                        "martiling",
+                        "gemartil",
+                        "martelar"
                     ]
                 }
             }
@@ -2772,26 +3039,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuphosa",
-                        "phosa",
-                        "phosa"
+                        "ukujwila",
+                        "uyajwila",
+                        "ujwilile"
                     ],
-                    "mispellings": [
-                        "posa",
-                        "pphosa",
-                        "pphossa"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukuphosa",
-                        "phosa",
-                        "phosa"
+                        "gooi",
+                        "gooi",
+                        "gooi",
+                        "gegooi"
                     ],
                     "mispellings": [
-                        "posa",
-                        "pphosa",
-                        "pphossa"
+                        "goei",
+                        "goi",
+                        "gegoei",
+                        "geooi",
+                        "neergegoei",
+                        "neergegooi"
                     ]
                 }
             }
@@ -2813,28 +3080,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukudlwengula",
                         "dlwengula",
-                        "umdlwenguli"
+                        "uyadlwengula",
+                        "isidlwengu"
                     ],
                     "mispellings": [
-                        "hlwengula",
-                        "dlwenngula",
-                        "ukuddlengula",
-                        "ukudlwwengula"
+                        "ratshiwe",
+                        "rapiwe",
+                        "dlwengulwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukudlwengula",
-                        "dlwengula",
-                        "umdlwenguli"
+                        "verkrag",
+                        "onteer",
+                        "verkragting",
+                        "verkragter"
                     ],
                     "mispellings": [
-                        "hlwengula",
-                        "dlwenngula",
-                        "ukuddlengula",
-                        "ukudlwwengula"
+                        "vekrag",
+                        "verkragt",
+                        "oneer",
+                        "onter",
+                        "vekragting",
+                        "vekragter",
+                        "vekragter"
                     ]
                 }
             }
@@ -2855,26 +3125,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "phula",
-                        "ukwephula",
-                        "phuliwe"
+                        "ukudlwengula",
+                        "udlwengulo",
+                        "umdlwengule"
                     ],
                     "mispellings": [
-                        "pula",
-                        "phuula",
-                        "phhuliwe"
+                        "dlwengulwe",
+                        "udlwenfulew",
+                        "dlengulew"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "phula",
-                        "ukwephula",
-                        "phuliwe"
+                        "skend",
+                        "skending",
+                        "geskend",
+                        "skender"
                     ],
                     "mispellings": [
-                        "pula",
-                        "phuula",
-                        "phhuliwe"
+                        "skand",
+                        "skendang",
+                        "skanding",
+                        "geskand",
+                        "skander"
                     ]
                 }
             }
@@ -2896,28 +3169,31 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ucansi",
-                        "kocansi",
-                        "ngokocansi",
-                        "umyalezo wezocansi"
+                        "isondo",
+                        "yesondo",
+                        "ngokwesondo",
+                        "wesondo"
                     ],
                     "mispellings": [
-                        "ukuthumela umyalezo wezocansi",
-                        "xxx",
-                        "ex"
+                        "seksi",
+                        "izimanga",
+                        "amanyala"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ucansi",
-                        "kocansi",
-                        "ngokocansi",
-                        "umyalezo wezocansi"
+                        "seks",
+                        "seksuele",
+                        "seksueel",
+                        "sekst"
                     ],
                     "mispellings": [
-                        "ukuthumela umyalezo wezocansi",
-                        "xxx",
-                        "ex"
+                        "seksting",
+                        "seksieel",
+                        "seksiele",
+                        "sek",
+                        "sekt",
+                        "sekting"
                     ]
                 }
             }
@@ -2937,24 +3213,29 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqiwe",
-                        "phoqa"
+                        "ukunyanzela",
+                        "unyanzele",
+                        "uyanyanzela"
                     ],
                     "mispellings": [
-                        "ukupoqa",
-                        "poqa"
+                        "nyanzel",
+                        "unyanxelwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqiwe",
-                        "phoqa"
+                        "dwing",
+                        "forseer",
+                        "gedwing",
+                        "dwing"
                     ],
                     "mispellings": [
-                        "ukupoqa",
-                        "poqa"
+                        "dwin",
+                        "dwong",
+                        "fors",
+                        "vorseer",
+                        "gedwang",
+                        "gedwong"
                     ]
                 }
             }
@@ -2975,26 +3256,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukucindezela",
-                        "cindezelwe",
-                        "cindezela"
+                        "uxinezelelo",
+                        "uxinezelelwe",
+                        "uyaxinezela"
                     ],
                     "mispellings": [
-                        "nqindezela",
-                        "chindezelwe",
-                        "ukkucindezela"
+                        "xinizelelo",
+                        "presha"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukucindezela",
-                        "cindezelwe",
-                        "cindezela"
+                        "druk",
+                        "gedruk",
+                        "druk"
                     ],
                     "mispellings": [
-                        "nqindezela",
-                        "chindezelwe",
-                        "ukkucindezela"
+                        "drik",
+                        "gedrik",
+                        "drok",
+                        "gedrok"
                     ]
                 }
             }
@@ -3014,24 +3295,30 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqa",
-                        "phoqiwe"
+                        "onyanzelisayo",
+                        "ukunyanzela",
+                        "unyanzelwe"
                     ],
                     "mispellings": [
-                        "ukupoqa",
-                        "ukkuphoqa"
+                        "onyanzelisas",
+                        "fostiwe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuphoqa",
-                        "phoqa",
-                        "phoqiwe"
+                        "dwingend",
+                        "dwing",
+                        "gedwing",
+                        "dwang"
                     ],
                     "mispellings": [
-                        "ukupoqa",
-                        "ukkuphoqa"
+                        "dwongend",
+                        "dwingen",
+                        "dwinent",
+                        "gedwang",
+                        "gedwung",
+                        "dwan",
+                        "dang"
                     ]
                 }
             }
@@ -3051,24 +3338,28 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukungaziphathi kahle",
-                        "ngalungile",
-                        "ngamukeleki"
+                        "ukungaziphathi",
+                        "engafanelekanga",
+                        "engamkelekanga"
                     ],
                     "mispellings": [
-                        "ukugaziphathi kahle",
-                        "galungile"
+                        "miskhondakthi",
+                        "yamkelekanga"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukungaziphathi kahle",
-                        "ngalungile",
-                        "ngamukeleki"
+                        "wangedrag",
+                        "onvanpas",
+                        "onaanvaarbaar",
+                        "onaanvaarbare"
                     ],
                     "mispellings": [
-                        "ukugaziphathi kahle",
-                        "galungile"
+                        "wangedraag",
+                        "onvanpes",
+                        "onanvaarbar",
+                        "onvaarbaar",
+                        "onvaarbare"
                     ]
                 }
             }
@@ -3088,21 +3379,31 @@
                 "hau": {
                     "keywords": [
                         "ukuhlukumeza",
-                        "nyonyobela",
-                        "bhedla"
+                        "ukuchwechwela",
+                        "ephosakeleyo"
                     ],
                     "mispellings": [
-                        "yoyobela"
+                        "stalkha",
+                        "cwecwela"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukuhlukumeza",
-                        "nyonyobela",
-                        "bhedla"
+                        "teistering",
+                        "agtervolg",
+                        "oortreding",
+                        "oortreder"
                     ],
                     "mispellings": [
-                        "yoyobela"
+                        "tyster",
+                        "tuister",
+                        "agtervlog",
+                        "agtervog",
+                        "agtevolg",
+                        "ootreeding",
+                        "oortreeder",
+                        "tystering",
+                        "tuistering"
                     ]
                 }
             }
@@ -3120,20 +3421,59 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukusola",
-                        "sola"
+                        "ukutyhola",
+                        "uyathyola"
                     ],
                     "mispellings": [
-                        "zola"
+                        "tyola",
+                        "uyamtyola"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "ukusola",
-                        "sola"
+                        "blameer",
+                        "blameer",
+                        "blaam"
                     ],
                     "mispellings": [
-                        "zola"
+                        "blammeer",
+                        "blammer",
+                        "blamer",
+                        "blam"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "molest",
+                    "molestation",
+                    "molestrator",
+                    "molested"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "molesteer",
+                        "molestering",
+                        "molesteerder",
+                        "gemolesteer"
+                    ],
+                    "mispellings": [
+                        "mollesteer",
+                        "molester",
+                        "molesteering",
+                        "mollesteeder",
+                        "molesteder",
+                        "gemollesteer",
+                        "gemolester"
                     ]
                 }
             }
@@ -3154,22 +3494,21 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "izidakamizwa",
-                        "dakisa"
+                        "iziyobisi",
+                        "isiyobisi"
                     ],
-                    "mispellings": [
-                        "dakkisa",
-                        "iziddakamiswa"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "izidakamizwa",
-                        "dakisa"
+                        "dwelms",
+                        "dwelm"
                     ],
                     "mispellings": [
-                        "dakkisa",
-                        "iziddakamiswa"
+                        "dwelem",
+                        "dwelems",
+                        "dweln",
+                        "dwelns"
                     ]
                 }
             }
@@ -3185,20 +3524,22 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "umhuqa",
-                        "huqekile",
-                        "ncikile"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "umhuqa",
-                        "huqekile",
-                        "ncikile"
+                        "verslaafde",
+                        "verslawing",
+                        "afhanklikheid"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "verslafde",
+                        "verslaafte",
+                        "verslafte",
+                        "verslafing",
+                        "afhanklikheit"
+                    ]
                 }
             }
         },
@@ -3219,28 +3560,24 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "cocaine",
-                        "coke",
-                        "blow",
-                        "charlie"
+                        "ntash",
+                        "vuthela"
                     ],
                     "mispellings": [
-                        "crack",
-                        "white",
-                        "koke"
+                        "mhlophe"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "cocaine",
-                        "coke",
-                        "blow",
-                        "charlie"
+                        "koka\u00efen",
+                        "blaas"
                     ],
                     "mispellings": [
-                        "crack",
-                        "white",
-                        "koke"
+                        "wit",
+                        "kokaien",
+                        "kokain",
+                        "blas",
+                        "wid"
                     ]
                 }
             }
@@ -3261,26 +3598,21 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "heroine",
-                        "brown",
-                        "smack",
-                        "skag"
+                        "betha"
                     ],
-                    "mispellings": [
-                        "hose",
-                        "hero"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "heroine",
-                        "brown",
-                        "smack",
-                        "skag"
+                        "hero\u00efen",
+                        "bruin",
+                        "opium"
                     ],
                     "mispellings": [
-                        "hose",
-                        "hero"
+                        "heroien",
+                        "heroin",
+                        "brein",
+                        "opiem"
                     ]
                 }
             }
@@ -3289,24 +3621,32 @@
             "English": {
                 "keywords": [
                     "high",
-                    "tipsy"
+                    "tipsy",
+                    "drunk"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "ukudakwa",
-                        "dakiwe"
+                        "ukuqhunywa",
+                        "nxilile"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukudakwa",
-                        "dakiwe"
+                        "hoog",
+                        "aangeskote",
+                        "dronk"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "hog",
+                        "angeskode",
+                        "angeskote",
+                        "drink",
+                        "drok"
+                    ]
                 }
             }
         },
@@ -3314,24 +3654,30 @@
             "English": {
                 "keywords": [
                     "overdose",
-                    "overdosed"
+                    "overdosed",
+                    "overdoses"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "ukweqisa",
-                        "eqisile"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukweqisa",
-                        "eqisile"
+                        "oordosis",
+                        "oordosering",
+                        "oordosis",
+                        "oordosisse"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "ordosis",
+                        "oordossis",
+                        "ordosering",
+                        "ordosise",
+                        "oordossise"
+                    ]
                 }
             }
         },
@@ -3347,21 +3693,11 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "LSD",
-                        "acid",
-                        "cheer",
-                        "drop"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 },
                 "afr": {
-                    "keywords": [
-                        "LSD",
-                        "acid",
-                        "cheer",
-                        "drop"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 }
             }
@@ -3378,22 +3714,12 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "magic mushrooms",
-                        "alice"
-                    ],
-                    "mispellings": [
-                        "shrooms"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
-                    "keywords": [
-                        "magic mushrooms",
-                        "alice"
-                    ],
-                    "mispellings": [
-                        "shrooms"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 }
             }
         },
@@ -3413,26 +3739,25 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "utshwala",
-                        "utshwala",
-                        "iziphuzo",
-                        "isidakwa"
+                        "utywala",
+                        "utywala",
+                        "iziselo",
+                        "inxila"
                     ],
-                    "mispellings": [
-                        "utsshwala",
-                        "utshwaala"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "utshwala",
-                        "utshwala",
-                        "iziphuzo",
-                        "isidakwa"
+                        "alkohol",
+                        "drank",
+                        "drankies",
+                        "alkoholis"
                     ],
                     "mispellings": [
-                        "utsshwala",
-                        "utshwaala"
+                        "alkol",
+                        "drenk",
+                        "drenkies",
+                        "alkolis"
                     ]
                 }
             }
@@ -3446,30 +3771,25 @@
                     "base"
                 ],
                 "mispellings": [
-                    "whizz"
+                    "whizz",
+                    "amphetamine"
                 ]
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "speed",
-                        "billy",
-                        "pasta",
-                        "base"
-                    ],
-                    "mispellings": [
-                        "whizz"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "speed",
-                        "billy",
-                        "pasta",
-                        "base"
+                        "pep",
+                        "snelle"
                     ],
                     "mispellings": [
-                        "whizz"
+                        "amfetamien",
+                        "amfetamin",
+                        "pap",
+                        "snele"
                     ]
                 }
             }
@@ -3488,25 +3808,18 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "poppers",
-                        "liquid gold",
-                        "jungle juice",
-                        "rush"
-                    ],
-                    "mispellings": [
-                        "buzz"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
-                    "keywords": [
-                        "poppers",
-                        "liquid gold",
-                        "jungle juice",
-                        "rush"
-                    ],
+                    "keywords": [],
                     "mispellings": [
-                        "buzz"
+                        "gom",
+                        "TNT",
+                        "gum",
+                        "gon",
+                        "NTT",
+                        "NTN"
                     ]
                 }
             }
@@ -3531,34 +3844,26 @@
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "insangu",
-                        "cannabis",
-                        "Marijuana",
-                        "dope"
+                        "intsango"
                     ],
-                    "mispellings": [
-                        "grass",
-                        "pot",
-                        "CBD",
-                        "THC",
-                        "bud",
-                        "mariguana"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "insangu",
-                        "cannabis",
-                        "Marijuana",
-                        "dope"
+                        "ganja",
+                        "dagga",
+                        "dagga",
+                        "dagga"
                     ],
                     "mispellings": [
-                        "grass",
-                        "pot",
-                        "CBD",
-                        "THC",
-                        "bud",
-                        "mariguana"
+                        "boom",
+                        "pyp",
+                        "zol",
+                        "daga",
+                        "ghanja",
+                        "boem",
+                        "puip",
+                        "zlo"
                     ]
                 }
             }
@@ -3566,7 +3871,7 @@
         {
             "English": {
                 "keywords": [
-                    "ectasy",
+                    "ecstasy",
                     "brownies",
                     "crystal",
                     "mandy"
@@ -3575,36 +3880,24 @@
                     "md",
                     "mdma",
                     "molly",
-                    "pills"
+                    "pills",
+                    "ectasy"
                 ]
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "ectasy",
-                        "brownies",
-                        "crystal",
-                        "mandy"
-                    ],
-                    "mispellings": [
-                        "md",
-                        "mdma",
-                        "molly",
-                        "pills"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ectasy",
-                        "brownies",
-                        "crystal",
-                        "mandy"
+                        "daggakoekie"
                     ],
                     "mispellings": [
-                        "md",
-                        "mdma",
-                        "molly",
-                        "pills"
+                        "pille",
+                        "dagakookie",
+                        "dadakoekie",
+                        "pile"
                     ]
                 }
             }
@@ -3623,25 +3916,20 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "crystal meth",
-                        "ice",
-                        "meth",
-                        "speed"
-                    ],
-                    "mispellings": [
-                        "crank"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "crystal meth",
-                        "ice",
-                        "meth",
-                        "speed"
+                        "tik",
+                        "tik"
                     ],
                     "mispellings": [
-                        "crank"
+                        "metamfetamien",
+                        "tki",
+                        "tok",
+                        "tuk",
+                        "metamfetamin"
                     ]
                 }
             }
@@ -3657,19 +3945,15 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "ketamine"
-                    ],
-                    "mispellings": [
-                        "ket"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ketamine"
+                        "ketamien"
                     ],
                     "mispellings": [
-                        "ket"
+                        "ketamin"
                     ]
                 }
             }
@@ -3683,16 +3967,16 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "Morphine"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "Morphine"
+                        "morfien"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "morfin"
+                    ]
                 }
             }
         },
@@ -3701,26 +3985,28 @@
                 "keywords": [
                     "Oxycodone",
                     "Oxy",
-                    "Oxycotton"
+                    "Oxycotton",
+                    "Oxycontin"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "Oxycodone",
-                        "Oxy",
-                        "Oxycotton"
-                    ],
+                    "keywords": [],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "Oxycodone",
-                        "Oxy",
-                        "Oxycotton"
+                        "Oksikodoon",
+                        "Oksie",
+                        "Oksikontin"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "Oksikodon",
+                        "Oksi",
+                        "Oxi",
+                        "Oksikotin"
+                    ]
                 }
             }
         },
@@ -3728,7 +4014,8 @@
             "English": {
                 "keywords": [
                     "rehabilitation",
-                    "detoxification"
+                    "detoxification",
+                    "withdrawal"
                 ],
                 "mispellings": [
                     "rehab"
@@ -3736,21 +4023,147 @@
             },
             "Translation": {
                 "hau": {
-                    "keywords": [
-                        "ukuvuselelwa kwesimilo",
-                        "ukukhishwa ushevu emzimbeni"
-                    ],
-                    "mispellings": [
-                        "ukuvusswa kwesimilo"
-                    ]
+                    "keywords": [],
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "ukuvuselelwa kwesimilo",
-                        "ukukhishwa ushevu emzimbeni"
+                        "rehabilitasie",
+                        "ontgifting",
+                        "liggaamsreiniging",
+                        "onttrekking"
                     ],
                     "mispellings": [
-                        "ukuvusswa kwesimilo"
+                        "onttrekkingsimptome",
+                        "rehab",
+                        "rehabilisasie",
+                        "ontgivting",
+                        "ongifting",
+                        "liggaamsryniging",
+                        "ontreking",
+                        "ontrekingsimtome"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "codeine",
+                    "cody"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "kodeine",
+                        "kody"
+                    ],
+                    "mispellings": [
+                        "koedeine"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "benzodiazepines",
+                    "benzos",
+                    "Xanax",
+                    "Diazepam"
+                ],
+                "mispellings": [
+                    "Valium",
+                    "Xang",
+                    "Zang"
+                ]
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "bensodiasepiene",
+                        "bensos",
+                        "Diasapam"
+                    ],
+                    "mispellings": [
+                        "bensodisapine",
+                        "benos",
+                        "Zang",
+                        "Zanax"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Nyaope"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "Nyaope"
+                    ],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "Nyaope",
+                        "pinch",
+                        "ungah"
+                    ],
+                    "mispellings": [
+                        "nyoepa",
+                        "unga",
+                        "ungha",
+                        "whoonga",
+                        "sugars"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hallucination",
+                    "impulsive",
+                    "impulsiveness",
+                    "paranoid"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "hallusinasie",
+                        "impulsiwiteit",
+                        "impulsief",
+                        "parano\u00efes"
+                    ],
+                    "mispellings": [
+                        "smokkel",
+                        "halusinasie",
+                        "impilsiwiteid",
+                        "impulsiev",
+                        "paranoies",
+                        "paranois",
+                        "smokel"
                     ]
                 }
             }
@@ -3766,117 +4179,28 @@
                     "hlep"
                 ],
                 "mispellings": [
-                    "hellp",
-                    "sos"
+                    "hellp"
                 ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "USIZO",
-                        "usizzo",
-                        "ussizo",
-                        "uusizo"
+                        "NCEDA",
+                        "ncedo",
+                        "uncedo"
                     ],
-                    "mispellings": [
-                        "usiizo",
-                        "sos"
-                    ]
+                    "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "USIZO",
-                        "usizzo",
-                        "ussizo",
-                        "uusizo"
+                        "HELP",
+                        "HULP",
+                        "helo",
+                        "helk"
                     ],
                     "mispellings": [
-                        "usiizo",
-                        "sos"
-                    ]
-                }
-            }
-        }
-    ],
-    "play": [
-        {
-            "English": {
-                "keywords": [
-                    "PLAY",
-                    "paly",
-                    "pla",
-                    "pley"
-                ],
-                "mispellings": [
-                    "plaay"
-                ]
-            },
-            "Translation": {
-                "hau": {
-                    "keywords": [
-                        "DLALA",
-                        "dala",
-                        "dlaala",
-                        "dlalla"
-                    ],
-                    "mispellings": [
-                        "ddlala"
-                    ]
-                },
-                "afr": {
-                    "keywords": [
-                        "DLALA",
-                        "dala",
-                        "dlaala",
-                        "dlalla"
-                    ],
-                    "mispellings": [
-                        "ddlala"
-                    ]
-                }
-            }
-        }
-    ],
-    "grow": [
-        {
-            "English": {
-                "keywords": [
-                    "GROW",
-                    "grwo",
-                    "gorw",
-                    "gow"
-                ],
-                "mispellings": [
-                    "gro",
-                    "frow",
-                    "qrow"
-                ]
-            },
-            "Translation": {
-                "hau": {
-                    "keywords": [
-                        "KHULA",
-                        "UKUKHULA",
-                        "Kula",
-                        "ukukhulaa"
-                    ],
-                    "mispellings": [
-                        "ukuukula",
-                        "ugukhula",
-                        "ugukhuula"
-                    ]
-                },
-                "afr": {
-                    "keywords": [
-                        "KHULA",
-                        "UKUKHULA",
-                        "Kula",
-                        "ukukhulaa"
-                    ],
-                    "mispellings": [
-                        "ukuukula",
-                        "ugukhula",
-                        "ugukhuula"
+                        "hup",
+                        "hylp"
                     ]
                 }
             }
@@ -3900,25 +4224,25 @@
                 "hau": {
                     "keywords": [
                         "IMENYU",
-                        "Imenyu Enkulu",
-                        "Imeyu",
-                        "imenyuu"
+                        "Imenyu engundoqo",
+                        "mnyue",
+                        "mnyu"
                     ],
                     "mispellings": [
-                        "imanyu",
-                        "immenyu"
+                        "imenu"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "IMENYU",
-                        "Imenyu Enkulu",
-                        "Imeyu",
-                        "imenyuu"
+                        "KIESLYS",
+                        "Hoofkieslys"
                     ],
                     "mispellings": [
-                        "imanyu",
-                        "immenyu"
+                        "keislys",
+                        "kiesluis",
+                        "kieslus",
+                        "kieslis",
+                        "hoodkieslus"
                     ]
                 }
             }
@@ -3928,24 +4252,103 @@
         {
             "English": {
                 "keywords": [
-                    "STOP"
+                    "STOP",
+                    "stap",
+                    "stahp",
+                    "spot"
                 ],
                 "mispellings": []
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "YIMA",
-                        "STOP"
+                        "YEKA"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
-                        "YIMA",
                         "STOP"
                     ],
+                    "mispellings": [
+                        "stip",
+                        "stup",
+                        "stol"
+                    ]
+                }
+            }
+        }
+    ],
+    "prevent": [
+        {
+            "English": {
+                "keywords": [
+                    "PREVENT",
+                    "pervent",
+                    "provent",
+                    "prevint"
+                ],
+                "mispellings": [
+                    "brevent",
+                    "preven",
+                    "prevnt",
+                    "prevention"
+                ]
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "THINTELA"
+                    ],
                     "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "VOORKOM",
+                        "voorkon",
+                        "voorkkn",
+                        "voorkin"
+                    ],
+                    "mispellings": [
+                        "foorkom",
+                        "voorkim",
+                        "voorkkm",
+                        "voorkoming"
+                    ]
+                }
+            }
+        }
+    ],
+    "play": [
+        {
+            "English": {
+                "keywords": [
+                    "PLAY",
+                    "paly",
+                    "pla",
+                    "pley"
+                ],
+                "mispellings": [
+                    "plaay"
+                ]
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "DLALA"
+                    ],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "SPEEL"
+                    ],
+                    "mispellings": [
+                        "spel",
+                        "spiel",
+                        "speil",
+                        "spell"
+                    ]
                 }
             }
         }
