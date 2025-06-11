@@ -3,13 +3,17 @@
         "version": "1.0.0",
         "pipeline_version": "1.0.0"
     },
+    "parents": {
+        "base": {
+            "location": "https://github.com/IDEMSInternational/rapidpro-survey-templates/archive/refs/tags/v1.0.0.zip"
+        }
+    },
     "flows_outputbasename": "parenttext_all",
     "output_split_number": 1,
     "sheet_names": {
         "swift_sheets": "1wxigdxuKSzgut4jfOyefdmcySvZnrswbJHrwm7hzP2A",
         "C_swift_surveys": "1t5y2V7Z4e8IKJ2Na-hn9fzzRc4uBF3_iYa7q9ysNFIE",
         "swift_study_config": "1lKSZ4NR35EupUo8jZj7CpDECzwkvbYvNgwrtqgVEzXc",
-        "T_survey": "14j8bPSU-ITmLzeKrYujYp7ZYIjoY-A0acjjn008QRnE",
         "T_trial": "1BifL5eSoEo3b7WS8KsrnXDYg3t36yYLqzr75Y8V9Vhw",
         "T_content": "1hcH8pFdiHZN0UvZgyv3Zht9ARBTx-VXhNBI2o8L7fHU",
         "N_onboarding_data": "1m1Lhf9r-VnzcuYw5zb65oRUcvutaRFnr6JimKNlRZhQ",
@@ -32,7 +36,7 @@
     },
     "sources": {
         "flow_definitions": {
-            "parent_sources": [],
+            "parent_sources": ["base.flow_definitions"],
             "format": "sheets",
             "subformat": "google_sheets",
             "files_list": [
@@ -51,7 +55,6 @@
                     "N_menu_data",
                     "T_menu",
                     "T_trial",
-                    "T_survey",
                     "C_swift_surveys",
                     "swift_study_config",
                     "swift_sheets"
