@@ -5,16 +5,16 @@
     },
     "parents": {
         "survey": {
-            "location": "https://github.com/IDEMSInternational/rapidpro-survey-templates/archive/refs/tags/v1.2.1.zip"
+            "location": "https://github.com/IDEMSInternational/rapidpro-survey-templates/archive/refs/tags/v1.3.1.zip"
         }
     },
     "flows_outputbasename": "parenttext_all",
     "output_split_number": 1,
     "sheet_names": {
-        "swift_sheets": "1wxigdxuKSzgut4jfOyefdmcySvZnrswbJHrwm7hzP2A",
         "T_survey": "1dewoAzGyWAIljHK5KnL3TNP8g5pz0Vt6Lux2O6rycYU",
-        "C_swift_surveys": "1t5y2V7Z4e8IKJ2Na-hn9fzzRc4uBF3_iYa7q9ysNFIE",
-        "swift_study_config": "1lKSZ4NR35EupUo8jZj7CpDECzwkvbYvNgwrtqgVEzXc",
+        "swift_sheets": "1wxigdxuKSzgut4jfOyefdmcySvZnrswbJHrwm7hzP2A",
+        "C_swift_surveys": "1iCqQsX-gWFh8o2iOJfVGGhz5viBcUQoDmIs7eUPdh3A",
+        "swift_study_config": "1Y9zQYWrb74Dwxr8P6jXZmhtRMsSdZGaEubwmWsNwzWc",
         "T_trial": "1BifL5eSoEo3b7WS8KsrnXDYg3t36yYLqzr75Y8V9Vhw",
         "T_content": "1hcH8pFdiHZN0UvZgyv3Zht9ARBTx-VXhNBI2o8L7fHU",
         "N_onboarding_data": "1m1Lhf9r-VnzcuYw5zb65oRUcvutaRFnr6JimKNlRZhQ",
@@ -30,6 +30,7 @@
         "N_delivery_data": "11ngXU85ezCin3zrurum2yzIJSWUP175p-6QvJ8svwVw",
         "T_menu": "1lIiFjZKS0eXzzo6XwDdqYv4e1A73WFCpWZg5ju-tCZE",
         "N_menu_data": "1zh0aTfS7khb7xsLf2GVflS7CsCjwdbGgLRJyRtEA9UY",
+        "Triggers" : "1aWizy2SIbCb0MZe7j66rdewsDF2SAWBi_KHkCb2Z2mI",
         "ab_testing_sheet_ID": "1i_oqiJYkeoMsYdeFOcKlvvjnNCEdQnZlsm17fgNvK0s",
         "localisation_sheet_ID" : "1guXDo2ZLVzCGrLCReGJsctowIWm6ag3kShyvcMDWPJ4", 
         "eng_edits_sheet_ID" : "1Ab8H_s26EuOiS4nZ6HGADjD4CZw55586LL66fl8tEWI",
@@ -48,6 +49,7 @@
                     "C_modules_teen",
                     "C_modules_child",
                     "C_goal_checkin",
+                    "Triggers",
                     "T_content",
                     "N_safeguarding_data",
                     "T_safeguarding",
@@ -56,7 +58,6 @@
                     "N_menu_data",
                     "T_menu",
                     "T_trial",
-                    "T_survey",
                     "C_swift_surveys",
                     "swift_study_config",
                     "swift_sheets"
