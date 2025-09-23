@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "joining_triggers_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "JoiningTriggerModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "cap_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "GlobalVariableModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      }
+    ],
+    "joining_triggers_data": [
+      {
+        "ID": "clinic",
+        "triggers": "parenttext;parentext;parentex;parenttex;perentext;perenttext;perentex;perenttex",
+        "groups": "",
+        "cap": "2000",
+        "location": "",
+        "variables.1.name": "receive payment",
+        "variables.1.value": "yes"
+      },
+      {
+        "ID": "share",
+        "triggers": "family",
+        "groups": "",
+        "cap": "500",
+        "location": "",
+        "variables.1.name": "receive payment",
+        "variables.1.value": "yes"
+      },
+      {
+        "ID": "testers",
+        "triggers": "demo",
+        "groups": "",
+        "cap": "",
+        "location": "",
+        "variables.1.name": "receive payment",
+        "variables.1.value": "no"
+      }
+    ],
+    "cap_data": [
+      {
+        "ID": "clinic",
+        "var_key": "n_clinic",
+        "var_value": "2000"
+      },
+      {
+        "ID": "share",
+        "var_key": "n_share",
+        "var_value": "500"
+      },
+      {
+        "ID": "testers",
+        "var_key": "n_testers",
+        "var_value": ""
+      }
+    ]
+  }
+}

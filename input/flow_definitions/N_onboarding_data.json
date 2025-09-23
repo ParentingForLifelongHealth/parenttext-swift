@@ -49,6 +49,14 @@
         "metadata.description": "message with onboarding video",
         "attachment.url": "",
         "attachment.file_type": ""
+      },
+      {
+        "ID": "attribution",
+        "msg": "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence.",
+        "next_button_option": "",
+        "metadata.description": "",
+        "attachment.url": "",
+        "attachment.file_type": ""
       }
     ],
     "onboarding_question_with_opt_data": [

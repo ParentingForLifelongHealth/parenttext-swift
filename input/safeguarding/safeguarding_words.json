@@ -4279,6 +4279,95 @@
             }
         }
     ],
+    "start": [
+        {
+            "English": {
+                "keywords": [
+                    "parenttext",
+                    "parentext",
+                    "parentex",
+                    "parenttex"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "parenttext",
+                        "parentext",
+                        "parentex",
+                        "parenttex"
+                    ],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "parenttext",
+                        "parentext",
+                        "parentex",
+                        "parenttex"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "perentext",
+                    "perenttext",
+                    "perentex",
+                    "perenttex"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "perentext",
+                        "perenttext",
+                        "perentex",
+                        "perenttex"
+                    ],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "perentext",
+                        "perenttext",
+                        "perentex",
+                        "perenttex"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "family",
+                    "demo"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "hau": {
+                    "keywords": [
+                        "family",
+                        "demo"
+                    ],
+                    "mispellings": []
+                },
+                "afr": {
+                    "keywords": [
+                        "family",
+                        "demo"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
     "prevent": [
         {
             "English": {

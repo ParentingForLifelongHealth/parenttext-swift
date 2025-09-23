@@ -202,18 +202,23 @@
     ],
     "congrats_data": [
       {
+        "ID": "take_a_pause_completion",
+        "msg": "Well done. You're ready to start the programme.",
+        "extra_msg": ""
+      },
+      {
         "ID": "intermediate_completion",
         "msg": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! ",
         "extra_msg": "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}."
       },
       {
         "ID": "final_completion",
-        "msg": "Thank you for participating!",
-        "extra_msg": ""
+        "msg": "Thanks for joining ParentText!",
+        "extra_msg": "Parenting is better with friends and a supportive community. You can share the power of positive parenting with your friends with this simple social media post."
       },
       {
-        "ID": "take_a_pause_completion",
-        "msg": "Well done. You're ready to start the programme.",
+        "ID": "control_safety_adv",
+        "msg": "We will let you know in a few months when the next course about keeping Your Child safe is ready. ",
         "extra_msg": ""
       }
     ],
@@ -253,12 +258,6 @@
       {
         "ID": "first_selection_intro",
         "msg": "NA",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "control_safety_adv",
-        "msg": "We will let you know in a few months when the next course about keeping  Your Child safe is ready. ",
         "next_button_option": "",
         "metadata.description": ""
       }
@@ -689,19 +688,6 @@
         "wa_template_vars": ""
       }
     ],
-    "feedback_data": [
-      {
-        "ID": "ptext_feedback",
-        "question": "We're here to listen. Please tell how to make ParentText more helpful by sharing your feedback in a single message.",
-        "skip_option": "",
-        "skip_value": "",
-        "variable": "feedback_prog",
-        "test.expression": "",
-        "test.value": "",
-        "test.condition_type": "",
-        "error_message": ""
-      }
-    ],
     "referral_paths_messages": [
       {
         "ID": "more_parenting_support",
@@ -727,6 +713,19 @@
         "ID": "technical_difficulties",
         "msg": "We are sorry to hear that ParentText is not working on your phone. Here are a few steps you can try: \n\n1. Ensure you have the latest version of WhatsApp installed on your phone. \n2. Check your internet connection to make sure it's stable. \n3. Send a message on WhatsApp to {WhatsApp SWIFT line support} to get additional help. Be sure to share your user ID. Your user ID is @contact.id",
         "metadata.description": ""
+      }
+    ],
+    "feedback_data": [
+      {
+        "ID": "ptext_feedback",
+        "question": "We're here to listen. Please tell how to make ParentText more helpful by sharing your feedback in a single message.",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "feedback_prog",
+        "test.expression": "",
+        "test.value": "",
+        "test.condition_type": "",
+        "error_message": ""
       }
     ],
     "activity_type_data": [
