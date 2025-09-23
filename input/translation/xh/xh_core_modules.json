@@ -1813,7 +1813,7 @@
   },
   {
     "SourceText": "✨Invite @fields.child_nickname in a chore you are doing. You can ask @fields.child_nickname to think of a fun and quick way of doing the chores differently. ",
-    "text": "✨Mema @fields.child_nickname kumsebenzi wekhaya owenzayo. Ungacela @fields.child_nickname acinge ngendlela eyonwabisayo kunye nekhawulezayoekwenzeni umsebenzi wekhaya ngokwehlukileyo. ",
+    "text": "✨Mema @fields.child_nickname kumsebenzi wekhaya owenzayo. Ungacela @fields.child_nickname acinge ngendlela eyonwabisayo kunye nekhawulezayo ekwenzeni umsebenzi wekhaya ngokwehlukileyo. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },

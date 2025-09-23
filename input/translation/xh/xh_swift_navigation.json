@@ -450,18 +450,6 @@
     "note": ""
   },
   {
-    "SourceText": "We will let you know in a few months when the next course about keeping  @fields.child_nickname safe is ready.",
-    "text": "Sizakukwazisa kwiinyanga ezimbalwa ezizayo ukuba  ilungile imodyuli elandelayo engokugcina u@fields.child_nickname ekhuselekile.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "We will let you know in a few months when the next course about keeping  Your child safe is ready.",
-    "text": "Sizakukwazisa kwiinyanga ezimbalwa ezizayo ukuba  ilungile imodyuli elandelayo engokugcina umntwana wakho ekhuselekile.",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations!",
     "text": "🎉Uyenzile!🎉 Usigqibile isifundo @results.name. Nasi isatifiketi sakho. Siyavuyisana nawe!",
     "type": "text",
@@ -1212,96 +1200,6 @@
     "note": ""
   },
   {
-    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
-    "text": "Kubonakala ngathi ayiloxesha elilungileyo eli. Nceda uchwetheze u-1 ukuba ungathanda ukuqhubeka.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "You will continue with your progress tomorrow.",
-    "text": "Uya kuqhubeka nenkqubela yakho ngomso.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "The transaction for sending your airtime of R@results.amount has failed.",
-    "text": "Le transaction yokuthumela i-airtime yakho ye- R@results.amount ayiphumelelanga.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "If you have not received your airtime in 3 days, please send a message to {WhatsApp SWIFT line support} with your transaction ID.",
-    "text": "Ukuba awukayifumani i-airtime yakho kwiintsuku ezi- 3, nceda uthumele umyalezo ku-  {WhatsApp SWIFT line support} ne- transaction ID yakho.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Your transaction ID is: @contact.id",
-    "text": "I-ID yentengiselwano yakho ithi: @contact.id",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "Your airtime of R@results.amount will be sent to this WhatsApp number. Please allow up to 3 days for the payment to process.",
-    "text": "I-airtime yakho ye-R@results.amount izakuthunyelwa kulenombolo ka-WhatsApp. Nceda ulinde ukuya kwiintsuku ezi-3 ukuze intlawulo ingene. ",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? ",
-    "text": "🥳 Lixesha lesaveyi yakho yesibini. Olu phando lunemibuzo emalunga namashumi amabini anesihlanu. Uza kufumana i-airtime ye-R50 ngokuthatha inxaxheba. Ingaba ukulungele ukuqalisa? ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "2. No",
-    "text": "2. Hayi",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "That's okay.",
-    "text": "Oko kulungile.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? ",
-    "text": "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "🌱 Keep your child safe and healthy! 🌱",
-    "text": "🌱 Gcina umntwana wakho ekhuselekile kwaye esempilweni! 🌱",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?",
-    "text": "Sele uqalile ukuphucula ubudlelwane bakho nomntwana wakho! Funda okungakumbi ngesifundo sethu seentsuku ezi-5 sokukhusela abantwana kwiParentText. Imizuzu nje ezi-10 ngo suku ngalunye. Fumana isatifiketi xa ugqibile! Ngaba ufuna ukuqala?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "That's okay! You can easily access the Child Safety course any time you want via the main menu. Just type {MENU} to access it.",
-    "text": "Kulungile! Ungafikelela ngokulula kwikhosi loKhuseleko loMntwana naliphi na ixesha xa ufuna ngemenyu ephambili. Vele uchwetheze {MENU} ukufikelela kuyo.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-    "text": "Ixolo. Awukulungelanga ukuthatha inkxaxheba kulenkqubo. Ungafuna ukuzama enye inkqubo ka-WhatsApp, i-ParentLine, ngokuthumela u-WhatsApp ku {parentline number}.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome back!",
-    "text": "Wamkelekile kwakhona!",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "*DAY @fields.curr_demo_day*",
     "text": "*UMHLA ka @fields.curr_demo_day*",
     "type": "text",
@@ -1542,14 +1440,38 @@
     "note": ""
   },
   {
-    "SourceText": "Thank you for participating!",
-    "text": "Enkosi ngokuthatha inxaxheba!",
+    "SourceText": "Thanks for joining ParentText!",
+    "text": "Enkosi ngokungenela i-ParentText!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting is better with friends and a supportive community. You can share the power of positive parenting with your friends with this simple social media post.",
+    "text": "Ukubangumzali kungcono nabahlobo kunye nabantu abanenkxaso. Ungabelana ngamandla obuzali obulungileyo nabahlobo bakho ngale powusti ilula yamakhasi onxebelelwano.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We will let you know in a few months when the next course about keeping @fields.child_nickname safe is ready.",
+    "text": "Sizakukwazisa kwiinyanga ezimbalwa ezizayo ukuba  ilungile imodyuli elandelayo engokugcina u@fields.child_nickname ekhuselekile.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "We will let you know in a few months when the next course about keeping your child safe is ready.",
+    "text": "Sizakukwazisa kwiinyanga ezimbalwa ezizayo ukuba ilungile imodyuli elandelayo engokugcina umntwana wakho ekhuselekile.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
     "text": "Kubonakala ngathi awunamdla kwisifundo soKhuseleko lwaBantwana okwangoku. Ukuba ufuna ukujoyina ikhosi yoKhuseleko loMntwana exesheni, vele ucinezele u-1",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence.",
+    "text": "Imifanekiso ekwi ParentText inceda ekucaciseni izakhono zobuzali. Yimisebenzi yoqobo ka-Orli Setton eyenzelwe i-Parenting for Lifelong Health kunye neGlobal Parenting Initiative, kwaye kwabelwana ngayo phantsi kwe-CC BY-SA 4.0 yelayisensi yaMazwe ngaMazwe.",
     "type": "text",
     "note": ""
   },
@@ -2120,12 +2042,6 @@
   {
     "SourceText": "back",
     "text": "emva",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "demo",
-    "text": "idemo",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

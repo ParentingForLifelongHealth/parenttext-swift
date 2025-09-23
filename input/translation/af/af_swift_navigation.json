@@ -450,18 +450,6 @@
     "note": ""
   },
   {
-    "SourceText": "We will let you know in a few months when the next course about keeping  @fields.child_nickname safe is ready.",
-    "text": "Ons sal jou oor 'n paar maande laat weet wanneer die volgende module om @fields.child_nickname veilig te hou gereed is.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "We will let you know in a few months when the next course about keeping  Your child safe is ready.",
-    "text": "Ons sal jou oor 'n paar maande laat weet wanneer die volgende module oor hoe om jou kind veilig te hou gereed is.",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations!",
     "text": "🎉Jy het dit gedoen! 🎉Jy het die kursus @results.name voltooi. Hier is jou kursussertifikaat. Baie geluk!",
     "type": "text",
@@ -1212,96 +1200,6 @@
     "note": ""
   },
   {
-    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
-    "text": "Dit lyk of dit nie 'n goeie tyd is nie. Tik asseblief 1 as jy wil voortgaan.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "You will continue with your progress tomorrow.",
-    "text": "Jy sal môre met jou vordering voortgaan.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "The transaction for sending your airtime of R@results.amount has failed.",
-    "text": "Die transaksie om vir jou R@results.amount lugtyd te stuur het misluk.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "If you have not received your airtime in 3 days, please send a message to {WhatsApp SWIFT line support} with your transaction ID.",
-    "text": "As jy nie jou lugtyd binne 3 dae ontvang het nie, stuur asseblief 'n boodskap aan {WhatsApp SWIFT line support} met jou transaksie-ID.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Your transaction ID is: @contact.id",
-    "text": "Jou transaksie-ID is: @contact.id",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "Your airtime of R@results.amount will be sent to this WhatsApp number. Please allow up to 3 days for the payment to process.",
-    "text": "Jou lugtyd van R@results.amount sal na hierdie WhatsApp-nommer gestuur word. Wag asseblief 3 dae vir die betaling om te verskyn.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? ",
-    "text": "🥳 Dit is tyd vir jou 2de opname! Hierdie opname bevat ongeveer 25 vrae. Jy sal R50 lugtyd vir jou deelname ontvang. Is jy gereed om te begin? ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "2. No",
-    "text": "2. Nee",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "That's okay.",
-    "text": "Dis oukei.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? ",
-    "text": "🥳 Dit is tyd vir jou laaste opname! As jy die opname voltooi, sal jy R50 lugtyd ontvang. Is jy gereed om te begin? ",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "🌱 Keep your child safe and healthy! 🌱",
-    "text": "🌱Hou jou kind veilig en gesond!🌱",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?",
-    "text": "Jy het alreeds begin om jou verhouding met jou kind te verbeter! Kom leer meer met ons maklike 5-dae kursus oor kinderveiligheid in ParentText. Net 10 minute elke dag. Verdien 'n sertifikaat wanneer jy klaar is! Wil jy begin?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "That's okay! You can easily access the Child Safety course any time you want via the main menu. Just type {MENU} to access it.",
-    "text": "Dis oukei! Jy kan maklik toegang tot die Kinderveiligheidskursus enige tyd kry wanneer jy wil via die hoofkieslys. Tik net {MENU} om toegang daartoe te kry.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-    "text": "Jammer. Jy voldoen nie aan die vereistes om aan hierdie program deel te neem nie. Jy sal dalk 'n ander WhatsApp-program, ParentLine, wil probeer deur 'n WhatsApp te stuur na {parentline number}.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome back!",
-    "text": "Welkom terug!",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "*DAY @fields.curr_demo_day*",
     "text": "*DAG @fields.curr_demo_day*",
     "type": "text",
@@ -1542,14 +1440,38 @@
     "note": ""
   },
   {
-    "SourceText": "Thank you for participating!",
-    "text": "Dankie vir jou deelname!",
+    "SourceText": "Thanks for joining ParentText!",
+    "text": "Dankie dat jy by ParentText aangesluit het!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting is better with friends and a supportive community. You can share the power of positive parenting with your friends with this simple social media post.",
+    "text": "Ouerskap is beter met vriende en 'n ondersteunende gemeenskap. Jy kan die krag van positiewe ouerskap met jou vriende deel met hierdie eenvoudige sosiale media post.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We will let you know in a few months when the next course about keeping @fields.child_nickname safe is ready.",
+    "text": "Ons sal vir jou oor 'n paar maande laat weet wanneer die volgende kursus om @fields.child_nickname veilig te hou gereed is.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "We will let you know in a few months when the next course about keeping your child safe is ready.",
+    "text": "Ons sal vir jou oor 'n paar maande laat weet wanneer die volgende kursus om jou kind veilig te hou gereed is.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
     "text": "Dit lyk of jy nie op die oomblik in die Kinderveiligheidskursus belangstel nie. As jy later by die Kinderveiligheidskursus wil aansluit, druk net 1. 📚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence.",
+    "text": "Illustrasies in ParentText help om ouerskapsvaardighede te verduidelik. Dit is oorspronklike werke deur Orli Setton, geskep vir Parenting for Lifelong Health en die Global Parenting Initiative, en gedeel onder 'n CC BY-SA 4.0 Internasionale lisensie.",
     "type": "text",
     "note": ""
   },
@@ -2120,12 +2042,6 @@
   {
     "SourceText": "back",
     "text": "terug",
-    "type": "arguments",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  },
-  {
-    "SourceText": "demo",
-    "text": "demo",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

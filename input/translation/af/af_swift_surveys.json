@@ -126,8 +126,8 @@
     "note": ""
   },
   {
-    "SourceText": "You've been removed from the study, but it isn't too late to improve your relationship with your child! Get parenting support with ParentLine by sending a WhatsApp to {parentline number}.",
-    "text": "Jy is uit die studie verwyder, maar dit is nog nie te laat om jou verhouding met jou kind te verbeter nie! Kry ouerskapondersteuning met ParentLine deur 'n WhatsApp te stuur na {parentline number}.",
+    "SourceText": "You've been removed from the study, but it isn't too late to improve your relationship with your child! Get parenting support and advice with Parentline by sending a WhatsApp to {parentline number}.",
+    "text": "Jy is van die studie verwyder, maar dit is nie te laat om jou verhouding met jou kind te verbeter nie! Kry ouerskapsondersteuning en -advies met Parentline deur 'n WhatsApp te stuur na {parentline number}.",
     "type": "text",
     "note": ""
   },
@@ -228,8 +228,8 @@
     "note": ""
   },
   {
-    "SourceText": "That's okay! You can easily access the Child Safety course any time you want via the main menu. Just type {MENU} to access it.",
-    "text": "Dis oukei! Jy kan maklik toegang tot die Kinderveiligheidskursus enige tyd kry wanneer jy wil via die hoofkieslys. Tik net {MENU} om toegang daartoe te kry.",
+    "SourceText": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
+    "text": "Dit lyk of jy nie op die oomblik in die Kinderveiligheidskursus belangstel nie. As jy later by die Kinderveiligheidskursus wil aansluit, druk net 1. 📚",
     "type": "text",
     "note": ""
   },
@@ -242,6 +242,18 @@
   {
     "SourceText": "Welcome back!",
     "text": "Welkom terug!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry! Your invitation to participate in this survey has expired. The survey is now closed.",
+    "text": "Jammer! Jou uitnodiging om aan hierdie opname deel te neem het verval. Die opname is nou gesluit.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for your interest in this study. We are no longer accepting participants,but you might want to try Parentline SA, a WhatsApp parenting advice chatbot, by sending a WhatsApp to {parentline number}.",
+    "text": "Dankie vir jou belangstelling in hierdie studie. Ons aanvaar nie meer deelnemers nie, maar jy kan dalk Parentline SA, 'n WhatsApp ouerskapsadvies-kletsbot, probeer deur 'n WhatsApp te stuur na {parentline number}.",
     "type": "text",
     "note": ""
   },
@@ -318,8 +330,8 @@
     "note": ""
   },
   {
-    "SourceText": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-    "text": "Jammer. Jy kwalifiseer nie vir die studie nie. Dankie vir jou tyd. Jy kan dalk 'n ander WhatsApp-program probeer, ParentLine, deur 'n WhatsApp te stuur na {parentline number}.",
+    "SourceText": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try Parentline SA, a WhatsApp parenting advice chatbot, by sending a WhatsApp to {parentline number}.",
+    "text": "Jammer. Jy kwalifiseer nie vir die studie nie. Dankie vir jou tyd. Jy kan dalk Parentline SA, 'n WhatsApp ouerskapsadvies-kletsbot, probeer deur 'n WhatsApp te stuur na {parentline number}.",
     "type": "text",
     "note": ""
   },
@@ -368,6 +380,12 @@
   {
     "SourceText": "See something on social media (e.g. Facebook, WhatsApp)?",
     "text": "Iets op sosiale media gesien (bv. Facebook, WhatsApp)?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which clinic were you at when you found out about ParentText?",
+    "text": "By watter kliniek was jy toe jy van ParentText uitgevind het?",
     "type": "text",
     "note": ""
   },
@@ -427,7 +445,7 @@
   },
   {
     "SourceText": "What gender do you identify as?",
-    "text": "Met watter geslag identifiseer jy jouself?",
+    "text": "Met watter geslag identifiseer jy?",
     "type": "text",
     "note": ""
   },
@@ -458,6 +476,12 @@
   {
     "SourceText": "Do you confirm that you are under the age of 18?",
     "text": "Bevestig jy dat jy onder die ouderdom van 18 is?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+    "text": "Jammer. Jy kwalifiseer nie vir die studie nie. Dankie vir jou tyd. Jy kan dalk 'n ander WhatsApp-program probeer, ParentLine, deur 'n WhatsApp te stuur na {parentline number}.",
     "type": "text",
     "note": ""
   },
@@ -1476,6 +1500,12 @@
     "note": ""
   },
   {
+    "SourceText": "For example, you would enter 083 283 8620 as 0832838620.",
+    "text": "Byvoorbeeld, jy sal 083 283 8620 invoer as 0832838620.",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero.",
     "text": "Suid-Afrikaanse telefoonnommers moet met die nommer nul begin, voer asseblief 'n tien-syfer telefoonnommer in wat met die nommer nul begin.",
     "type": "text",
@@ -1640,6 +1670,54 @@
   {
     "SourceText": "No",
     "text": "Nee",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Wolseley Clinic",
+    "text": "Wolseley Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Ceres Clinic",
+    "text": "Ceres Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Nduli Clinic",
+    "text": "Nduli Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bella Vista Clinic",
+    "text": "Bella Vista Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Delft South Clinic",
+    "text": "Delft South Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Symphony Way Clinic",
+    "text": "Symphony Way Kliniek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Delft CHC",
+    "text": "Delft CHC",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I was not at a clinic",
+    "text": "Ek was nie by 'n kliniek nie",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -2022,14 +2100,50 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "hi",
-    "text": "hi",
+    "SourceText": "parenttext",
+    "text": "parenttext",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "hello",
-    "text": "hallo",
+    "SourceText": "parentext",
+    "text": "parentext",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "parentex",
+    "text": "parentex",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "parenttex",
+    "text": "parenttex",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "perentext",
+    "text": "perentext",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "perenttext",
+    "text": "perenttext",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "perentex",
+    "text": "perentex",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "perenttex",
+    "text": "perenttex",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -2072,6 +2186,54 @@
   {
     "SourceText": "no, i am under 18",
     "text": "nee, ek is onder 18",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "wolseley clinic",
+    "text": "wolseley kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "ceres clinic",
+    "text": "ceres kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "nduli clinic",
+    "text": "nduli kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bella vista clinic",
+    "text": "bella vista kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "delft south clinic",
+    "text": "delft south kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "symphony way clinic",
+    "text": "symphony way kliniek",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "delft chc",
+    "text": "delft gemeenskapsgesondheidssentrum",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i was not at a clinic",
+    "text": "ek was nie by 'n kliniek nie",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
