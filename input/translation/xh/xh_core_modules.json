@@ -697,7 +697,7 @@
   },
   {
     "SourceText": "Amazing! 🎉 Try to praise your child at least once during one-on-one time. You can also praise your child at other times during the day. Notice how they respond.",
-    "text": "Kuyamangalisa! 🎉Zama ukuncoma umntwana wakho nangona ngelixa lexesha ninodwa. Ungakwazi ukuncoma umntwana wakho nangamanye amaxesha phakathi nosuku. Qaphela ukuba uphendula njani.",
+    "text": "Kuyamangalisa! 🎉Zama ukuncoma umntwana wakho nokuba kukanye ngelixa lexesha ninodwa. Ungakwazi ukuncoma umntwana wakho nangamanye amaxesha phakathi nosuku. Qaphela ukuba uphendula njani.",
     "type": "text",
     "note": ""
   },
@@ -1123,7 +1123,7 @@
   },
   {
     "SourceText": "✅It’s important that we talk with our children about ALL of them.",
-    "text": "✅Kubalulekile ukuba sithethe kunye nabantwana bethu malunga nabo BONKE.",
+    "text": "✅Kubalulekile ukuba sithethe kunye nabantwana bethu malunga nazo ZONKE.",
     "type": "text",
     "note": ""
   },
@@ -1549,7 +1549,7 @@
   },
   {
     "SourceText": "Home Activity! During one-on-one time today, notice @fields.child_nickname’s feelings. Talk to @fields.child_nickname by describing both your own feelings and the feelings of @fields.child_nickname.",
-    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha ninodwa namhlanje, qaphela @fields.child_nickname’ imvakalelo. Thetha no@fields.child_nickname ngokucha iimvakalelo zakho kunye nemvakalelo zika @fields.child_nickname.",
+    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha ninodwa namhlanje, qaphela imvakalelo zika  @fields.child_nickname. Thetha no@fields.child_nickname ngokuchaza iimvakalelo zakho kunye nemvakalelo zika @fields.child_nickname.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "SourceText": "Home Activity! During one-on-one time today, notice your child’s feelings. Talk to your child by describing both your own feelings and the feelings of your child.",
-    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha ninodwa namhlanje, qaphela ’ imvakalelo. Thetha no ngokucha iimvakalelo zakho kunye nemvakalelo zika.",
+    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha ninodwa namhlanje, qaphela imvakalelo. Thetha no ngokuchaza iimvakalelo zakho kunye nemvakalelo zika.",
     "type": "text",
     "note": ""
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "SourceText": "Here's a video that will help you stay calm when your child misbehaves. ☀️",
-    "text": "Nntsi ividiyo enganceda ukuhlala uzolile xan umntwana wakho engazi phathi kakuhle.☀️",
+    "text": "Nantsi ividiyo enganceda ukuhlala uzolile xana umntwana wakho engazi phathi kakuhle.☀️",
     "type": "text",
     "note": ""
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "SourceText": "Amazing! 🎉 Try to praise your teen at least once during one-on-one time. You can also praise your teen at other times during the day. Notice how they respond.",
-    "text": "Kuyamangalisa! 🎉Zama ukuncoma umntwana wakho ofikisayo nangona ngelixa Lexesha lenu nobabini ninodwa. Ungakwazi ukuncoma umntwana wakho nangamanye amaxesha phakathi nosuku. Qaphela ukuba uphendula njani.",
+    "text": "Kuyamangalisa! 🎉Zama ukuncoma umntwana wakho ofikisayo nokuba kukanye ngelixa lexesha lenu nobabini ninodwa. Ungakwazi ukuncoma umntwana wakho nangamanye amaxesha phakathi nosuku. Qaphela ukuba uphendula njani.",
     "type": "text",
     "note": ""
   },
@@ -2833,7 +2833,7 @@
   },
   {
     "SourceText": "Home Activity! During one-on-one time today, notice your teen’s feelings. Talk to your teen by describing both your own feelings and the feelings of your teen. ",
-    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha lakho nomntwana wakho ninobabini namhlanje, qaphela ’ imvakalelo zomntwana wakho ofikisayo. Thetha nomntwana wakho ofikisayo ngokuchaza iimvakalelo zakho kunye ne zakhe. ",
+    "text": "Umsebenzi Wasekhaya! Ngelixa ngexesha lakho nomntwana wakho ninobabini namhlanje, qaphela imvakalelo zomntwana wakho ofikisayo. Thetha nomntwana wakho ofikisayo ngokuchaza iimvakalelo zakho kunye ne zakhe. ",
     "type": "text",
     "note": ""
   },
