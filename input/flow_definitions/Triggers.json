@@ -39,7 +39,7 @@
       {
         "ID": "clinic",
         "triggers": "parenttext;parentext;parentex;parenttex;perentext;perenttext;perentex;perenttex",
-        "groups": "",
+        "groups": "phase 2",
         "cap": "2000",
         "location": "",
         "variables.1.name": "receive payment",
@@ -48,7 +48,7 @@
       {
         "ID": "share",
         "triggers": "family",
-        "groups": "",
+        "groups": "phase 2",
         "cap": "500",
         "location": "",
         "variables.1.name": "receive payment",

@@ -268,7 +268,7 @@
         "audio.expiration_time_min": "",
         "home_activity.intro": "",
         "home_activity.activity": "Home Activity! Try to create a routine on how you can spend 15 minutes of one-on-one time with your teen every day. 📝 Can you do it today?",
-        "home_activity.positive_msg": "That's great! Making one-on-one time a regular activity will mean a lot to Your Teen. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved connected to you.",
+        "home_activity.positive_msg": "That's great! Making one-on-one time a regular activity will mean a lot to Your Teen. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved and connected to you.",
         "home_activity.negative_msg": "That's OK! Beginning something new takes time. If you cannot do it every day, maybe start with every other day. Or instead of 15 minutes a day, try 5 minutes. You can also ask your teen for ideas on which routines could be useful for them. They might surprise you!",
         "congratulations.msg_list": "Amazing! 🎉 You have learnt how to create a routine with your teen! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}.",
         "attached_single_doc": ""
@@ -511,7 +511,7 @@
         "comic.intro": "Here is an example of supporting  your teen, even when something really bad happens.",
         "comic.next_button": "",
         "comic.text.1": "**{F2_GRANDMOTHER}**: Shame my dear, you look really upset, do you want to tell me what happened?",
-        "comic.text.2": "**{F2_DAUGHTER_17}**: It’s my Uncle, he… he… he touched me.\n\n**{F2_GRANDMOTHER} (thinking): Take a deep breath... What does my child need? She needs me to be calm and  comforting and to listen if she wants to talk.\n\n**{F2_GRANDMOTHER}**: Come and sit down next to me. Take your time, I’m listening.",
+        "comic.text.2": "**{F2_DAUGHTER_17}**: It’s my Uncle, he… he… he touched me.\n\n**{F2_GRANDMOTHER}** (thinking): Take a deep breath... What does my child need? She needs me to be calm and  comforting and to listen if she wants to talk.\n\n**{F2_GRANDMOTHER}**: Come and sit down next to me. Take your time, I’m listening.",
         "comic.text.3": "**{F2_DAUGHTER_17}**: It’s true, he… he… made me do it! He made me have sex with him! I didn’t want to, I swear, and I even said NO, but he told me I would be in trouble.\n\n**{F2_GRANDMOTHER}**: Thank you for sharing this with me. You are not in trouble. This is not your fault.",
         "comic.text.4": "**{F2_DAUGHTER_17}**: Yesterday when you went to see your friend. He just came and that’s when it happened.\n\n**{F2_GRANDMOTHER}**: It’s okay, I believe you my child. This is a big thing and we will find a way to get the help we need. Where could we go for help?\n\n**{F2_DAUGHTER_17}**: The clinic?",
         "comic.text.5": "**{F2_GRANDMOTHER}**: That is a great suggestion, {F2_DAUGHTER_17}, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?\n\n**{F2_DAUGHTER_17}**: Yes… Okay… But will you come with me?",
