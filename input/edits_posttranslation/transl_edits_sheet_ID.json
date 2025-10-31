@@ -886,7 +886,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "change": "{ret_consent_link}",
         "condition_var": "",
-        "category": "https://bit.ly/swift-study-en"
+        "category": "https://bit.ly/swift-info-en"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -895,7 +895,7 @@
         "node_identifier": "Regex:.*{teen_consent_form}.*",
         "change": "{teen_consent_form}",
         "condition_var": "",
-        "category": "https://bit.ly/swift-interview-en"
+        "category": "https://bit.ly/swift-interviewinfo-en"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -960,7 +960,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "original": "{ret_consent_link}",
         "language": "afr",
-        "replacement": "https://bit.ly/swift-study-af"
+        "replacement": "https://bit.ly/swift-info-af"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -969,7 +969,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "original": "{ret_consent_link}",
         "language": "hau",
-        "replacement": "https://bit.ly/swift-study-xh"
+        "replacement": "https://bit.ly/swift-info-xh"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -996,7 +996,7 @@
         "node_identifier": "Regex:.*{teen_consent_form}.*",
         "original": "{teen_consent_form}",
         "language": "afr",
-        "replacement": "https://bit.ly/swift-interview-af"
+        "replacement": "https://bit.ly/swift-interviewinfo-af"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1005,7 +1005,7 @@
         "node_identifier": "Regex:.*{teen_consent_form}.*",
         "original": "{teen_consent_form}",
         "language": "hau",
-        "replacement": "https://bit.ly/swift-interview-xh"
+        "replacement": "https://bit.ly/swift-interviewinfo-xh"
       },
       {
         "type_of_edit": "replace_bit_of_text",
