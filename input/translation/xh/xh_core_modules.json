@@ -2688,13 +2688,13 @@
     "note": ""
   },
   {
-    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to @fields.child_nickname. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved connected to you.",
+    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to @fields.child_nickname. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved and connected to you.",
     "text": "Kwakuhle! Ukwenza ixesha lakho nomntwana wakho njengomdlalo rhoqo kungathetha lukhulu ku@fields.child_nickname. Ungakwazi ukwenza ezinye inkqubo kunye nomntwana wakho ofikisayo njengokutya kunye ukutya okanye ukuthatha uhambo. Inganceda umntwana wakho ofikisayo azive enxulumene kuwe kwaye ethandwa.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to your teen. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved connected to you.",
+    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to your teen. You can also make other routines with them like having a meal together or going for a walk. It will help your teen feel loved and connected to you.",
     "text": "Kwakuhle! Ukwenza ixesha lakho nomntwana wakho ninodwa njengomdlalo rhoqo kungathetha lukhulu ku. Ungakwazi ukwenza ezinye inkqubo kunye nomntwana wakho ofikisayo njengokutya kunye ukutya okanye ukuthatha uhambo. Inganceda umntwana wakho ofikisayo azive enxulumene kuwe kwaye ethandwa.",
     "type": "text",
     "note": ""

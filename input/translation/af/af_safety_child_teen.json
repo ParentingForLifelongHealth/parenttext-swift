@@ -192,7 +192,7 @@
     "note": ""
   },
   {
-    "SourceText": "**{F1_FATHER}**: We love you, **{F1_SON_5}. Now, let's give each other a big hug!",
+    "SourceText": "**{F1_FATHER}**: We love you, {F1_SON_5}. Now, let's give each other a big hug!",
     "text": "**{F1_FATHER}**: Ons is lief vir jou, {F1_SON_5}. Nou, kom ons gee vir mekaar 'n groot drukkie!",
     "type": "text",
     "note": ""
@@ -468,7 +468,7 @@
     "note": ""
   },
   {
-    "SourceText": "**{F2_GRANDMOTHER}**: Did you enjoy the story,{F2_DAUGHTER_3}?",
+    "SourceText": "**{F2_GRANDMOTHER}**: Did you enjoy the story, {F2_DAUGHTER_3}?",
     "text": "**{F2_GRANDMOTHER}**: Het jy die storie geniet, {F2_DAUGHTER_3}?",
     "type": "text",
     "note": ""
@@ -2910,7 +2910,7 @@
     "note": ""
   },
   {
-    "SourceText": "**{F2_GRANDMOTHER} (thinking): Take a deep breath... What does my child need? She needs me to be calm and  comforting and to listen if she wants to talk.",
+    "SourceText": "**{F2_GRANDMOTHER}** (thinking): Take a deep breath... What does my child need? She needs me to be calm and comforting and to listen if she wants to talk.",
     "text": "**{F2_GRANDMOTHER}** (dink): Haal diep asem… Wat het my kind nou nodig? Sy het nodig dat ek kalm en vertroostend is, en dat ek luister as sy wil praat.",
     "type": "text",
     "note": ""
