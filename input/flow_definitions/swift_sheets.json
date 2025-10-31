@@ -2507,52 +2507,42 @@
     "wa_templates": [
       {
         "ID": "no_response",
-        "name": "no_response_qr",
+        "name": "no_response",
         "uuid": "3be78720-1f04-46d5-8f5c-a42874812351"
       },
       {
         "ID": "daily_interaction",
-        "name": "daily_interaction_qr",
+        "name": "daily_interaction",
         "uuid": "ae552331-da75-4d0c-876f-dd58b9bdcc8a"
       },
       {
         "ID": "start_started_mod_or_later_one",
-        "name": "start_started_mod_or_later_one_qr",
+        "name": "start_started_mod_or_later_one",
         "uuid": "549e6316-3913-4f24-bdf6-25f81b9aa374"
       },
       {
         "ID": "start_started_mod_or_later_multiple",
-        "name": "start_started_mod_or_later_multiple_qr",
+        "name": "start_started_mod_or_later_multiple",
         "uuid": "2436c3d9-e292-4acd-a076-d2870fa3daa3"
       },
       {
         "ID": "first_module_intro",
-        "name": "first_module_intro_qr",
+        "name": "first_module_intro",
         "uuid": "2b99dea3-271f-4f0e-99e0-f3743aec431c"
       },
       {
         "ID": "unfinished_onboarding",
-        "name": "unfinished_onboarding_qr",
+        "name": "unfinished_onboarding",
         "uuid": "793511ce-dd2e-46b7-a3b7-f9d7525c7f6b"
       },
       {
         "ID": "complete_start_module",
-        "name": "complete_start_module_qr",
+        "name": "complete_start_module",
         "uuid": "e6685fe5-6fbf-4318-8161-0c273b09c1a2"
       },
       {
-        "ID": "1_month_survey",
-        "name": "1_month_survey",
-        "uuid": "e4680fe5-6fbf-4318-8161-0c273b09c1a3"
-      },
-      {
-        "ID": "3_month_survey",
-        "name": "3_month_survey",
-        "uuid": "e6680fe5-6fbf-4318-8161-0c273b09c1a4"
-      },
-      {
         "ID": "safety_offer",
-        "name": "safety_offer_qr",
+        "name": "safety_offer",
         "uuid": "e6780fe5-6fbf-4318-8161-0c273b09c1a5"
       },
       {
@@ -2575,99 +2565,99 @@
       {
         "name": "no_response",
         "eng": "It looks like ParentText isn't working for you. Can you tell us why?\n\nSelect one of the options below:\n1. I do not have time\n2. ParentText is not helpful\n3. ParentText isn't working on my phone\n4. Other",
-        "hau": "Kubonakala ngathi i-ParentText ayikusebenzeli. Ungasixelela ukuba kutheni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Andinalo ixesha tu\n2. I-ParentText ayiloncendo\n3. I-ParentText ayisebenzi efowunini yam\n4. Okunye",
         "afr": "Dit lyk asof ParentText nie vir jou werk nie. Kan jy vir ons sê hoekom?\n\nKies een van die opsies hieronder:\n1. Ek het nie tyd nie\n2. ParentText is nie nuttig nie\n3. ParentText werk nie op my foon nie\n4. Ander",
+        "hau": "Kubonakala ngathi i-ParentText ayikusebenzeli. Ungasixelela ukuba kutheni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Andinalo ixesha tu\n2. I-ParentText ayiloncendo\n3. I-ParentText ayisebenzi efowunini yam\n4. Okunye",
         "vars": ""
       },
       {
         "name": "daily_interaction",
         "eng": "We've got another lesson ready for you! Are you ready?\n\nSelect one of the options below:\n1. Yes\n2. No, remind me tomorrow",
-        "hau": "Sinesinye isifundo esilungiselelwe wena! Usilungele na?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi, undikhumbuze ngomso",
         "afr": "Ons het nog 'n les gereed vir jou! Is jy gereed?\n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee, herinner my môre",
+        "hau": "Sinesinye isifundo esilungiselelwe wena! Usilungele na?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi, undikhumbuze ngomso",
         "vars": ""
       },
       {
         "name": "start_started_mod_or_later_one",
         "eng": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?\n\nSelect one of the options below:\n1. Finish this lesson and earn my course certificate\n2. Remind me tomorrow",
-        "hau": "Sekukufutshane ugqibe ngesisifundo! Unesifundo esi 1 kuphela ongasigqibanga. Ungathanda ukwenza ntoni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela esi sifundo kwaye ufumane isatifikethi sesifundo sam\n2. Undikhumbuze ngomso",
         "afr": "Jy's amper klaar met hierdie kursus! Jy het net 1 onvoltooide les. Wat wil jy graag doen?\n\nKies een van die opsies hieronder:\n1. Voltooi hierdie les en verdien my kursussertifikaat\n2. Herinner my môre",
+        "hau": "Sekukufutshane ugqibe ngesisifundo! Unesifundo esi 1 kuphela ongasigqibanga. Ungathanda ukwenza ntoni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela esi sifundo kwaye ufumane isatifikethi sesifundo sam\n2. Undikhumbuze ngomso",
         "vars": ""
       },
       {
         "name": "start_started_mod_or_later_multiple",
         "eng": "You're almost finished with this course! You have {{1}} unfinished lessons. What would you like to do?\n\nSelect one of the options below:\n1. Complete unfinished lessons to earn my course certificate\n2. Remind me tomorrow",
-        "hau": "Sekukufuphi ugqibezele esi sifundo sakho! Une {{1}} kwi zifundo ezingagqitywanga. Ungathanda ukwenza ntoni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela izifundo ezingagqitywanga ukufumana isatifikethi sam sesifundo\n2. Undikhumbuze ngomso\n",
         "afr": "Jy's amper klaar met hierdie kursus! Jy het {{1}} onvoltooide lesse. Wat wil jy graag doen?\n\nKies een van die opsies hieronder:\n1. Voltooi onvoltooide lesse om my kursussertifikaat te verdien\n2. Herinner my môre",
+        "hau": "Sekukufuphi ugqibezele esi sifundo sakho! Une {{1}} kwi zifundo ezingagqitywanga. Ungathanda ukwenza ntoni?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela izifundo ezingagqitywanga ukufumana isatifikethi sam sesifundo\n2. Undikhumbuze ngomso\n",
         "vars": "{{1}}eng = 2\n{{1}}afr = 2\n{{1}}hau = 2"
       },
       {
         "name": "first_module_intro",
         "eng": "It’s time to get started on your course, {{1}}. Are you ready?\n\nSelect one of the options below:\n1. Yes!\n2. Remind me tomorrow",
-        "hau": "\nLixesha lokuba uqalise isifundo sakho, {{1}}. Ukulungele?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe!\n2. Undikhumbuze ngomso",
         "afr": "Dis tyd om met jou kursus, {{1}}, to begin. Is jy gereed?\n\nKies een van die opsies hieronder:\n1. Ja!\n2. Herinner my môre",
+        "hau": "\nLixesha lokuba uqalise isifundo sakho, {{1}}. Ukulungele?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe!\n2. Undikhumbuze ngomso",
         "vars": "{{1}}eng = Improve My Relationship with My Child        {{1}}afr = Verbeter my Verhouding met My Kind\n{{1}}hau = Phucula Ubudlelwane Bam Kunye Nomntwana Wam"
       },
       {
         "name": "unfinished_onboarding",
         "eng": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?\n\nSelect one of the options below:\n1. Yes\n2. Remind me tomorrow",
-        "hau": "I-ParentText seyiqalile. Unentsuku ezi-5 ukuyofika ekufumaneni isatifikethi sakho sobuzali. Ukulungele ukugqiba ubhaliso kwaye ube sewuqalisa?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Undikhumbuze ngomso",
         "afr": "ParentText het begin. Jy is net 5 dae daarvan weg om jou ouerskapsertifikaat te verwerf. Is jy gereed om jou registrasie te voltooi en te begin?\n\nKies een van die opsies hieronder:\n1. Ja\n2. Herinner my môre",
+        "hau": "I-ParentText seyiqalile. Unentsuku ezi-5 ukuyofika ekufumaneni isatifikethi sakho sobuzali. Ukulungele ukugqiba ubhaliso kwaye ube sewuqalisa?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Undikhumbuze ngomso",
         "vars": ""
       },
       {
         "name": "complete_start_module",
         "eng": "It seems like you've got some catching up to do! Do you want to complete your previous unfinished lesson or start a new lesson?\n\nSelect one of the options below:\n1. Complete a previous lesson\n2. Start a new lesson",
-        "hau": "Kubonakala ngathi usalele emva kancinci! Uyafuna ukugqibezela isifundo sakho esidlulileyo ongakhange usigqibe okanye ufuna ukuqala isifundo esitsha?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela isifundo sangaphambili\n2. Qalisa isifundo esitsha",
         "afr": "Dit lyk of jy 'n bietjie moet inhaal! Wil jy jou vorige onvoltooide les voltooi of 'n nuwe les begin?\n\nKies een van die opsies hieronder:\n1. Voltooi 'n vorige les\n2. Begin 'n nuwe les",
-        "vars": ""
-      },
-      {
-        "name": "1_month_survey",
-        "eng": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "🥳 Lixesha lesaveyi yakho yesibini. Olu phando lunemibuzo emalunga namashumi amabini anesihlanu. Uza kufumana i-airtime ye-R50 ngokuthatha inxaxheba. Ingaba ukulungele ukuqalisa? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
-        "afr": "🥳 Dit is tyd vir jou 2de opname! Hierdie opname bevat ongeveer 25 vrae. Jy sal R50 lugtyd vir jou deelname ontvang. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
-        "vars": ""
-      },
-      {
-        "name": "3_month_survey",
-        "eng": "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
-        "afr": "🥳 Dit is tyd vir jou laaste opname! As jy die opname voltooi, sal jy R50 lugtyd ontvang. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "Kubonakala ngathi usalele emva kancinci! Uyafuna ukugqibezela isifundo sakho esidlulileyo ongakhange usigqibe okanye ufuna ukuqala isifundo esitsha?\n\nKhetha enye yeenketho ezingezantsi:\n1. Gqibezela isifundo sangaphambili\n2. Qalisa isifundo esitsha",
         "vars": ""
       },
       {
         "name": "safety_offer",
         "eng": "🌱 Keep your child safe and healthy! 🌱\n\nYou've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?\n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "🌱 Gcina umnntwana wakho ekhuselekile kwaye esempilweni! 🌱\n\nSele uqalile ukuphucula ubudlelwane bakho nomntwana wakho! Funda okungakumbi ngesifundo sethu seentsuku ezi-5 sokukhusela abantwana kwiParentText. Imizuzu nje ezi-10 ngo suku ngalunye. Fumana isatifiketi xa ugqibile! Ngaba ufuna ukuqala?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "afr": "🌱Hou jou kind veilig en gesond!🌱\n\nJy het alreeds begin om jou verhouding met jou kind te verbeter! Kom leer meer met ons maklike 5-dae kursus oor kinderveiligheid in ParentText. Net 10 minute elke dag. Verdien 'n sertifikaat wanneer jy klaar is! Wil jy begin?\n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
-        "vars": ""
-      },
-      {
-        "name": "contact_reported_baseline",
-        "eng": "Hello. Your answers to the questions mean that your child might have experienced something difficult. *Childline* can help: call free on *116*. If you have any problems contacting Childline, or have other questions, please message us on 0786407885.\n\nThe SWIFT Study Team.",
-        "hau": "Molo. Iimpendulo zakho kwimibuzo zithetha ukuba umntwana wakho uke wehlelwa yinto enzima. I-*Childline* inganceda: fowna mahala ku *116*. Ukuba unengxaki ekutsaleleni i-Childline okanye uneminye imibuzo, nceda usibhalele ku 0786407885.\n\nIqela lophando i-SWIFT.",
-        "afr": "Hallo. Jou antwoorde op die opname beteken dat jou kind iets moeiliks mag ervaar het. *Childline* kan help: skakel gratis by *116*. As jy enige probleme ondervind om Childline te kontak, of ander vrae het, stuur asseblief 'n boodkap na 0786407885.\n\nDie SWIFT Studiespan.",
+        "hau": "🌱 Gcina umnntwana wakho ekhuselekile kwaye esempilweni! 🌱\n\nSele uqalile ukuphucula ubudlelwane bakho nomntwana wakho! Funda okungakumbi ngesifundo sethu seentsuku ezi-5 sokukhusela abantwana kwiParentText. Imizuzu nje ezi-10 ngo suku ngalunye. Fumana isatifiketi xa ugqibile! Ngaba ufuna ukuqala?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "vars": ""
       },
       {
         "name": "1month_no_payment",
         "eng": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "Lixesha lesaveyi yakho yesibini. Le saveyi inemibuzo engama-25.  Ukulungele ukuqala? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "afr": "🥳 Dis tyd vir jou tweede opname. Die opname bevat 25 vrae. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "🥳 Lixesha lesaveyi yakho yesibini. Le saveyi inemibuzo engama-25.  Ukulungele ukuqala? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "vars": ""
       },
       {
         "name": "3month_no_payment",
         "eng": "🥳 It's time for your last survey. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "🥳 Lixesha le saveyi yakho yokugqibela. Ingaba ukulungele ukuqala? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "afr": "🥳 Dis tyd vir jou laaste opname. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "🥳 Lixesha le saveyi yakho yokugqibela. Ingaba ukulungele ukuqala? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "vars": ""
       },
       {
         "name": "3_month_survey_5R",
         "eng": "🥳 It's time for your last survey. If you complete the survey, you will receive R5 airtime. Do you agree to continue with this survey?\n\nSelect one of the options below:\n1. Yes\n2. No",
-        "hau": "🥳Lixesha lesaveyi yakho yokugqibela. Ukuba uyayigqiba isaveyi, uzakufumana i-airtime ye R5. Uyavuma ukuqhubekeka nale saveyi?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "afr": "🥳 Dis tyd vir jou laaste opname. As jy die opname voltooi, sal jy R5 lugtyd (airtime) ontvang. Stem jy in om voort te gaan met hierdie opname?\n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "🥳Lixesha lesaveyi yakho yokugqibela. Ukuba uyayigqiba isaveyi, uzakufumana i-airtime ye R5. Uyavuma ukuqhubekeka nale saveyi?\n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
+        "vars": ""
+      },
+      {
+        "name": "contact_reported_baseline",
+        "eng": "Hello. Your answers to the questions mean that your child might have experienced something difficult. *Childline* can help: call free on *116*. If you have any problems contacting Childline, or have other questions, please message us on 0786407885.\n\nThe SWIFT Study Team.",
+        "afr": "Hallo. Jou antwoorde op die opname beteken dat jou kind iets moeiliks mag ervaar het. *Childline* kan help: skakel gratis by *116*. As jy enige probleme ondervind om Childline te kontak, of ander vrae het, stuur asseblief 'n boodkap na 0786407885.\n\nDie SWIFT Studiespan.",
+        "hau": "Molo. Iimpendulo zakho kwimibuzo zithetha ukuba umntwana wakho uke wehlelwa yinto enzima. I-*Childline* inganceda: fowna mahala ku *116*. Ukuba unengxaki ekutsaleleni i-Childline okanye uneminye imibuzo, nceda usibhalele ku 0786407885.\n\nIqela lophando i-SWIFT.",
+        "vars": ""
+      },
+      {
+        "name": "1_month_survey",
+        "eng": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
+        "afr": "🥳 Dit is tyd vir jou 2de opname! Hierdie opname bevat ongeveer 25 vrae. Jy sal R50 lugtyd vir jou deelname ontvang. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "🥳 Lixesha lesaveyi yakho yesibini. Olu phando lunemibuzo emalunga namashumi amabini anesihlanu. Uza kufumana i-airtime ye-R50 ngokuthatha inxaxheba. Ingaba ukulungele ukuqalisa? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
+        "vars": ""
+      },
+      {
+        "name": "3_month_survey",
+        "eng": "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
+        "afr": "🥳 Dit is tyd vir jou laaste opname! As jy die opname voltooi, sal jy R50 lugtyd ontvang. Is jy gereed om te begin? \n\nKies een van die opsies hieronder:\n1. Ja\n2. Nee",
+        "hau": "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? \n\nKhetha enye yeenketho ezingezantsi:\n1. Ewe\n2. Hayi",
         "vars": ""
       }
     ],
@@ -4851,7 +4841,7 @@
     ],
     "send_safety": [
       {
-        "row_id": "gr",
+        "row_id": "compl_prog?",
         "type": "split_by_group",
         "from": "",
         "loop_variable": "",
@@ -4859,31 +4849,6 @@
         "condition_var": "",
         "condition_type": "",
         "condition_name": "",
-        "include_if": "",
-        "save_name": "",
-        "message_text": "",
-        "template_arguments": "",
-        "data_sheet": "",
-        "data_row_id": "",
-        "choices": "",
-        "image": "",
-        "audio": "",
-        "video": "",
-        "obj_name": "",
-        "obj_id": "",
-        "node_name": "",
-        "_nodeId": "",
-        "no_response": ""
-      },
-      {
-        "row_id": "compl_prog?",
-        "type": "split_by_group",
-        "from": "gr",
-        "loop_variable": "",
-        "condition": "phase 2;initial group & 5day",
-        "condition_var": "",
-        "condition_type": "",
-        "condition_name": "phase 2;initial group & 5day",
         "include_if": "",
         "save_name": "",
         "message_text": "",
