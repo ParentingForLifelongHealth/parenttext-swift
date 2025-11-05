@@ -4288,7 +4288,10 @@
                     "parentex",
                     "parenttex"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "parentteks",
+                    "parenteks"
+                ]
             },
             "Translation": {
                 "hau": {
@@ -4298,7 +4301,10 @@
                         "parentex",
                         "parenttex"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "parentteks",
+                        "parenteks"
+                    ]
                 },
                 "afr": {
                     "keywords": [
@@ -4307,7 +4313,10 @@
                         "parentex",
                         "parenttex"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "parentteks",
+                        "parenteks"
+                    ]
                 }
             }
         },
@@ -4319,7 +4328,10 @@
                     "perentex",
                     "perenttex"
                 ],
-                "mispellings": []
+                "mispellings": [
+                    "perentteks",
+                    "perenteks"
+                ]
             },
             "Translation": {
                 "hau": {
@@ -4329,7 +4341,10 @@
                         "perentex",
                         "perenttex"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "perentteks",
+                        "perenteks"
+                    ]
                 },
                 "afr": {
                     "keywords": [
@@ -4338,7 +4353,10 @@
                         "perentex",
                         "perenttex"
                     ],
-                    "mispellings": []
+                    "mispellings": [
+                        "perentteks",
+                        "perenteks"
+                    ]
                 }
             }
         },

@@ -38,7 +38,7 @@
     "joining_triggers_data": [
       {
         "ID": "clinic",
-        "triggers": "parenttext;parentext;parentex;parenttex;perentext;perenttext;perentex;perenttex",
+        "triggers": "parenttext;parentext;parentex;parenttex;perentext;perenttext;perentex;perenttex;parentteks;parenteks;perentteks;perenteks",
         "groups": "phase 2",
         "cap": "2000",
         "location": "",
