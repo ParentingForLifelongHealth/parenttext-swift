@@ -115,6 +115,34 @@
         "tags.1": "",
         "tags.2": "",
         "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "make_options_wrapper_menu_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OptionsWrapperModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "settings_certificate_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SettingsProfileModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
       }
     ],
     "menu_messages": [
@@ -123,6 +151,24 @@
         "msg": "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}. ",
         "next_button_option": "",
         "metadata.description": "Message when selecting to exit the menu"
+      },
+      {
+        "ID": "certificate_menu",
+        "msg": "Here's your certificate for the course @results.name!",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "certificate_menu_fail",
+        "msg": "Oops something went wrong.",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "too_many",
+        "msg": "Sorry, but you can only reprint your certificate for the course @results.name twice.",
+        "next_button_option": "",
+        "metadata.description": ""
       }
     ],
     "menu_data": [
@@ -159,12 +205,12 @@
         "return_option.flow": "menu - main",
         "options.1.text": "Track my progress",
         "options.1.flow": "menu_progress_main",
-        "options.2.text": "Retake completed lessons",
-        "options.2.flow": "review_skills_menu",
-        "options.3.text": "Get extra help with my child",
-        "options.3.flow": "troubleshooting_menu",
-        "options.4.text": "",
-        "options.4.flow": "",
+        "options.2.text": "Reprint my Certificates",
+        "options.2.flow": "reprint_certificates_with_limit",
+        "options.3.text": "Retake completed lessons",
+        "options.3.flow": "review_skills_menu",
+        "options.4.text": "Get extra help with my child",
+        "options.4.flow": "troubleshooting_menu",
         "options.5.text": "",
         "options.5.flow": "",
         "options.6.text": "",
@@ -497,6 +543,50 @@
         "var.2.alias": "Afrikaans",
         "var.3.val": "hau",
         "var.3.alias": "IsiXhosa"
+      }
+    ],
+    "settings_certificate_data": [
+      {
+        "ID": "certificate_name",
+        "current_info_msg": "I'll make your certificate with the name @fields.certificate_name. ",
+        "missing.msg": "You didn't tell us which name you'd like on your certificate. ",
+        "update_inquiry": "Is that right? ",
+        "update_inquiry_yes": "No, change my name",
+        "update_inquiry_no": "Yes, that's right",
+        "update_var_flow": "survey - cert - question - name",
+        "update_prog_var_flow": "",
+        "confirmation_msg": "",
+        "variable": "@fields.certificate_name",
+        "missing.value": "",
+        "var.1.val": "",
+        "var.1.alias": "",
+        "var.2.val": "",
+        "var.2.alias": "",
+        "var.3.val": "",
+        "var.3.alias": "",
+        "var.4.val": "",
+        "var.4.alias": "",
+        "var.5.val": "",
+        "var.5.alias": ""
+      }
+    ],
+    "make_options_wrapper_menu_data": [
+      {
+        "ID": "print_certificate",
+        "list_var": "fields.goals_compl",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You haven't completed any course yet.",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You have received the following certificate:",
+        "msg_one_option.question": "Would you like me to print it again?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No, return to the main menu",
+        "msg_one_option.no_message": "That's okay. You can come back here anytime to get it.",
+        "msg_multiple_options": "Which certificate should I re-print for you?",
+        "extra_option": "None, return to the main menu",
+        "extra_message": "",
+        "update_var": "certificate to print"
       }
     ]
   }

@@ -4283,79 +4283,48 @@
         {
             "English": {
                 "keywords": [
-                    "parenttext",
-                    "parentext",
-                    "parentex",
-                    "parenttex"
+                    "parent",
+                    "perent",
+                    "parant",
+                    "parrent"
                 ],
                 "mispellings": [
-                    "parentteks",
-                    "parenteks"
+                    "paremt",
+                    "parnt",
+                    "pernt",
+                    "paretn",
+                    "paernt"
                 ]
             },
             "Translation": {
                 "hau": {
                     "keywords": [
-                        "parenttext",
-                        "parentext",
-                        "parentex",
-                        "parenttex"
+                        "parent",
+                        "perent",
+                        "parant",
+                        "parrent"
                     ],
                     "mispellings": [
-                        "parentteks",
-                        "parenteks"
+                        "paremt",
+                        "parnt",
+                        "pernt",
+                        "paretn",
+                        "paernt"
                     ]
                 },
                 "afr": {
                     "keywords": [
-                        "parenttext",
-                        "parentext",
-                        "parentex",
-                        "parenttex"
+                        "parent",
+                        "perent",
+                        "parant",
+                        "parrent"
                     ],
                     "mispellings": [
-                        "parentteks",
-                        "parenteks"
-                    ]
-                }
-            }
-        },
-        {
-            "English": {
-                "keywords": [
-                    "perentext",
-                    "perenttext",
-                    "perentex",
-                    "perenttex"
-                ],
-                "mispellings": [
-                    "perentteks",
-                    "perenteks"
-                ]
-            },
-            "Translation": {
-                "hau": {
-                    "keywords": [
-                        "perentext",
-                        "perenttext",
-                        "perentex",
-                        "perenttex"
-                    ],
-                    "mispellings": [
-                        "perentteks",
-                        "perenteks"
-                    ]
-                },
-                "afr": {
-                    "keywords": [
-                        "perentext",
-                        "perenttext",
-                        "perentex",
-                        "perenttex"
-                    ],
-                    "mispellings": [
-                        "perentteks",
-                        "perenteks"
+                        "paremt",
+                        "parnt",
+                        "pernt",
+                        "paretn",
+                        "paernt"
                     ]
                 }
             }

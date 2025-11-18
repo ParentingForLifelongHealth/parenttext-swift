@@ -198,6 +198,21 @@
         "tags.1": "",
         "tags.2": "",
         "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "certificate_name_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SurveyQuestionRowModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
       }
     ],
     "congrats_data": [
@@ -208,7 +223,7 @@
       },
       {
         "ID": "intermediate_completion",
-        "msg": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! ",
+        "msg": "Here's your certificate for the course @results.name. 🎉Congratulations!🎉 ",
         "extra_msg": "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}."
       },
       {
@@ -803,6 +818,48 @@
         "ID": "farewell",
         "msg": "",
         "metadata.description": ""
+      }
+    ],
+    "certificate_name_data": [
+      {
+        "ID": "congrats",
+        "type": "intro",
+        "messages.1.text": "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations! ",
+        "messages.1.image": "",
+        "validation.conditions.1.condition.variable": "",
+        "validation.conditions.1.condition.value": "",
+        "validation.conditions.1.condition.type": "",
+        "validation.conditions.1.condition.name": "",
+        "validation.conditions.1.message": "",
+        "confirmation.condition.variable": "",
+        "confirmation.condition.value": "",
+        "confirmation.condition.type": "",
+        "confirmation.question": "",
+        "confirmation.confirm_option": "",
+        "confirmation.back_option": "",
+        "postprocessing.flow": "",
+        "postprocessing.assignments.1.variable": "",
+        "postprocessing.assignments.1.value": ""
+      },
+      {
+        "ID": "name",
+        "type": "input_skip_qs",
+        "messages.1.text": "How should I print your name on the certificate?",
+        "messages.1.image": "",
+        "validation.conditions.1.condition.variable": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
+        "validation.conditions.1.condition.value": "v",
+        "validation.conditions.1.condition.type": "has_only_phrase",
+        "validation.conditions.1.condition.name": "valid",
+        "validation.conditions.1.message": "This name is too long. Please enter a shorter name.",
+        "confirmation.condition.variable": "",
+        "confirmation.condition.value": "",
+        "confirmation.condition.type": "",
+        "confirmation.question": "The name you would like to have on you certificate is @answer. Is that correct?",
+        "confirmation.confirm_option": "Yes",
+        "confirmation.back_option": "No",
+        "postprocessing.flow": "",
+        "postprocessing.assignments.1.variable": "certificate name",
+        "postprocessing.assignments.1.value": "@answer"
       }
     ]
   }

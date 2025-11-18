@@ -96,8 +96,8 @@
     "note": ""
   },
   {
-    "SourceText": "📱  WiFi: Check your local free WiFi hotspots here: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Tip: If you get a library card, you can access more WiFi at library hotspots! Your local mall might also have WiFi).",
-    "text": "📱 WiFi: Kyk na jou plaaslike gratis WiFi-hotspot hier: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Wenk: As jy 'n biblioteekkaart kry, kan jy meer WiFi by biblioteek hotspots gebruik! Jou plaaslike winkelsentrum mag ook WiFi hê).",
+    "SourceText": "📱  WiFi: Check your local free WiFi hotspots here: https://westerncapegov.maps.arcgis.com/apps/webappviewer/index.html?id=64ddada8149a4f8aa37469ad72d70e68 (Tip: If you get a library card, you can access more WiFi at library hotspots! Your local mall might also have WiFi).",
+    "text": "📱 WiFi: Kyk na jou plaaslike gratis WiFi-hotspot hier: https://westerncapegov.maps.arcgis.com/apps/webappviewer/index.html?id=64ddada8149a4f8aa37469ad72d70e68 (Wenk: As jy 'n biblioteekkaart kry, kan jy meer WiFi by biblioteek hotspots gebruik! Jou plaaslike winkelsentrum mag ook WiFi hê).",
     "type": "text",
     "note": ""
   },
@@ -493,7 +493,7 @@
   },
   {
     "SourceText": "1️⃣ We are now going to ask you to select one of your children that you will be focusing on.",
-    "text": "1️⃣ Ons gaan jou nou vra om een van jou kinders te kies waarop jy sal fokus.",
+    "text": "1️⃣ Ons gaan jou nou vra om een van jou kinders te kies op wie jy sal fokus.",
     "type": "text",
     "note": ""
   },
@@ -1459,13 +1459,13 @@
   },
   {
     "SourceText": "📅 We will follow up with similar questions in two months.",
-    "text": "📅 Ons sal oor 'n maand met soortgelyke vrae opvolg.",
+    "text": "📅 Ons sal oor twee maand met soortgelyke vrae opvolg.",
     "type": "text",
     "note": ""
   },
   {
     "SourceText": "📲 We will send airtime to your current WhatsApp number. ",
-    "text": "📲 Ons sal lugtyd na jou huidige WhatsApp-nommer stuur. ",
+    "text": "📲 Ons sal lugtyd (airtime) na jou huidige WhatsApp-nommer stuur. ",
     "type": "text",
     "note": ""
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "SourceText": "We would like to know more about your experience with ParentText! Can a member from our research team contact you for a short interview? If selected, you will receive a grocery store voucher or airtime from us.",
-    "text": "Ons wil graag meer weet oor jou ervaring met ParentText! Kan 'n lid van ons navorsingspan jou vir 'n kort onderhoud kontak? As jy gekies word, sal jy 'n kruideniers-winkelbewys of lugtyd van ons ontvang.",
+    "text": "Ons wil graag meer weet oor jou ervaring met ParentText! Kan 'n lid van ons navorsingspan jou vir 'n kort onderhoud kontak? As jy gekies word, sal jy 'n kruideniers-winkelbewys of lugtyd (airtime) van ons ontvang.",
     "type": "text",
     "note": ""
   },

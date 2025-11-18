@@ -38,7 +38,7 @@
     "joining_triggers_data": [
       {
         "ID": "clinic",
-        "triggers": "parenttext;parentext;parentex;parenttex;perentext;perenttext;perentex;perenttex;parentteks;parenteks;perentteks;perenteks",
+        "triggers": "parent;perent;parant;parrent;paremt;parnt;pernt;paretn;paernt",
         "groups": "phase 2",
         "cap": "2000",
         "location": "",
@@ -58,7 +58,7 @@
         "ID": "testers",
         "triggers": "demo",
         "groups": "",
-        "cap": "",
+        "cap": "100",
         "location": "",
         "variables.1.name": "receive payment",
         "variables.1.value": "no"
@@ -78,7 +78,7 @@
       {
         "ID": "testers",
         "var_key": "n_testers",
-        "var_value": ""
+        "var_value": "100"
       }
     ]
   }

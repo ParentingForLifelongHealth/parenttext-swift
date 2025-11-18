@@ -1034,7 +1034,7 @@
         "node_identifier": "Regex:.*{generic referrals}.*",
         "change": "{generic referrals}",
         "condition_var": "",
-        "category": "Police (SAPS): 10111\n\nEmergency Line: 112\n\nAmbulance: 10177\n\nFire Department: 10177\n\nCrime Stop: 0860 010 111"
+        "category": "Police (SAPS): *10111*\n\nEmergency Line: *112*\n\nAmbulance: *10177*\n\nFire Department: *10177*\n\nCrime Stop: *0860 010 111*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1043,7 +1043,7 @@
         "node_identifier": "Regex:.*{mental_health referrals}.*",
         "change": "{mental_health referrals}",
         "condition_var": "",
-        "category": "SADAG (all types of mental health support):\n0800 567 567 / www.sadag.org\n\nSuicide Crisis Line: 0800 567 567\n\nDepression and Mental Health Helpline: Call 0800 567 567 daily between 8am and 8pm\n\nLifeline (Counselling): 0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline: 116"
+        "category": "SADAG (all types of mental health support):\n*0800 567 567* / www.sadag.org\n\nSuicide Crisis Line: *0800 567 567*\n\nDepression and Mental Health Helpline: Call *0800 567 567* daily between 8am and 8pm\n\nLifeline (Counselling): *0861 322 322* or WhatsApp call: *065 989 9238*\n\nChildline: *116*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1052,7 +1052,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "change": "{health referrals}",
         "condition_var": "",
-        "category": "AIDS: 0800 012 322\n\nCancer: 0800 226 622\n\nFamily planning, abortion and sexual health: \n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
+        "category": "AIDS: *0800 012 322*\n\nCancer: *0800 226 622*\n\nFamily planning, abortion and sexual health: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1061,7 +1061,7 @@
         "node_identifier": "Regex:.*{violence referrals}.*",
         "change": "{violence referrals}",
         "condition_var": "",
-        "category": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 or send a please call me to *120*7867#\n\nStop Gender Violence Helpline (LifeLine): 0800 150 150\n\nNational Shelter Movement (Safe shelters for abused women & children): Call 0800 001 005 or send an SMS, WhatsApp or Please Call Me to 082 057 8600 / 082 058 2215 / 072 230 7147\n\nThuthuzela Clinic (GBV/rape/sexual abuse): find your nearest one at https://www.gov.za/TCC\n \nSafeline (male survivor helpline): 0800 035 553\n\nRefugee support: WhatsApp 063 656 5080 (for children) or 078 594 5591 (for refugee rights)"
+        "category": "Crime Stop: *0860 010 111*\n\nChildline: *116*\n\nGender Based Violence (GBV) 24/7: *0800 428 428* or send a please call me to *120*7867#\n\nStop Gender Violence Helpline (LifeLine): *0800 150 150*\n\nNational Shelter Movement (Safe shelters for abused women & children): Call *0800 001 005* or send an SMS, WhatsApp or Please Call Me to *082 057 8600* / *082 058 2215* / *072 230 7147*\n\nThuthuzela Clinic (GBV/rape/sexual abuse): find your nearest one at https://www.gov.za/TCC\n \nSafeline (male survivor helpline): *0800 035 553*\n\nRefugee support: WhatsApp *063 656 5080* (for children) or *078 594 5591* (for refugee rights)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1070,7 +1070,7 @@
         "node_identifier": "Regex:.*{natural_disasters referrals}.*",
         "change": "{natural_disasters referrals}",
         "condition_var": "",
-        "category": "South Africa National Emergency Line: 112\n\nAmbulance and Fire Department: 10177\n\nNational Disaster Management Centre (NDMC): 012 848 4608 (24/7 emergency line)\n\nGift of the Givers (Disaster Relief NGO): 0800 786 911 (toll-free disaster line)"
+        "category": "South Africa National Emergency Line: *112*\n\nAmbulance and Fire Department: *10177*\n\nNational Disaster Management Centre (NDMC): *012 848 4608* (24/7 emergency line)\n\nGift of the Givers (Disaster Relief NGO): *0800 786 911* (toll-free disaster line)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1079,7 +1079,7 @@
         "node_identifier": "Regex:.*{drugs referrals}.*",
         "change": "{drugs referrals}",
         "condition_var": "",
-        "category": "SANCA (National): 011 892 3829 or WhatsApp call 076 535 1701 / www.sancanational.info\n\nNational Department of Social Development (DSD) 24 hour Substance Abuse Helpline: 0800 121 314 or send an SMS to 32312\n\nNational Substance Abuse WhatsApp Chat Line: 087 163 2025 (8am-5pm)\n\nAl-Anon (national 24-hour helpline for families affected by alcohol): 086 125 2666\n\nNar-Anon (SA Helpline for families affected by drugs): 088 129 6791\n\nAlcoholics Anonymous SA (for persons struggling with alcohol dependence/abuse): 0861 435 722\n\nNarcotics Anonymous SA (for persons struggling with drug dependence/abuse): 0861 006 962\n\nSee also: https://www.westerncape.gov.za/directories/facilities/736"
+        "category": "SANCA (National): *011 892 3829* or WhatsApp call *076 535 1701* / www.sancanational.info\n\nNational Department of Social Development (DSD) 24 hour Substance Abuse Helpline: *0800 121 314* or send an SMS to *32312*\n\nNational Substance Abuse WhatsApp Chat Line: *087 163 2025* (8am-5pm)\n\nAl-Anon (national 24-hour helpline for families affected by alcohol): *086 125 2666*\n\nNar-Anon (SA Helpline for families affected by drugs): *088 129 6791*\n\nAlcoholics Anonymous SA (for persons struggling with alcohol dependence/abuse): *0861 435 722*\n\nNarcotics Anonymous SA (for persons struggling with drug dependence/abuse): *0861 006 962*\n\n"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1088,7 +1088,7 @@
         "node_identifier": "Regex:.*{family referrals}.*",
         "change": "{family referrals}",
         "condition_var": "",
-        "category": "Childline National: 116 / www.childlinesa.org.za\n\nWestern Cape Department of Social Development Hotline (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: 067 082 1567 / www.famsawc.org.za/our-offices\n\nCaring for the aged: Your local DSD office can assist with this as well! (Call 0800 220 250, weekdays 8am-4pm)."
+        "category": "Childline National: *116* / www.childlinesa.org.za\n\nWestern Cape Department of Social Development Hotline (weekdays 8am-4pm): *0800 220 250*\n\nACVV: www.acvv.org.za\n\nChild Welfare: *087 822 1516* / *021 638 3127* (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: *067 082 1567* / www.famsawc.org.za/our-offices\n\nCaring for the aged: Your local DSD office can assist with this as well! (Call *0800 220 250*, weekdays 8am-4pm)."
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1097,7 +1097,7 @@
         "node_identifier": "Regex:.*{legal_help referrals}.*",
         "change": "{legal_help referrals}",
         "condition_var": "",
-        "category": "Black Sash Helpline (National): Call/WhatsApp 072 663 3739 or 063 610 1865 \n\nLegal Aid South Africa: 0800 110 110 or send a please call me to: 079 835 7179\n\nSASSA (National): Call 0800 601 011 or www.sassa.gov.za Click the 'social grants' tab to see what support you qualify for! \n\nUCT Law Clinic: WhatsApp 068 350 5920\n\nUCT Refugee Rights Clinic: WhatsApp 072 499 8146 (for status) or \n078 594 5591 (for rights)"
+        "category": "Black Sash Helpline (National): Call/WhatsApp *072 663 3739* or *063 610 1865* \n\nLegal Aid South Africa: *0800 110 110* or send a please call me to: *079 835 7179*\n\nSASSA (National): Call *0800 601 011* or www.sassa.gov.za Click the 'social grants' tab to see what support you qualify for! \n\nUCT Law Clinic: WhatsApp *068 350 5920*\n\nUCT Refugee Rights Clinic: WhatsApp *072 499 8146* (for status) or \n*078 594 5591* (for rights)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1106,7 +1106,7 @@
         "node_identifier": "Regex:.*{lgbtqia referrals}.*",
         "change": "{lgbtqia referrals}",
         "condition_var": "",
-        "category": "SADAG Helpline (National): 0800 567 567 / Online support groups: www.sadag.org \n\nCipla (National): Call 0800 546 789 or SMS 31393\n\nBe True 2 Me (National): WhatsApp 081 455 1183 for inquiries or 076 315 9586 to join a support group\n\nTriangle Project Helpline (1pm-9pm): 021 712 6699 (not toll free, but you can ask them to call you back anywhere in SA)\n\nNational Gender Based Violence (GBV) 24/7 Helpline: 0800 428 428 or send a please call me to *120*7867#"
+        "category": "SADAG Helpline (National): *0800 567 567* / Online support groups: www.sadag.org \n\nCipla (National): Call *0800 546 789* or SMS *31393*\n\nBe True 2 Me (National): WhatsApp *081 455 1183* for inquiries or *076 315 9586* to join a support group\n\nTriangle Project Helpline (1pm-9pm): *021 712 6699* (not toll free, but you can ask them to call you back anywhere in SA)\n\nNational Gender Based Violence (GBV) 24/7 Helpline: *0800 428 428* or send a please call me to *120*7867#"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1115,7 +1115,7 @@
         "node_identifier": "Regex:.*{school referrals}.*",
         "change": "{school referrals}",
         "condition_var": "",
-        "category": "SA School Helpline (National): 0800 202 933 \n\nSafe Schools (Western Cape): 0800 456 647 \n\nWestern Cape Schools: 0861 819 919 "
+        "category": "SA School Helpline (National): *0800 202 933*\n\nSafe Schools (Western Cape): *0800 456 647* \n\nWestern Cape Schools: *0861 819 919* "
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1124,7 +1124,7 @@
         "node_identifier": "Regex:.*{disability resources}.*",
         "change": "{disability resources}",
         "condition_var": "",
-        "category": "SASSA: 0800 601 011 (national support/information on grants)\n\nReport abuse of persons with disabilities: SMS ‘help’ to 31531\n\nContact your local DSD office or go to: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nFor all disabilities (Western Cape): WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA Helpline: 060 967 0258\n\nDeafSA Western Cape (for deaf/hard of hearing children): WhatsApp 072 477 1852 (messages only, no calls/voicenotes)"
+        "category": "SASSA: *0800 601 011* (national support/information on grants)\n\nReport abuse of persons with disabilities: SMS ‘help’ to *31531*\n\nContact your local DSD office or go to: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nFor all disabilities (Western Cape): WhatsApp *081 517 8757* / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA Helpline: *060 967 0258*\n\nDeafSA Western Cape (for deaf/hard of hearing children): WhatsApp *072 477 1852* (messages only, no calls/voicenotes)"
       }
     ],
     "referrals_transl_xho": [
@@ -1135,7 +1135,7 @@
         "node_identifier": "Regex:.*{generic referrals}.*",
         "original": "{generic referrals}",
         "language": "hau",
-        "replacement": "Amapolisa (SAPS): 10111\n\nUmnxeba kaxakeka: 112\n\nInqwelo yezigulana: 10177\n\nIsebe lomlilo: 10177\n\nCrime Stop: 0860 010 111"
+        "replacement": "Amapolisa (SAPS): *10111*\n\nUmnxeba kaxakeka: *112*\n\nInqwelo yezigulana: *10177*\n\nIsebe lomlilo: *10177*\n\nCrime Stop: *0860 010 111*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1144,7 +1144,7 @@
         "node_identifier": "Regex:.*{mental_health referrals}.*",
         "original": "{mental_health referrals}",
         "language": "hau",
-        "replacement": "SADAG (zonke iindidi zenkxaso zempilo yengqondo):\n0800 567 567 / www.sadag.org\n\nUmnxeba weNgxaki yokuZibulala: 0800 567 567\n\nUkudakumba kunye noMnxeba woNcedo lweMpilo yengqondo: Call 0800 567 567 rhoqo phakathi ko 8am no 8pm\n\nLifeline (Ulwaluleko lwengqondo): \n0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline: 116"
+        "replacement": "SADAG (zonke iindidi zenkxaso zempilo yengqondo):\n*0800 567 567* / www.sadag.org\n\nUmnxeba weNgxaki yokuZibulala: *0800 567 567*\n\nUkudakumba kunye noMnxeba woNcedo lweMpilo yengqondo: Call *0800 567 567* rhoqo phakathi ko 8am no 8pm\n\nLifeline (Ulwaluleko lwengqondo): *0861 322 322* or WhatsApp call: *065 989 9238*\n\nChildline: *116*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1153,7 +1153,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "original": "{health referrals}",
         "language": "hau",
-        "replacement": "Ugawulayo: 0800 012 322\n\nIsifo somhlaza: 0800 226 622\n\nUcwangciso losapho, ukukhupha isusu kunye nempilo yezesondo:\n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nImpilo yezesondo yamadoda (kuquka ulwaluko): Buza kumongikazi kwikliniki ekufutshane nawe"
+        "replacement": "Ugawulayo: *0800 012 322*\n\nIsifo somhlaza: *0800 226 622*\n\nUcwangciso losapho, ukukhupha isusu kunye nempilo yezesondo:\n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nImpilo yezesondo yamadoda (kuquka ulwaluko): Buza kumongikazi kwikliniki ekufutshane nawe"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1162,7 +1162,7 @@
         "node_identifier": "Regex:.*{violence referrals}.*",
         "original": "{violence referrals}",
         "language": "hau",
-        "replacement": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 okanye thumela u- please call me ku *120*7867#\n\nNqanda ukuxhatshazwa ngokwesini (Lifeline):  0800 150 150\n\nNational Shelter Movement (Ikhusi elikhuselekileyo lamanina nabantwana): Fowna ku  0800 001 005 okanye uthumele i- SMS, u-WhatsApp okanye u- Please Call Me to 082 057 8600 / 082 058 2215 / 072 230 7147\n\nThuthuzela Clinic (GBV/ukudlwengulwa/ukuxhatshazwa ngokwezesondo): fumana ekufuphi kuwe ku https://www.gov.za/TCC\n \nSafeline (umnxeba woncedo wabasindileyo abangamadoda): 0800 035 553\n\nInkxaso yembacu (refugee): WhatsApp 063 656 5080 (abantwana) or 078 594 5591 (amalungelo embhacu)"
+        "replacement": "Crime Stop: *0860 010 111*\n\nChildline: *116*\n\nGender Based Violence (GBV) 24/7: *0800 428 428* okanye thumela u- please call me ku *120*7867#\n\nNqanda ukuxhatshazwa ngokwesini (Lifeline):  *0800 150 150*\n\nNational Shelter Movement (Ikhusi elikhuselekileyo lamanina nabantwana): Fowna ku  *0800 001 005* okanye uthumele i- SMS, u-WhatsApp okanye u- Please Call Me to *082 057 8600* / *082 058 2215* / *072 230 7147*\n\nThuthuzela Clinic (GBV/ukudlwengulwa/ukuxhatshazwa ngokwezesondo): fumana ekufuphi kuwe ku https://www.gov.za/TCC\n \nSafeline (umnxeba woncedo wabasindileyo abangamadoda): *0800 035 553*\n\nInkxaso yembacu (refugee): WhatsApp *063 656 5080* (abantwana) or *078 594 5591* (amalungelo embhacu)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1171,7 +1171,7 @@
         "node_identifier": "Regex:.*{natural_disasters referrals}.*",
         "original": "{natural_disasters referrals}",
         "language": "hau",
-        "replacement": "Unxeba kaxakeka: 112\n\nInqwelo yezigulana kunye neSebe lomlilo: 10177\n\nNational Disaster Management Centre (NDMC): 012 848 4608 (24/7 umnxeba kaxakeka)\n\nGift of the Givers (i-NGO yoncedo lwentlekele): 0800 786 911 \n(umnxeba wentlekele wasimahla)"
+        "replacement": "Unxeba kaxakeka: *112*\n\nInqwelo yezigulana kunye neSebe lomlilo: *10177*\n\nNational Disaster Management Centre (NDMC): *012 848 4608* (24/7 umnxeba kaxakeka)\n\nGift of the Givers (i-NGO yoncedo lwentlekele): *0800 786 911* \n(umnxeba wentlekele wasimahla)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1180,7 +1180,7 @@
         "node_identifier": "Regex:.*{drugs referrals}.*",
         "original": "{drugs referrals}",
         "language": "hau",
-        "replacement": "SANCA: 011 892 3829 okanye fowuna ngo WhatsApp  076 535 1701 / www.sancanational.info\n\nIsebe Lezophuhliso Loluntu (DSD) 24/7: 0800 121 314 okanye thumela i- SMS ku 32312\n\nWhatsApp Umnxeba wokuncokola: 087 163 2025 (8am-5pm)\n\nAl-Anon (yeyentsapho ezichatshazelwayo butywala): 086 125 2666\n\nNar-Anon (yeyentsapho ezichatshazelwayo ziziyobisi): 088 129 6791\n\nJonga kwakho: https://www.westerncape.gov.za/directories/facilities/736"
+        "replacement": "SANCA: *011 892 3829* okanye fowuna ngo WhatsApp  *076 535 1701* / www.sancanational.info\n\nIsebe Lezophuhliso Loluntu (DSD) 24/7: *0800 121 314* okanye thumela i- SMS ku *32312*\n\nWhatsApp Umnxeba wokuncokola: *087 163 2025* (8am-5pm)\n\nAl-Anon (yeyentsapho ezichatshazelwayo butywala): *086 125 2666*\n\nNar-Anon (yeyentsapho ezichatshazelwayo ziziyobisi): *088 129 6791*\n"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1189,7 +1189,7 @@
         "node_identifier": "Regex:.*{family referrals}.*",
         "original": "{family referrals}",
         "language": "hau",
-        "replacement": "Isebe Lezophuhliso Loluntu umnxeba oshushu (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: 067 082 1567 / www.famsawc.org.za/our-offices\n\nChildline: 116 / www.childlinesa.org.za\n\nUkukhathalela abantu abadala:  I-ofisi ye DSD ekufitshane nawe nayo ingakunceda ngoku! (Call 0800 220 250, phakathi evekini 8am-4pm)"
+        "replacement": "Isebe Lezophuhliso Loluntu umnxeba oshushu (weekdays 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: *087 822 1516* / *021 638 3127* (Cape Town)\n\nBadisa: www.badisa.org.za\n\nFAMSA Western Cape: *067 082 1567* / www.famsawc.org.za/our-offices\n\nChildline: *116* / www.childlinesa.org.za\n\nUkukhathalela abantu abadala:  I-ofisi ye DSD ekufitshane nawe nayo ingakunceda ngoku! (Fowunela *0800 220 250*, phakathi evekini 8am-4pm)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1198,7 +1198,7 @@
         "node_identifier": "Regex:.*{legal_help referrals}.*",
         "original": "{legal_help referrals}",
         "language": "hau",
-        "replacement": "Black Sash umnxeba woncedo: Fowuna/WhatsApp 072 663 3739 or 063 610 1865 \n\nLegal Aid: 0800 110 110 okanye thumela  u- please call me ku: 079 835 7179 \n\nUCT law clinic: WhatsApp 068 350 5920\n\nSASSA: www.sassa.gov.za Cofa ithebhu ethi 'izibonelelo zentlalontle' ukuze ubone ukuba yeyiphi inkxaso onokuyifumana!\n\nRefugee law clinic: WhatsApp 072 499 8146 (ubume) or \n078 594 5591 (amalungelo)"
+        "replacement": "Black Sash umnxeba woncedo: Fowuna/WhatsApp *072 663 3739* or *063 610 1865*\n\nLegal Aid: *0800 110 110* okanye thumela  u- please call me ku: *079 835 7179*\n\nUCT law clinic: WhatsApp *068 350 5920*\n\nSASSA: www.sassa.gov.za Cofa ithebhu ethi 'izibonelelo zentlalontle' ukuze ubone ukuba yeyiphi inkxaso onokuyifumana!\n\nRefugee law clinic: WhatsApp *072 499 8146* (ubume) or \n*078 594 5591* (amalungelo)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1207,7 +1207,7 @@
         "node_identifier": "Regex:.*{lgbtqia referrals}.*",
         "original": "{lgbtqia referrals}",
         "language": "hau",
-        "replacement": "SADAG Umnxeba woncedo: 0800 567 567 / Amaqela enkxaso akwi-Intanethi: www.sadag.org\n\nCipla: Fowunela u 0800 546 789 okanye thumela i- SMS ku 31393\n\nGender Based Violence (GBV) 24/7: 0800 428 428 okanye thumela  u- please call me ku *120*7867#\n\nBe True 2 Me: WhatsApp 081 455 1183 ukuba unemibuzo okanye 076 315 9586 ukujoyina iqela lenkxaso\n\nTriangle Project umnxeba woncedo (1 pm-9 pm):  021 712 6699 (Ayikho simahla kodwa ungabacela ukuba bakufownele ngokwabo)"
+        "replacement": "SADAG Umnxeba woncedo: *0800 567 567* / Amaqela enkxaso akwi-Intanethi: www.sadag.org\n\nCipla: Fowunela u *0800 546 789* okanye thumela i- SMS ku *31393*\n\nGender Based Violence (GBV) 24/7: *0800 428 428* okanye thumela  u- please call me ku *120*7867#\n\nBe True 2 Me: WhatsApp *081 455 1183* ukuba unemibuzo okanye *076 315 9586* ukujoyina iqela lenkxaso\n\nTriangle Project umnxeba woncedo (1 pm-9 pm):  *021 712 6699* (Ayikho simahla kodwa ungabacela ukuba bakufownele ngokwabo)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1216,7 +1216,7 @@
         "node_identifier": "Regex:.*{school referrals}.*",
         "original": "{school referrals}",
         "language": "hau",
-        "replacement": "Umnxeba woncedo wezikolo zaseMzantsi Afrika: 0800 202 933\n\nSafe Schools: 0800 456 647\n\nIzikolo zaseNtshona Koloni: 0861 819 919 "
+        "replacement": "Umnxeba woncedo wezikolo zaseMzantsi Afrika: *0800 202 933*\n\nSafe Schools: *0800 456 647*\n\nIzikolo zaseNtshona Koloni: *0861 819 919*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1225,7 +1225,7 @@
         "node_identifier": "Regex:.*{disability resources}.*",
         "original": "{disability resources}",
         "language": "hau",
-        "replacement": "SASSA: 0800 601 011 (Inkxaso kazwe lonke/ulwazi ngezibonelelo)\n\nXela ukuxhatshazwa kwabaphila nenkubazeko: SMS ‘help’ to 31531\n\nQhagamshelana ne ofisi ye DSD ekufutshane nawe okanye uye ku: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nZonke ezenkubazeko (eNtshona Koloni): WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nDeafSA Ntshona Koloni (yeyabantwana abangeva kakuhle): WhatsApp 072 477 1852 (imiyalezo yodwa, hayi iminxeba/ i-voicenotes)\n\nBlindSA umnxeba woncedo: 060 967 0258"
+        "replacement": "SASSA: *0800 601 011* (Inkxaso kazwe lonke/ulwazi ngezibonelelo)\n\nXela ukuxhatshazwa kwabaphila nenkubazeko: SMS ‘help’ to *31531*\n\nQhagamshelana ne ofisi ye DSD ekufutshane nawe okanye uye ku: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nZonke ezenkubazeko (eNtshona Koloni): WhatsApp *081 517 8757* / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nDeafSA Ntshona Koloni (yeyabantwana abangeva kakuhle): WhatsApp *072 477 1852* (*imiyalezo yodwa*, hayi iminxeba/ i-voicenotes)\n\nBlindSA umnxeba woncedo: *060 967 0258*"
       }
     ],
     "referrals_transl_afr": [
@@ -1236,7 +1236,7 @@
         "node_identifier": "Regex:.*{generic referrals}.*",
         "original": "{generic referrals}",
         "language": "afr",
-        "replacement": "Polisie (SAPS): 10111\n\nNoodlyn: 112\n\nAmbulans: 10177\n\nBrandweer: 10177\n\nCrime Stop: 0860 010 111"
+        "replacement": "Polisie (SAPS): *10111*\n\nNoodlyn: *112*\n\nAmbulans: *10177*\n\nBrandweer: *10177*\n\nCrime Stop: *0860 010 111*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1245,7 +1245,7 @@
         "node_identifier": "Regex:.*{mental_health referrals}.*",
         "original": "{mental_health referrals}",
         "language": "afr",
-        "replacement": "SADAG (alle tipe geestesgesondheidsondersteuning):\n0800 567 567 / www.sadag.org\n\nSelfmoordkrisislyn: 0800 567 567\n\nLifeline (Berading): \n0861 322 322 or WhatsApp call: 065 989 9238\n\nChildline: 116"
+        "replacement": "SADAG (alle tipe geestesgesondheidsondersteuning):\n*0800 567 567* / www.sadag.org\n\nSelfmoordkrisislyn: *0800 567 567*\n\nLifeline (Berading): \n*0861 322 322* or WhatsApp call: *065 989 9238*\n\nChildline: *116*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1254,7 +1254,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "original": "{health referrals}",
         "language": "afr",
-        "replacement": "VIGS: 0800 012 322\n\nKanker: 0800 226 622\n\nFamiliebeplanning, aborsie en seksuele gesondheid: \n0800 117 785 (Marie Stopes SA) / 086 132 2322 (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMans se seksuele gesondheid (insluitend besnyding): Vra 'n suster by jou plaaslike kliniek"
+        "replacement": "VIGS: *0800 012 322*\n\nKanker: *0800 226 622*\n\nFamiliebeplanning, aborsie en seksuele gesondheid: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMans se seksuele gesondheid (insluitend besnyding): Vra 'n suster by jou plaaslike kliniek"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1263,7 +1263,7 @@
         "node_identifier": "Regex:.*{violence referrals}.*",
         "original": "{violence referrals}",
         "language": "afr",
-        "replacement": "Crime Stop: 0860 010 111\n\nChildline: 116\n\nGender Based Violence (GBV) 24/7: 0800 428 428 of stuur 'n 'please call me' na *120*7867#\n\nStop Gender Violence Hulplyn (LifeLine): 0800 150 150\n\nNational Shelter Movement (Veilige skuilings vir mishandelde vroue en kinders): 0800 001 005 of stuur 'n SMS, WhatsApp of 'please call me' na 082 057 8600 / 082 058 2215 / 072 230 7147\n\nThuthuzela Clinic (GBV/verkragting/seksuele mishandeling): vind jou naaste een by https://www.gov.za/TCC\n \nSafeline (manlike oorblywende hulplyn): 0800 035 553\n\nVlugtelingondersteuning: WhatsApp 063 656 5080 (vir kinders) or 078 594 5591 (vir vlugtelingregte)"
+        "replacement": "Crime Stop: *0860 010 111*\n\nChildline: *116*\n\nGender Based Violence (GBV) 24/7: *0800 428 428* of stuur 'n 'please call me' na *120*7867#\n\nStop Gender Violence Hulplyn (LifeLine): *0800 150 150*\n\nNational Shelter Movement (Veilige skuilings vir mishandelde vroue en kinders): *0800 001 005* of stuur 'n SMS, WhatsApp of 'please call me' na *082 057 8600* / *082 058 2215* / *072 230 7147*\n\nThuthuzela Clinic (GBV/verkragting/seksuele mishandeling): vind jou naaste een by https://www.gov.za/TCC\n \nSafeline (manlike oorblywende hulplyn): *0800 035 553*\n\nVlugtelingondersteuning: WhatsApp *063 656 5080* (vir kinders) or *078 594 5591* (vir vlugtelingregte)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1272,7 +1272,7 @@
         "node_identifier": "Regex:.*{natural_disasters referrals}.*",
         "original": "{natural_disasters referrals}",
         "language": "afr",
-        "replacement": "Suid-Afrikaanse Nationale Noodlyn: 112\n\nAmbulans en Brandweer: 10177"
+        "replacement": "Suid-Afrikaanse Nationale Noodlyn: *112* \n\nAmbulans en Brandweer: *10177*"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1281,7 +1281,7 @@
         "node_identifier": "Regex:.*{drugs referrals}.*",
         "original": "{drugs referrals}",
         "language": "afr",
-        "replacement": "SANCA (Nasionaal): 011 892 3829 of WhatsApp oproep 076 535 1701 / www.sancanational.info\n\nNasionale Departement van Maatskaplike Ontwikkeling (DSD) 24 uur Hulplyn vir Middelmisbruik:  0800 121 314 of stuur 'n SMS na 32312\n\nNasionale Middelmisbruik WhatsApp Kletslyn: 087 163 2025 (8am-5pm)\n\nAl-Anon (vir families wat geraak word deur alkohol): 086 125 2666\n\nNar-Anon (vir families wat geraak word deur dwelms): 088 129 6791\n\nAlcoholics Anonymous SA (vir persone wat sukkel met alkoholafhanklikheid/misbruik): 0861 435 722\n\nNarcotics Anonymous SA (vir persone wat sukkel met dwelmafhanklikheid/misbruik): 0861 006 962\n\nVerwys ook na: https://www.westerncape.gov.za/directories/facilities/736"
+        "replacement": "SANCA (Nasionaal): *011 892 3829* of WhatsApp oproep *076 535 1701* / www.sancanational.info\n\nNasionale Departement van Maatskaplike Ontwikkeling (DSD) 24 uur Hulplyn vir Middelmisbruik: *0800 121 314* of stuur 'n SMS na *32312*\n\nNasionale Middelmisbruik WhatsApp Kletslyn: *087 163 2025* (8am-5pm)\n\nAl-Anon (vir families wat geraak word deur alkohol): *086 125 2666*\n\nNar-Anon (vir families wat geraak word deur dwelms): *088 129 6791*\n\nAlcoholics Anonymous SA (vir persone wat sukkel met alkoholafhanklikheid/misbruik): *0861 435 722*\n\nNarcotics Anonymous SA (vir persone wat sukkel met dwelmafhanklikheid/misbruik): *0861 006 962*\n"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1290,7 +1290,7 @@
         "node_identifier": "Regex:.*{family referrals}.*",
         "original": "{family referrals}",
         "language": "afr",
-        "replacement": "Childline Nasionaal: 116 / www.childlinesa.org.za\n\nWes-Kaapse Departement van Maatskaplike Ontwikkeling blitslyn (weeksdae 8am-4pm): 0800 220 250\n\nACVV: www.acvv.org.za\n\nChild Welfare: 087 822 1516 / 021 638 3127 (Kaapstad)\n\nBadisa: www.badisa.org.za\n\nFAMSA Wes-Kaap: 067 082 1567 / www.famsawc.org.za/our-offices\n\nSorg vir bejaardes: Jou plaaslike Departement van Maatskaplike Ontwikkeling kantoor kan ook hiermee help! (Bel 0800 220 250, weeksdae 8am-4pm)"
+        "replacement": "Childline Nasionaal: *116* / www.childlinesa.org.za\n\nWes-Kaapse Departement van Maatskaplike Ontwikkeling blitslyn (weeksdae 8am-4pm): *0800 220 250*\n\nACVV: www.acvv.org.za\n\nChild Welfare: *087 822 1516* / *021 638 3127* (Kaapstad)\n\nBadisa: www.badisa.org.za\n\nFAMSA Wes-Kaap: *067 082 1567* / www.famsawc.org.za/our-offices\n\nSorg vir bejaardes: Jou plaaslike Departement van Maatskaplike Ontwikkeling kantoor kan ook hiermee help! (Bel *0800 220 250*, weeksdae 8am-4pm)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1299,7 +1299,7 @@
         "node_identifier": "Regex:.*{legal_help referrals}.*",
         "original": "{legal_help referrals}",
         "language": "afr",
-        "replacement": "Black Sash Hulplyn (Nasionaal): Bel/WhatsApp 072 663 3739 of 063 610 1865 \n\nLegal Aid Suid-Afrika: 0800 110 110 of stuur 'n 'please call me' na: 079 835 7179 \n\nSASSA (Nasionaal): www.sassa.gov.za Klik op die 'maatskaplike toelaes' strokie om te sien vir watter ondersteuning jy kwalifiseer!\n\nUCT Law Clinic: WhatsApp 068 350 5920\n\nUCT Refugee Rights Clinic: WhatsApp 072 499 8146 (vir status) of \n078 594 5591 (vir regte)"
+        "replacement": "Black Sash Hulplyn (Nasionaal): Bel/WhatsApp *072 663 3739* of *063 610 1865* \n\nLegal Aid Suid-Afrika: *0800 110 110* of stuur 'n 'please call me' na: *079 835 7179* \n\nSASSA (Nasionaal): www.sassa.gov.za Klik op die 'maatskaplike toelaes' strokie om te sien vir watter ondersteuning jy kwalifiseer!\n\nUCT Law Clinic: WhatsApp *068 350 5920*\n\nUCT Refugee Rights Clinic: WhatsApp *072 499 8146* (vir status) of \n*078 594 5591* (vir regte)"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1308,7 +1308,7 @@
         "node_identifier": "Regex:.*{lgbtqia referrals}.*",
         "original": "{lgbtqia referrals}",
         "language": "afr",
-        "replacement": "SADAG Hulplyn (Nasionaal): 0800 567 567 / Aanlyn ondersteuningsgroepe: www.sadag.org \n\nCipla (Nasionaal): Bel 0800 546 789 of SMS 31393\n\nBe True 2 Me (Nasionaal): WhatsApp 081 455 1183 vir navrae of 076 315 9586 om by 'n ondersteuningsgroep aan te sluit\n\nTriangle Project Hulplyn (1pm-9pm): 021 712 6699 (nie tolvry nie, maar jy kan hulle vra om jou enige plek in SA terug te bel)\n\nNasionale Gender Based Violence (GBV) 24/7 Hulplyn: 0800 428 428 of stuur 'n 'please call me' na *120*7867#\n\n"
+        "replacement": "SADAG Hulplyn (Nasionaal): *0800 567 567* / Aanlyn ondersteuningsgroepe: www.sadag.org \n\nCipla (Nasionaal): Bel *0800 546 7898* of SMS *31393*\n\nBe True 2 Me (Nasionaal): WhatsApp *081 455 1183* vir navrae of *076 315 9586* om by 'n ondersteuningsgroep aan te sluit\n\nTriangle Project Hulplyn (1pm-9pm): *021 712 6699* (nie tolvry nie, maar jy kan hulle vra om jou enige plek in SA terug te bel)\n\nNasionale Gender Based Violence (GBV) 24/7 Hulplyn: *0800 428 428* of stuur 'n 'please call me' na *120*7867#\n\n"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1317,7 +1317,7 @@
         "node_identifier": "Regex:.*{school referrals}.*",
         "original": "{school referrals}",
         "language": "afr",
-        "replacement": "SA Skool Hulplyn (Nasionaal): 0800 202 933\n\nSafe Schools (Wes-Kaap): 0800 456 647\n\nWes-Kaapse skole: 0861 819 919 "
+        "replacement": "SA Skool Hulplyn (Nasionaal): *0800 202 933*\n\nSafe Schools (Wes-Kaap): *0800 456 647*\n\nWes-Kaapse skole: *0861 819 919* "
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1326,7 +1326,7 @@
         "node_identifier": "Regex:.*{disability resources}.*",
         "original": "{disability resources}",
         "language": "afr",
-        "replacement": "SASSA: 0800 601 011 (nationale ondersteuning/inligting oor toelaes)\n\nRapporteer mishandeling van persone met gestremdhede: SMS ‘help’ to 31531\n\nKontak jou plaaslike Departement van Maatskaplike Ontwikkeling kantaar of gaan na: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nVir alle gestremdhede: WhatsApp 081 517 8757 / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA hulplyn: 060 967 0258\n\nDeafSA Wes-Kaap (vir dowe/hardhorende kinders): WhatsApp 072 477 1852 (slegs boodskappe, geen oproepe/'voicenotes' nie)"
+        "replacement": "SASSA: *0800 601 011* (nationale ondersteuning/inligting oor toelaes)\n\nRapporteer mishandeling van persone met gestremdhede: SMS ‘help’ to *31531*\n\nKontak jou plaaslike Departement van Maatskaplike Ontwikkeling kantaar of gaan na: https://www.westerncape.gov.za/service/persons-disabilities-programme\n\nVir alle gestremdhede: WhatsApp *081 517 8757* / https://wcapd.org.za/contact-us/ \n\nAutism SA: www.aut2know.co.za\n\nBlindSA hulplyn: *060 967 0258*\n\nDeafSA Wes-Kaap (vir dowe/hardhorende kinders): WhatsApp *072 477 1852* (slegs boodskappe, geen oproepe/'voicenotes' nie)"
       }
     ],
     "triggers_eng": [
