@@ -2481,11 +2481,6 @@
         "variable": "@fields.completed_orientation"
       },
       {
-        "ID": "attribution",
-        "flow": "attribution",
-        "variable": "@fields.completed_media"
-      },
-      {
         "ID": "media",
         "flow": "onboarding_question_with_opt - media",
         "variable": "@fields.completed_media"
@@ -5053,6 +5048,31 @@
         "include_if": "",
         "save_name": "",
         "message_text": "in safety offer",
+        "template_arguments": "",
+        "data_sheet": "",
+        "data_row_id": "",
+        "choices": "",
+        "image": "",
+        "audio": "",
+        "video": "",
+        "obj_name": "",
+        "obj_id": "",
+        "node_name": "",
+        "_nodeId": "",
+        "no_response": ""
+      },
+      {
+        "row_id": "",
+        "type": "remove_from_group",
+        "from": "",
+        "loop_variable": "",
+        "condition": "",
+        "condition_var": "",
+        "condition_type": "",
+        "condition_name": "",
+        "include_if": "",
+        "save_name": "",
+        "message_text": "removed from 3month NOT notified",
         "template_arguments": "",
         "data_sheet": "",
         "data_row_id": "",

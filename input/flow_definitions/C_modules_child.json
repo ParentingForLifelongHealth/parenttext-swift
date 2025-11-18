@@ -496,7 +496,7 @@
         "quiz.content.3.answer": "",
         "quiz.content.3.feedback_correct": "",
         "quiz.content.3.feedback_incorrect": "",
-        "comic.intro": "{F1_SON_5} and his mother are playing dress up during one-on-one time. Let’s see how they have fun together:",
+        "comic.intro": "{F1_SON_5} and his mother are playing dress up during one-on-one time. Let’s see how they have fun together:\n\n_Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence._",
         "comic.next_button": "",
         "comic.text.1": "**{F1_MOTHER}**: “I have 5 minutes of one-on-one time to spend with you, {F1_SON_5}. What would you like to do?”\n\n**{F1_SON_5}**: “I want to play dress up!”",
         "comic.text.2": "**{F1_MOTHER}**: \"Wonderful idea, {F1_SON_5}! I see you are taking out the yellow scarf with blue stripes on it.”",
