@@ -450,8 +450,8 @@
     "note": ""
   },
   {
-    "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations!",
-    "text": "🎉Jy het dit gedoen! 🎉Jy het die kursus @results.name voltooi. Hier is jou kursussertifikaat. Baie geluk!",
+    "SourceText": "Here's your certificate for the course @results.name. 🎉Congratulations!🎉",
+    "text": "Hier is jou sertifikaat vir die kursus @results.name. 🎉Baie geluk!🎉",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
@@ -1470,10 +1470,106 @@
     "note": ""
   },
   {
-    "SourceText": "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence.",
-    "text": "Illustrasies in ParentText help om ouerskapsvaardighede te verduidelik. Dit is oorspronklike werke deur Orli Setton, geskep vir Parenting for Lifelong Health en die Global Parenting Initiative, en gedeel onder 'n CC BY-SA 4.0 Internasionale lisensie.",
+    "SourceText": "Sorry, but you can only reprint your certificate for the course @results.name twice.",
+    "text": "Jammer, maar jy kan jou sertifikaat vir die kursus @results.name slegs twee keer herdruk.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Here's your certificate for the course @results.name!",
+    "text": "Hier is jou sertifikaat vir die kursus @results.name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Oops something went wrong.",
+    "text": "Oeps, iets het verkeerd geloop.",
     "type": "text",
     "note": ""
+  },
+  {
+    "SourceText": "You haven't completed any course yet.",
+    "text": "Jy het nog geen kursus voltooi nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have received the following certificate:",
+    "text": "Jy het die volgende sertifikaat ontvang:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like me to print it again?",
+    "text": "Wil jy hê ek moet weer 'n afdruk van dit maak?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can come back here anytime to get it.",
+    "text": "Dis reg so. Jy kan enige tyd hierheen terugkom om dit te kry.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which certificate should I re-print for you?",
+    "text": "Watter sertifikaat moet ek vir jou herdruk?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(word_count(fields.goals_compl) +1). None, return to the main menu",
+    "text": "@(word_count(fields.goals_compl) +1). Geen, keer terug na die hoofkieslys",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "I'll make your certificate with the name @fields.certificate_name.",
+    "text": "Ek sal jou sertifikaat maak met die naam @fields.certificate_name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't tell us which name you'd like on your certificate.",
+    "text": "Jy het nie vir ons gesê watter naam jy op jou sertifikaat wil hê nie.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Is that right?",
+    "text": "Is dit reg?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
+    "text": "Dit lyk of dit nie 'n goeie tyd is nie. Tik asseblief 1 as jy wil voortgaan.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations!",
+    "text": "🎉Jy het dit gedoen!🎉 Jy het die kursus @fields.print_goal_name voltooi en vir jouself 'n sertifikaat verwerf. Baie geluk!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How should I print your name on the certificate?",
+    "text": "Hoe moet ek jou naam op die sertifikaat druk?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This name is too long. Please enter a shorter name.",
+    "text": "Hierdie naam is te lank. Voer asseblief 'n korter naam in.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?",
+    "text": "Die naam wat jy op jou sertifikaat wil hê is @fields.sq_cert_name. Is dit korrek?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
     "SourceText": "With Videos",
@@ -1704,6 +1800,12 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "Reprint my Certificates",
+    "text": "Herdruk my Sertifikate",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Retake completed lessons",
     "text": "Doen voltooide lesse weer",
     "type": "quick_replies",
@@ -1886,6 +1988,24 @@
   {
     "SourceText": "Exit",
     "text": "Gaan uit",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, return to the main menu",
+    "text": "Nee, keer terug na die hoofkieslys",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, change my name",
+    "text": "Nee, verander my naam",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, that's right",
+    "text": "Ja, dis reg",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -2214,6 +2334,12 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "reprint my certificates",
+    "text": "herdruk my sertifikate",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "retake completed lessons",
     "text": "doen voltooide lesse weer",
     "type": "arguments",
@@ -2396,6 +2522,24 @@
   {
     "SourceText": "get additional help",
     "text": "kry addisionele hulp",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, return to the main menu",
+    "text": "nee, keer terug na die hoofkieslys",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, change my name",
+    "text": "nee, verander my naam",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, that's right",
+    "text": "ja, dis reg",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }
