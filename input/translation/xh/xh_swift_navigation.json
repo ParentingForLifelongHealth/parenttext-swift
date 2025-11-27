@@ -450,8 +450,8 @@
     "note": ""
   },
   {
-    "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations!",
-    "text": "🎉Uyenzile!🎉 Usigqibile isifundo @results.name. Nasi isatifiketi sakho. Siyavuyisana nawe!",
+    "SourceText": "Here's your certificate for the course @results.name. 🎉Congratulations!🎉",
+    "text": "Nasi isatifiketi sesifundo i@results.name. 🎉Siyavuyisana nawe!🎉",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
@@ -1470,10 +1470,106 @@
     "note": ""
   },
   {
-    "SourceText": "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence.",
-    "text": "Imifanekiso ekwi ParentText inceda ekucaciseni izakhono zobuzali. Yimisebenzi yoqobo ka-Orli Setton eyenzelwe i-Parenting for Lifelong Health kunye neGlobal Parenting Initiative, kwaye kwabelwana ngayo phantsi kwe-CC BY-SA 4.0 yelayisensi yaMazwe ngaMazwe.",
+    "SourceText": "Sorry, but you can only reprint your certificate for the course @results.name twice.",
+    "text": "Uxolo, kodwa ungakwazi ukuphinda ushicilele isatifiketi sakho sesifundo i@results.name kabini.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Here's your certificate for the course @results.name!",
+    "text": "Nasi isatifiketi sakho sesifundo i@results.name!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Oops something went wrong.",
+    "text": "Oops! kukho into engahambanga kakuhle.",
     "type": "text",
     "note": ""
+  },
+  {
+    "SourceText": "You haven't completed any course yet.",
+    "text": "Awukagqibi nasiphi isifundo okwangoku.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have received the following certificate:",
+    "text": "Ufumene ezi zatifiketi zilandelayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like me to print it again?",
+    "text": "Ungathanda ukuba ndiphinde ndisishicilele?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can come back here anytime to get it.",
+    "text": "Oko kulungile. Ungaphinde ubuye apha nanini na uzoyithatha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which certificate should I re-print for you?",
+    "text": "Sesiphi isatifiketi ekufuneka ndiphinde ndikushicilele sona?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(word_count(fields.goals_compl) +1). None, return to the main menu",
+    "text": "@(word_count(fields.goals_compl) +1). Akukho nanye, buyela kwimenyu enkulu",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "I'll make your certificate with the name @fields.certificate_name.",
+    "text": "Ndizakufaka eligama @fields.certificate_name kwisatifiketi sakho.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't tell us which name you'd like on your certificate.",
+    "text": "Awusixelelanga leliphi igama ongalithanda kwisatifiketi sakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Is that right?",
+    "text": "Ingaba oko kulungile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
+    "text": "Kubonakala ngathi ayiloxesha elilungileyo eli. Nceda ucofe u-1 ukuba ungathanda ukuqhubeka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations!",
+    "text": "🎉Uyenzile!🎉 Usigqibile isifundo @fields.print_goal_name kwaye uzifumanele isatifiketi. Siyavuyisana nawe!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How should I print your name on the certificate?",
+    "text": "Ndilishicilele njani igama lakho kwisatifiketi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This name is too long. Please enter a shorter name.",
+    "text": "Eli gama lide kakhulu. Nceda ufake igama elifutshane.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The name you would like to have on your certificate is @fields.sq_cert_name. Is that correct?",
+    "text": "Igama ofuna libekwi satifiketi sakho ngu@fields.sq_cert_name. Ingaba oku kuchanekile?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
     "SourceText": "With Videos",
@@ -1704,6 +1800,12 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "Reprint my Certificates",
+    "text": "Phinda ushicilele izatifiketi zam",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Retake completed lessons",
     "text": "Thatha kwakhona izifundo ezigqityiweyo",
     "type": "quick_replies",
@@ -1886,6 +1988,24 @@
   {
     "SourceText": "Exit",
     "text": "Phuma",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, return to the main menu",
+    "text": "Hayi, buyela kwimenyu enkulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, change my name",
+    "text": "Hayi, tshintsha igama lam",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, that's right",
+    "text": "Ewe, oko kulungile",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -2214,6 +2334,12 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "reprint my certificates",
+    "text": "phinda ushicilele izatifiketi zam",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "retake completed lessons",
     "text": "thatha kwakhona izifundo ezigqityiweyo",
     "type": "arguments",
@@ -2396,6 +2522,24 @@
   {
     "SourceText": "get additional help",
     "text": "fumana uncedo olongezelweyo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, return to the main menu",
+    "text": "hayi, buyela kwimenyu enkulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no, change my name",
+    "text": "hayi, tshintsha igama lam",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes, that's right",
+    "text": "ewe, oko kulungile",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   }

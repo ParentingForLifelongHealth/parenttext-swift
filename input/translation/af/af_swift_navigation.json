@@ -1566,7 +1566,7 @@
     "note": ""
   },
   {
-    "SourceText": "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?",
+    "SourceText": "The name you would like to have on your certificate is @fields.sq_cert_name. Is that correct?",
     "text": "Die naam wat jy op jou sertifikaat wil hê is @fields.sq_cert_name. Is dit korrek?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."

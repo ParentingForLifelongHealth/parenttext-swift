@@ -854,7 +854,7 @@
         "confirmation.condition.variable": "",
         "confirmation.condition.value": "",
         "confirmation.condition.type": "",
-        "confirmation.question": "The name you would like to have on you certificate is @answer. Is that correct?",
+        "confirmation.question": "The name you would like to have on your certificate is @answer. Is that correct?",
         "confirmation.confirm_option": "Yes",
         "confirmation.back_option": "No",
         "postprocessing.flow": "",

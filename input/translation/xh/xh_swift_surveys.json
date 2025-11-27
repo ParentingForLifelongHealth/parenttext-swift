@@ -96,8 +96,8 @@
     "note": ""
   },
   {
-    "SourceText": "📱  WiFi: Check your local free WiFi hotspots here: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Tip: If you get a library card, you can access more WiFi at library hotspots! Your local mall might also have WiFi).",
-    "text": "📱 WiFi: Jonga iindawo zakho zeWiFi zasimahla apha: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Ingcebiso: Ukuba ufumana ikhadi lethala leencwadi, ungafikelela kwi-WiFi engakumbi Iindawo zethala leencwadi ezithandwayo zinokuba nazo).",
+    "SourceText": "📱  WiFi: Check your local free WiFi hotspots here: https://westerncapegov.maps.arcgis.com/apps/webappviewer/index.html?id=64ddada8149a4f8aa37469ad72d70e68 (Tip: If you get a library card, you can access more WiFi at library hotspots! Your local mall might also have WiFi).",
+    "text": "📱 WiFi: Jonga iindawo zakho zeWiFi zasimahla apha: https://westerncapegov.maps.arcgis.com/apps/webappviewer/index.html?id=64ddada8149a4f8aa37469ad72d70e68 (Ingcebiso: Ukuba ufumana ikhadi lethala leencwadi, ungafikelela kwi-WiFi engakumbi Iindawo zethala leencwadi ezithandwayo zinokuba nazo).",
     "type": "text",
     "note": ""
   },
@@ -114,8 +114,8 @@
     "note": ""
   },
   {
-    "SourceText": "Great! Let's start your first survey.",
-    "text": "Kuhle! Masiqale uphando lwakho lokuqala.\n",
+    "SourceText": "Great! Let's start your first survey. This survey has 8️⃣ sections. You've got this! 💪🏾",
+    "text": "Kuhle! Masiqale isaveyi yakho yokuqala. Le saveyi inamacandelo asi8️⃣. Unako!💪🏾",
     "type": "text",
     "note": ""
   },
@@ -240,14 +240,8 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome back!",
-    "text": "Wamkelekile kwakhona!",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry! Your invitation to participate in this survey has expired. The survey is now closed.",
-    "text": "Ixolo. Isimemo sakho sokuthatha inxaxheba kule saveyi siphelelwe. Isaveyi ivaliwe ngoku.",
+    "SourceText": "Welcome back! Let's continue with your survey.",
+    "text": "Wamkelekile kwakhona! Masiqhubekeke nesaveyi yakho.",
     "type": "text",
     "note": ""
   },
@@ -284,6 +278,24 @@
   {
     "SourceText": "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know.",
     "text": "Enkosi ngokufikelela 🤍 Ibonisa ngokwenene ukuba ubakhathalele kangakanani abantwana bakho. Okwangoku, inkqubo igcwele, kodwa sikufake kuluhlu lokulinda. Nje ukuba ivuleke indawo, sizakukwazisa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry! Your invitation to participate in this survey has expired. The survey is now closed.",
+    "text": "Ixolo. Isimemo sakho sokuthatha inxaxheba kule saveyi siphelelwe. Isaveyi ivaliwe ngoku.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry! Your invitation to take the Child Safety course has expired.",
+    "text": "Uxolo! Isimemo sakho sokukwenza isifundo Sokhuseleko Lwabantwana siphelelwe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press NEXT to continue",
+    "text": "Cofa OKULANDELAYO ukuqhubeka",
     "type": "text",
     "note": ""
   },
@@ -354,38 +366,50 @@
     "note": ""
   },
   {
-    "SourceText": "We would like to know how you found out about this programme. Did you:",
-    "text": "Singathanda ukwazi ukuba ufumanise njani ngale nkqubo.",
+    "SourceText": "🥳 Yahoo!! You can participate! ",
+    "text": "🥳 Yahoo!! Ungathatha inxaxheba!",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "See a poster on the wall of your local clinic?",
-    "text": "Ubone ipowusta eludongeni lwekliniki yengingqi yakho?",
+    "SourceText": "We have 5️⃣ questions to figure out how you found out about this programme. Did you:",
+    "text": "Sinemibuzo emi 5️⃣ ukuzama ukuva ukuba ufumanise njani ngale nkqubo. U:",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Hear about it from someone working in the clinic or a community healthcare worker?",
-    "text": "Uyive ngomntu osebenza ekliniki okanye unompilo wasekuhlaleni?",
+    "SourceText": "1. See a poster on the wall of your local clinic?",
+    "text": "1. Ubone ipowusta eludongeni lwekliniki yengingqi yakho?",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Get a paper flyer from the clinic or with your medication?",
-    "text": "Ufumene iflaya ekliniki okanye emayezeni wakho?",
+    "SourceText": "2. Hear about it from someone working in the clinic or a community healthcare worker?",
+    "text": "2. Uyive ngomntu osebenza ekliniki okanye unompilo wasekuhlaleni?",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "See something on social media (e.g. Facebook, WhatsApp)?",
-    "text": "Ubone into kumakhasi onxibelelwano (umz. Facebook, WhatsApp)?",
+    "SourceText": "3. Get a paper flyer from the clinic or with your medication?",
+    "text": "3. Ufumene iflaya ekliniki okanye emayezeni wakho?",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "Which clinic were you at when you found out about ParentText?",
-    "text": "Yeyiphi ikliniki ubukuyo ngethuba ufumanisa nge-ParentText?",
+    "SourceText": "4. See something on social media (e.g. Facebook, WhatsApp)?",
+    "text": "4. Ubone into kumakhasi onxibelelwano (umz. Facebook, WhatsApp)?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👍🏾 Last one! Which clinic were you at when you found out about ParentText?",
+    "text": "👍🏾 Eyokugqibela! Yeyiphi ikliniki ubukuyo ngethuba ufumanisa nge-ParentText?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏲️ This survey should take about 15 minutes to complete. ",
+    "text": "⏲️Le saveyi kufuneka ithathe malunga nemizuzu e- 15. ",
     "type": "text",
     "note": ""
   },
@@ -414,26 +438,14 @@
     "note": ""
   },
   {
+    "SourceText": "🟩⬜⬜⬜⬜⬜⬜⬜⬜",
+    "text": "🟩⬜⬜⬜⬜⬜⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "The first few questions are about you.",
     "text": "Eyokuqala Imibuzo embalwa imalunga nawe.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "When you finish the programme, we will send you a certificate with your name on it. What is your first name?",
-    "text": "Xa ugqiba inkqubo, sizakuthumelela isatifikethi esinegama lakho kuso. Ngubani igama lakho?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "This looks too long. Please enter a shorter name.",
-    "text": "Le ibonakala inde. Nceda ngenisa igama elifutshane.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "What is your last name?",
-    "text": "Ngubani ifani yakho?",
     "type": "text",
     "note": ""
   },
@@ -492,6 +504,12 @@
     "note": ""
   },
   {
+    "SourceText": "🟩🟩⬜⬜⬜⬜⬜⬜⬜",
+    "text": "🟩🟩⬜⬜⬜⬜⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "1️⃣ We are now going to ask you to select one of your children that you will be focusing on.",
     "text": "1️⃣ Ngoku sizakucela ukuba ukhethe omnye kubantwana bakho ozakugxila kuye.",
     "type": "text",
@@ -522,6 +540,12 @@
     "note": ""
   },
   {
+    "SourceText": "This looks too long. Please enter a shorter name.",
+    "text": "Le ibonakala inde. Nceda ngenisa igama elifutshane.",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "What gender does @fields.child_nickname identify as?",
     "text": "Sesiphi isini u@fields.child_nickname azichaza ngaso?",
     "type": "text",
@@ -534,58 +558,40 @@
     "note": ""
   },
   {
-    "SourceText": "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
-    "text": "Uxolo, lo mhla awusebenzi. Nceda unikeze umhla wokuzalwa womntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010.",
+    "SourceText": "How many years old is @fields.child_nickname?",
+    "text": "Uneminyaka emingaphi ubudala u@fields.child_nickname?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "How many years old is your child?",
+    "text": "Uneminyaka emingaphi ubudala umntwana wakho?",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
-    "text": "Umhla owufakileyo ukwixesha elizayo. Nceda unikeze umhla wokuzalwa womntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010.",
+    "SourceText": "Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-17.",
+    "text": "Masiyizame kwakhona. Uneminyaka emingaphi ubudala u@fields.child_nickname? Nceda ufake inani eliphakathi ko 2-17.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Let's try that again. How many years old is your child? Please enter a number between 2-17.",
+    "text": "Masiyizame kwakhona. Uneminyaka emingaphi ubudala umntwana wakho? Nceda ufake inani eliphakathi ko 2-17.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "@fields.child_nickname is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?",
-    "text": "@fields.child_nickname uneminyaka e- @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?",
+    "SourceText": "Oops! This programme is only for parents of children ages 2-17. Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-17.",
+    "text": "Oops! Le nkqubo yeyabazali babantwana abaneminyaka e 2-17. Masiyizame kwakhona. Uneminyaka emingaphi u@fields.child_nickname? Nceda ufake inani eliphakathi ko 2-17.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "Your child is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?",
-    "text": "Umntwana wakho uneminyaka e-  @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "What is @fields.child_nickname's date of birth?",
-    "text": "Luthini usuku lokuzalwa luka @fields.child_nickname?",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
-    "text": "Faka umhla wakhe wokuzalwa ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010.",
+    "SourceText": "Oops! This programme is only for parents of children ages 2-17. Let's try that again. How many years old is your child? Please enter a number between 2-17.",
+    "text": "Oops! Le nkqubo yeyabazali babantwana abaneminyaka e 2-17. Masiyizame kwakhona. Uneminyaka emingaphi umntwana wakho? Nceda ufake inani eliphakathi ko 2-17.",
     "type": "text",
     "note": ""
-  },
-  {
-    "SourceText": "What is your child's date of birth?",
-    "text": "Luthini usuku lokuzalwa lomntwana wakho?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
-    "text": "Ngokomhla osinike wona, u@fields.child_nickname uyakuba @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) neminyaka ubudala. I-ParentText yeyabantwana abaneminyaka eyi-2-17 kuphela. Nceda ufake umhla osemthethweni wokuzalwa komntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "According to the date you provided, your child would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
-    "text": "Ngokomhla osinike wona, umntwana wakho uyakuba @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) neminyaka ubudala. I-ParentText yeyabantwana abaneminyaka eyi-2-17 kuphela. Nceda ufake umhla osemthethweni wokuzalwa komntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
     "SourceText": "What is your relationship to @fields.child_nickname?",
@@ -636,6 +642,12 @@
     "note": ""
   },
   {
+    "SourceText": "🟩🟩🟩⬜⬜⬜⬜⬜⬜",
+    "text": "🟩🟩🟩⬜⬜⬜⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Sometimes we experience difficulties with hearing, seeing, communicating, or moving.",
     "text": "Ngamanye amaxesha sijongana nobunzima bokuva, bokubona, bokunxulumelana, okanye bokuhamba.",
     "type": "text",
@@ -666,20 +678,26 @@
     "note": ""
   },
   {
-    "SourceText": "💚Thanks! Now we would like to ask you a few questions about your relationship with @fields.child_nickname.",
-    "text": "💚Enkosi! Ngoku singathanda ukukubuza imibuzo nje embalwa malunga nobudlelwane bakho no@fields.child_nickname.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "💚Thanks! Now we would like to ask you a few questions about your relationship with your teen.",
-    "text": "💚Enkosi! Ngoku singathanda ukukubuza imibuzo nje embalwa malunga nobudlelwane bakho nomntwana wakho ofikisayo.",
+    "SourceText": "🟩🟩🟩🟩⬜⬜⬜⬜⬜",
+    "text": "🟩🟩🟩🟩⬜⬜⬜⬜⬜",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "💚Thanks! Now we would like to ask you a few questions about your relationship with your child.",
-    "text": "💚Enkosi! Ngoku singathanda ukukubuza imibuzo nje embalwa malunga nobudlelwane bakho nomntwana wakho.",
+    "SourceText": "💚Thanks! These questions are about your relationship with @fields.child_nickname.",
+    "text": "💚Enkosi! Le mibuzo imalunga nobudlelwane bakho no@fields.child_nickname.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💚Thanks! These questions are about your relationship with your teen.",
+    "text": "💚Enkosi! Le mibuzo imalunga nobudlelwane bakho nomntwana wakho ofikisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚Thanks! These questions are about your relationship with your child.",
+    "text": "💚Enkosi! Le mibuzo imalunga nobudlelwane bakho nomntwana wakho.",
     "type": "text",
     "note": ""
   },
@@ -734,6 +752,12 @@
   {
     "SourceText": "How often in the past week did your child not obey or it was difficult to make them obey?",
     "text": "Kukangaphi kwiveki ephelileyo umntwana wakho engakhange athobele okanye apho bekunzima ukumenza athobele?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩🟩⬜⬜⬜⬜",
+    "text": "🟩🟩🟩🟩🟩⬜⬜⬜⬜",
     "type": "text",
     "note": ""
   },
@@ -840,8 +864,14 @@
     "note": ""
   },
   {
-    "SourceText": "🌱 The last questions are about @fields.child_nickname, their behaviour, and their communication with you.",
-    "text": "🌱 Imibuzo yokugqibela imalunga no@fields.child_nickname, indlela aziphatha ngayo, kunye nendlela anxibelelana ngayo nawe.",
+    "SourceText": "🟩🟩🟩🟩🟩🟩⬜⬜⬜",
+    "text": "🟩🟩🟩🟩🟩🟩⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 These questions are about @fields.child_nickname, their behaviour, and their communication with you.",
+    "text": "🌱 Le mibuzo imalunga no@fields.child_nickname, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
@@ -858,8 +888,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "🌱 The last questions are about your teen, their behaviour, and their communication with you.",
-    "text": "🌱 Imibuzo yokugqibela imalunga nomntwana wakho ofikisayo, indlela aziphatha ngayo, kunye nendlela anxibelelana ngayo nawe.",
+    "SourceText": "🌱 These questions are about your teen, their behaviour, and their communication with you.",
+    "text": "🌱 Le mibuzo imalunga nomntwana wakho ofikisayo, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
     "type": "text",
     "note": ""
   },
@@ -870,8 +900,8 @@
     "note": ""
   },
   {
-    "SourceText": "🌱 The last questions are about your child, their behaviour, and their communication with you.",
-    "text": "🌱 Imibuzo yokugqibela imalunga nomntwana wakho, indlela aziphatha ngayo, kunye nendlela anxibelelana ngayo nawe.",
+    "SourceText": "🌱 These questions are about your child, their behaviour, and their communication with you.",
+    "text": "🌱 Le mibuzo imalunga nomntwana wakho, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
     "type": "text",
     "note": ""
   },
@@ -1110,6 +1140,12 @@
     "note": ""
   },
   {
+    "SourceText": "🟩🟩🟩🟩🟩🟩🟩⬜⬜",
+    "text": "🟩🟩🟩🟩🟩🟩🟩⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when @fields.child_nickname did something wrong or made you upset or angry.",
     "text": "😇Abantwana badla ngokwenza izinto ezingafanelekanga, ukungathobeli okanye benze abazali babo bacaphuke. Singathanda ukwazi ukuba wenza ntoni xa u@fields.child_nickname enze into engalunganga okanye ikwenze wanomsindo okanye wacaphuka.",
     "type": "text",
@@ -1160,24 +1196,6 @@
   {
     "SourceText": "How often in the past week did you shout or scream at your child?",
     "text": "Kukangaphi kuleveki iphelileyo ushawutisa okanye ukhala kumntwana wakho?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "How often in the past week did you try to speak calmly with @fields.child_nickname when you were upset with them?",
-    "text": "Kukangaphi kwiveki ephelileyo ukhe wazama ukuthetha ngokuzolileyo no@fields.child_nickname xa ubucaphukile nguye?",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "How often in the past week did you try to speak calmly with your teen when you were upset with them?",
-    "text": "Kukangaphi kule veki iphelileyo ukhe wazama ukuthetha ngokuzolileyo nomntwana wakho ofikisayo xa ubucaphukile nguye?",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "How often in the past week did you try to speak calmly with your child when you were upset with them?",
-    "text": "Kukangaphi kule veki iphelileyo ukhe wazama ukuthetha ngokuzolileyo nomntwana wakho xa ubucaphukile nguye?",
     "type": "text",
     "note": ""
   },
@@ -1266,18 +1284,6 @@
     "note": ""
   },
   {
-    "SourceText": "How often in the past week did you read books to or look at picture books with @fields.child_nickname?",
-    "text": "Kukangaphi kule veki iphelileyo uthe wamfundela iincwadi okanye wabuka iincwadi zemifanekiso kunye no@fields.child_nickname?",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "How often in the past week did you read books to or look at picture books with your child?",
-    "text": "Kukangaphi kule veki iphelileyo uthe wamfundela iincwadi okanye wabuka iincwadi zemifanekiso kunye nomntwana wakho?",
-    "type": "text",
-    "note": ""
-  },
-  {
     "SourceText": "How often in the past week did you name, count, or draw things with @fields.child_nickname?",
     "text": "Kukangaphi kule veki iphelileyo uthe wathiya, wabala, okanye wazoba izinto kunye no@fields.child_nickname?",
     "type": "text",
@@ -1286,6 +1292,18 @@
   {
     "SourceText": "How often in the past week did you name, count, or draw things with your child?",
     "text": "Kukangaphi kule veki iphelileyo uthe wathiya, wabala, okanye wazoba izinto kunye nomntwana wakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩🟩🟩🟩🟩⬜",
+    "text": "🟩🟩🟩🟩🟩🟩🟩🟩⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Last section!",
+    "text": "Icandelo lokugqibela!",
     "type": "text",
     "note": ""
   },
@@ -1386,6 +1404,12 @@
     "note": ""
   },
   {
+    "SourceText": "🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+    "text": "🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "🥳 You have completed the survey! Thank you very much for your participation. ",
     "text": "🥳Uyigqibile isaveyi! Enkosi kakhulu ngenxaxheba yakho. ",
     "type": "text",
@@ -1404,8 +1428,8 @@
     "note": ""
   },
   {
-    "SourceText": "🇿🇦 💛 Your valuable input will help us understand the challenges and experiences of parents in South Africa. Thank you for your time!",
-    "text": "🇿🇦 💛 Igalelo lakho elixabisekileyo liya kusinceda siyiqonde ngcono imiceli-mngeni kunye namava abazali eMzantsi Afrika. Enkosi ngexesha lakho!",
+    "SourceText": "🇿🇦 💛 Let's start ParentText!",
+    "text": "🇿🇦 💛 Masiqale i-ParentText!",
     "type": "text",
     "note": ""
   },
@@ -1416,20 +1440,8 @@
     "note": ""
   },
   {
-    "SourceText": "😔 If @fields.child_nickname has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
-    "text": "😔 Ukuba @fields.child_nickname uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye @fields.child_nickname kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
-  },
-  {
-    "SourceText": "😔 If your teen has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
-    "text": "😔 Ukuba umntwana wakho ofikisayo uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye nomntwana wakho ofikisayo kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
-    "type": "text",
-    "note": ""
-  },
-  {
-    "SourceText": "😔 If your child has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your child with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
-    "text": "😔 Ukuba umntwana wakho uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye nomntwana wakho kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
+    "SourceText": "🟩⬜⬜⬜⬜⬜⬜",
+    "text": "🟩⬜⬜⬜⬜⬜⬜",
     "type": "text",
     "note": ""
   },
@@ -1442,6 +1454,78 @@
   {
     "SourceText": "What did you mainly use to connect to ParentText?",
     "text": "Yintoni oyisebenzise kakhulu ukuqhagamshela kwiParentText?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩⬜⬜⬜⬜⬜",
+    "text": "🟩🟩⬜⬜⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩⬜⬜⬜⬜",
+    "text": "🟩🟩🟩⬜⬜⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩⬜⬜",
+    "text": "🟩🟩🟩🟩⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 The questions are about @fields.child_nickname, their behaviour, and their communication with you.",
+    "text": "🌱 Imibuzo imalunga no@fields.child_nickname, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😔 If @fields.child_nickname has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
+    "text": "😔 Ukuba @fields.child_nickname uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye @fields.child_nickname kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌱 The questions are about your teen, their behaviour, and their communication with you.",
+    "text": "🌱 Imibuzo imalunga nomntwana wakho ofikisayo, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 If your teen has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
+    "text": "😔 Ukuba umntwana wakho ofikisayo uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye nomntwana wakho ofikisayo kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 The questions are about your child, their behaviour, and their communication with you.",
+    "text": "🌱 Imibuzo imalunga nomntwana wakho, indlela aziphethe ngayo nendlela anxibelelana ngayo nawe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 If your child has been exposed to something sexual or abusive, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your child with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option.",
+    "text": "😔 Ukuba umntwana wakho uke wachaphazeleka kwinto edibene nezesondo okanye ukuxhaphazwa, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele i-Childline ku- 116. Bakhona ukuze bancede wena kunye nomntwana wakho kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩🟩⬜⬜",
+    "text": "🟩🟩🟩🟩🟩⬜⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩🟩🟩⬜",
+    "text": "🟩🟩🟩🟩🟩🟩⬜",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🟩🟩🟩🟩🟩🟩🟩",
+    "text": "🟩🟩🟩🟩🟩🟩🟩",
     "type": "text",
     "note": ""
   },
@@ -1460,6 +1544,12 @@
   {
     "SourceText": "📅 We will follow up with similar questions in two months.",
     "text": "📅 Sizakulandelela nemibuzo efanayo kwiinyanga ezimbini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🇿🇦 💛 Your valuable input will help us understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+    "text": "🇿🇦 💛 Igalelo lakho elixabisekileyo liya kusinceda siyiqonde ngcono imiceli-mngeni kunye namava abazali eMzantsi Afrika. Enkosi ngexesha lakho!",
     "type": "text",
     "note": ""
   },
@@ -1512,8 +1602,8 @@
     "note": ""
   },
   {
-    "SourceText": "We would also like to know about your teen's opinion of ParentText. Can a member of our research team contact them for a quick phone call where we will ask them a few multiple choice questions? Before giving your consent, please read this for all information: ",
-    "text": "Singathanda ukwazi malunga noluvo lomntwana wakho ofikisayo ngeParentText. Ingaba ilungu leqela lethu lophando lingamfowunela ngokukhawuleza apho siya kumbuza imibuzo embalwa yokhetho? Ngaphambi kokuba unike imvume yakho, nceda ufunde oku kulo lonke ulwazi:",
+    "SourceText": "We would also like to know about your *teen's* opinion of ParentText. Can a member of our research team contact them for a quick phone call where we will ask them a few multiple choice questions? Before giving your consent, please read this for all information: ",
+    "text": "Singathanda ukwazi malunga noluvo lomntwana wakho ofikisayo ngeParentText. Ingaba ilungu leqela lethu lophando lingamfowunela ngokukhawuleza apho siyakumbuza imibuzo embalwa yokhetho? Ngaphambi kokuba unike imvume yakho, nceda ufunde oku ukuze ufumane lonke ulwazi:",
     "type": "text",
     "note": ""
   },
@@ -1626,6 +1716,12 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "NEXT",
+    "text": "OKULANDELAYO",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "English",
     "text": "IsiNgesi",
     "type": "quick_replies",
@@ -1640,12 +1736,6 @@
   {
     "SourceText": "Afrikaans",
     "text": "IAfrikansi",
-    "type": "quick_replies",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
-  },
-  {
-    "SourceText": "NEXT",
-    "text": "OKULANDELAYO",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -1956,6 +2046,12 @@
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
+    "SourceText": "My child does not go to school",
+    "text": "Umntwana wam akayi esikolweni",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
     "SourceText": "Not helpful",
     "text": "Ayiloncedo",
     "type": "quick_replies",
@@ -2100,50 +2196,56 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "parenttext",
-    "text": "i-parenttext",
+    "SourceText": "parent",
+    "text": "umzali",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "parentext",
-    "text": "i-parentext",
+    "SourceText": "perent",
+    "text": "perent",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "parentex",
-    "text": "parentex",
+    "SourceText": "parant",
+    "text": "parant",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "parenttex",
-    "text": "parenttex",
+    "SourceText": "parrent",
+    "text": "parrent",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "perentext",
-    "text": "perentext",
+    "SourceText": "paremt",
+    "text": "paremt",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "perenttext",
-    "text": "perenttext",
+    "SourceText": "parnt",
+    "text": "parnt",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "perentex",
-    "text": "perentex",
+    "SourceText": "pernt",
+    "text": "pernt",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "perenttex",
-    "text": "perenttex",
+    "SourceText": "paretn",
+    "text": "paretn",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "paernt",
+    "text": "paernt",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -2474,6 +2576,12 @@
   {
     "SourceText": "i don't know",
     "text": "andiyazi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child does not go to school",
+    "text": "umntwana wam akayi esikolweni",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

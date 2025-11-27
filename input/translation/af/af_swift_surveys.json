@@ -240,8 +240,8 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome back!",
-    "text": "Welkom terug!",
+    "SourceText": "Welcome back! Let's continue with your survey.",
+    "text": "Welkom terug! Kom ons gaan voort met jou opname.",
     "type": "text",
     "note": ""
   },
@@ -2226,6 +2226,30 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
+    "SourceText": "parnt",
+    "text": "parnt",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "pernt",
+    "text": "pernt",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "paretn",
+    "text": "paretn",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "paernt",
+    "text": "paernt",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
     "SourceText": "family",
     "text": "gesin/familie",
     "type": "arguments",
@@ -2552,6 +2576,12 @@
   {
     "SourceText": "i don't know",
     "text": "ek weet nie",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child does not go to school",
+    "text": "my kind gaan nie skool toe nie",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
