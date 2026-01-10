@@ -3,7 +3,7 @@
     "@idems/idems_translation_chatbot": "^1.0.19",
     "@idems/idems_translation_common": "^1.0.0",
     "@idems/idems-chatbot-tools": "^1.0.1",
-    "@idems/safeguarding-rapidpro": "^1.0.4"
+    "@idems/safeguarding-rapidpro": "^1.1.0"
   },
   "name": "parenttext-swift"
 }
