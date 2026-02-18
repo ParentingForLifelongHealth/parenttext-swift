@@ -258,8 +258,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "fail",
-    "text": "ukusilela",
+    "SourceText": "Oops, something went wrong.",
+    "text": "Oops! kukho into engahambanga kakuhle.",
     "type": "text",
     "note": ""
   },

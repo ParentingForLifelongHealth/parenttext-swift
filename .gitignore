@@ -2,6 +2,7 @@
 temp/
 output/
 
+
 #credentials files
 credentials.json
 token.json
@@ -289,3 +290,5 @@ cython_debug/
 canto/
 transcoded/
 ffmpeg2pass*
+diffable/
+.vscode/

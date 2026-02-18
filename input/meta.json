@@ -1,6 +1,5 @@
 {
-  "pipeline_version": "1.5.1.dev23+g781e1e489",
+  "pipeline_version": "1.6.0",
   "config_version": "1.0.0",
-  "pull_timestamp": "2026-01-12T16:03:49.094203+00:00",
-  "hash": "ea5a5b59c8d31498fe58ffb305cabac9ea3950bcc00460a0278962729b9f44e6"
+  "pull_timestamp": "2026-02-18T11:43:16.034842+00:00"
 }
