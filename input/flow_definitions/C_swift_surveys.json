@@ -8494,6 +8494,24 @@
         "msg": "Sorry! Your invitation to take the Child Safety course has expired.",
         "next_button_option": "",
         "metadata.description": ""
+      },
+      {
+        "ID": "joining_instructions",
+        "msg": "Thanks for joining ParentText! \n🏥 If you found ParentText through your *clinic*, select PARENT\n🤳🏾 If you learned about ParentText through a *friend or family member*, select FAMILY\n\n\nDankie dat jy by ParentText aangesluit het!\n🏥 As jy ParentText deur jou *kliniek* gevind het, kies PARENT\n🤳🏾 As jy van ParentText deur 'n *vriend of familielid* gehoor het, kies FAMILY\n\n\nEnkosi ngojoyina iParentText!\n🏥 Ukuba ufumanise ngeParentText *kwikliniki* yakho, khetha PARENT\n🤳🏾 Ukuba wazi ngeParentText ngokuxelelwa *ngumhlobo okanye ilungu losapho*, khetha FAMILY",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "joining_clinic",
+        "msg": "PARENT",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "joining_share",
+        "msg": "FAMILY",
+        "next_button_option": "",
+        "metadata.description": ""
       }
     ],
     "safeguarding_stop_survey_data": [
