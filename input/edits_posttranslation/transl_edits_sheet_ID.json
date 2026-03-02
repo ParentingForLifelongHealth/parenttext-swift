@@ -1052,7 +1052,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "change": "{health referrals}",
         "condition_var": "",
-        "category": "AIDS: *0800 012 322*\n\nCancer: *0800 226 622*\n\nFamily planning, abortion and sexual health: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
+        "category": "Ambulance: *10177*\n\nAIDS: *0800 012 322*\n\nCancer: *0800 226 622*\n\nFamily planning, abortion and sexual health: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMen's sexual health (including circumcision): Ask a sister at your local clinic"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1153,7 +1153,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "original": "{health referrals}",
         "language": "hau",
-        "replacement": "Ugawulayo: *0800 012 322*\n\nIsifo somhlaza: *0800 226 622*\n\nUcwangciso losapho, ukukhupha isusu kunye nempilo yezesondo:\n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nImpilo yezesondo yamadoda (kuquka ulwaluko): Buza kumongikazi kwikliniki ekufutshane nawe"
+        "replacement": "Inqwelo yezigulana: *10177*\n\nUgawulayo: *0800 012 322*\n\nIsifo somhlaza: *0800 226 622*\n\nUcwangciso losapho, ukukhupha isusu kunye nempilo yezesondo:\n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nImpilo yezesondo yamadoda (kuquka ulwaluko): Buza kumongikazi kwikliniki ekufutshane nawe"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -1254,7 +1254,7 @@
         "node_identifier": "Regex:.*{health referrals}.*",
         "original": "{health referrals}",
         "language": "afr",
-        "replacement": "VIGS: *0800 012 322*\n\nKanker: *0800 226 622*\n\nFamiliebeplanning, aborsie en seksuele gesondheid: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMans se seksuele gesondheid (insluitend besnyding): Vra 'n suster by jou plaaslike kliniek"
+        "replacement": "Ambulans: *10177*\n\nVIGS: *0800 012 322*\n\nKanker: *0800 226 622*\n\nFamiliebeplanning, aborsie en seksuele gesondheid: \n*0800 117 785* (Marie Stopes SA) / *086 132 2322* (Lifeline) / https://www.westerncape.gov.za/service/termination-pregnancy-top\n \nMans se seksuele gesondheid (insluitend besnyding): Vra 'n suster by jou plaaslike kliniek"
       },
       {
         "type_of_edit": "replace_bit_of_text",
