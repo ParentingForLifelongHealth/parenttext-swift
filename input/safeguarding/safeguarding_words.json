@@ -4293,7 +4293,8 @@
                     "parnt",
                     "pernt",
                     "paretn",
-                    "paernt"
+                    "paernt",
+                    "parents"
                 ]
             },
             "Translation": {
@@ -4309,7 +4310,8 @@
                         "parnt",
                         "pernt",
                         "paretn",
-                        "paernt"
+                        "paernt",
+                        "parents"
                     ]
                 },
                 "afr": {
@@ -4324,7 +4326,8 @@
                         "parnt",
                         "pernt",
                         "paretn",
-                        "paernt"
+                        "paernt",
+                        "parents"
                     ]
                 }
             }
