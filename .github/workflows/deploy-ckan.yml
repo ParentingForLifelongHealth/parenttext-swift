@@ -1,0 +1,18 @@
+name: Deploy CKAN Export Infrastructure
+
+on:
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  deploy-infra:
+    uses: IDEMSInternational/parenttext-pipeline/.github/workflows/deploy-ckan-job.yml@main
+    secrets:
+      gcp_credentials: ${{ secrets.GCP_CREDENTIALS }}
+    with:
+      gcp_project: ${{ vars.GCP_PROJECT }}
+      gcp_region: ${{ vars.GCP_REGION }}
+      deployment_name: ${{ github.event.repository.name }} # Must be all lowercase and match the secret
+      runner_sa_email: ${{ vars.RUNNER_SA_EMAIL }}
+      cron_schedule: ${{ vars.CRON_SCHEDULE }}
+      image_url: ${{ vars.IMAGE_URL }}
+      container_env_vars: ${{ vars.CONTAINER_ENV_VARS }}
