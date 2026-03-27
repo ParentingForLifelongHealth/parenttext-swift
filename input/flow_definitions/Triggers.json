@@ -62,6 +62,15 @@
         "location": "",
         "variables.1.name": "receive payment",
         "variables.1.value": "no"
+      },
+      {
+        "ID": "promo",
+        "triggers": "start",
+        "groups": "phase 3",
+        "cap": "2000",
+        "location": "",
+        "variables.1.name": "receive payment",
+        "variables.1.value": "yes"
       }
     ],
     "cap_data": [

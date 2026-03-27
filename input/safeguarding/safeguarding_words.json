@@ -4336,7 +4336,8 @@
             "English": {
                 "keywords": [
                     "family",
-                    "demo"
+                    "demo",
+                    "start"
                 ],
                 "mispellings": []
             },
@@ -4344,14 +4345,16 @@
                 "hau": {
                     "keywords": [
                         "family",
-                        "demo"
+                        "demo",
+                        "start"
                     ],
                     "mispellings": []
                 },
                 "afr": {
                     "keywords": [
                         "family",
-                        "demo"
+                        "demo",
+                        "start"
                     ],
                     "mispellings": []
                 }
