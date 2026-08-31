@@ -264,6 +264,12 @@
     "note": ""
   },
   {
+    "SourceText": "fail",
+    "text": "misluk",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Let’s get started. Press NEXT to begin.",
     "text": "Kom ons begin. Druk VOLGENDE om te begin.",
     "type": "text",
@@ -2376,8 +2382,8 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "yes y yeah yep ok",
-    "text": "ja j jip ok",
+    "SourceText": "no nope n",
+    "text": "nee nee n",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

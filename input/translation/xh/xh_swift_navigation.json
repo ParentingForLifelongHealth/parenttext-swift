@@ -264,6 +264,12 @@
     "note": ""
   },
   {
+    "SourceText": "fail",
+    "text": "ukusilela",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "Let’s get started. Press NEXT to begin.",
     "text": "Masiqalise. Cofa OKULANDELAYO ukuqalisa.",
     "type": "text",
@@ -2376,8 +2382,8 @@
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
   {
-    "SourceText": "yes y yeah yep ok",
-    "text": "ewe",
+    "SourceText": "no nope n",
+    "text": "hayi hayi",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },

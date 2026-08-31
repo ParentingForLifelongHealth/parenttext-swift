@@ -54,32 +54,38 @@
     "note": ""
   },
   {
-    "SourceText": "🥳 Welcome to our study! If you decide to join, you will be invited to complete 3 surveys. ",
-    "text": "🥳 Welkom by ons studie! As jy besluit om deel te neem, sal jy uitgenooi word om 3 opnames in te vul. ",
+    "SourceText": "🥳 Welcome to our study! If you join, you will be invited to complete 3 surveys about your life and your relationship with your child.  ",
+    "text": "🥳 Welkom by ons studie! As jy aansluit, sal jy genooi word om 3 opname oor jou lewe en jou verhouding met jou kind te voltooi.  ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "🌱 The surveys will ask you questions about your life and your relationship with your child. ",
-    "text": "🌱 Die opnames sal jou vrae vra oor jou lewe en jou verhouding met jou kind. ",
+    "SourceText": "✏️ After completing the first survey, we will send you R15 airtime to thank you. ",
+    "text": "✏️ Nadat jy die eerste opname voltooi, sal ons vir jou R15 lugtyd (airtime) stuur om jou te bedank. ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "💬  After completing the first survey, you will receive ParentText on WhatsApp from this number.",
-    "text": "💬Nadat jy die eerste opname voltooi het, sal jy ParentText op WhatsApp op hierdie nommer ontvang.",
+    "SourceText": "💬 You will then receive the ParentText programme on WhatsApp from this number.",
+    "text": "💬 Jy sal dan die ParentText-program op WhatsApp van hierdie nommer ontvang.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "✏️ 1 month later, you will be asked to complete a 2nd survey. ",
-    "text": "✏️ 1 maand later, sal jy gevra word om 'n tweede opname te voltooi. ",
+    "SourceText": "✏️ 1 month later, we will send you a 2nd survey and if you finish it, you will receive R15 airtime. ",
+    "text": "✏️ 1 maand later, sal ons vir jou 'n 2de opname stuur en as jy dit voltooi, sal jy R15 lugtyd (airtime) ontvang. ",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "✏️ 3 months later, you will receive a 3rd survey.",
-    "text": "✏️ 3 maande later, sal jy 'n 3de opname ontvang.",
+    "SourceText": "✏️ 3 months later, we will send you a 3rd survey and if you finish this final survey, you will receive R20 airtime to thank you. ",
+    "text": "✏️ 3 maande later, sal ons vir jou 'n 3rde opname stuur en as jy hierdie laaste opname voltooi, sal jy R20 lugtyd (airtime) ontvang om jou te bedank. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime.",
+    "text": "📲 Na elke opname sal die geld na hierdie WhatsApp nommer gestuur word as mobiele lugtyd.",
     "type": "text",
     "note": ""
   },
@@ -180,8 +186,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated."
   },
   {
-    "SourceText": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? ",
-    "text": "🥳 Dis tyd vir jou tweede opname. Die opname bevat 25 vrae. Is jy gereed om te begin? ",
+    "SourceText": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R15 airtime for finishing it. Are you ready to get started? ",
+    "text": "🥳 Dis tyd vir jou 2de opname. Hierdie opname bevat omtrent 25 vrae. Jy sal R15 lugtyd (airtime) ontvang as jy dit voltooi. Is jy gereed om te begin? ",
     "type": "text",
     "note": ""
   },
@@ -210,8 +216,8 @@
     "note": ""
   },
   {
-    "SourceText": "🥳 It's time for your last survey. If you complete the survey, you will receive R5 airtime. Do you agree to continue with this survey?",
-    "text": "🥳 Dis tyd vir jou laaste opname. As jy die opname voltooi, sal jy R5 lugtyd (airtime) ontvang. Stem jy in om voort te gaan met hierdie opname?",
+    "SourceText": "🥳 It's time for your last survey. If you complete the survey, you will receive R20 airtime. Do you agree to continue with this survey?",
+    "text": "🥳 Dis tyd vir jou laaste opname. As jy die opname voltooi, sal jy R20 lugtyd (airtime) ontvang. Stem jy in om voort te gaan met hierdie opname?",
     "type": "text",
     "note": ""
   },
@@ -408,8 +414,26 @@
     "note": ""
   },
   {
-    "SourceText": "⏲️ This survey should take about 15 minutes to complete. ",
-    "text": "⏲️Hierdie opname behoort ongeveer 15 minute te neem om te voltooi. ",
+    "SourceText": "⏲️ This survey will take about 15 minutes to complete. ",
+    "text": "⏲️ Hierdie opname sal ongeveer 15 minute neem om te voltooi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✏️ You will receive R15 airtime for finishing this survey. ",
+    "text": "✏️ Jy sal R15 lugtyd (airtime) ontvang vir die voltooiing van hierdie opname. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📲 We will send the airtime to your current WhatsApp number. ",
+    "text": "📲 Ons sal die lugtyd (airtime) na jou huidige WhatsApp-nommer stuur. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🇿🇦 In order to receive the airtime, your number MUST be South African. ",
+    "text": "🇿🇦 Om die lugtyd (airtime) te ontvang, MOET jou nommer Suid-Afrikaans wees. ",
     "type": "text",
     "note": ""
   },
@@ -1416,10 +1440,16 @@
     "note": ""
   },
   {
-    "SourceText": "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.",
+    "SourceText": "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.",
     "text": "❗❗❗Indien enige vrae in hierdie opname jou bekommerd gelaat het of jou emosioneel geraak het, kontak die navorsingspan op WhatsApp by 0786407885 (net boodskappe) of by swift@globalparenting.org.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
+  },
+  {
+    "SourceText": "🥳 You will receive R15 airtime to say thank you.",
+    "text": "🥳 Jy sal R15 lugtyd (airtime) ontvang om dankie te sê.",
+    "type": "text",
+    "note": ""
   },
   {
     "SourceText": "📅 We will follow up with similar questions in one month.",
@@ -1434,8 +1464,20 @@
     "note": ""
   },
   {
+    "SourceText": "⏲️ This survey should take about 15 minutes to complete. ",
+    "text": "⏲️Hierdie opname behoort ongeveer 15 minute te neem om te voltooi. ",
+    "type": "text",
+    "note": ""
+  },
+  {
     "SourceText": "🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them. ",
     "text": "🤐 Onthou dat jou naam en antwoorde op hierdie vrae privaat gehou sal word binne die navorsingspan. Indien daar enige vrae is waarmee jy ongemaklik voel, hoef jy dit nie te beantwoord nie ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🤗 Please try to answer as honestly as you can.",
+    "text": "🤗 Probeer asseblief om so eerlik as moontlik te beantwoord.",
     "type": "text",
     "note": ""
   },
@@ -1536,12 +1578,6 @@
     "note": ""
   },
   {
-    "SourceText": "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.",
-    "text": "❗❗❗Indien enige vrae in hierdie opname jou bekommerd gelaat het of jou emosioneel geraak het, kontak die navorsingspan op WhatsApp by 0786407885 (net boodskappe) of by swift@globalparenting.org.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
-  },
-  {
     "SourceText": "📅 We will follow up with similar questions in two months.",
     "text": "📅 Ons sal oor twee maand met soortgelyke vrae opvolg.",
     "type": "text",
@@ -1554,14 +1590,14 @@
     "note": ""
   },
   {
-    "SourceText": "📲 We will send airtime to your current WhatsApp number. ",
-    "text": "📲 Ons sal lugtyd (airtime) na jou huidige WhatsApp-nommer stuur. ",
+    "SourceText": "✏️ You will receive R20 airtime for finishing this survey.",
+    "text": "✏️ Jy sal R20 lugtyd (airtime) ontvang vir die voltooiing van hierdie opname.",
     "type": "text",
     "note": ""
   },
   {
-    "SourceText": "🇿🇦 In order to receive the payment, this number MUST be South African. ",
-    "text": "🇿🇦 Om die betaling te ontvang, MOET hierdie nommer Suid-Afrikaans wees. ",
+    "SourceText": "🇿🇦 In order to receive the airtime, this number MUST be South African. ",
+    "text": "🇿🇦 Om die lugtyd (airtime) te ontvang, MOET hierdie nommer Suid-Afrikaans wees. ",
     "type": "text",
     "note": ""
   },
@@ -1650,8 +1686,8 @@
     "note": ""
   },
   {
-    "SourceText": "🥳 You will now receive R5 airtime as a token of thanks.",
-    "text": "🥳 Jy sal nou R5 lugtyd (airtime) ontvang as 'n teken van dank.",
+    "SourceText": "🥳 You will receive R20 airtime to say thank you.",
+    "text": "🥳 Jy sal R20 lugtyd (airtime) ontvang om dankie te sê.",
     "type": "text",
     "note": ""
   },
@@ -2246,6 +2282,12 @@
   {
     "SourceText": "paernt",
     "text": "paernt",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "parents",
+    "text": "ouers",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
