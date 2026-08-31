@@ -66,8 +66,8 @@
       {
         "ID": "promo",
         "triggers": "start",
-        "groups": "phase 3",
-        "cap": "2000",
+        "groups": "phase 4",
+        "cap": "4000",
         "location": "",
         "variables.1.name": "receive payment",
         "variables.1.value": "yes"
