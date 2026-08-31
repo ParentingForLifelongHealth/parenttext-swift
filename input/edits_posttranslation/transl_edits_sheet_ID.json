@@ -886,7 +886,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "change": "{ret_consent_link}",
         "condition_var": "",
-        "category": "https://bit.ly/swift-info-en"
+        "category": "https://bit.ly/swift_incentive_consent_eng"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -904,7 +904,7 @@
         "node_identifier": "Regex:.*{parentline number}.*",
         "change": "{parentline number}",
         "condition_var": "",
-        "category": "087 813 4290"
+        "category": "https://wa.me/27878134290?text=parentline_swift"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -960,7 +960,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "original": "{ret_consent_link}",
         "language": "afr",
-        "replacement": "https://bit.ly/swift-info-af"
+        "replacement": "bit.ly/swift_incentive_consent_af"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -969,7 +969,7 @@
         "node_identifier": "Regex:.*{ret_consent_link}.*",
         "original": "{ret_consent_link}",
         "language": "hau",
-        "replacement": "https://bit.ly/swift-info-xh"
+        "replacement": "http://bit.ly/4w1BAJC"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -978,7 +978,7 @@
         "node_identifier": "Regex:.*{parentline number}.*",
         "original": "{parentline number}",
         "language": "afr",
-        "replacement": "087 813 4290"
+        "replacement": "https://wa.me/27878134290?text=parentline_swift"
       },
       {
         "type_of_edit": "replace_bit_of_text",
@@ -987,7 +987,7 @@
         "node_identifier": "Regex:.*{parentline number}.*",
         "original": "{parentline number}",
         "language": "hau",
-        "replacement": "087 813 4290"
+        "replacement": "https://wa.me/27878134290?text=parentline_swift"
       },
       {
         "type_of_edit": "replace_bit_of_text",
