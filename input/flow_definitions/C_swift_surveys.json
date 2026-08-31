@@ -767,7 +767,7 @@
       },
       {
         "ID": "intro_study_pt1",
-        "msg": "🥳 Welcome to our study! If you decide to join, you will be invited to complete 3 surveys. \n\n🌱 The surveys will ask you questions about your life and your relationship with your child. \n\n💬  After completing the first survey, you will receive ParentText on WhatsApp from this number.\n\n✏️ 1 month later, you will be asked to complete a 2nd survey. \n\n✏️ 3 months later, you will receive a 3rd survey. ",
+        "msg": "🥳 Welcome to our study! If you join, you will be invited to complete 3 surveys about your life and your relationship with your child.  \n\n✏️ After completing the first survey, we will send you R15 airtime to thank you. \n\n💬 You will then receive the ParentText programme on WhatsApp from this number.\n\n✏️ 1 month later, we will send you a 2nd survey and if you finish it, you will receive R15 airtime. \n\n✏️ 3 months later, we will send you a 3rd survey and if you finish this final survey, you will receive R20 airtime to thank you. \n\n📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime.",
         "metadata.description": ""
       },
       {
@@ -821,7 +821,7 @@
         "ID": "parent_intro_b",
         "type": "intro",
         "tags": "b;demo",
-        "messages": "⏲️ This survey should take about 15 minutes to complete. \n\n💛 To begin, we would like to ask a few questions about you and your family.\n  \n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them.\n\n🤗 Please try to answer the questions as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
+        "messages": "⏲️ This survey will take about 15 minutes to complete. \n\n✏️ You will receive R15 airtime for finishing this survey. \n\n📲 We will send the airtime to your current WhatsApp number. \n\n🇿🇦 In order to receive the airtime, your number MUST be South African. \n\n💛 To begin, we would like to ask a few questions about you and your family.\n  \n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them.\n\n🤗 Please try to answer the questions as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -832,7 +832,7 @@
         "relevant.2.variable": "",
         "relevant.2.value": "",
         "relevant.2.type": "",
-        "choices.1.text": "NEXT",
+        "choices.1.text": "",
         "choices.1.value": "",
         "choices.2.text": "",
         "choices.2.value": "",
@@ -901,7 +901,7 @@
         "ID": "parent_intro_1",
         "type": "intro",
         "tags": "1",
-        "messages": "⏲️ This survey should take about 15 minutes to complete. \n\n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer the questions as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
+        "messages": "⏲️ This survey should take about 15 minutes to complete. \n\n✏️ You will receive R15 airtime for finishing this survey. \n\n📲 We will send the airtime to your current WhatsApp number. \n\n🇿🇦 In order to receive the airtime, your number MUST be South African. \n\n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -981,7 +981,7 @@
         "ID": "parent_intro_3",
         "type": "intro",
         "tags": "3",
-        "messages": "⏲️ This survey should take about 15 minutes to complete. \n\n📲 We will send airtime to your current WhatsApp number. \n\n🇿🇦 In order to receive the payment, this number MUST be South African. \n  \n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them.\n\n🤗 Please try to answer the questions as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
+        "messages": "⏲️ This survey should take about 15 minutes to complete. \n\n✏️ You will receive R20 airtime for finishing this survey.\n\n📲 We will send the airtime to your current WhatsApp number. \n\n🇿🇦 In order to receive the airtime, this number MUST be South African. \n  \n🤐 Remember that your name and answers to these questions will be kept private within the research team. If there are any questions that you feel uncomfortable answering, you do not have to answer them.\n\n🤗 Please try to answer as honestly as you can.\n\n❌You can stop when you want. Just type {STOP}.",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -7621,7 +7621,7 @@
         "ID": "thanks_baseline",
         "type": "intro",
         "tags": "b;demo",
-        "messages": "🟩🟩🟩🟩🟩🟩🟩🟩🟩\n\n🥳 You have completed the survey! Thank you very much for your participation. \n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n📅 We will follow up with similar questions in one month.\n\n🇿🇦 💛 Let's start ParentText!",
+        "messages": "🟩🟩🟩🟩🟩🟩🟩🟩🟩\n\n🥳 You have completed the survey! Thank you very much for your participation. \n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n🥳 You will receive R15 airtime to say thank you.\n\n📅 We will follow up with similar questions in one month.\n\n🇿🇦 💛 Let's start ParentText!",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -7701,7 +7701,7 @@
         "ID": "thanks_1month",
         "type": "intro",
         "tags": "1",
-        "messages": "🟩🟩🟩🟩🟩🟩🟩\n\n🎉🎉 You have completed the survey! Thank you very much for your participation. \n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n📅 We will follow up with similar questions in two months.\n\n🇿🇦 💛 Your valuable input will help us understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+        "messages": "🟩🟩🟩🟩🟩🟩🟩\n\n🎉🎉 You have completed the survey! Thank you very much for your participation. \n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n🥳 You will receive R15 airtime to say thank you.\n\n📅 We will follow up with similar questions in two months.\n\n🇿🇦 💛 Your valuable input will help us understand the challenges and experiences of parents in South Africa. Thank you for your time!",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -7781,7 +7781,7 @@
         "ID": "thanks_3month",
         "type": "intro",
         "tags": "3",
-        "messages": "🟩🟩🟩🟩🟩🟩🟩\n\n🎉🎉 You are done! 🎉🎉\n\n💙 Thank you very much for completing this final survey and taking the time to help us with this study.\n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n🥳 You will now receive R5 airtime as a token of thanks.\n\n💚 We wish you all the best with Your {Age Group} and remember, you can access this content at any time!",
+        "messages": "🟩🟩🟩🟩🟩🟩🟩\n\n🎉🎉 You are done! 🎉🎉\n\n💙 Thank you very much for completing this final survey and taking the time to help us with this study.\n\n❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org.\n\n🥳 You will receive R20 airtime to say thank you.\n\n💚 We wish you all the best with Your {Age Group} and remember, you can access this content at any time!",
         "skipoption.text": "",
         "skipoption.choice": "",
         "skipoption.value": "",
@@ -7856,6 +7856,541 @@
         "postprocessing.assignments.3.variable": "",
         "postprocessing.assignments.3.value": "",
         "expiration.message": ""
+      }
+    ],
+    "survey_push_interaction_data": [
+      {
+        "ID": "1month",
+        "question": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "That's okay.",
+        "wa_template_ID": "1_month_survey_no_payment",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "1month",
+        "question": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R15 airtime for finishing it. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "That's okay.",
+        "wa_template_ID": "1_month_survey_15R",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "3month",
+        "question": "🥳 It's time for your last survey. If you complete the survey, you will receive R20 airtime. Do you agree to continue with this survey?\n\nSelect one of the options below:\n1. Yes\n2. No",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "That's okay.",
+        "wa_template_ID": "3_month_survey_20R",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "safety_offer",
+        "question": "🌱 Keep your child safe and healthy! 🌱\n\nYou've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?\n\nSelect one of the options below:\n1. Yes\n2. No",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "safety",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
+        "wa_template_ID": "safety_offer",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      }
+    ],
+    "referral_survey_report_abuse_data": [
+      {
+        "ID": "referral",
+        "msg": "Hello. Your answers mean that Your {Age Group} might have experienced something difficult. *Childline* can help: call free on *116*. If you have any problems contacting Childline, or have other questions, please message us on *0786407885*.\n\nThe SWIFT Study Team.",
+        "metadata.description": ""
+      }
+    ],
+    "input_phone_number": [
+      {
+        "ID": "parent_interview_number",
+        "relevant.1.expression": "@fields.qual_request",
+        "relevant.1.value": "yes",
+        "relevant.1.condition_type": "has_only_phrase",
+        "question": "Thanks!  What cell phone number can we reach you on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
+        "variable": "parent number",
+        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
+        "tests.1.value": "v",
+        "tests.1.condition_type": "has_any_word",
+        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
+        "tests.2.value": "v",
+        "tests.2.condition_type": "has_any_word",
+        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
+        "tests.3.value": "v",
+        "tests.3.condition_type": "has_any_word",
+        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
+      },
+      {
+        "ID": "Teen_interview_number",
+        "relevant.1.expression": "@fields.teen_interview_request",
+        "relevant.1.value": "yes",
+        "relevant.1.condition_type": "has_only_phrase",
+        "question": "Thanks for giving your consent!  What cell phone number can we reach your teen on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
+        "variable": "teen number",
+        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
+        "tests.1.value": "v",
+        "tests.1.condition_type": "has_any_word",
+        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
+        "tests.2.value": "v",
+        "tests.2.condition_type": "has_any_word",
+        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
+        "tests.3.value": "v",
+        "tests.3.condition_type": "has_any_word",
+        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
+      },
+      {
+        "ID": "teen_int_parent_num",
+        "relevant.1.expression": "@fields.teen_interview_request",
+        "relevant.1.value": "yes",
+        "relevant.1.condition_type": "has_only_phrase",
+        "question": "Please speak to your child about this. We will be in touch with you telephonically to answer any questions that you might have before we call your child for the interview and to arrange a time which will be best for us to interview them. What cell phone number can we reach you on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
+        "variable": "parent num teen int",
+        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
+        "tests.1.value": "v",
+        "tests.1.condition_type": "has_any_word",
+        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
+        "tests.2.value": "v",
+        "tests.2.condition_type": "has_any_word",
+        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
+        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
+        "tests.3.value": "v",
+        "tests.3.condition_type": "has_any_word",
+        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
+      }
+    ],
+    "baseline_input_number": [
+      {
+        "ID": "parent_age",
+        "question": "How old are you?",
+        "variable": "parent age",
+        "grouping_variable": "",
+        "lower_bound": "18",
+        "low_error_msg": "Sorry. You need to be over 18 to qualify for this study.",
+        "low_confirm_question": "Do you confirm that you are under the age of 18?",
+        "low_stop_opt": "Yes",
+        "low_go_back_opt": "No",
+        "low_stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+        "upper_bound": "99",
+        "up_error_msg": "This looks too old. Let's try again.\nHow old are you?",
+        "up_confirm_question": "",
+        "up_stop_opt": "",
+        "up_go_back_opt": "",
+        "up_stop_message": "",
+        "general_error_msg": "Sorry, I don't understand what you mean. Please reply with a number.",
+        "ranges.1.limit": "",
+        "ranges.1.var_value": "",
+        "ranges.2.limit": "",
+        "ranges.2.var_value": "",
+        "ranges.3.limit": "",
+        "ranges.3.var_value": ""
+      }
+    ],
+    "survey_defaults": [
+      {
+        "ID": "expiration_message",
+        "value": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "unrecognised_response_message",
+        "value": "Sorry, I don't understand what you mean."
+      }
+    ],
+    "ret_messages": [
+      {
+        "ID": "uncaught_non_eligible",
+        "msg": "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+        "next_button_option": "",
+        "metadata.description": "when a user that is not eligible for the study sends a message to the chatbot"
+      },
+      {
+        "ID": "waiting_list",
+        "msg": "Thanks for your interest in this study, but we are no longer accepting participants.",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "closed_survey",
+        "msg": "Sorry! Your invitation to participate in this survey has expired. The survey is now closed.",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "survey_after_expiring",
+        "msg": "Welcome back! Let's continue with your survey.",
+        "next_button_option": "",
+        "metadata.description": "when a user that expires during baseline sends a message with \"1\" (or anything else) and starts the baseline from where they left"
+      },
+      {
+        "ID": "expiration_msg",
+        "msg": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "restart_tomorrow",
+        "msg": "You will continue with your progress tomorrow.",
+        "next_button_option": "",
+        "metadata.description": "if the user is still acitvely receiving tips when they receive the 1month or 3 month survey"
+      },
+      {
+        "ID": "safety_offer_expiration",
+        "msg": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "closed_safety_offer",
+        "msg": "Sorry! Your invitation to take the Child Safety course has expired.",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "joining_instructions",
+        "msg": "Thanks for joining ParentText! \n🏥 If you found ParentText through your *clinic*, select PARENT\n🤳🏾 If you learned about ParentText through a *friend or family member*, select FAMILY\n\n\nDankie dat jy by ParentText aangesluit het!\n🏥 As jy ParentText deur jou *kliniek* gevind het, kies PARENT\n🤳🏾 As jy van ParentText deur 'n *vriend of familielid* gehoor het, kies FAMILY\n\n\nEnkosi ngojoyina iParentText!\n🏥 Ukuba ufumanise ngeParentText *kwikliniki* yakho, khetha PARENT\n🤳🏾 Ukuba wazi ngeParentText ngokuxelelwa *ngumhlobo okanye ilungu losapho*, khetha FAMILY",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "joining_clinic",
+        "msg": "PARENT",
+        "next_button_option": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "joining_share",
+        "msg": "FAMILY",
+        "next_button_option": "",
+        "metadata.description": ""
+      }
+    ],
+    "safeguarding_stop_survey_data": [
+      {
+        "ID": "confirm",
+        "msg": "If you do not want to receive any more messages, please type \"EXIT\".\n\nIf you made a mistake, please type \"BACK\".",
+        "metadata.description": "BACK needs to be consistent with \"back_option\"\nEXIT needs to be consistent with \"leave_option\""
+      },
+      {
+        "ID": "back_option",
+        "msg": "BACK",
+        "metadata.description": "needs to be consistent with \"confirm\" message"
+      },
+      {
+        "ID": "leave_option",
+        "msg": "EXIT",
+        "metadata.description": "needs to be consistent with \"confirm\" message"
+      },
+      {
+        "ID": "goodbye",
+        "msg": "Thank you for participating. If you want to return to the programme, type HELLO. \n\nWe hope to see you again soon! ",
+        "metadata.description": "HELLO is just to suggest something to type, but anything typed in the chat will trigger the same behaviour"
+      }
+    ],
+    "payment_messages": [
+      {
+        "ID": "payment_msg",
+        "msg": "Your airtime of R@results.amount will be sent to this WhatsApp number. Please allow up to 3 days for the payment to process.",
+        "metadata.description": ""
+      },
+      {
+        "ID": "failed_payment",
+        "msg": "The transaction for sending your airtime of R@results.amount has failed.\n\nIf you have not received your airtime in 3 days, please send a message to {WhatsApp SWIFT line support} with your transaction ID.\nYour transaction ID is: @contact.id",
+        "metadata.description": ""
+      }
+    ],
+    "joining_messages": [
+      {
+        "ID": "waiting_list",
+        "msg": "Thanks for reaching out 🤍 It really shows how much you care about your children. This programme is full, and we will not be accepting any more participants. If you need urgent help with a parenting issue or your child has experienced abuse, you can call ChildLine for free on 116.",
+        "metadata.description": ""
+      }
+    ],
+    "prescreen_structure": [
+      {
+        "ID": "language",
+        "survey_id": "prescreen",
+        "question_type": "language_choice",
+        "question_id": "language_ret",
+        "flow": "prescreen_language_choice - language_ret",
+        "variable": "@fields.completed_language_ret",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "general_intro",
+        "survey_id": "prescreen",
+        "question_type": "intro",
+        "question_id": "general_intro",
+        "flow": "prescreen_intro - general_intro",
+        "variable": "@fields.completed_general_intro",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "encouragement_screening",
+        "survey_id": "prescreen",
+        "question_type": "multiple_choice",
+        "question_id": "encouragement_screening",
+        "flow": "prescreen_multiple_choice - encouragement_screening",
+        "variable": "@fields.completed_encouragement_screening",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "parent_age_screening",
+        "survey_id": "prescreen",
+        "question_type": "multiple_choice",
+        "question_id": "parent_age_screening",
+        "flow": "prescreen_multiple_choice - parent_age_screening",
+        "variable": "@fields.completed_parent_age_screening",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "child_age_screening",
+        "survey_id": "prescreen",
+        "question_type": "multiple_choice",
+        "question_id": "child_age_screening",
+        "flow": "prescreen_multiple_choice - child_age_screening",
+        "variable": "@fields.completed_child_age_screening",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      },
+      {
+        "ID": "location",
+        "survey_id": "prescreen",
+        "question_type": "multiple_choice",
+        "question_id": "location_screening",
+        "flow": "prescreen_multiple_choice - location_screening",
+        "variable": "@fields.completed_location_screening",
+        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
+      }
+    ],
+    "prescreen_questions": [
+      {
+        "ID": "parent_age_screening",
+        "question": "Are you 18 years old or older?",
+        "variable": "age screening",
+        "excluded_values": "No, I am under 18",
+        "confirm_question": "Sorry. You need to be at least 18 years old to qualify for this study.\nAre you under the age of 18?",
+        "stop_opt": "Yes",
+        "go_back_opt": "No",
+        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+        "options.1.text": "Yes, I am 18 years old or older",
+        "options.1.value": "over 18",
+        "options.2.text": "No, I am under 18",
+        "options.2.value": "under 18",
+        "options.3.text": "",
+        "options.3.value": "",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "child_age_screening",
+        "question": "Are you parent or caregiver of a child aged 2 to 17 years?",
+        "variable": "child age screening",
+        "excluded_values": "No",
+        "confirm_question": "Sorry. You need to be the parent or caregiver of a child aged 2 to 17 to qualify for this study. Please confirm: Do you have a child between 2 and 17?",
+        "stop_opt": "No",
+        "go_back_opt": "Yes",
+        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+        "options.1.text": "Yes",
+        "options.1.value": "has child 2-17",
+        "options.2.text": "No",
+        "options.2.value": "no child 2-17",
+        "options.3.text": "",
+        "options.3.value": "",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "location_screening",
+        "question": "Do you live in the Western Cape?",
+        "variable": "location",
+        "excluded_values": "No, I do not live in the Western Cape",
+        "confirm_question": "Sorry. You need to live in the Western Cape to qualify for this study.\nPlease confirm: Do you live in the Western Cape?",
+        "stop_opt": "No",
+        "go_back_opt": "Yes",
+        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You may still access ParentText South Africa by sending the word {fromswift} to this number or try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
+        "options.1.text": "Yes, I live in the Western Cape",
+        "options.1.value": "lives in WC",
+        "options.2.text": "No, I do not live in the Western Cape",
+        "options.2.value": "does not live in WC",
+        "options.3.text": "",
+        "options.3.value": "",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "encouragement_screening",
+        "question": "Did a nurse talk to you about this programme?",
+        "variable": "encouragement",
+        "excluded_values": "",
+        "confirm_question": "",
+        "stop_opt": "",
+        "go_back_opt": "",
+        "stop_message": "",
+        "options.1.text": "Yes",
+        "options.1.value": "Yes",
+        "options.2.text": "No",
+        "options.2.value": "No",
+        "options.3.text": "",
+        "options.3.value": "",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      }
+    ],
+    "prescreen_intros": [
+      {
+        "ID": "general_intro",
+        "msg": "Welcome to ParentText!",
+        "next_button_option": "NEXT",
+        "metadata.description": ""
+      }
+    ],
+    "all_surveys_input": [
+      {
+        "ID": "first_name",
+        "filter_list.1": "b",
+        "relevant.1.expression": "",
+        "relevant.1.value": "",
+        "relevant.1.condition_type": "",
+        "question": "What is your first name?",
+        "capitalised": "yes",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "first user name",
+        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
+        "test.value": "v",
+        "test.condition_type": "has_only_phrase",
+        "error_message": ""
+      },
+      {
+        "ID": "family_name",
+        "filter_list.1": "b",
+        "relevant.1.expression": "",
+        "relevant.1.value": "",
+        "relevant.1.condition_type": "",
+        "question": "What is your last name?",
+        "capitalised": "yes",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "family name",
+        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
+        "test.value": "v",
+        "test.condition_type": "has_only_phrase",
+        "error_message": ""
+      },
+      {
+        "ID": "child_name",
+        "filter_list.1": "b",
+        "relevant.1.expression": "",
+        "relevant.1.value": "",
+        "relevant.1.condition_type": "",
+        "question": "Please provide us with your child's first name.",
+        "capitalised": "yes",
+        "skip_option": "Please type \"N\" if you prefer not to answer.",
+        "skip_value": "N",
+        "variable": "child nickname",
+        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
+        "test.value": "v",
+        "test.condition_type": "has_only_phrase",
+        "error_message": ""
+      },
+      {
+        "ID": "inteview_name",
+        "filter_list.1": "3",
+        "relevant.1.expression": "@fields.teen_interview_request",
+        "relevant.1.value": "yes",
+        "relevant.1.condition_type": "has_any_word",
+        "question": "Who should we ask to speak to (your teens's name)?",
+        "capitalised": "yes",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "inteview name",
+        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
+        "test.value": "",
+        "test.condition_type": "",
+        "error_message": ""
+      }
+    ],
+    "baseline_datetime": [
+      {
+        "ID": "child_dob",
+        "question": "What is Your Child's date of birth?\nEnter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
       }
     ],
     "removed_items": [
@@ -8338,526 +8873,6 @@
         "postprocessing.assignments.3.variable": "",
         "postprocessing.assignments.3.value": "",
         "expiration.message": ""
-      }
-    ],
-    "referral_survey_report_abuse_data": [
-      {
-        "ID": "referral",
-        "msg": "Hello. Your answers mean that Your {Age Group} might have experienced something difficult. *Childline* can help: call free on *116*. If you have any problems contacting Childline, or have other questions, please message us on *0786407885*.\n\nThe SWIFT Study Team.",
-        "metadata.description": ""
-      }
-    ],
-    "input_phone_number": [
-      {
-        "ID": "parent_interview_number",
-        "relevant.1.expression": "@fields.qual_request",
-        "relevant.1.value": "yes",
-        "relevant.1.condition_type": "has_only_phrase",
-        "question": "Thanks!  What cell phone number can we reach you on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
-        "variable": "parent number",
-        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
-        "tests.1.value": "v",
-        "tests.1.condition_type": "has_any_word",
-        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
-        "tests.2.value": "v",
-        "tests.2.condition_type": "has_any_word",
-        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
-        "tests.3.value": "v",
-        "tests.3.condition_type": "has_any_word",
-        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
-      },
-      {
-        "ID": "Teen_interview_number",
-        "relevant.1.expression": "@fields.teen_interview_request",
-        "relevant.1.value": "yes",
-        "relevant.1.condition_type": "has_only_phrase",
-        "question": "Thanks for giving your consent!  What cell phone number can we reach your teen on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
-        "variable": "teen number",
-        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
-        "tests.1.value": "v",
-        "tests.1.condition_type": "has_any_word",
-        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
-        "tests.2.value": "v",
-        "tests.2.condition_type": "has_any_word",
-        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
-        "tests.3.value": "v",
-        "tests.3.condition_type": "has_any_word",
-        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
-      },
-      {
-        "ID": "teen_int_parent_num",
-        "relevant.1.expression": "@fields.teen_interview_request",
-        "relevant.1.value": "yes",
-        "relevant.1.condition_type": "has_only_phrase",
-        "question": "Please speak to your child about this. We will be in touch with you telephonically to answer any questions that you might have before we call your child for the interview and to arrange a time which will be best for us to interview them. What cell phone number can we reach you on?\n\nPlease enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620.",
-        "variable": "parent num teen int",
-        "tests.1.expression": "@(if(number(results.input),\"v\",\"i\"))",
-        "tests.1.value": "v",
-        "tests.1.condition_type": "has_any_word",
-        "tests.1.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.2.expression": "@(if(text_length(results.input)=10,\"v\",\"i\"))",
-        "tests.2.value": "v",
-        "tests.2.condition_type": "has_any_word",
-        "tests.2.error_message": "Invalid entry, please enter a ten-digit phone number, beginning with the number zero.",
-        "tests.3.expression": "@(if(text_slice(input.text,0,1)=0,\"v\",\"i\"))",
-        "tests.3.value": "v",
-        "tests.3.condition_type": "has_any_word",
-        "tests.3.error_message": "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
-      }
-    ],
-    "baseline_input_number": [
-      {
-        "ID": "parent_age",
-        "question": "How old are you?",
-        "variable": "parent age",
-        "grouping_variable": "",
-        "lower_bound": "18",
-        "low_error_msg": "Sorry. You need to be over 18 to qualify for this study.",
-        "low_confirm_question": "Do you confirm that you are under the age of 18?",
-        "low_stop_opt": "Yes",
-        "low_go_back_opt": "No",
-        "low_stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-        "upper_bound": "99",
-        "up_error_msg": "This looks too old. Let's try again.\nHow old are you?",
-        "up_confirm_question": "",
-        "up_stop_opt": "",
-        "up_go_back_opt": "",
-        "up_stop_message": "",
-        "general_error_msg": "Sorry, I don't understand what you mean. Please reply with a number.",
-        "ranges.1.limit": "",
-        "ranges.1.var_value": "",
-        "ranges.2.limit": "",
-        "ranges.2.var_value": "",
-        "ranges.3.limit": "",
-        "ranges.3.var_value": ""
-      }
-    ],
-    "survey_defaults": [
-      {
-        "ID": "expiration_message",
-        "value": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "unrecognised_response_message",
-        "value": "Sorry, I don't understand what you mean."
-      }
-    ],
-    "ret_messages": [
-      {
-        "ID": "uncaught_non_eligible",
-        "msg": "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-        "next_button_option": "",
-        "metadata.description": "when a user that is not eligible for the study sends a message to the chatbot"
-      },
-      {
-        "ID": "waiting_list",
-        "msg": "Thanks for your interest in this study. We are no longer accepting participants, but you might want to try Parentline SA, a WhatsApp parenting advice chatbot, by sending a WhatsApp to {parentline number}.",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "closed_survey",
-        "msg": "Sorry! Your invitation to participate in this survey has expired. The survey is now closed.",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "survey_after_expiring",
-        "msg": "Welcome back! Let's continue with your survey.",
-        "next_button_option": "",
-        "metadata.description": "when a user that expires during baseline sends a message with \"1\" (or anything else) and starts the baseline from where they left"
-      },
-      {
-        "ID": "expiration_msg",
-        "msg": "It looks like this is not a good time. Please type 1 if you'd like to continue.",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "restart_tomorrow",
-        "msg": "You will continue with your progress tomorrow.",
-        "next_button_option": "",
-        "metadata.description": "if the user is still acitvely receiving tips when they receive the 1month or 3 month survey"
-      },
-      {
-        "ID": "safety_offer_expiration",
-        "msg": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "closed_safety_offer",
-        "msg": "Sorry! Your invitation to take the Child Safety course has expired.",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "joining_instructions",
-        "msg": "Thanks for joining ParentText! \n🏥 If you found ParentText through your *clinic*, select PARENT\n🤳🏾 If you learned about ParentText through a *friend or family member*, select FAMILY\n\n\nDankie dat jy by ParentText aangesluit het!\n🏥 As jy ParentText deur jou *kliniek* gevind het, kies PARENT\n🤳🏾 As jy van ParentText deur 'n *vriend of familielid* gehoor het, kies FAMILY\n\n\nEnkosi ngojoyina iParentText!\n🏥 Ukuba ufumanise ngeParentText *kwikliniki* yakho, khetha PARENT\n🤳🏾 Ukuba wazi ngeParentText ngokuxelelwa *ngumhlobo okanye ilungu losapho*, khetha FAMILY",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "joining_clinic",
-        "msg": "PARENT",
-        "next_button_option": "",
-        "metadata.description": ""
-      },
-      {
-        "ID": "joining_share",
-        "msg": "FAMILY",
-        "next_button_option": "",
-        "metadata.description": ""
-      }
-    ],
-    "safeguarding_stop_survey_data": [
-      {
-        "ID": "confirm",
-        "msg": "If you do not want to receive any more messages, please type \"EXIT\".\n\nIf you made a mistake, please type \"BACK\".",
-        "metadata.description": "BACK needs to be consistent with \"back_option\"\nEXIT needs to be consistent with \"leave_option\""
-      },
-      {
-        "ID": "back_option",
-        "msg": "BACK",
-        "metadata.description": "needs to be consistent with \"confirm\" message"
-      },
-      {
-        "ID": "leave_option",
-        "msg": "EXIT",
-        "metadata.description": "needs to be consistent with \"confirm\" message"
-      },
-      {
-        "ID": "goodbye",
-        "msg": "Thank you for participating. If you want to return to the programme, type HELLO. \n\nWe hope to see you again soon! ",
-        "metadata.description": "HELLO is just to suggest something to type, but anything typed in the chat will trigger the same behaviour"
-      }
-    ],
-    "payment_messages": [
-      {
-        "ID": "payment_msg",
-        "msg": "Your airtime of R@results.amount will be sent to this WhatsApp number. Please allow up to 3 days for the payment to process.",
-        "metadata.description": ""
-      },
-      {
-        "ID": "failed_payment",
-        "msg": "The transaction for sending your airtime of R@results.amount has failed.\n\nIf you have not received your airtime in 3 days, please send a message to {WhatsApp SWIFT line support} with your transaction ID.\nYour transaction ID is: @contact.id",
-        "metadata.description": ""
-      }
-    ],
-    "prescreen_structure": [
-      {
-        "ID": "language",
-        "survey_id": "prescreen",
-        "question_type": "language_choice",
-        "question_id": "language_ret",
-        "flow": "prescreen_language_choice - language_ret",
-        "variable": "@fields.completed_language_ret",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "general_intro",
-        "survey_id": "prescreen",
-        "question_type": "intro",
-        "question_id": "general_intro",
-        "flow": "prescreen_intro - general_intro",
-        "variable": "@fields.completed_general_intro",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "encouragement_screening",
-        "survey_id": "prescreen",
-        "question_type": "multiple_choice",
-        "question_id": "encouragement_screening",
-        "flow": "prescreen_multiple_choice - encouragement_screening",
-        "variable": "@fields.completed_encouragement_screening",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "parent_age_screening",
-        "survey_id": "prescreen",
-        "question_type": "multiple_choice",
-        "question_id": "parent_age_screening",
-        "flow": "prescreen_multiple_choice - parent_age_screening",
-        "variable": "@fields.completed_parent_age_screening",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "child_age_screening",
-        "survey_id": "prescreen",
-        "question_type": "multiple_choice",
-        "question_id": "child_age_screening",
-        "flow": "prescreen_multiple_choice - child_age_screening",
-        "variable": "@fields.completed_child_age_screening",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      },
-      {
-        "ID": "location",
-        "survey_id": "prescreen",
-        "question_type": "multiple_choice",
-        "question_id": "location_screening",
-        "flow": "prescreen_multiple_choice - location_screening",
-        "variable": "@fields.completed_location_screening",
-        "expiration_message": "It looks like this is not a good time. Please type 1 if you'd like to continue."
-      }
-    ],
-    "survey_push_interaction_data": [
-      {
-        "ID": "1month",
-        "question": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? \n\nSelect one of the options below:\n1. Yes\n2. No",
-        "webhook_template_name": "",
-        "webhook_template_args": "",
-        "options.1.text": "1",
-        "options.1.proceed_result_value": "yes",
-        "options.1.stop_message": "",
-        "options.2.text": "2",
-        "options.2.proceed_result_value": "",
-        "options.2.stop_message": "That's okay.",
-        "wa_template_ID": "1_month_survey_no_payment",
-        "wa_template_vars.1": "",
-        "wa_template_vars.2": ""
-      },
-      {
-        "ID": "3month",
-        "question": "🥳 It's time for your last survey. If you complete the survey, you will receive R5 airtime. Do you agree to continue with this survey?\n\nSelect one of the options below:\n1. Yes\n2. No",
-        "webhook_template_name": "",
-        "webhook_template_args": "",
-        "options.1.text": "1",
-        "options.1.proceed_result_value": "yes",
-        "options.1.stop_message": "",
-        "options.2.text": "2",
-        "options.2.proceed_result_value": "",
-        "options.2.stop_message": "That's okay.",
-        "wa_template_ID": "3_month_survey_5R",
-        "wa_template_vars.1": "",
-        "wa_template_vars.2": ""
-      },
-      {
-        "ID": "safety_offer",
-        "question": "🌱 Keep your child safe and healthy! 🌱\n\nYou've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?\n\nSelect one of the options below:\n1. Yes\n2. No",
-        "webhook_template_name": "",
-        "webhook_template_args": "",
-        "options.1.text": "1",
-        "options.1.proceed_result_value": "safety",
-        "options.1.stop_message": "",
-        "options.2.text": "2",
-        "options.2.proceed_result_value": "",
-        "options.2.stop_message": "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚",
-        "wa_template_ID": "safety_offer",
-        "wa_template_vars.1": "",
-        "wa_template_vars.2": ""
-      }
-    ],
-    "prescreen_questions": [
-      {
-        "ID": "parent_age_screening",
-        "question": "Are you 18 years old or older?",
-        "variable": "age screening",
-        "excluded_values": "No, I am under 18",
-        "confirm_question": "Sorry. You need to be at least 18 years old to qualify for this study.\nAre you under the age of 18?",
-        "stop_opt": "Yes",
-        "go_back_opt": "No",
-        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-        "options.1.text": "Yes, I am 18 years old or older",
-        "options.1.value": "over 18",
-        "options.2.text": "No, I am under 18",
-        "options.2.value": "under 18",
-        "options.3.text": "",
-        "options.3.value": "",
-        "options.4.text": "",
-        "options.4.value": "",
-        "options.5.text": "",
-        "options.5.value": "",
-        "options.6.text": "",
-        "options.6.value": "",
-        "options.7.text": "",
-        "options.7.value": "",
-        "options.8.text": "",
-        "options.8.value": "",
-        "options.9.text": "",
-        "options.9.value": "",
-        "options.10.text": "",
-        "options.10.value": ""
-      },
-      {
-        "ID": "child_age_screening",
-        "question": "Are you parent or caregiver of a child aged 2 to 17 years?",
-        "variable": "child age screening",
-        "excluded_values": "No",
-        "confirm_question": "Sorry. You need to be the parent or caregiver of a child aged 2 to 17 to qualify for this study. Please confirm: Do you have a child between 2 and 17?",
-        "stop_opt": "No",
-        "go_back_opt": "Yes",
-        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-        "options.1.text": "Yes",
-        "options.1.value": "has child 2-17",
-        "options.2.text": "No",
-        "options.2.value": "no child 2-17",
-        "options.3.text": "",
-        "options.3.value": "",
-        "options.4.text": "",
-        "options.4.value": "",
-        "options.5.text": "",
-        "options.5.value": "",
-        "options.6.text": "",
-        "options.6.value": "",
-        "options.7.text": "",
-        "options.7.value": "",
-        "options.8.text": "",
-        "options.8.value": "",
-        "options.9.text": "",
-        "options.9.value": "",
-        "options.10.text": "",
-        "options.10.value": ""
-      },
-      {
-        "ID": "location_screening",
-        "question": "Do you live in the Western Cape?",
-        "variable": "location",
-        "excluded_values": "No, I do not live in the Western Cape",
-        "confirm_question": "Sorry. You need to live in the Western Cape to qualify for this study.\nPlease confirm: Do you live in the Western Cape?",
-        "stop_opt": "No",
-        "go_back_opt": "Yes",
-        "stop_message": "Sorry. You do not qualify for the study. Thank you for your time. You may still access ParentText South Africa by sending the word {fromswift} to this number or try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}.",
-        "options.1.text": "Yes, I live in the Western Cape",
-        "options.1.value": "lives in WC",
-        "options.2.text": "No, I do not live in the Western Cape",
-        "options.2.value": "does not live in WC",
-        "options.3.text": "",
-        "options.3.value": "",
-        "options.4.text": "",
-        "options.4.value": "",
-        "options.5.text": "",
-        "options.5.value": "",
-        "options.6.text": "",
-        "options.6.value": "",
-        "options.7.text": "",
-        "options.7.value": "",
-        "options.8.text": "",
-        "options.8.value": "",
-        "options.9.text": "",
-        "options.9.value": "",
-        "options.10.text": "",
-        "options.10.value": ""
-      },
-      {
-        "ID": "encouragement_screening",
-        "question": "Did a nurse talk to you about this programme?",
-        "variable": "encouragement",
-        "excluded_values": "",
-        "confirm_question": "",
-        "stop_opt": "",
-        "go_back_opt": "",
-        "stop_message": "",
-        "options.1.text": "Yes",
-        "options.1.value": "Yes",
-        "options.2.text": "No",
-        "options.2.value": "No",
-        "options.3.text": "",
-        "options.3.value": "",
-        "options.4.text": "",
-        "options.4.value": "",
-        "options.5.text": "",
-        "options.5.value": "",
-        "options.6.text": "",
-        "options.6.value": "",
-        "options.7.text": "",
-        "options.7.value": "",
-        "options.8.text": "",
-        "options.8.value": "",
-        "options.9.text": "",
-        "options.9.value": "",
-        "options.10.text": "",
-        "options.10.value": ""
-      }
-    ],
-    "prescreen_intros": [
-      {
-        "ID": "general_intro",
-        "msg": "Welcome to ParentText!",
-        "next_button_option": "NEXT",
-        "metadata.description": ""
-      }
-    ],
-    "all_surveys_input": [
-      {
-        "ID": "first_name",
-        "filter_list.1": "b",
-        "relevant.1.expression": "",
-        "relevant.1.value": "",
-        "relevant.1.condition_type": "",
-        "question": "What is your first name?",
-        "capitalised": "yes",
-        "skip_option": "",
-        "skip_value": "",
-        "variable": "first user name",
-        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
-        "test.value": "v",
-        "test.condition_type": "has_only_phrase",
-        "error_message": ""
-      },
-      {
-        "ID": "family_name",
-        "filter_list.1": "b",
-        "relevant.1.expression": "",
-        "relevant.1.value": "",
-        "relevant.1.condition_type": "",
-        "question": "What is your last name?",
-        "capitalised": "yes",
-        "skip_option": "",
-        "skip_value": "",
-        "variable": "family name",
-        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
-        "test.value": "v",
-        "test.condition_type": "has_only_phrase",
-        "error_message": ""
-      },
-      {
-        "ID": "child_name",
-        "filter_list.1": "b",
-        "relevant.1.expression": "",
-        "relevant.1.value": "",
-        "relevant.1.condition_type": "",
-        "question": "Please provide us with your child's first name.",
-        "capitalised": "yes",
-        "skip_option": "Please type \"N\" if you prefer not to answer.",
-        "skip_value": "N",
-        "variable": "child nickname",
-        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
-        "test.value": "v",
-        "test.condition_type": "has_only_phrase",
-        "error_message": ""
-      },
-      {
-        "ID": "inteview_name",
-        "filter_list.1": "3",
-        "relevant.1.expression": "@fields.teen_interview_request",
-        "relevant.1.value": "yes",
-        "relevant.1.condition_type": "has_any_word",
-        "question": "Who should we ask to speak to (your teens's name)?",
-        "capitalised": "yes",
-        "skip_option": "",
-        "skip_value": "",
-        "variable": "inteview name",
-        "test.expression": "@(if(text_length(results.input)<=50,\"v\",\"i\"))",
-        "test.value": "",
-        "test.condition_type": "",
-        "error_message": ""
-      }
-    ],
-    "baseline_datetime": [
-      {
-        "ID": "child_dob",
-        "question": "What is Your Child's date of birth?\nEnter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-      }
-    ],
-    "joining_messages": [
-      {
-        "ID": "waiting_list",
-        "msg": "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know.",
-        "metadata.description": ""
       }
     ]
   }
