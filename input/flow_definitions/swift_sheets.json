@@ -2769,6 +2769,16 @@
         "ID": "3_month_survey_5R",
         "name": "3_month_survey_5r",
         "uuid": "e6780fe5-6fbf-4318-8161-0c273b09c1a8"
+      },
+      {
+        "ID": "1_month_survey_15R",
+        "name": "1_month_survey_15r",
+        "uuid": "e6780fe5-6fbf-4318-8161-0c273b09c1a9"
+      },
+      {
+        "ID": "3_month_survey_20R",
+        "name": "3_month_survey_20r",
+        "uuid": "e6780fe5-6fbf-4318-8161-0c273b09c1a1"
       }
     ],
     "wa_templates_META": [
@@ -2879,7 +2889,7 @@
       },
       {
         "ID": "certificate",
-        "url": "https://rapidpro-next.idems.international/certificator/washtext/certificates",
+        "url": "https://pt-certificator-washtext-1-349333393514.europe-west1.run.app/certificates",
         "token": ""
       }
     ],
